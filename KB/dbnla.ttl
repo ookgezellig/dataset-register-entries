@@ -57,6 +57,7 @@
 # from https://data.bibliotheken.nl/doc/dataset/brinkman.ttl
 # and https://data.bibliotheken.nl/doc/thes/p075301482.ttl
 # commented schema:Dataset out from schema:mainEntityOfPage
+# added link to datastory
 
 <id/dataset/dbnla>  a                 schema:Dataset ;
         schema:dateModified           "2021-02-08"^^xsd:date ;
@@ -81,6 +82,7 @@
         schema:identifier             <id/dataset/dbnla> ;
         schema:includedInDataCatalog  <id/datacatalog> ;
         schema:license                <http://creativecommons.org/publicdomain/zero/1.0/> ;
+		schema:mainEntityOfPage       <https://demo.netwerkdigitaalerfgoed.nl/stories/hackalod/kb_productie/index.html> ;
         schema:mainEntityOfPage       <doc/dataset/dbnla> ;
         schema:mainEntityOfPage       [ a                    schema:WebPage ; # , schema:Dataset ;
                                         schema:dateModified  "2021-02-08"^^xsd:date ;
