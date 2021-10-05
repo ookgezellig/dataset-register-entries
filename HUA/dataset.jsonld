@@ -1,0 +1,41 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "@id": "https://data.netwerkdigitaalerfgoed.nl/hetutrechtsarchief/Dataset",
+    "identifier": "https://data.netwerkdigitaalerfgoed.nl/hetutrechtsarchief/Dataset",
+    "name": "Collectie Het Utrechts Archief",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
+    "publisher": {
+        "@id": "https://hetutrechtsarchief.nl/",
+        "@type": "Organization",
+        "name": "He Utrechts Archief"
+    },
+    "dateModified": "2021-09-21",
+    "datePublished": "2020-07-07",
+    "description": "Deze (experimentele) dataset bevat een groot deel van de collectie van Het Utrechts Archief.",
+    "distribution": [{
+            "@type": "DataDownload",
+            "contentUrl": "https://api.data.netwerkdigitaalerfgoed.nl/datasets/hetutrechtsarchief/Dataset/services/Dataset/sparql",
+            "encodingFormat": [
+                "https://www.iana.org/assignments/media-types/application/sparql-query"
+            ],
+            "name": "SPARQL endpoint"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/trig",
+            "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/hetutrechtsarchief/Dataset/download.trig.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/n-triples",
+            "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/hetutrechtsarchief/Dataset/download.nt.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/n-quads",
+            "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/hetutrechtsarchief/Dataset/download.nq.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/turtle",
+            "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/hetutrechtsarchief/Dataset/download.ttl.gz"
+        }
+    ]
+}
