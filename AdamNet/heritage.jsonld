@@ -1,0 +1,45 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "@id": "https://druid.datalegend.net/AdamNet/Heritage/",
+    "identifier": "https://druid.datalegend.net/AdamNet/Heritage/",
+    "name": "AdamNet Heritage",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
+    "publisher": {
+        "@id": "https://www.adamnet.nl/",
+        "@type": "Organization",
+        "name": "A’damNet"
+    },
+    "dateModified": "2020-07-31",
+    "datePublished": "2019-03-11",
+    "description": "This dataset is a combination of all the heritage datasets available on data.adamlink.nl. It enables a user to find and use cultural heritage objects without the borders between institutions. The data are linked to streets, buildings, districts and persons they have in common as much as possible.",
+    "mainEntityOfPage": [
+        "http://lab.adamlink.nl/"
+    ],
+    "spatialCoverage": "Amsterdam",
+    "distribution": [{
+            "@type": "DataDownload",
+            "contentUrl": "https://api.druid.datalegend.net/datasets/AdamNet/Heritage/services/Heritage/sparql",
+            "encodingFormat": [
+                "https://www.iana.org/assignments/media-types/application/sparql-query"
+            ],
+            "name": "SPARQL endpoint"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/trig",
+            "contentUrl": "https://druid.datalegend.net/AdamNet/Heritage/download.trig.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/n-triples",
+            "contentUrl": "https://druid.datalegend.net/AdamNet/Heritage/download.nt.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/n-quads",
+            "contentUrl": "https://druid.datalegend.net/AdamNet/Heritage/download.nq.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/turtle",
+            "contentUrl": "https://druid.datalegend.net/AdamNet/Heritage/download.ttl.gz"
+        }
+    ]
+}
