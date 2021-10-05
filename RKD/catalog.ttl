@@ -2,7 +2,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <https://data.rkd.nl>
-  a <https://schema.org/DataCatalog> ;
+  a schema:DataCatalog ;
   schema:name "Catalogus van datasets van RKD"@nl, "Catalogue of RKD datasets"@en ;
   schema:description "Catalogus van datasets die gepubliceerd worden door RKD"@nl, "Catalogue of datasets published by RKD"@en ;
   schema:publisher <https://rkd.nl> ;
@@ -24,12 +24,12 @@
   schema:contentUrl <http://opendata.rkd.nl/oai-pmh/image> ;
   schema:encodingFormat "text/xml" .
 
-<https://data.rkd.nl/datasets>
+<https://data.rkd.nl/artists>
   a schema:Dataset ;
   schema:name "RKDartists"@nl, "RKDartists"@en ;
   schema:description "Biografische gegevens over kunstenaars, collectioneurs en andere in de culturele wereld actieve personen vanaf de middeleeuwen tot heden"@nl, "Biographical data about artists, collectors and others in the cultural world; active people since the middle ages until the present"@en ;
   schema:publisher <https://rkd.nl> ;
-  schema:mainEntityOfPage <https://rkd.nl/nl/collecties/services-tools/rkdartists-als-linked-open-data> ;
+  schema:mainEntityOfPage <https://demo.netwerkdigitaalerfgoed.nl/stories/hackalod/rkdartists/index.html>, <https://rkd.nl/nl/collecties/services-tools/rkdartists-als-linked-open-data> ;
   schema:distribution <https://data.rkd.nl/artists/jsonld>, <https://data.rkd.nl/artists/xml>, <https://data.rkd.nl/artists/ttl>, <https://data.rkd.nl/artists/nt> ;
   schema:datePublished "2021-10-05T06:51:56+02:00"^^xsd:dateTime ;
   schema:dateModified "2021-10-05T06:51:56+02:00"^^xsd:dateTime .
@@ -71,7 +71,7 @@
   schema:dateModified "2021-10-05T06:51:56+02:00"^^xsd:dateTime .
 
 <https://rkd.nl/>
-  a schema:Organization ;
-  schema:url <https://rkd.nl/> ;
-  schema:name "RKD Nederlands Instituut voor Kunstgeschiedenis" ;
-  schema:sameAs <https://www.facebook.com/RKD.nl/>, <https://twitter.com/RKDnl>, <https://www.linkedin.com/company/rkd> .
+	a schema:Organization ;
+    schema:url <https://rkd.nl/> ;
+    schema:name "RKD Nederlands Instituut voor Kunstgeschiedenis" ;
+    schema:sameAs  <https://www.facebook.com/RKD.nl/>,<https://twitter.com/RKDnl>,<https://www.linkedin.com/company/rkd> .
