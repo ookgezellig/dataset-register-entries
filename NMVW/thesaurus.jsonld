@@ -1,59 +1,54 @@
 {
-	"@context": "http://schema.org/",
-	"@type": "Dataset",
-	"@id": "https://data.netwerkdigitaalerfgoed.nl/NMVW/collectie",
-	"identifier": "https://data.netwerkdigitaalerfgoed.nl/NMVW/collectie",
-	"name": "Thesaurus van het Nationaal Museum van Wereldculturen",
-	"license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
-	"publisher": {
-		"@id": "https://www.tropenmuseum.nl/nl/over-het-tropenmuseum/stichting-nationaal-museum-van-wereldculturen",
-		"@type": "Organization",
-		"name": "Nationaal Museum van Wereldculturen"
-	},"dateModified": "2020-09-04",
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "@id": "https://data.netwerkdigitaalerfgoed.nl/NMVW/collectie",
+    "identifier": "https://data.netwerkdigitaalerfgoed.nl/NMVW/collectie",
+    "name": "Thesaurus van het Nationaal Museum van Wereldculturen",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
+    "publisher": {
+        "@id": "https://www.tropenmuseum.nl/nl/over-het-tropenmuseum/stichting-nationaal-museum-van-wereldculturen",
+        "@type": "Organization",
+        "name": "Nationaal Museum van Wereldculturen"
+    },
+    "dateModified": "2020-09-04",
     "datePublished": "2020-03-11",
-	"description": "De NMvW thesaurus kent een lange geschiedenis. Eerst onder de naam OVM-thesaurus, later SVCN-thesaurus. In de thesaurus zijn met skos:exactMatch alignments opgenomen naar de AAT en geonames.",
-	"mainEntityOfPage": [
-		"https://data.netwerkdigitaalerfgoed.nl/NMVW/thesaurus","https://demo.netwerkdigitaalerfgoed.nl/stories/hackalod/nmvw/"
-	],
-	"keywords": [
-		"Thesaurus"
-	],
-	"distribution": [
-		{
-			"@type": "DataDownload",
-			"contentUrl": "http://collectie.wereldculturen.nl/downloads/XMLRDFthesaurus.zip",
-			"encodingFormat": [
-				"https://www.iana.org/assignments/media-types/application/rdf+xml"
-			],
-			"name": "Gecomprimeerde datadump in RDF/XML"
-		},
-		{
-			"@type": "DataDownload",
-			"contentUrl": "https://api.data.netwerkdigitaalerfgoed.nl/datasets/NMVW/thesaurus/services/thesaurus/sparql",
-			"encodingFormat": [
-				"https://www.iana.org/assignments/media-types/application/sparql-query"
-			],
-			"name": "SPARQL endpoint"
-		},
-		{
-      "@type": "DataDownload",
-      "encodingFormat": "application/trig",
-      "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/NMVW/thesaurus/download.trig.gz"
-     },
-     {
-      "@type": "DataDownload",
-      "encodingFormat": "application/n-triples",
-      "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/NMVW/thesaurus/download.nt.gz"
-     },
-     {
-      "@type": "DataDownload",
-      "encodingFormat": "application/n-quads",
-      "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/NMVW/thesaurus/download.nq.gz"
-     },
-     {
-      "@type": "DataDownload",
-      "encodingFormat": "application/turtle",
-      "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/NMVW/thesaurus/download.ttl.gz"
-     }
-	]
+    "description": "De NMvW thesaurus kent een lange geschiedenis. Eerst onder de naam OVM-thesaurus, later SVCN-thesaurus. In de thesaurus zijn met skos:exactMatch alignments opgenomen naar de AAT en geonames.",
+    "mainEntityOfPage": [
+        "https://data.netwerkdigitaalerfgoed.nl/NMVW/thesaurus", "https://demo.netwerkdigitaalerfgoed.nl/stories/hackalod/nmvw/"
+    ],
+    "keywords": [
+        "Thesaurus"
+    ],
+    "distribution": [{
+            "@type": "DataDownload",
+            "contentUrl": "http://collectie.wereldculturen.nl/downloads/XMLRDFthesaurus.zip",
+            "encodingFormat": [
+                "https://www.iana.org/assignments/media-types/application/rdf+xml"
+            ],
+            "name": "Gecomprimeerde datadump in RDF/XML"
+        }, {
+            "@type": "DataDownload",
+            "contentUrl": "https://api.data.netwerkdigitaalerfgoed.nl/datasets/NMVW/thesaurus/services/thesaurus/sparql",
+            "encodingFormat": [
+                "https://www.iana.org/assignments/media-types/application/sparql-query"
+            ],
+            "name": "SPARQL endpoint"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/trig",
+            "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/NMVW/thesaurus/download.trig.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/n-triples",
+            "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/NMVW/thesaurus/download.nt.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/n-quads",
+            "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/NMVW/thesaurus/download.nq.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/turtle",
+            "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/NMVW/thesaurus/download.ttl.gz"
+        }
+    ]
 }

@@ -1,52 +1,50 @@
 {
-	"@context": "http://schema.org/",
-	"@type": "Dataset",
-	"@id": "https://linkeddata.cultureelerfgoed.nl/",
-	"identifier": "https://linkeddata.cultureelerfgoed.nl/",
-	"name": "Linked data van de Rijksdienst voor het Cultureel Erfgoed",
-	"license": "http://creativecommons.org/licenses/by/4.0/deed.nl",
-	"inLanguage": "nl-NL",
-	"description": "Linked data over cultuurhistorische objecten. Het gaat hierbij om gebouwde en archeologische rijksmonumenten, vondsten, vondstlocaties, complexen, archeologische complexen, onderzoeksgebieden en terreinen.",
-	"creator": 
-		"@id": "http://standaarden.overheid.nl/owms/terms/Rijksdienst_voor_het_Cultureel_Erfgoed",	
-		"@type": "Organization",
-		"name": "Rijksdienst voor het Cultureel Erfgoed"
-	},
-	"publisher": {
-		"@id": "http://standaarden.overheid.nl/owms/terms/Rijksdienst_voor_het_Cultureel_Erfgoed",
-		"@type": "Organization",
-		"name": "Rijksdienst voor het Cultureel Erfgoed"
-	},
-	"mainEntityOfPage": [
-		"https://linkeddata.cultureelerfgoed.nl/",
-		"https://demo.netwerkdigitaalerfgoed.nl/stories/hackalod/rce/"
-	],
-	"keywords": [
-		"Gebouwde en archeologische rijksmonumenten",
-		"Archeologische onderzoeksgebieden",
-		"Complexen",
-		"Grondsporen",
-		"Werelderfgoederen",
-		"Gezichten",
-		"Vondsten",
-		"Vondstlocaties",
-		"Archeologische complexen",
-		"Archeologische terreinen"
-	],
-	"distribution": [
-		{
-			"@type": "DataDownload",
-			"contentUrl": "https://linkeddata.cultureelerfgoed.nl/sparql",
-			"encodingFormat": [
-				"application/sparql-query"
-			],
-			"name": "SPARQL endpoint",
-			"license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
-			"inLanguage": [
-				"nl-NL"
-			],
-			"datePublished": "2021-06-01T12:30",
-			"dateModified": "2021-06-08T12:30"
-		}
-	]
-}
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "@id": "https://linkeddata.cultureelerfgoed.nl/",
+    "identifier": "https://linkeddata.cultureelerfgoed.nl/",
+    "name": "Linked data van de Rijksdienst voor het Cultureel Erfgoed",
+    "license": "http://creativecommons.org/licenses/by/4.0/deed.nl",
+    "inLanguage": "nl-NL",
+    "description": "Linked data over cultuurhistorische objecten. Het gaat hierbij om gebouwde en archeologische rijksmonumenten, vondsten, vondstlocaties, complexen, archeologische complexen, onderzoeksgebieden en terreinen.",
+    "creator": {
+        "@id": "http://standaarden.overheid.nl/owms/terms/Rijksdienst_voor_het_Cultureel_Erfgoed",
+        "@type": "Organization",
+        "name": "Rijksdienst voor het Cultureel Erfgoed"
+    },
+    "publisher": {
+        "@id": "http://standaarden.overheid.nl/owms/terms/Rijksdienst_voor_het_Cultureel_Erfgoed",
+        "@type": "Organization",
+        "name": "Rijksdienst voor het Cultureel Erfgoed"
+    },
+    "mainEntityOfPage": [
+        "https://linkeddata.cultureelerfgoed.nl/",
+        "https://demo.netwerkdigitaalerfgoed.nl/stories/hackalod/rce/"
+    ],
+    "keywords": [
+        "Gebouwde en archeologische rijksmonumenten",
+        "Archeologische onderzoeksgebieden",
+        "Complexen",
+        "Grondsporen",
+        "Werelderfgoederen",
+        "Gezichten",
+        "Vondsten",
+        "Vondstlocaties",
+        "Archeologische complexen",
+        "Archeologische terreinen"
+    ],
+    "distribution": [{
+            "@type": "DataDownload",
+            "contentUrl": "https://linkeddata.cultureelerfgoed.nl/sparql",
+            "encodingFormat": [
+                "application/sparql-query"
+            ],
+            "name": "SPARQL endpoint",
+            "license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
+            "inLanguage": [
+                "nl-NL"
+            ],
+            "datePublished": "2021-06-01T12:30",
+            "dateModified": "2021-06-08T12:30"
+        }
+    ]

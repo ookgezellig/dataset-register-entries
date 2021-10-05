@@ -1,58 +1,53 @@
 {
-	"@context": "http://schema.org/",
-	"@type": "Dataset",
-	"@id": "https://data.netwerkdigitaalerfgoed.nl/NMVW/collectie",
-	"identifier": "https://data.netwerkdigitaalerfgoed.nl/NMVW/collectie",
-	"name": "Collectie van het Nationaal Museum van Wereldculturen",
-	"license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
-	"publisher": {
-		"@id": "https://www.tropenmuseum.nl/nl/over-het-tropenmuseum/stichting-nationaal-museum-van-wereldculturen",
-		"@type": "Organization",
-		"name": "Nationaal Museum van Wereldculturen"
-	},"dateModified": "2021-02-16",
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "@id": "https://data.netwerkdigitaalerfgoed.nl/NMVW/collectie",
+    "identifier": "https://data.netwerkdigitaalerfgoed.nl/NMVW/collectie",
+    "name": "Collectie van het Nationaal Museum van Wereldculturen",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
+    "publisher": {
+        "@id": "https://www.tropenmuseum.nl/nl/over-het-tropenmuseum/stichting-nationaal-museum-van-wereldculturen",
+        "@type": "Organization",
+        "name": "Nationaal Museum van Wereldculturen"
+    },
+    "dateModified": "2021-02-16",
     "datePublished": "2020-03-11",
-	"description": "In de collectie van het Nationaal Museum van Wereldculturen zijn objecten uit verschillende delen van de wereld verzameld. In deze dataset zijn de beschrijvingen van deze objecten beschikbaar gesteld. Daarbij is de data aan elkaar verbonden door middel van de NMvW thesaurus.  Het Nationaal Museum van Wereldculturen bestaat uit het Tropenmuseum in Amsterdam, Museum Volkenkunde in Leiden, het Afrikamuseum bij Nijmegen. Daarnaast werkt het NMvW nauw samen met het Wereldmuseum in Rotterdam, waarvan de collectie ook in deze dataset is opgenomen.",
-	"mainEntityOfPage": [
-		"https://data.netwerkdigitaalerfgoed.nl/NMVW/collectie",
-		"https://demo.netwerkdigitaalerfgoed.nl/stories/hackalod/nmvw/",
-		"https://collectie.wereldculturen.nl/"
-	],
-	"distribution": [
-		{
-			"@type": "DataDownload",
-			"contentUrl": "http://collectie.wereldculturen.nl/downloads/XMLRDFobjects.zip",
-			"encodingFormat": [
-				"https://www.iana.org/assignments/media-types/application/rdf+xml"
-			],
-			"name": "Gecomprimeerde datadump in RDF/XML formaat"
-		},
-		{
-			"@type": "DataDownload",
-			"contentUrl": "https://api.data.netwerkdigitaalerfgoed.nl/datasets/NMVW/collectie/services/collectie/sparql",
-			"encodingFormat": [
-				"https://www.iana.org/assignments/media-types/application/sparql-query"
-			],
-			"name": "SPARQL endpoint"
-		},
-		{
-      "@type": "DataDownload",
-      "encodingFormat": "application/trig",
-      "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/NMVW/collectie/download.trig.gz"
-     },
-     {
-      "@type": "DataDownload",
-      "encodingFormat": "application/n-triples",
-      "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/NMVW/collectie/download.nt.gz"
-     },
-     {
-      "@type": "DataDownload",
-      "encodingFormat": "application/n-quads",
-      "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/NMVW/collectie/download.nq.gz"
-     },
-     {
-      "@type": "DataDownload",
-      "encodingFormat": "application/turtle",
-      "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/NMVW/collectie/download.ttl.gz"
-     }
-	]
+    "description": "In de collectie van het Nationaal Museum van Wereldculturen zijn objecten uit verschillende delen van de wereld verzameld. In deze dataset zijn de beschrijvingen van deze objecten beschikbaar gesteld. Daarbij is de data aan elkaar verbonden door middel van de NMvW thesaurus.  Het Nationaal Museum van Wereldculturen bestaat uit het Tropenmuseum in Amsterdam, Museum Volkenkunde in Leiden, het Afrikamuseum bij Nijmegen. Daarnaast werkt het NMvW nauw samen met het Wereldmuseum in Rotterdam, waarvan de collectie ook in deze dataset is opgenomen.",
+    "mainEntityOfPage": [
+        "https://data.netwerkdigitaalerfgoed.nl/NMVW/collectie",
+        "https://demo.netwerkdigitaalerfgoed.nl/stories/hackalod/nmvw/",
+        "https://collectie.wereldculturen.nl/"
+    ],
+    "distribution": [{
+            "@type": "DataDownload",
+            "contentUrl": "http://collectie.wereldculturen.nl/downloads/XMLRDFobjects.zip",
+            "encodingFormat": [
+                "https://www.iana.org/assignments/media-types/application/rdf+xml"
+            ],
+            "name": "Gecomprimeerde datadump in RDF/XML formaat"
+        }, {
+            "@type": "DataDownload",
+            "contentUrl": "https://api.data.netwerkdigitaalerfgoed.nl/datasets/NMVW/collectie/services/collectie/sparql",
+            "encodingFormat": [
+                "https://www.iana.org/assignments/media-types/application/sparql-query"
+            ],
+            "name": "SPARQL endpoint"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/trig",
+            "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/NMVW/collectie/download.trig.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/n-triples",
+            "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/NMVW/collectie/download.nt.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/n-quads",
+            "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/NMVW/collectie/download.nq.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/turtle",
+            "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/NMVW/collectie/download.ttl.gz"
+        }
+    ]
 }

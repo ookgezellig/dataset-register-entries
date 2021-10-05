@@ -1,58 +1,53 @@
 {
-	"@context": "http://schema.org/",
-	"@type": "Dataset",
-	"@id": "https://druid.datalegend.net/IISG/iisg-kg",
-	"identifier": "https://druid.datalegend.net/IISG/iisg-kg",
-	"name": "IISH knowledge graph (IISG - KG)",
-	"keywords": [
-     "History"
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "@id": "https://druid.datalegend.net/IISG/iisg-kg",
+    "identifier": "https://druid.datalegend.net/IISG/iisg-kg",
+    "name": "IISH knowledge graph (IISG - KG)",
+    "keywords": [
+        "History"
     ],
     "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-	"publisher": {
-		"@id": "https://iisg.amsterdam/",
-		"@type": "Organization",
-		"name": "International Institute of Social History"
-	},
-	"dateModified": "2021-09-03",
+    "publisher": {
+        "@id": "https://iisg.amsterdam/",
+        "@type": "Organization",
+        "name": "International Institute of Social History"
+    },
+    "dateModified": "2021-09-03",
     "datePublished": "2018-11-25",
-	"description": "The International Institute of Social History (IISH) is one of the world's foremost research institutions in the field of social history. The institute investigates how labour and labour relations develop globally in the long term. To this end, the institute collects archives and data on a global scale. This dataset brings together archives, library, audiovisual material and research datasets.",
-	"inLanguage": "nl-NL",
-	"mainEntityOfPage": [
-		"https://stories.datalegend.net/iisg/collection-stories/"
-	],
-	"distribution": [
-		{
-			"@type": "DataDownload",
-			"contentUrl": "https://api.druid.datalegend.net/datasets/IISG/iisg-kg/services/iisg-kg/sparql",
-			"encodingFormat": [
-				"https://www.iana.org/assignments/media-types/application/sparql-query"
-			],
-			"name": "SPARQL-endpoint"
-		},
-		{
-		  "@type": "DataDownload",
-		  "encodingFormat": "application/trig",
-		  "contentUrl": "https://druid.datalegend.net/IISG/iisg-kg/download.trig.gz",
-		  "name": "Compressed datadump in Trig"
-		  
-		 },
-		 {
-		  "@type": "DataDownload",
-		  "encodingFormat": "application/n-triples",
-		  "contentUrl": "https://druid.datalegend.net/IISG/iisg-kg/download.nt.gz",
-		  "name": "Compressed datadump in N-triples"
-		 },
-		 {
-		  "@type": "DataDownload",
-		  "encodingFormat": "application/n-quads",
-		  "contentUrl": "https://druid.datalegend.net/IISG/iisg-kg/download.nq.gz",
-		  "name": "Compressed datadump in N-Quads"
-		 },
-		 {
-		  "@type": "DataDownload",
-		  "encodingFormat": "application/turtle",
-		  "contentUrl": "https://druid.datalegend.net/IISG/iisg-kg/download.ttl.gz",
-		  "name": "Compressed datadump in Turtle"
-		 }
-	]
+    "description": "The International Institute of Social History (IISH) is one of the world's foremost research institutions in the field of social history. The institute investigates how labour and labour relations develop globally in the long term. To this end, the institute collects archives and data on a global scale. This dataset brings together archives, library, audiovisual material and research datasets.",
+    "inLanguage": "nl-NL",
+    "mainEntityOfPage": [
+        "https://stories.datalegend.net/iisg/collection-stories/"
+    ],
+    "distribution": [{
+            "@type": "DataDownload",
+            "contentUrl": "https://api.druid.datalegend.net/datasets/IISG/iisg-kg/services/iisg-kg/sparql",
+            "encodingFormat": [
+                "https://www.iana.org/assignments/media-types/application/sparql-query"
+            ],
+            "name": "SPARQL-endpoint"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/trig",
+            "contentUrl": "https://druid.datalegend.net/IISG/iisg-kg/download.trig.gz",
+            "name": "Compressed datadump in Trig"
+
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/n-triples",
+            "contentUrl": "https://druid.datalegend.net/IISG/iisg-kg/download.nt.gz",
+            "name": "Compressed datadump in N-triples"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/n-quads",
+            "contentUrl": "https://druid.datalegend.net/IISG/iisg-kg/download.nq.gz",
+            "name": "Compressed datadump in N-Quads"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/turtle",
+            "contentUrl": "https://druid.datalegend.net/IISG/iisg-kg/download.ttl.gz",
+            "name": "Compressed datadump in Turtle"
+        }
+    ]
 }
