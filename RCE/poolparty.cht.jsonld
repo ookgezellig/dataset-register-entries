@@ -1,0 +1,29 @@
+{
+	"@context": "http://schema.org/",
+	"@type": "Dataset",
+	"@id": "https://digitaalerfgoed.poolparty.biz/PoolParty/wiki/term/id/cht",
+	"identifier": "https://digitaalerfgoed.poolparty.biz/PoolParty/wiki/term/id/cht",
+	"name": "Cultuurhistorische Thesaurus",
+	"license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
+	"publisher": {
+		"@id": "http://standaarden.overheid.nl/owms/terms/Rijksdienst_voor_het_Cultureel_Erfgoed",
+		"@type": "Organization",
+		"name": "Rijksdienst voor het Cultureel Erfgoed"
+	},
+	"description": "Concepten die het cultureel erfgoedveld in Nederland beslaan – Cultuurhistorische Thesaurus",
+	"mainEntityOfPage": [
+		"https://digitaalerfgoed.poolparty.biz/PoolParty/wiki/term/id/cht"
+	],"keywords": [
+		"Thesaurus"
+	],
+	"distribution": [
+		{
+			"@type": "DataDownload",
+			"contentUrl": "https://digitaalerfgoed.poolparty.biz/PoolParty/sparql/term/id/cht",
+			"encodingFormat": [
+				"application/sparql-query"
+			],
+			"name": "SPARQL endpoint"
+		}
+	]
+}
