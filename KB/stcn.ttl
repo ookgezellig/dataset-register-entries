@@ -1,0 +1,120 @@
+@base          <http://data.bibliotheken.nl/> .
+@prefix geonames: <http://www.geonames.org/ontology#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix bio:   <http://purl.org/vocab/bio/0.1/> .
+@prefix conf:  <http://lodview.it/conf#> .
+@prefix metalex: <http://www.metalex.eu/metalex/2008-05-02#> .
+@prefix ocd:   <http://dati.camera.it/ocd/> .
+@prefix rel:   <http://purl.org/vocab/relationship/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix dbpprop: <http://dbpedia.org/property/> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix bbc:   <http://www.bbc.co.uk/ontologies/> .
+@prefix void:  <http://rdfs.org/ns/void#> .
+@prefix dbpedia-owl: <http://dbpedia.org/ontology/> .
+@prefix dbpedia: <http://dbpedia.org/resource/> .
+@prefix frbr:  <http://purl.org/vocab/frbr/core#> .
+@prefix dwc:   <http://rs.tdwg.org/dwc/terms/> .
+@prefix claros: <http://purl.org/NET/Claros/vocab#> .
+@prefix crm-owl: <http://purl.org/NET/crm-owl#> .
+@prefix meta:  <http://example.org/metadata#> .
+@prefix bmuseum: <http://collection.britishmuseum.org/id/ontology/> .
+@prefix ods:   <http://lod.xdams.org/ontologies/ods/> .
+@prefix schema: <http://schema.org/> .
+@prefix gml:   <http://www.opengis.net/gml/> .
+@prefix muninn: <http://rdf.muninn-project.org/ontologies/documents#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix yago:  <http://dbpedia.org/class/yago/> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix units: <http://dbpedia.org/units/> .
+@prefix rso:   <http://www.researchspace.org/ontology/> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oad:   <http://lod.xdams.org/reload/oad/> .
+@prefix crm120111: <http://erlangen-crm.org/120111/> .
+@prefix cdoc:  <http://www.cidoc-crm.org/cidoc-crm#> .
+@prefix bibleontology: <http://bibleontology.com/property#> .
+@prefix prov:  <http://www.w3.org/ns/prov#> .
+@prefix crm:   <http://erlangen-crm.org/current/> .
+@prefix kbdef: <http://data.kb.nl/def/> .
+@prefix cc:    <http://creativecommons.org/ns#> .
+@prefix shoah: <http://dati.cdec.it/lod/shoah/> .
+@prefix npg:   <http://ns.nature.com/terms/> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix gn:    <http://www.geonames.org/ontology#> .
+@prefix ibc:   <http://dati.ibc.it/ibc/> .
+@prefix aemetonto: <http://aemet.linkeddata.es/ontology/> .
+@prefix skos-xl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix lgdo:  <http://linkedgeodata.org/ontology/capital> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix eac-cpf: <http://archivi.ibc.regione.emilia-romagna.it/ontology/eac-cpf/> .
+@prefix bibo:  <http://purl.org/ontology/bibo/> .
+@prefix time:  <http://www.w3.org/2006/time#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+@prefix prism21: <http://prismstandard.org/namespaces/basic/2.1/> .
+@prefix po:    <http://purl.org/ontology/po/> .
+
+# from https://data.bibliotheken.nl/doc/dataset/brinkman.ttl
+# and https://data.bibliotheken.nl/doc/thes/p075301482.ttl
+# commented schema:Dataset out from schema:mainEntityOfPage
+
+<id/dataset/stcn>  a                  schema:Dataset ;
+        schema:creator                <id/thes/p075301482> ;
+        schema:dateCreated            "2019-03-26"^^xsd:date ;
+        schema:dateModified           "2019-11-30"^^xsd:date ;
+        schema:datePublished          "2019-03-26"^^xsd:date ;
+        schema:description            "Expert descriptions of books printed in the Netherlands between 1473 and 1801 in more than 210.000 editions in 550.000 copies. Contains descriptions of books in the collections of many libraries in the Netherlands and various libraries abroad. All books are described book in hand. Descriptions contain information about authors, titles, imprints, size, collation formula, subject keywords and typographical features. Every edition is distinguished by the STCN fingerprint. Newspapers and ambassadors’ letters are excluded."@en ;
+        schema:distribution           [ a                      schema:DataDownload ;
+                                        schema:contentSize     "73106831" ;
+                                        schema:contentUrl      <files/stcn_20201105.ttl.gz> ;
+                                        schema:dateCreated     "2020-11-05"^^xsd:date ;
+                                        schema:datePublished   "2020-11-05"^^xsd:date ;
+                                        schema:description     "Datadump STCN"@nl ;
+                                        schema:encodingFormat  "text/turtle" ;
+                                        schema:license         <http://creativecommons.org/publicdomain/zero/1.0/> ;
+                                        schema:name            "Datadump STCN"@nl
+                                      ] ;
+        schema:distribution           [ a                      schema:DataDownload ;
+                                        schema:contentUrl      <sparql> ;
+                                        schema:description     "Entiteiten beschreven door deze dataset zijn op te vragen met 'select * where { ?s foaf:isPrimaryTopicOf/void:inDataset &lt;http://data.bibliotheken.nl/id/dataset/stcn&gt; . }' "@nl ;
+                                        schema:encodingFormat  "application/sparql-query" ;
+                                        schema:name            "SPARQL-endpoint voor de STCN als RDF"@nl ;
+                                        schema:workExample     <sparql?default-graph-uri=&query=select+*+where+%7B+%3Fs+foaf%3AisPrimaryTopicOf%2Fvoid%3AinDataset+%3Chttp%3A%2F%2Fdata.bibliotheken.nl%2Fid%2Fdataset%2Fstcn%3E+.+%7D>
+                                      ] ;
+        schema:identifier             <id/dataset/stcn> ;
+        schema:includedInDataCatalog  <id/datacatalog> ;
+        schema:license                <http://creativecommons.org/publicdomain/zero/1.0/> ;
+        schema:mainEntityOfPage       <doc/dataset/stcn> ;
+        schema:mainEntityOfPage       [ a                    schema:WebPage ; # , schema:Dataset ;
+                                        schema:dateModified  "2020-11-30"^^xsd:date ;
+                                        schema:license       <http://creativecommons.org/publicdomain/zero/1.0/> ;
+                                        schema:mainEntity    <id/dataset/stcn> ;
+                                        schema:name          "Metadata beschrijving dataset STCN"@nl ;
+                                        owl:sameAs           <doc/dataset/kbcode>
+                                      ] ;
+        schema:name                   "Short-Title Catalogue Netherlands (STCN)"@nl , "Short-Title Catalogue Netherlands (STCN)"@en ;
+        schema:publisher              <id/thes/p075301482> ;
+        schema:subjectOf              <https://www.kb.nl/bronnen-zoekwijzers/dataservices-en-apis> , <https://www.kb.nl/organisatie/voor-uitgevers/informatie-over-de-nederlandse-bibliografie> , <http://www.stcn.nl/> ;
+        schema:workExample            <id/nbt/p192741446> .
+		
+<id/thes/p075301482>  a          schema:Organization ;
+        rdfs:seeAlso             <id/thes/p143859463> ;
+        schema:alternateName     "Royal Library (The Hague)" , "KB | Nationale Bibliotheek (Den Haag)" , "KB (Den Haag)" ;
+        schema:description       "Vanaf 2018 is de roepnaam: KB | Nationale Bibliotheek" , "\"Koninklijke Bibliotheek, Nationale bibliotheek van Nederland" , "Voortz. van: Nationale Bibliotheek, 's-Gravenhage"@nl , "Koninklijke Bibliotheek, National Library of the Netherlands\"" ;
+        schema:location          [ a                       schema:PostalAddress ;
+                                   schema:addressCountry   "nl" ;
+                                   schema:addressLocality  "Den Haag " ;
+                                   schema:streetAddress    "Prins Willem-Alexanderhof 5"
+                                 ] ;
+        schema:mainEntityOfPage  <doc/thes/p075301482> ;
+        schema:mainEntityOfPage  [ a                    schema:WebPage  ;
+                                   <def#ppn>            "075301482" ;
+                                   schema:dateModified  "2020-12-07"^^xsd:date ;
+                                   schema:isBasedOn     <http://services.kb.nl/mdo/oai?verb=GetRecord&identifier=GGC-THES:AC:075301482&metadataPrefix=mdoall> ;
+                                   schema:isPartOf      <id/dataset/corps> ;
+                                   schema:license       <http://creativecommons.org/publicdomain/zero/1.0/> ;
+                                   schema:mainEntity    <id/thes/p075301482> ;
+                                   owl:sameAs           <doc/thes/p075301482>
+                                 ] ;
+        schema:name              "Koninklijke Bibliotheek (Den Haag)" ;
+        schema:sameAs            <http://www.wikidata.org/entity/Q1526131> , <http://standaarden.overheid.nl/owms/terms/Koninklijke_Bibliotheek> , <http://viaf.org/viaf/157027892> .
