@@ -1,0 +1,32 @@
+{
+	"@context": "http://schema.org/",
+	"@type": "Dataset",
+	"@id": "https://data.netwerkdigitaalerfgoed.nl/hackalod/gvn/kit01",
+	"identifier": "https://data.netwerkdigitaalerfgoed.nl/hackalod/gvn/kit01",
+	"name": "Koloniale wereldtentoonstellingen",
+	"license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
+	"publisher": {
+		"@id": "https://geheugen.delpher.nl/",
+		"@type": "Organization",
+		"name": "Geheugen van Nederland"
+	},
+	"creator": {
+		"@id": "https://www.tropenmuseum.nl/",
+		"@type": "Organization",
+		"name": "Tropenmuseum"
+	},
+	"description": "De collectie Koloniale Wereldtentoonstellingen bestaat uit voorwerpen die tussen 1870 en 1940 in Nederlands-Indië verzameld zijn.",
+	"mainEntityOfPage": [	"https://data.netwerkdigitaalerfgoed.nl/HackaLOD/GVN","http://www.geheugenvannederland.nl/nl/geheugen/pages/collectie/Koloniale+wereldtentoonstellingen"
+	],
+	"includedInDataCatalog": "https://geheugen.delpher.nl/nl/geheugen/pages/instelling/Tropenmuseum",
+	"distribution": [
+		{
+			"@type": "DataDownload",
+			"contentUrl": "https://api.data.netwerkdigitaalerfgoed.nl/datasets/HackaLOD/GVN/services/GVN/sparql",
+			"encodingFormat": [
+				"application/sparql-query"
+			],
+			"name": "SPARQL endpoint"
+		}
+	]
+}

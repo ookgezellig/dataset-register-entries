@@ -1,0 +1,34 @@
+{
+	"@context": "http://schema.org/",
+	"@type": "Dataset",
+	"@id": "https://data.netwerkdigitaalerfgoed.nl/hackalod/gvn/kitlv",
+	"identifier": "https://data.netwerkdigitaalerfgoed.nl/hackalod/gvn/kitlv",
+	"name": "Nederlands-Indië in foto’s",
+	"license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
+	"publisher": {
+		"@id": "https://geheugen.delpher.nl/",
+		"@type": "Organization",
+		"name": "Geheugen van Nederland"
+	},
+	"creator": {
+		"@id": "https://www.kitlv.nl/",
+		"@type": "Organization",
+		"name": "KITLV/Royal Netherlands Institute of Southeast Asian and Caribbean Studies"
+	},
+	"description": "De collectie Koloniale Wereldtentoonstellingen bestaat uit voorwerpen die tussen 1870 en 1940 in Nederlands-Indië verzameld zijn.",
+	"mainEntityOfPage": [	"https://data.netwerkdigitaalerfgoed.nl/HackaLOD/GVN","https://geheugen.delpher.nl/nl/geheugen/pages/collectie/Nederlands-Indi%C3%AB+in+foto's,+1860-1940"
+	],
+	"spatialCoverage": "Nederlands Indië",
+	"temporalCoverage": "1860-1940",
+	"includedInDataCatalog": "https://geheugen.delpher.nl/nl/geheugen/pages/instelling/Koninklijk%20Instituut%20voor%20taal-,%20land-%20en%20volkenkunde",
+	"distribution": [
+		{
+			"@type": "DataDownload",
+			"contentUrl": "https://api.data.netwerkdigitaalerfgoed.nl/datasets/HackaLOD/GVN/services/GVN/sparql",
+			"encodingFormat": [
+				"application/sparql-query"
+			],
+			"name": "SPARQL endpoint"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"@context": "http://schema.org/",
+	"@type": "Dataset",
+	"@id": "https://data.netwerkdigitaalerfgoed.nl/hackalod/gvn/pkl01",
+	"identifier": "https://data.netwerkdigitaalerfgoed.nl/hackalod/gvn/pkl01",
+	"name": "Pioniersfotografie uit Nederlands-Indië",
+	"license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
+	"publisher": {
+		"@id": "https://geheugen.delpher.nl/",
+		"@type": "Organization",
+		"name": "Geheugen van Nederland"
+	},
+	"creator": {
+		"@id": "https://www.bibliotheek.universiteitleiden.nl/",
+		"@type": "Organization",
+		"name": "Universitaire Bibliotheken Leiden"
+	},
+	"description": "De collectie bevat 4500 foto's die betrekking hebben op het voormalig Nederlands-Indië in de negentiende en het begin van de twintigste eeuw. Professionele fotografen maakten opnames van de meest uiteenlopende onderwerpen. De vele reis- en familiealbums verhalen vooral van \"tempo doeloe\", de koloniale hoogtijdagen. Vermeldenswaard is het album dat werd uitgegeven ter gelegenheid van de Internationale Koloniale Tentoonstelling te Parijs in 1931.",
+	"mainEntityOfPage": [	"https://data.netwerkdigitaalerfgoed.nl/HackaLOD/GVN","https://geheugen.delpher.nl/nl/geheugen/pages/collectie/pioniersfotografie+uit+nederlands-indi%C3%AB"
+	],
+	"includedInDataCatalog": "https://geheugen.delpher.nl/nl/geheugen/pages/instelling/Bijzondere%20Collecties%20Leiden",
+	"distribution": [
+		{
+			"@type": "DataDownload",
+			"contentUrl": "https://api.data.netwerkdigitaalerfgoed.nl/datasets/HackaLOD/GVN/services/GVN/sparql",
+			"encodingFormat": [
+				"https://www.iana.org/assignments/media-types/application/sparql-query"
+			],
+			"name": "SPARQL endpoint"
+		}
+	]
+}
