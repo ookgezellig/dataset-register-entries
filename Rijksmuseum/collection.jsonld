@@ -1,0 +1,58 @@
+{
+	"@context": "http://schema.org/",
+	"@type": "Dataset",
+	"@id": "https://data.netwerkdigitaalerfgoed.nl/Rijksmuseum/collection",
+	"identifier": "https://data.netwerkdigitaalerfgoed.nl/Rijksmuseum/collection",
+	"name": "Rijksmuseum Collection",
+	"license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
+	"publisher": {
+		"@id": "https://data.overheid.nl/organisatie/Rijksmuseum",
+		"@type": "Organization",
+		"name": "Rijksmuseum"
+	},"dateModified": "2021-01-25",
+    "datePublished": "2020-09-18",
+	"description": "Dit is een dataset opgebouwd uit de gegevens die beschikbaar zijn via de OAI-PMH Api van het Rijksmuseum. De gegevens zijn afkomstig uit de export in het formaat 'edm_dc' en is aangeleverd door de collega's van het Rijksmuseum. De dataset bevat de gegevens uit de set 'EntirePublicDomainSet' en omvat ruim 600.000 objectbeschrijvingen. Deze bevat onder andere alle objecten waarvan een ook een afbeelding beschikbaar is.",
+	"mainEntityOfPage": [
+		"https://data.netwerkdigitaalerfgoed.nl/Rijksmuseum/collection",
+		"https://demo.netwerkdigitaalerfgoed.nl/stories/hackalod/rijksmuseum/index.html"
+	],
+	"distribution": [
+		{
+			"@type": "DataDownload",
+			"contentUrl": "https://api.data.netwerkdigitaalerfgoed.nl/datasets/Rijksmuseum/collection/services/collection/sparql",
+			"encodingFormat": [
+				"https://www.iana.org/assignments/media-types/application/sparql-query"
+			],
+			"name": "SPARQL endpoint"
+		},
+		{
+			"@type": "DataDownload",
+			"contentUrl": "http://www.rijksmuseum.nl/api/oai/",
+			"encodingFormat": [
+				"https://www.iana.org/assignments/media-types/text/xml"
+			],
+			"name": "OAI-PMH endpoint",
+			"usageInfo": "https://data.rijksmuseum.nl/object-metadata/harvest/"
+		},
+		{
+      "@type": "DataDownload",
+      "encodingFormat": "application/trig",
+      "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/Rijksmuseum/collection/download.trig.gz"
+     },
+     {
+      "@type": "DataDownload",
+      "encodingFormat": "application/n-triples",
+      "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/Rijksmuseum/collection/download.nt.gz"
+     },
+     {
+      "@type": "DataDownload",
+      "encodingFormat": "application/n-quads",
+      "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/Rijksmuseum/collection/download.nq.gz"
+     },
+     {
+      "@type": "DataDownload",
+      "encodingFormat": "application/turtle",
+      "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/Rijksmuseum/collection/download.ttl.gz"
+     }
+	]
+}
