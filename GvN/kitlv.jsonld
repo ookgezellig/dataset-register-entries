@@ -16,7 +16,7 @@
 		"name": "KITLV/Royal Netherlands Institute of Southeast Asian and Caribbean Studies"
 	},
 	"description": "De collectie Koloniale Wereldtentoonstellingen bestaat uit voorwerpen die tussen 1870 en 1940 in Nederlands-Indië verzameld zijn.",
-	"mainEntityOfPage": [	"https://data.netwerkdigitaalerfgoed.nl/HackaLOD/GVN","https://geheugen.delpher.nl/nl/geheugen/pages/collectie/Nederlands-Indi%C3%AB+in+foto's,+1860-1940"
+	"mainEntityOfPage": [	"https://demo.netwerkdigitaalerfgoed.nl/stories/hackalod/geheugen/index.html","https://data.netwerkdigitaalerfgoed.nl/HackaLOD/GVN","https://geheugen.delpher.nl/nl/geheugen/pages/collectie/Nederlands-Indi%C3%AB+in+foto's,+1860-1940"
 	],
 	"spatialCoverage": "Nederlands Indië",
 	"temporalCoverage": "1860-1940",

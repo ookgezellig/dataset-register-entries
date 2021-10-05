@@ -16,7 +16,7 @@
 		"name": "Tropenmuseum"
 	},
 	"description": "De collectie Koloniale Wereldtentoonstellingen bestaat uit voorwerpen die tussen 1870 en 1940 in Nederlands-Indië verzameld zijn.",
-	"mainEntityOfPage": [	"https://data.netwerkdigitaalerfgoed.nl/HackaLOD/GVN","http://www.geheugenvannederland.nl/nl/geheugen/pages/collectie/Koloniale+wereldtentoonstellingen"
+	"mainEntityOfPage": [	"https://demo.netwerkdigitaalerfgoed.nl/stories/hackalod/geheugen/index.html","https://data.netwerkdigitaalerfgoed.nl/HackaLOD/GVN","http://www.geheugenvannederland.nl/nl/geheugen/pages/collectie/Koloniale+wereldtentoonstellingen"
 	],
 	"includedInDataCatalog": "https://geheugen.delpher.nl/nl/geheugen/pages/instelling/Tropenmuseum",
 	"distribution": [
