@@ -1,0 +1,60 @@
+{
+    "@context": "https://schema.org/",
+    "@id": "https://druid.datalegend.net/dataLegend/HDNG",
+    "@type": "Dataset",
+    "additionalType": "dcm:Dataset",
+    "dateModified": "2021-04-08",
+    "datePublished": "2020-03-13",
+    "description": "The Historical Database of Dutch Municipalities (Historische Database Nederlandse Gemeenten (HDNG)) provides a wide range of characteristics of Dutch municipalities in the period 1800 - ca. 1970. This dataset contains [the latest 2020 files](https://datasets.iisg.amsterdam/dataset.xhtml?persistentId=hdl:10622/RPBVK4) from the HDNG as received from Onno Boonstra and harmonized by Rick Mourits. The scripts for harmonisation are found [here](https://github.com/CLARIAH/HDNG).Variables can be accessed either through municipalities or the HDNG variable codes. This version further has standardized variable descriptions and specifications. The LOD conversion scripts can be found [here](https://github.com/CLARIAH/wp4-cow-conversions/tree/master/hdng).",
+    "distribution": [{
+            "@type": "DataDownload",
+            "encodingFormat": "application/trig",
+            "contentUrl": "https://druid.datalegend.net/dataLegend/HDNG/download.trig.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/n-triples",
+            "contentUrl": "https://druid.datalegend.net/dataLegend/HDNG/download.nt.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/n-quads",
+            "contentUrl": "https://druid.datalegend.net/dataLegend/HDNG/download.nq.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/turtle",
+            "contentUrl": "https://druid.datalegend.net/dataLegend/HDNG/download.ttl.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/sparql-query",
+            "contentUrl": "https://api.druid.datalegend.net/datasets/dataLegend/HDNG/services/hdng/sparql"
+        }
+
+    ],
+    "identifier": "https://druid.datalegend.net/dataLegend/HDNG",
+    "image": "https://druid.datalegend.net/imgs/avatars/a/59cb57914187dc018067a8fd.png?v=0",
+    "inLanguage": "iso639-1:en",
+    "includedInDataCatalog": "https://druid.datalegend.net",
+    "name": [{
+            "@value": "Historical Database of Dutch Municipalities (HDNG)",
+            "@language": "en"
+        }, {
+            "@value": "Historische Database Nederlandse Gemeenten (HDNG)",
+            "@language": "nl"
+        }
+    ],
+    "license": {
+        "@type": "CreativeWork",
+        "name": "CC-BY-SA",
+        "@id": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "@id": "https://druid.datalegend.net/dataLegend",
+        "name": "dataLegend"
+    },
+    "creator": {
+        "@type": "Organization",
+        "@id": "https://druid.datalegend.net/dataLegend",
+        "name": "dataLegend"
+    },
+    "url": "https://druid.datalegend.net/dataLegend/HDNG"
+}

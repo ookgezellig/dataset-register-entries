@@ -1,0 +1,62 @@
+{
+    "@context": "https://schema.org/",
+
+    "@id": "https://druid.datalegend.net/nlgis/gemeentegeschiedenis",
+    "@type": "Dataset",
+    "about": [
+        "https://triply.cc/topic/Geodata",
+        "https://triply.cc/topic/history"
+    ],
+    "additionalType": "dcm:Dataset",
+    "dateModified": "2020-09-07",
+    "datePublished": "2017-12-27",
+    "description": "@en (Nederlands hieronder)\nToday, The Netherlands consists of nearly 400 municipalities. Back in 1812, there were more than 1100 municipalities. This datasets describes the history of municipalities from 1812 to present day. This dataset is a must-have when analysing or visualising Dutch municipality time-series data, or when studying individual level data in municipality contexts. This dataset \nconsists of the 'Repertorium van Nederlandse gemeenten vanaf 1812' by Ad van der Meer en Onno Boonstra and NLGis shapefiles of Onno Boonstra available via DANS, for which the municipality borders were registered from 1812 to 1997. For the contemporary period (1997-today) the IISH and Webmapper have provided the missing information and provide yearly updates for, amongst others, the Dutch Electoral Council (Kiesraad).\n\nWebsite: [http://www.gemeentegeschiedenis.nl/](http://www.gemeentegeschiedenis.nl/)\n\n@nl\nNederland telt bijna 400 gemeenten.  In 1812 waren dat er meer dan 1100.  In twee eeuwen vol herindelingen, annexaties en fusies heeft Nederland bijna 1700 gemeenten gekend.  De data van gemeentegeschiedenis is gebouwd op twee datasets: het Repertorium van Nederlandse gemeenten vanaf 1812 van Ad van der Meer en Onno Boonstra en de bij DANS gedeponeerde NLGis shapefiles van Onno Boonstra, waarin van elk jaar van 1812 tot 1997 de gemeentegrenzen zijn vastgelegd.\n\nWebsite: <http://www.gemeentegeschiedenis.nl/>",
+    "distribution": [{
+            "@type": "DataDownload",
+            "encodingFormat": "application/trig",
+            "contentUrl": "https://druid.datalegend.net/nlgis/gemeentegeschiedenis/download.trig.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/n-triples",
+            "contentUrl": "https://druid.datalegend.net/nlgis/gemeentegeschiedenis/download.nt.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/n-quads",
+            "contentUrl": "https://druid.datalegend.net/nlgis/gemeentegeschiedenis/download.nq.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/turtle",
+            "contentUrl": "https://druid.datalegend.net/nlgis/gemeentegeschiedenis/download.ttl.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/sparql-quer",
+            "contentUrl": "https://api.druid.datalegend.net/datasets/nlgis/gemeentegeschiedenis/services/gemeentegeschiedenis/sparql"
+        }
+
+    ],
+    "identifier": "https://druid.datalegend.net/nlgis/gemeentegeschiedenis",
+    "image": "https://druid.datalegend.net/imgs/avatars/d/5a43ad381274ff0249652ea0.png?v=7",
+    "inLanguage": "iso639-1:en",
+    "includedInDataCatalog": "https://druid.datalegend.net",
+    "keywords": [
+        "Geodata",
+        "History"
+    ],
+    "license": {
+        "@type": "CreativeWork",
+        "name": "CC-BY-SA",
+        "@id": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "name": "Dutch Municipalities through Time: gemeentegeschiedenis",
+    "publisher": {
+        "@type": "Organization",
+        "@id": "https://druid.datalegend.net/nlgis",
+        "name": "Spatial Humanities Netherlands (NLGIS)"
+    },
+    "creator": {
+        "@type": "Organization",
+        "@id": "https://druid.datalegend.net/nlgis",
+        "name": "Spatial Humanities Netherlands (NLGIS)"
+    },
+    "url": "https://druid.datalegend.net/nlgis/gemeentegeschiedenis"
+}
