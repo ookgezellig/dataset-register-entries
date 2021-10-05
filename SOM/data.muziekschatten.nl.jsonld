@@ -6,6 +6,11 @@
 	"name": "http://data.muziekschatten.nl/",
 	"license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
 	"publisher": {
+		"@id": "https://www.muziekschatten.nl/",
+		"@type": "Organization",
+		"name": "Muziekschatten"
+	},
+	"creator": {
 		"@id": "https://www.omroepmuziek.nl/",
 		"@type": "Organization",
 		"name": "Stichting Omroep Muziek"
