@@ -38,9 +38,9 @@
 			"@type": "DataDownload",
 			"contentUrl": "https://linkeddata.cultureelerfgoed.nl/sparql",
 			"encodingFormat": [
-				"http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE"
+				"application/sparql-query"
 			],
-			"name": "http://netwerkdigitaalerfgoed.nl/def/soort#sparql",
+			"name": "SPARQL endpoint",
 			"license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
 			"inLanguage": [
 				"nl-NL"
