@@ -35,7 +35,7 @@
     "license": {
         "@type": "CreativeWork",
         "name": "CC-BY-SA",
-        "url": "http://creativecommons.org/licenses/by-sa/3.0/"
+        "@id": "http://creativecommons.org/licenses/by-sa/3.0/"
     },
     "name": "CBS Wijk- en Buurtkaart",
     "publisher": {
