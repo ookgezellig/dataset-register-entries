@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org/",
+    "@id": "https://data.labs.kadaster.nl/kadaster/wbk",
+    "@type": "Dataset",
+    "additionalType": "dcm:Dataset",
+    "dateModified": "2021-08-02",
+    "datePublished": "2021-06-15",
+    "description": "De Wijk- en Buurtkaart bevat de digitale geometrie van de grenzen van de buurten, wijken en gemeenten in Nederland. De kerncijfers van de buurten en de geaggregeerde kerncijfers van de wijken en gemeenten zijn aan de kaart toegevoegd samen met de statistieken over de nabijheid van voorzieningen. Op termijn zullen meer kerncijfers gekoppeld worden.\n\n# Wijk- en Buurtkaart\n\nDe Wijk- en Buurtkaart is samengesteld uit drie bronnen:\n\n- Gemeentegrenzen komen uit de Basis Registratie Kadaster (BRK);\n- Buurtgrenzen hebben de opgave van gemeenten als basis;\n- De grens van het land met grotere wateren is gebaseerd op de meest recente kaart van het Bestand Bodemgebruik van CBS.\n\n# Linkset buurt/pand\n\nDeze dataset bevat een linkset van CBS buurten naar BAG panden. Deze linkset is gebaseerd op de officiële versie zoals gepubliceerd door het Centraal Bureau van de Statistiek [op 1 augustus 2020](https://www.cbs.nl/nl-nl/maatwerk/2020/39/buurt-wijk-en-gemeente-2020-voor-postcode-huisnummer). De linkset data versie van deze linkset is te vinden in [deze graaf](https://data.labs.kadaster.nl/kadaster/wbk/table?graph=https%3A%2F%2Fdata.labs.kadaster.nl%2Fkadaster%2Fcbs-linkset%2F).\n\nDe CBS Wijken- en buurten zijn up-to-date met de [versie van 2019](https://www.cbs.nl/nl-nl/maatwerk/2019/31/kerncijfers-wijken-en-buurten-2019).  Een vernieuwing voor de 2020 versie zit bij het [Kadaster Data Science Team](https://labs.kadaster.nl) in de pijplijn.",
+    "distribution": [{
+            "@type": "DataDownload",
+            "encodingFormat": "application/trig",
+            "contentUrl": "https://data.labs.kadaster.nl/kadaster/wbk/download.trig.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/n-triples",
+            "contentUrl": "https://data.labs.kadaster.nl/kadaster/wbk/download.nt.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/n-quads",
+            "contentUrl": "https://data.labs.kadaster.nl/kadaster/wbk/download.nq.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/turtle",
+            "contentUrl": "https://data.labs.kadaster.nl/kadaster/wbk/download.ttl.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/sparql-query",
+            "contentUrl": "https://api.labs.kadaster.nl/datasets/kadaster/wbk/services/cbs-linkset/sparql"
+        }
+    ],
+    "identifier": "https://data.labs.kadaster.nl/kadaster/wbk",
+    "image": "https://data.labs.kadaster.nl/imgs/avatars/d/60c8cf9a5f4f1a0389b2f53c.png?v=0",
+    "inLanguage": "iso639-1:en",
+    "includedInDataCatalog": "https://data.labs.kadaster.nl",
+    "license": {
+        "@type": "CreativeWork",
+        "name": "CC-BY-SA",
+        "url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "name": "CBS Wijk- en Buurtkaart",
+    "publisher": {
+        "@type": "Organization",
+        "@id": "https://data.labs.kadaster.nl/kadaster",
+        "name": "Kadaster"
+    },
+    "creator": {
+        "@type": "Organization",
+        "@id": "https://data.labs.kadaster.nl/kadaster",
+        "name": "Kadaster"
+    },
+    "url": "https://data.labs.kadaster.nl/kadaster/wbk"
+}

@@ -1,0 +1,67 @@
+{
+    "@context": "https://schema.org/",
+    "@id": "https://data.labs.kadaster.nl/kadaster/bgt",
+    "@type": "Dataset",
+    "about": [
+        "https://data.labs.kadaster.nl/kadaster/topics/semantiek/basisregistratie",
+        "https://data.labs.kadaster.nl/kadaster/topics/e-overheid/basisregistratie",
+        "https://data.labs.kadaster.nl/kadaster/topics/geo/nederland",
+        "https://data.labs.kadaster.nl/kadaster/topics/semantiek",
+        "https://data.labs.kadaster.nl/kadaster/topics/e-overheid",
+        "https://data.labs.kadaster.nl/kadaster/topics/geo"
+    ],
+    "additionalType": "dcm:Dataset",
+    "dateModified": "2021-09-27",
+    "datePublished": "2020-07-21",
+    "description": "De Basisregistratie Grootschalige Topografie (BGT) is een gedetailleerde digitale kaart van Nederland.  In de BGT worden objecten zoals gebouwen, wegen, water, spoorlijnen en groen op eenduidige manier vastgelegd.  De BGT wordt wettelijk geregeld.  Op 1 januari 2016 is de wet in werking getreden voor bronhouders en de Landelijke Voorziening (LV BGT).  Iedereen kan de informatie uit de BGT vrij gebruiken.  Voor overheden en andere wettelijke gebruikers is het gebruik verplicht.  Zie [deze pagina](https://data.labs.kadaster.nl/kadaster/bgt/browser?resource=https%3A%2F%2Fbgt.basisregistraties.overheid.nl%2Fbgt) voor de metadata beschrijving van de BGT-LD.\n\n- **Versie**: 2021 Q3\n- **Actualiteit**: 2021-08-03\n- **Changelog**: [Klik hier voor de changelog van de wijzigingen per levering](https://data.labs.kadaster.nl/kadaster/-/stories/Veranderingshistorie-voor-de-BGT)\n\n# APIs\n\n  - [GraphQL editor](https://labs.kadaster.nl/gateway)\n  - [SPARQL editor](https://data.labs.kadaster.nl/kadaster/bgt/sparql/bgt)\n  - [Linked Data Event Streams (LDES)](https://bgt.basisregistraties.overheid.nl/feed/2020-08-14T16:05)\n\n### Data stories & toepassingen\n\nBezoek de [Kadaster Labs pagina](https://labs.kadaster.nl/cases/bgt-ld) om verschillende toepassingen bovenop de BGT-LD te bekijken.\n\n### Data model browser\n\nKlik [hier](https://kadaster.wvr.io/bgt/elements) om het data model van de BGT-LD te verkennen.\n\n<figure>\n  <a href=\"https://kadaster.wvr.io/bgt/elements\" target=\"_blank\">\n    <img src=\"https://data.labs.kadaster.nl/kadaster/bgt/assets/5fa95625c6fd34502fa9221b\" width=\"300\">\n  </a>\n</figure>\n\n### Type en sub-typen (taxonomie)\n\nKlik [hier](https://data.labs.kadaster.nl/kadaster/bgt/insights/classHierarchy?type=sunburst&focus=http%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23Thing) om een visueel overzicht te krijgen van de typen en subtypen in de BGT-LD.\n\n<figure>\n  <a href=\"https://data.labs.kadaster.nl/kadaster/bgt/insights/classHierarchy?type=sunburst&focus=http%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23Thing\" target=\"_blank\">\n    <img src=\"https://data.labs.kadaster.nl/kadaster/bgt/assets/5f9f291b965835030caa9ad9\" width=\"300\">\n  </a>\n</figure>",
+    "distribution": [{
+            "@type": "DataDownload",
+            "encodingFormat": "application/trig",
+            "contentUrl": "https://data.labs.kadaster.nl/kadaster/bgt/download.trig.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/n-triples",
+            "contentUrl": "https://data.labs.kadaster.nl/kadaster/bgt/download.nt.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/n-quads",
+            "contentUrl": "https://data.labs.kadaster.nl/kadaster/bgt/download.nq.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/turtle",
+            "contentUrl": "https://data.labs.kadaster.nl/kadaster/bgt/download.ttl.gz"
+        }, {
+            "@type": "DataDownload",
+            "encodingFormat": "application/sparql-query",
+            "contentUrl": "https://api.labs.kadaster.nl/datasets/kadaster/bgt/services/bgt/sparql"
+        }
+    ],
+    "identifier": "https://data.labs.kadaster.nl/kadaster/bgt",
+    "image": "https://data.labs.kadaster.nl/imgs/avatars/d/5f16c3c3b536eb0383db4b52.png?v=1",
+    "inLanguage": "iso639-1:en",
+    "includedInDataCatalog": "https://data.labs.kadaster.nl",
+    "keywords": [
+        "Basisregistratie",
+        "Nederland",
+        "Semantiek",
+        "eOverheid",
+        "Geografie"
+    ],
+    "license": {
+        "@type": "CreativeWork",
+        "name": "CC-BY-SA",
+        "@id": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "name": "Basisregistratie Grootschalige Topografie (BGT)",
+    "publisher": {
+        "@type": "Organization",
+        "@id": "https://data.labs.kadaster.nl/kadaster",
+        "name": "Kadaster"
+    },
+    "creator": {
+        "@type": "Organization",
+        "@id": "https://data.labs.kadaster.nl/kadaster",
+        "name": "Kadaster"
+    },
+    "url": "https://data.labs.kadaster.nl/kadaster/bgt"
+}
