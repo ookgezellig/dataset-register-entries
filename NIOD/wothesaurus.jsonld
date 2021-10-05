@@ -3,14 +3,17 @@
 	"@type": "Dataset",
 	"@id": "https://data.niod.nl/PoolParty/wiki/WO2_Thesaurus",
 	"identifier": "https://data.niod.nl/PoolParty/wiki/WO2_Thesaurus",
-	"name": [ "@value":"Thesaurus Tweede Wereldoorlog Nederland, Nederlanders, Nederlands-Indië (WO2 thesaurus)", "@language":"nl" }, { "@value":"Thesaurus Second World War, Netherlands, Dutch, Dutch-Indies, Dutch West-Indies","@language":en" }],
+	"name": [ { "@value":"Thesaurus Tweede Wereldoorlog Nederland, Nederlanders, Nederlands-Indië (WO2 thesaurus)", "@language":"nl" }, { "@value":"Thesaurus Second World War, Netherlands, Dutch, Dutch-Indies, Dutch West-Indies","@language":"en" }],
 	"license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
 	"publisher": {
 		"@id": "https://www.niod.nl/",
 		"@type": "Organization",
 		"name": "NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies"
 	},
-	"description": [ "@value":""De WO2-thesaurus is een gevalideerde, hiërarchisch georganiseerde trefwoordenlijst voor de thematische ontsluiting van (digitale) bronnen uit de periode 1940-1945. De thesaurus bevat termen over gebeurtenissen, plaatsen, begrippen en objecten uit de Tweede Wereldoorlog. De trefwoorden zijn verdeeld over een aantal hoofdgebieden als Vervolging, Bestuur, Dagelijks Leven, Recht, etc. Tevens bevat de WO2-thesaurus een uitgebreide lijst van kampen en getto's in zowel Europa als Nederlands Indië; inclusief GPS coordinaten."", "@language":"nl" }, { "@value":"The Thesaurus WW2 (WO2 Thesaurus) is a validated, hierarchically structured list of concepts for thematic access to resources about WW2. With a focus of the Netherlands and Dutch Colonies. The Thesaurus consists of descriptions of concepts, camps, events and organizations. The concepts describe daily life, Government, Prosecution, Law, Combat etcetera. The keywords are described in the standard technical format: SKOS. When relevant links to images, GPS coordinates and dates are added. All concepts and their relations are downloadable and reusable.","@language":en" }],
+	"description": [ 
+	    { "@value":"De WO2-thesaurus is een gevalideerde, hiërarchisch georganiseerde trefwoordenlijst voor de thematische ontsluiting van (digitale) bronnen uit de periode 1940-1945. De thesaurus bevat termen over gebeurtenissen, plaatsen, begrippen en objecten uit de Tweede Wereldoorlog. De trefwoorden zijn verdeeld over een aantal hoofdgebieden als Vervolging, Bestuur, Dagelijks Leven, Recht, etc. Tevens bevat de WO2-thesaurus een uitgebreide lijst van kampen en getto's in zowel Europa als Nederlands Indië; inclusief GPS coordinaten.", "@language":"nl" }, 
+	    { "@value":"The Thesaurus WW2 (WO2 Thesaurus) is a validated, hierarchically structured list of concepts for thematic access to resources about WW2. With a focus of the Netherlands and Dutch Colonies. The Thesaurus consists of descriptions of concepts, camps, events and organizations. The concepts describe daily life, Government, Prosecution, Law, Combat etcetera. The keywords are described in the standard technical format: SKOS. When relevant links to images, GPS coordinates and dates are added. All concepts and their relations are downloadable and reusable.","@language":"en" }
+	],
 	"mainEntityOfPage": [
 		"https://data.niod.nl/PoolParty/wiki/WO2_Thesaurus",
 		"https://www.niod.nl/nl/collecties/wo2-thesaurus"
@@ -25,7 +28,4 @@
 			"encodingFormat": [
 				"application/sparql-query"
 			],
-			"name": "SPARQL endpoint"
-		}
-	]
-}
+			"name": "SPARQL endpoin
