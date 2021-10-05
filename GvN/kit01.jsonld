@@ -14,7 +14,8 @@
 		"@id": "https://www.tropenmuseum.nl/",
 		"@type": "Organization",
 		"name": "Tropenmuseum"
-	},
+	},"dateModified": "2020-09-04",
+    "datePublished": "2019-08-07",
 	"description": "De collectie Koloniale Wereldtentoonstellingen bestaat uit voorwerpen die tussen 1870 en 1940 in Nederlands-Indië verzameld zijn.",
 	"mainEntityOfPage": [	"https://demo.netwerkdigitaalerfgoed.nl/stories/hackalod/geheugen/index.html","https://data.netwerkdigitaalerfgoed.nl/HackaLOD/GVN","http://www.geheugenvannederland.nl/nl/geheugen/pages/collectie/Koloniale+wereldtentoonstellingen"
 	],
@@ -27,6 +28,26 @@
 				"application/sparql-query"
 			],
 			"name": "SPARQL endpoint"
-		}
+		},
+		{
+      "@type": "DataDownload",
+      "encodingFormat": "application/trig",
+      "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/HackaLOD/GVN/download.trig.gz"
+     },
+     {
+      "@type": "DataDownload",
+      "encodingFormat": "application/n-triples",
+      "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/HackaLOD/GVN/download.nt.gz"
+     },
+     {
+      "@type": "DataDownload",
+      "encodingFormat": "application/n-quads",
+      "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/HackaLOD/GVN/download.nq.gz"
+     },
+     {
+      "@type": "DataDownload",
+      "encodingFormat": "application/turtle",
+      "contentUrl": "https://data.netwerkdigitaalerfgoed.nl/HackaLOD/GVN/download.ttl.gz"
+     }
 	]
 }
