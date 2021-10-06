@@ -1,0 +1,2209 @@
+@prefix schema: <http://schema.org/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.archieven.nl/id/opendata_101.5617> a schema:Dataset ;
+	schema:name "101.5617" ;
+	schema:description "Nadere toegang op inventarisnummer 5617 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5617_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-24T00:00:00"^^schema:Date ;
+		schema:contentSize 669903 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_106> a schema:Dataset ;
+	schema:name "106" ;
+	schema:description "Gemeente Eygelshoven" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "inventaris" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/ead/NL-KrdGA_106_1_EAD.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-13T00:00:00"^^schema:Date ;
+		schema:contentSize 1128122 ;
+		schema:description "XML bestand volgens EAD model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5573> a schema:Dataset ;
+	schema:name "101.5573" ;
+	schema:description "Nadere toegang op inventarisnummer 5573 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5573_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2018-03-30T00:00:00"^^schema:Date ;
+		schema:contentSize 1251524 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5604> a schema:Dataset ;
+	schema:name "101.5604" ;
+	schema:description "Nadere toegang op inventarisnummer 5604 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5604_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-25T00:00:00"^^schema:Date ;
+		schema:contentSize 564056 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5691> a schema:Dataset ;
+	schema:name "101.5691" ;
+	schema:description "Nadere toegang op inventarisnummer 5691 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5691_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2018-03-21T00:00:00"^^schema:Date ;
+		schema:contentSize 1135094 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5649> a schema:Dataset ;
+	schema:name "101.5649" ;
+	schema:description "Nadere toegang op inventarisnummer 5649 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015649_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2021-07-09T00:00:00"^^schema:Date ;
+		schema:contentSize 1693486 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5587> a schema:Dataset ;
+	schema:name "101.5587" ;
+	schema:description "Nadere toegang op inventarisnummer 5587 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5587_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-25T00:00:00"^^schema:Date ;
+		schema:contentSize 383374 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5679> a schema:Dataset ;
+	schema:name "101.5679" ;
+	schema:description "Nadere toegang op inventarisnummer 5679 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5679_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2018-06-06T00:00:00"^^schema:Date ;
+		schema:contentSize 1662815 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_102.1291> a schema:Dataset ;
+	schema:name "102.1291" ;
+	schema:description "Nadere toegang op inventarisnummer 1291 van archieftoegang 102" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1021291_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-03-08T00:00:00"^^schema:Date ;
+		schema:contentSize 1107746 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5703> a schema:Dataset ;
+	schema:name "101.5703" ;
+	schema:description "Nadere toegang op inventarisnummer 5703 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015703_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2019-12-29T00:00:00"^^schema:Date ;
+		schema:contentSize 1061643 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5619> a schema:Dataset ;
+	schema:name "101.5619" ;
+	schema:description "Nadere toegang op inventarisnummer 5619 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015619_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-11-22T00:00:00"^^schema:Date ;
+		schema:contentSize 760521 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5682> a schema:Dataset ;
+	schema:name "101.5682" ;
+	schema:description "Nadere toegang op inventarisnummer 5682 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015682_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-06-25T00:00:00"^^schema:Date ;
+		schema:contentSize 1124460 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5574> a schema:Dataset ;
+	schema:name "101.5574" ;
+	schema:description "Nadere toegang op inventarisnummer 5574 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015574_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-06-25T00:00:00"^^schema:Date ;
+		schema:contentSize 1319241 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5589> a schema:Dataset ;
+	schema:name "101.5589" ;
+	schema:description "Nadere toegang op inventarisnummer 5589 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5589_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2018-09-01T00:00:00"^^schema:Date ;
+		schema:contentSize 445943 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5590> a schema:Dataset ;
+	schema:name "101.5590" ;
+	schema:description "Nadere toegang op inventarisnummer 5590 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5590_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-05-12T00:00:00"^^schema:Date ;
+		schema:contentSize 492747 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5603> a schema:Dataset ;
+	schema:name "101.5603" ;
+	schema:description "Nadere toegang op inventarisnummer 5603 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5603_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2018-06-06T00:00:00"^^schema:Date ;
+		schema:contentSize 573627 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5647> a schema:Dataset ;
+	schema:name "101.5647" ;
+	schema:description "Nadere toegang op inventarisnummer 5647 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5647_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2018-07-29T00:00:00"^^schema:Date ;
+		schema:contentSize 1517436 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5602> a schema:Dataset ;
+	schema:name "101.5602" ;
+	schema:description "Nadere toegang op inventarisnummer 5602 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5602_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2018-10-09T00:00:00"^^schema:Date ;
+		schema:contentSize 599732 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5631> a schema:Dataset ;
+	schema:name "101.5631" ;
+	schema:description "Nadere toegang op inventarisnummer 5631 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015631_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-11-17T00:00:00"^^schema:Date ;
+		schema:contentSize 1191630 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5757> a schema:Dataset ;
+	schema:name "101.5757" ;
+	schema:description "Nadere toegang op inventarisnummer 5757 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015757_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-08-02T00:00:00"^^schema:Date ;
+		schema:contentSize 1518865 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5576> a schema:Dataset ;
+	schema:name "101.5576" ;
+	schema:description "Nadere toegang op inventarisnummer 5576 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5576_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-24T00:00:00"^^schema:Date ;
+		schema:contentSize 1130742 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5657> a schema:Dataset ;
+	schema:name "101.5657" ;
+	schema:description "Nadere toegang op inventarisnummer 5657 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015657_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2021-09-17T00:00:00"^^schema:Date ;
+		schema:contentSize 2067599 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_109> a schema:Dataset ;
+	schema:name "109" ;
+	schema:description "Bouwvergunningen" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "sys_ovr" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_109_14_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-09-06T00:00:00"^^schema:Date ;
+		schema:contentSize 36275062 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5575> a schema:Dataset ;
+	schema:name "101.5575" ;
+	schema:description "Nadere toegang op inventarisnummer 5575 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5575_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-24T00:00:00"^^schema:Date ;
+		schema:contentSize 1306233 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5605> a schema:Dataset ;
+	schema:name "101.5605" ;
+	schema:description "Nadere toegang op inventarisnummer 5605 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5605_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-25T00:00:00"^^schema:Date ;
+		schema:contentSize 518003 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5721> a schema:Dataset ;
+	schema:name "101.5721" ;
+	schema:description "Nadere toegang op inventarisnummer 5721 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5721_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2017-05-30T00:00:00"^^schema:Date ;
+		schema:contentSize 1148149 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_107> a schema:Dataset ;
+	schema:name "107" ;
+	schema:description "Bodemonderzoeken" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "inventaris" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_107_1_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2019-01-13T00:00:00"^^schema:Date ;
+		schema:contentSize 791634 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5706> a schema:Dataset ;
+	schema:name "101.5706" ;
+	schema:description "Nadere toegang op inventarisnummer 5706 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5706_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2018-03-21T00:00:00"^^schema:Date ;
+		schema:contentSize 1069548 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5685> a schema:Dataset ;
+	schema:name "101.5685" ;
+	schema:description "Nadere toegang op inventarisnummer 5685 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5685_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2017-09-22T00:00:00"^^schema:Date ;
+		schema:contentSize 1142573 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5606> a schema:Dataset ;
+	schema:name "101.5606" ;
+	schema:description "Nadere toegang op inventarisnummer 5606 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5606_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2017-07-28T00:00:00"^^schema:Date ;
+		schema:contentSize 634742 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5659> a schema:Dataset ;
+	schema:name "101.5659" ;
+	schema:description "Nadere toegang op inventarisnummer 5659 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5659_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2019-01-13T00:00:00"^^schema:Date ;
+		schema:contentSize 2244579 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5621> a schema:Dataset ;
+	schema:name "101.5621" ;
+	schema:description "Nadere toegang op inventarisnummer 5621 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015621_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-11-22T00:00:00"^^schema:Date ;
+		schema:contentSize 851528 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_102.1301> a schema:Dataset ;
+	schema:name "102.1301" ;
+	schema:description "Nadere toegang op inventarisnummer 1301 van archieftoegang 102" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_102.1301_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2019-01-13T00:00:00"^^schema:Date ;
+		schema:contentSize 1206524 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5611> a schema:Dataset ;
+	schema:name "101.5611" ;
+	schema:description "Nadere toegang op inventarisnummer 5611 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5611_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-24T00:00:00"^^schema:Date ;
+		schema:contentSize 625554 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_102.1299> a schema:Dataset ;
+	schema:name "102.1299" ;
+	schema:description "Nadere toegang op inventarisnummer 1299 van archieftoegang 102" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_102.1299_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2019-01-13T00:00:00"^^schema:Date ;
+		schema:contentSize 1172724 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5594> a schema:Dataset ;
+	schema:name "101.5594" ;
+	schema:description "Nadere toegang op inventarisnummer 5594 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5594_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-24T00:00:00"^^schema:Date ;
+		schema:contentSize 523451 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5697> a schema:Dataset ;
+	schema:name "101.5697" ;
+	schema:description "Nadere toegang op inventarisnummer 5697 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015697_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-03-08T00:00:00"^^schema:Date ;
+		schema:contentSize 919516 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_103> a schema:Dataset ;
+	schema:name "103" ;
+	schema:description "Dossierinventaris 1961-1981" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "inventaris" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_103_1_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2019-04-17T00:00:00"^^schema:Date ;
+		schema:contentSize 1037080 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5581> a schema:Dataset ;
+	schema:name "101.5581" ;
+	schema:description "Nadere toegang op inventarisnummer 5581 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5581_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2017-09-22T00:00:00"^^schema:Date ;
+		schema:contentSize 380467 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_108> a schema:Dataset ;
+	schema:name "108" ;
+	schema:description "Hinderwetvergunningen" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "inventaris" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_108_1_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2019-01-13T00:00:00"^^schema:Date ;
+		schema:contentSize 2007630 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_102.1297> a schema:Dataset ;
+	schema:name "102.1297" ;
+	schema:description "Nadere toegang op inventarisnummer 1297 van archieftoegang 102" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1021297_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2019-12-01T00:00:00"^^schema:Date ;
+		schema:contentSize 1184733 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5700> a schema:Dataset ;
+	schema:name "101.5700" ;
+	schema:description "Nadere toegang op inventarisnummer 5700 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015700_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2021-07-09T00:00:00"^^schema:Date ;
+		schema:contentSize 873888 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5593> a schema:Dataset ;
+	schema:name "101.5593" ;
+	schema:description "Nadere toegang op inventarisnummer 5593 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5593_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-25T00:00:00"^^schema:Date ;
+		schema:contentSize 489168 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5592> a schema:Dataset ;
+	schema:name "101.5592" ;
+	schema:description "Nadere toegang op inventarisnummer 5592 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5592_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-24T00:00:00"^^schema:Date ;
+		schema:contentSize 480452 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5637> a schema:Dataset ;
+	schema:name "101.5637" ;
+	schema:description "Nadere toegang op inventarisnummer 5637 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5637_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-25T00:00:00"^^schema:Date ;
+		schema:contentSize 1284156 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_102> a schema:Dataset ;
+	schema:name "102" ;
+	schema:description "Dossierinventaris, 1947-1960" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "inventaris" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:temporalCoverage: "1947.1960" ;
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_102_1_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-13T00:00:00"^^schema:Date ;
+		schema:contentSize 727706 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5751> a schema:Dataset ;
+	schema:name "101.5751" ;
+	schema:description "Nadere toegang op inventarisnummer 5751 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5751_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-24T00:00:00"^^schema:Date ;
+		schema:contentSize 1005433 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5651> a schema:Dataset ;
+	schema:name "101.5651" ;
+	schema:description "Nadere toegang op inventarisnummer 5651 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015651_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-03-08T00:00:00"^^schema:Date ;
+		schema:contentSize 1816226 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5688> a schema:Dataset ;
+	schema:name "101.5688" ;
+	schema:description "Nadere toegang op inventarisnummer 5688 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015688_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-11-22T00:00:00"^^schema:Date ;
+		schema:contentSize 1285217 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5629> a schema:Dataset ;
+	schema:name "101.5629" ;
+	schema:description "Nadere toegang op inventarisnummer 5629 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015629_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-11-17T00:00:00"^^schema:Date ;
+		schema:contentSize 1007365 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5727> a schema:Dataset ;
+	schema:name "101.5727" ;
+	schema:description "Nadere toegang op inventarisnummer 5727 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5727_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2018-03-21T00:00:00"^^schema:Date ;
+		schema:contentSize 923074 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5595> a schema:Dataset ;
+	schema:name "101.5595" ;
+	schema:description "Nadere toegang op inventarisnummer 5595 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5595_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2018-11-18T00:00:00"^^schema:Date ;
+		schema:contentSize 478734 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5639> a schema:Dataset ;
+	schema:name "101.5639" ;
+	schema:description "Nadere toegang op inventarisnummer 5639 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5639_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-24T00:00:00"^^schema:Date ;
+		schema:contentSize 1301439 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5739> a schema:Dataset ;
+	schema:name "101.5739" ;
+	schema:description "Nadere toegang op inventarisnummer 5739 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5739_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2019-07-07T00:00:00"^^schema:Date ;
+		schema:contentSize 836981 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5596> a schema:Dataset ;
+	schema:name "101.5596" ;
+	schema:description "Nadere toegang op inventarisnummer 5596 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5596_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-24T00:00:00"^^schema:Date ;
+		schema:contentSize 537562 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5627> a schema:Dataset ;
+	schema:name "101.5627" ;
+	schema:description "Nadere toegang op inventarisnummer 5627 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5627_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2017-03-03T00:00:00"^^schema:Date ;
+		schema:contentSize 830186 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5578> a schema:Dataset ;
+	schema:name "101.5578" ;
+	schema:description "Nadere toegang op inventarisnummer 5578 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5578_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2018-11-18T00:00:00"^^schema:Date ;
+		schema:contentSize 1381206 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5666> a schema:Dataset ;
+	schema:name "101.5666" ;
+	schema:description "Nadere toegang op inventarisnummer 5666 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015666_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2021-04-14T00:00:00"^^schema:Date ;
+		schema:contentSize 857287 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5709> a schema:Dataset ;
+	schema:name "101.5709" ;
+	schema:description "Nadere toegang op inventarisnummer 5709 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015709_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-07-26T00:00:00"^^schema:Date ;
+		schema:contentSize 1075308 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5613> a schema:Dataset ;
+	schema:name "101.5613" ;
+	schema:description "Nadere toegang op inventarisnummer 5613 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5613_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-25T00:00:00"^^schema:Date ;
+		schema:contentSize 636346 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5644> a schema:Dataset ;
+	schema:name "101.5644" ;
+	schema:description "Nadere toegang op inventarisnummer 5644 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015644_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-01-26T00:00:00"^^schema:Date ;
+		schema:contentSize 1182410 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5655> a schema:Dataset ;
+	schema:name "101.5655" ;
+	schema:description "Nadere toegang op inventarisnummer 5655 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015655_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2021-07-09T00:00:00"^^schema:Date ;
+		schema:contentSize 1972390 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5612> a schema:Dataset ;
+	schema:name "101.5612" ;
+	schema:description "Nadere toegang op inventarisnummer 5612 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5612_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-24T00:00:00"^^schema:Date ;
+		schema:contentSize 630075 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5674> a schema:Dataset ;
+	schema:name "101.5674" ;
+	schema:description "Nadere toegang op inventarisnummer 5674 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015674_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2019-12-01T00:00:00"^^schema:Date ;
+		schema:contentSize 1185997 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5628> a schema:Dataset ;
+	schema:name "101.5628" ;
+	schema:description "Nadere toegang op inventarisnummer 5628 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015628_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-11-17T00:00:00"^^schema:Date ;
+		schema:contentSize 972474 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5582> a schema:Dataset ;
+	schema:name "101.5582" ;
+	schema:description "Nadere toegang op inventarisnummer 5582 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5582_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2017-04-12T00:00:00"^^schema:Date ;
+		schema:contentSize 460680 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5712> a schema:Dataset ;
+	schema:name "101.5712" ;
+	schema:description "Nadere toegang op inventarisnummer 5712 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015712_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-08-09T00:00:00"^^schema:Date ;
+		schema:contentSize 1325356 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5656> a schema:Dataset ;
+	schema:name "101.5656" ;
+	schema:description "Nadere toegang op inventarisnummer 5656 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015656_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-01-26T00:00:00"^^schema:Date ;
+		schema:contentSize 1538146 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_bidpgm> a schema:Dataset ;
+	schema:name "bidpgm" ;
+	schema:description "Bidpgm" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "sys_ovr" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_bidpgm_14_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2021-09-30T00:00:00"^^schema:Date ;
+		schema:contentSize 14458168 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5583> a schema:Dataset ;
+	schema:name "101.5583" ;
+	schema:description "Nadere toegang op inventarisnummer 5583 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5583_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-24T00:00:00"^^schema:Date ;
+		schema:contentSize 456644 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5609> a schema:Dataset ;
+	schema:name "101.5609" ;
+	schema:description "Nadere toegang op inventarisnummer 5609 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5609_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-25T00:00:00"^^schema:Date ;
+		schema:contentSize 577900 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5579> a schema:Dataset ;
+	schema:name "101.5579" ;
+	schema:description "Nadere toegang op inventarisnummer 5579 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5579_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-25T00:00:00"^^schema:Date ;
+		schema:contentSize 1403685 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_102.1290> a schema:Dataset ;
+	schema:name "102.1290" ;
+	schema:description "Nadere toegang op inventarisnummer 1290 van archieftoegang 102" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_102.1290_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2019-04-17T00:00:00"^^schema:Date ;
+		schema:contentSize 997695 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_104> a schema:Dataset ;
+	schema:name "104" ;
+	schema:description "Dossierinventaris 1982-1992" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "inventaris" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_104_1_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-13T00:00:00"^^schema:Date ;
+		schema:contentSize 810376 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5742> a schema:Dataset ;
+	schema:name "101.5742" ;
+	schema:description "Nadere toegang op inventarisnummer 5742 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5742_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2019-09-22T00:00:00"^^schema:Date ;
+		schema:contentSize 937536 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5642> a schema:Dataset ;
+	schema:name "101.5642" ;
+	schema:description "Nadere toegang op inventarisnummer 5642 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015642_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2021-05-19T00:00:00"^^schema:Date ;
+		schema:contentSize 1282996 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5638> a schema:Dataset ;
+	schema:name "101.5638" ;
+	schema:description "Nadere toegang op inventarisnummer 5638 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5638_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2018-10-09T00:00:00"^^schema:Date ;
+		schema:contentSize 1280649 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5607> a schema:Dataset ;
+	schema:name "101.5607" ;
+	schema:description "Nadere toegang op inventarisnummer 5607 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5607_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-24T00:00:00"^^schema:Date ;
+		schema:contentSize 570151 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5672> a schema:Dataset ;
+	schema:name "101.5672" ;
+	schema:description "Nadere toegang op inventarisnummer 5672 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5672_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2019-04-17T00:00:00"^^schema:Date ;
+		schema:contentSize 965629 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5614> a schema:Dataset ;
+	schema:name "101.5614" ;
+	schema:description "Nadere toegang op inventarisnummer 5614 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5614_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2018-11-18T00:00:00"^^schema:Date ;
+		schema:contentSize 718750 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5616> a schema:Dataset ;
+	schema:name "101.5616" ;
+	schema:description "Nadere toegang op inventarisnummer 5616 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015616_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-11-22T00:00:00"^^schema:Date ;
+		schema:contentSize 820150 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5630> a schema:Dataset ;
+	schema:name "101.5630" ;
+	schema:description "Nadere toegang op inventarisnummer 5630 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5630_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-24T00:00:00"^^schema:Date ;
+		schema:contentSize 877857 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5715> a schema:Dataset ;
+	schema:name "101.5715" ;
+	schema:description "Nadere toegang op inventarisnummer 5715 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5715_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2018-11-18T00:00:00"^^schema:Date ;
+		schema:contentSize 1062127 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5662> a schema:Dataset ;
+	schema:name "101.5662" ;
+	schema:description "Nadere toegang op inventarisnummer 5662 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015662_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-11-22T00:00:00"^^schema:Date ;
+		schema:contentSize 1362855 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5585> a schema:Dataset ;
+	schema:name "101.5585" ;
+	schema:description "Nadere toegang op inventarisnummer 5585 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5585_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-24T00:00:00"^^schema:Date ;
+		schema:contentSize 384299 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5653> a schema:Dataset ;
+	schema:name "101.5653" ;
+	schema:description "Nadere toegang op inventarisnummer 5653 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015653_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2021-07-28T00:00:00"^^schema:Date ;
+		schema:contentSize 1747963 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5615> a schema:Dataset ;
+	schema:name "101.5615" ;
+	schema:description "Nadere toegang op inventarisnummer 5615 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5615_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-24T00:00:00"^^schema:Date ;
+		schema:contentSize 664487 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_102.1298> a schema:Dataset ;
+	schema:name "102.1298" ;
+	schema:description "Nadere toegang op inventarisnummer 1298 van archieftoegang 102" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1021298_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-02-09T00:00:00"^^schema:Date ;
+		schema:contentSize 1189475 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5730> a schema:Dataset ;
+	schema:name "101.5730" ;
+	schema:description "Nadere toegang op inventarisnummer 5730 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5730_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2018-03-21T00:00:00"^^schema:Date ;
+		schema:contentSize 935446 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5652> a schema:Dataset ;
+	schema:name "101.5652" ;
+	schema:description "Nadere toegang op inventarisnummer 5652 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015652_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-01-26T00:00:00"^^schema:Date ;
+		schema:contentSize 1294950 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5763> a schema:Dataset ;
+	schema:name "101.5763" ;
+	schema:description "Nadere toegang op inventarisnummer 5763 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5763_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2018-03-21T00:00:00"^^schema:Date ;
+		schema:contentSize 947918 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5586> a schema:Dataset ;
+	schema:name "101.5586" ;
+	schema:description "Nadere toegang op inventarisnummer 5586 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5586_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-24T00:00:00"^^schema:Date ;
+		schema:contentSize 397775 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5645> a schema:Dataset ;
+	schema:name "101.5645" ;
+	schema:description "Nadere toegang op inventarisnummer 5645 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015645_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2021-04-14T00:00:00"^^schema:Date ;
+		schema:contentSize 1622949 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5654> a schema:Dataset ;
+	schema:name "101.5654" ;
+	schema:description "Nadere toegang op inventarisnummer 5654 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015654_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-06-25T00:00:00"^^schema:Date ;
+		schema:contentSize 1385808 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5676> a schema:Dataset ;
+	schema:name "101.5676" ;
+	schema:description "Nadere toegang op inventarisnummer 5676 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015676_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-07-26T00:00:00"^^schema:Date ;
+		schema:contentSize 1183882 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5754> a schema:Dataset ;
+	schema:name "101.5754" ;
+	schema:description "Nadere toegang op inventarisnummer 5754 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015754_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2019-12-29T00:00:00"^^schema:Date ;
+		schema:contentSize 992215 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5745> a schema:Dataset ;
+	schema:name "101.5745" ;
+	schema:description "Nadere toegang op inventarisnummer 5745 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5745_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2018-03-21T00:00:00"^^schema:Date ;
+		schema:contentSize 998145 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_102.1300> a schema:Dataset ;
+	schema:name "102.1300" ;
+	schema:description "Nadere toegang op inventarisnummer 1300 van archieftoegang 102" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1021300_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-12-02T00:00:00"^^schema:Date ;
+		schema:contentSize 1190853 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5646> a schema:Dataset ;
+	schema:name "101.5646" ;
+	schema:description "Nadere toegang op inventarisnummer 5646 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015646_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-01-26T00:00:00"^^schema:Date ;
+		schema:contentSize 1327610 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5620> a schema:Dataset ;
+	schema:name "101.5620" ;
+	schema:description "Nadere toegang op inventarisnummer 5620 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5620_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-25T00:00:00"^^schema:Date ;
+		schema:contentSize 656947 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5664> a schema:Dataset ;
+	schema:name "101.5664" ;
+	schema:description "Nadere toegang op inventarisnummer 5664 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015664_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-11-22T00:00:00"^^schema:Date ;
+		schema:contentSize 1281016 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5610> a schema:Dataset ;
+	schema:name "101.5610" ;
+	schema:description "Nadere toegang op inventarisnummer 5610 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5610_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-24T00:00:00"^^schema:Date ;
+		schema:contentSize 574498 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5636> a schema:Dataset ;
+	schema:name "101.5636" ;
+	schema:description "Nadere toegang op inventarisnummer 5636 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5636_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2018-12-02T00:00:00"^^schema:Date ;
+		schema:contentSize 1213273 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5635> a schema:Dataset ;
+	schema:name "101.5635" ;
+	schema:description "Nadere toegang op inventarisnummer 5635 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015635_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-11-17T00:00:00"^^schema:Date ;
+		schema:contentSize 1295888 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5736> a schema:Dataset ;
+	schema:name "101.5736" ;
+	schema:description "Nadere toegang op inventarisnummer 5736 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5736_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2019-07-07T00:00:00"^^schema:Date ;
+		schema:contentSize 797042 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101> a schema:Dataset ;
+	schema:name "101" ;
+	schema:description "Gemeente Kerkrade" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "inventaris" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101_1_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2021-09-17T00:00:00"^^schema:Date ;
+		schema:contentSize 3675134 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_102.1294> a schema:Dataset ;
+	schema:name "102.1294" ;
+	schema:description "Nadere toegang op inventarisnummer 1294 van archieftoegang 102" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_102.1294_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2018-03-21T00:00:00"^^schema:Date ;
+		schema:contentSize 1134298 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5580> a schema:Dataset ;
+	schema:name "101.5580" ;
+	schema:description "Nadere toegang op inventarisnummer 5580 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015580_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-11-22T00:00:00"^^schema:Date ;
+		schema:contentSize 514545 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_102.1293> a schema:Dataset ;
+	schema:name "102.1293" ;
+	schema:description "Nadere toegang op inventarisnummer 1293 van archieftoegang 102" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1021293_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-03-08T00:00:00"^^schema:Date ;
+		schema:contentSize 1014851 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5658> a schema:Dataset ;
+	schema:name "101.5658" ;
+	schema:description "Nadere toegang op inventarisnummer 5658 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015658_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-02-09T00:00:00"^^schema:Date ;
+		schema:contentSize 1632047 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_102.1292> a schema:Dataset ;
+	schema:name "102.1292" ;
+	schema:description "Nadere toegang op inventarisnummer 1292 van archieftoegang 102" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1021292_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-06-25T00:00:00"^^schema:Date ;
+		schema:contentSize 1203054 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5625> a schema:Dataset ;
+	schema:name "101.5625" ;
+	schema:description "Nadere toegang op inventarisnummer 5625 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015625_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-11-17T00:00:00"^^schema:Date ;
+		schema:contentSize 925409 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5597> a schema:Dataset ;
+	schema:name "101.5597" ;
+	schema:description "Nadere toegang op inventarisnummer 5597 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5597_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2019-09-22T00:00:00"^^schema:Date ;
+		schema:contentSize 585069 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5670> a schema:Dataset ;
+	schema:name "101.5670" ;
+	schema:description "Nadere toegang op inventarisnummer 5670 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015670_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-03-08T00:00:00"^^schema:Date ;
+		schema:contentSize 1051453 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5668> a schema:Dataset ;
+	schema:name "101.5668" ;
+	schema:description "Nadere toegang op inventarisnummer 5668 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5668_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-24T00:00:00"^^schema:Date ;
+		schema:contentSize 1069697 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5694> a schema:Dataset ;
+	schema:name "101.5694" ;
+	schema:description "Nadere toegang op inventarisnummer 5694 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015694_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-03-08T00:00:00"^^schema:Date ;
+		schema:contentSize 940811 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5601> a schema:Dataset ;
+	schema:name "101.5601" ;
+	schema:description "Nadere toegang op inventarisnummer 5601 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5601_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-24T00:00:00"^^schema:Date ;
+		schema:contentSize 566160 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5640> a schema:Dataset ;
+	schema:name "101.5640" ;
+	schema:description "Nadere toegang op inventarisnummer 5640 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015640_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-11-30T00:00:00"^^schema:Date ;
+		schema:contentSize 976495 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5626> a schema:Dataset ;
+	schema:name "101.5626" ;
+	schema:description "Nadere toegang op inventarisnummer 5626 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015626_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-11-17T00:00:00"^^schema:Date ;
+		schema:contentSize 943719 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5624> a schema:Dataset ;
+	schema:name "101.5624" ;
+	schema:description "Nadere toegang op inventarisnummer 5624 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015624_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-11-16T00:00:00"^^schema:Date ;
+		schema:contentSize 903890 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5660> a schema:Dataset ;
+	schema:name "101.5660" ;
+	schema:description "Nadere toegang op inventarisnummer 5660 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5660_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2019-09-22T00:00:00"^^schema:Date ;
+		schema:contentSize 892036 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5648> a schema:Dataset ;
+	schema:name "101.5648" ;
+	schema:description "Nadere toegang op inventarisnummer 5648 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015648_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-07-26T00:00:00"^^schema:Date ;
+		schema:contentSize 1245736 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5650> a schema:Dataset ;
+	schema:name "101.5650" ;
+	schema:description "Nadere toegang op inventarisnummer 5650 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015650_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-09-06T00:00:00"^^schema:Date ;
+		schema:contentSize 1524745 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5748> a schema:Dataset ;
+	schema:name "101.5748" ;
+	schema:description "Nadere toegang op inventarisnummer 5748 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015748_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-03-08T00:00:00"^^schema:Date ;
+		schema:contentSize 929006 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_105> a schema:Dataset ;
+	schema:name "105" ;
+	schema:description "Gemeente Eygelshoven" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "inventaris" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/ead/NL-KrdGA_105_1_EAD.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-11-15T00:00:00"^^schema:Date ;
+		schema:contentSize 2193343 ;
+		schema:description "XML bestand volgens EAD model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5733> a schema:Dataset ;
+	schema:name "101.5733" ;
+	schema:description "Nadere toegang op inventarisnummer 5733 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5733_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-12-21T00:00:00"^^schema:Date ;
+		schema:contentSize 965105 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5760> a schema:Dataset ;
+	schema:name "101.5760" ;
+	schema:description "Nadere toegang op inventarisnummer 5760 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015760_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-03-08T00:00:00"^^schema:Date ;
+		schema:contentSize 1255547 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5724> a schema:Dataset ;
+	schema:name "101.5724" ;
+	schema:description "Nadere toegang op inventarisnummer 5724 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5724_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-24T00:00:00"^^schema:Date ;
+		schema:contentSize 941226 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_102.1296> a schema:Dataset ;
+	schema:name "102.1296" ;
+	schema:description "Nadere toegang op inventarisnummer 1296 van archieftoegang 102" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_102.1296_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2019-01-13T00:00:00"^^schema:Date ;
+		schema:contentSize 1062075 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_bidhout> a schema:Dataset ;
+	schema:name "bidhout" ;
+	schema:description "Bidhout" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "sys_ovr" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_bidhout_14_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-06-25T00:00:00"^^schema:Date ;
+		schema:contentSize 2099878 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5718> a schema:Dataset ;
+	schema:name "101.5718" ;
+	schema:description "Nadere toegang op inventarisnummer 5718 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5718_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2018-03-21T00:00:00"^^schema:Date ;
+		schema:contentSize 940032 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5588> a schema:Dataset ;
+	schema:name "101.5588" ;
+	schema:description "Nadere toegang op inventarisnummer 5588 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5588_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2016-04-24T00:00:00"^^schema:Date ;
+		schema:contentSize 419722 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5618> a schema:Dataset ;
+	schema:name "101.5618" ;
+	schema:description "Nadere toegang op inventarisnummer 5618 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015618_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-11-22T00:00:00"^^schema:Date ;
+		schema:contentSize 807981 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5622> a schema:Dataset ;
+	schema:name "101.5622" ;
+	schema:description "Nadere toegang op inventarisnummer 5622 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015622_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-11-22T00:00:00"^^schema:Date ;
+		schema:contentSize 797784 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_102.1295> a schema:Dataset ;
+	schema:name "102.1295" ;
+	schema:description "Nadere toegang op inventarisnummer 1295 van archieftoegang 102" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1021295_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-08-02T00:00:00"^^schema:Date ;
+		schema:contentSize 1234161 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5634> a schema:Dataset ;
+	schema:name "101.5634" ;
+	schema:description "Nadere toegang op inventarisnummer 5634 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015634_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-11-17T00:00:00"^^schema:Date ;
+		schema:contentSize 1208069 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_101.5623> a schema:Dataset ;
+	schema:name "101.5623" ;
+	schema:description "Nadere toegang op inventarisnummer 5623 van archieftoegang 101" ;
+	schema:inLanguage "nl-NL" ;
+	schema:keywords "genealogie" ;
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+	schema:publisher <https://www.archieven.nl/id/organisation_72> ; 
+	schema:distribution [
+		a schema:DataDownload ;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015623_54_MI.xml?format=file> ;
+		schema:encodingFormat "text/xml" ;
+		schema:dateModified "2020-11-22T00:00:00"^^schema:Date ;
+		schema:contentSize 838427 ;
+		schema:description "XML bestand volgens MI model" ;
+	] .
+
+<https://www.archieven.nl/id/opendata_adt_72>
+	a schema:DataCatalog ;
+	schema:name "Dataset catalogus van de open data gepubliceerd op archieven.nl van Gemeente Kerkrade" ;
+ schema:publisher <https://www.archieven.nl/id/organisation_72> ;
+	schema:dataset <https://www.archieven.nl/id/opendata_101.5617> , <https://www.archieven.nl/id/opendata_106> , <https://www.archieven.nl/id/opendata_101.5573> , <https://www.archieven.nl/id/opendata_101.5604> , <https://www.archieven.nl/id/opendata_101.5691> , <https://www.archieven.nl/id/opendata_101.5649> , <https://www.archieven.nl/id/opendata_101.5587> , <https://www.archieven.nl/id/opendata_101.5679> , <https://www.archieven.nl/id/opendata_102.1291> , <https://www.archieven.nl/id/opendata_101.5703> , <https://www.archieven.nl/id/opendata_101.5619> , <https://www.archieven.nl/id/opendata_101.5682> , <https://www.archieven.nl/id/opendata_101.5574> , <https://www.archieven.nl/id/opendata_101.5589> , <https://www.archieven.nl/id/opendata_101.5590> , <https://www.archieven.nl/id/opendata_101.5603> , <https://www.archieven.nl/id/opendata_101.5647> , <https://www.archieven.nl/id/opendata_101.5602> , <https://www.archieven.nl/id/opendata_101.5631> , <https://www.archieven.nl/id/opendata_101.5757> , <https://www.archieven.nl/id/opendata_101.5576> , <https://www.archieven.nl/id/opendata_101.5657> , <https://www.archieven.nl/id/opendata_109> , <https://www.archieven.nl/id/opendata_101.5575> , <https://www.archieven.nl/id/opendata_101.5605> , <https://www.archieven.nl/id/opendata_101.5721> , <https://www.archieven.nl/id/opendata_107> , <https://www.archieven.nl/id/opendata_101.5706> , <https://www.archieven.nl/id/opendata_101.5685> , <https://www.archieven.nl/id/opendata_101.5606> , <https://www.archieven.nl/id/opendata_101.5659> , <https://www.archieven.nl/id/opendata_101.5621> , <https://www.archieven.nl/id/opendata_102.1301> , <https://www.archieven.nl/id/opendata_101.5611> , <https://www.archieven.nl/id/opendata_102.1299> , <https://www.archieven.nl/id/opendata_101.5594> , <https://www.archieven.nl/id/opendata_101.5697> , <https://www.archieven.nl/id/opendata_103> , <https://www.archieven.nl/id/opendata_101.5581> , <https://www.archieven.nl/id/opendata_108> , <https://www.archieven.nl/id/opendata_102.1297> , <https://www.archieven.nl/id/opendata_101.5700> , <https://www.archieven.nl/id/opendata_101.5593> , <https://www.archieven.nl/id/opendata_101.5592> , <https://www.archieven.nl/id/opendata_101.5637> , <https://www.archieven.nl/id/opendata_102> , <https://www.archieven.nl/id/opendata_101.5751> , <https://www.archieven.nl/id/opendata_101.5651> , <https://www.archieven.nl/id/opendata_101.5688> , <https://www.archieven.nl/id/opendata_101.5629> , <https://www.archieven.nl/id/opendata_101.5727> , <https://www.archieven.nl/id/opendata_101.5595> , <https://www.archieven.nl/id/opendata_101.5639> , <https://www.archieven.nl/id/opendata_101.5739> , <https://www.archieven.nl/id/opendata_101.5596> , <https://www.archieven.nl/id/opendata_101.5627> , <https://www.archieven.nl/id/opendata_101.5578> , <https://www.archieven.nl/id/opendata_101.5666> , <https://www.archieven.nl/id/opendata_101.5709> , <https://www.archieven.nl/id/opendata_101.5613> , <https://www.archieven.nl/id/opendata_101.5644> , <https://www.archieven.nl/id/opendata_101.5655> , <https://www.archieven.nl/id/opendata_101.5612> , <https://www.archieven.nl/id/opendata_101.5674> , <https://www.archieven.nl/id/opendata_101.5628> , <https://www.archieven.nl/id/opendata_101.5582> , <https://www.archieven.nl/id/opendata_101.5712> , <https://www.archieven.nl/id/opendata_101.5656> , <https://www.archieven.nl/id/opendata_bidpgm> , <https://www.archieven.nl/id/opendata_101.5583> , <https://www.archieven.nl/id/opendata_101.5609> , <https://www.archieven.nl/id/opendata_101.5579> , <https://www.archieven.nl/id/opendata_102.1290> , <https://www.archieven.nl/id/opendata_104> , <https://www.archieven.nl/id/opendata_101.5742> , <https://www.archieven.nl/id/opendata_101.5642> , <https://www.archieven.nl/id/opendata_101.5638> , <https://www.archieven.nl/id/opendata_101.5607> , <https://www.archieven.nl/id/opendata_101.5672> , <https://www.archieven.nl/id/opendata_101.5614> , <https://www.archieven.nl/id/opendata_101.5616> , <https://www.archieven.nl/id/opendata_101.5630> , <https://www.archieven.nl/id/opendata_101.5715> , <https://www.archieven.nl/id/opendata_101.5662> , <https://www.archieven.nl/id/opendata_101.5585> , <https://www.archieven.nl/id/opendata_101.5653> , <https://www.archieven.nl/id/opendata_101.5615> , <https://www.archieven.nl/id/opendata_102.1298> , <https://www.archieven.nl/id/opendata_101.5730> , <https://www.archieven.nl/id/opendata_101.5652> , <https://www.archieven.nl/id/opendata_101.5763> , <https://www.archieven.nl/id/opendata_101.5586> , <https://www.archieven.nl/id/opendata_101.5645> , <https://www.archieven.nl/id/opendata_101.5654> , <https://www.archieven.nl/id/opendata_101.5676> , <https://www.archieven.nl/id/opendata_101.5754> , <https://www.archieven.nl/id/opendata_101.5745> , <https://www.archieven.nl/id/opendata_102.1300> , <https://www.archieven.nl/id/opendata_101.5646> , <https://www.archieven.nl/id/opendata_101.5620> , <https://www.archieven.nl/id/opendata_101.5664> , <https://www.archieven.nl/id/opendata_101.5610> , <https://www.archieven.nl/id/opendata_101.5636> , <https://www.archieven.nl/id/opendata_101.5635> , <https://www.archieven.nl/id/opendata_101.5736> , <https://www.archieven.nl/id/opendata_101> , <https://www.archieven.nl/id/opendata_102.1294> , <https://www.archieven.nl/id/opendata_101.5580> , <https://www.archieven.nl/id/opendata_102.1293> , <https://www.archieven.nl/id/opendata_101.5658> , <https://www.archieven.nl/id/opendata_102.1292> , <https://www.archieven.nl/id/opendata_101.5625> , <https://www.archieven.nl/id/opendata_101.5597> , <https://www.archieven.nl/id/opendata_101.5670> , <https://www.archieven.nl/id/opendata_101.5668> , <https://www.archieven.nl/id/opendata_101.5694> , <https://www.archieven.nl/id/opendata_101.5601> , <https://www.archieven.nl/id/opendata_101.5640> , <https://www.archieven.nl/id/opendata_101.5626> , <https://www.archieven.nl/id/opendata_101.5624> , <https://www.archieven.nl/id/opendata_101.5660> , <https://www.archieven.nl/id/opendata_101.5648> , <https://www.archieven.nl/id/opendata_101.5650> , <https://www.archieven.nl/id/opendata_101.5748> , <https://www.archieven.nl/id/opendata_105> , <https://www.archieven.nl/id/opendata_101.5733> , <https://www.archieven.nl/id/opendata_101.5760> , <https://www.archieven.nl/id/opendata_101.5724> , <https://www.archieven.nl/id/opendata_102.1296> , <https://www.archieven.nl/id/opendata_bidhout> , <https://www.archieven.nl/id/opendata_101.5718> , <https://www.archieven.nl/id/opendata_101.5588> , <https://www.archieven.nl/id/opendata_101.5618> , <https://www.archieven.nl/id/opendata_101.5622> , <https://www.archieven.nl/id/opendata_102.1295> , <https://www.archieven.nl/id/opendata_101.5634> , <https://www.archieven.nl/id/opendata_101.5623> .
+
+<https://www.archieven.nl/id/organisation_72> a schema:Organization ;
+	schema:identifer "NL-KrdGA" ;
+	schema:name "Gemeente Kerkrade" ;
+	schema:url "https://www.kerkrade.nl/gemeentearchief" ;
+	schema:email "gemeentehuis@kerkrade.nl" ;
+	schema:address 
