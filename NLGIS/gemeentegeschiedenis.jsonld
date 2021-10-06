@@ -29,7 +29,7 @@
             "contentUrl": "https://druid.datalegend.net/nlgis/gemeentegeschiedenis/download.ttl.gz"
         }, {
             "@type": "DataDownload",
-            "encodingFormat": "application/sparql-quer",
+            "encodingFormat": "application/sparql-query",
             "contentUrl": "https://api.druid.datalegend.net/datasets/nlgis/gemeentegeschiedenis/services/gemeentegeschiedenis/sparql"
         }
 
