@@ -24,7 +24,7 @@
             "@type": "DataDownload",
             "contentUrl": "https://api.druid.datalegend.net/datasets/IISG/iisg-kg/services/iisg-kg/sparql",
             "encodingFormat": [
-                "https://www.iana.org/assignments/media-types/application/sparql-query"
+                "application/sparql-query"
             ],
             "name": "SPARQL-endpoint"
         }, {

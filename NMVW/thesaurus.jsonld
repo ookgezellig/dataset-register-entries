@@ -23,14 +23,14 @@
             "@type": "DataDownload",
             "contentUrl": "http://collectie.wereldculturen.nl/downloads/XMLRDFthesaurus.zip",
             "encodingFormat": [
-                "https://www.iana.org/assignments/media-types/application/rdf+xml"
+                "application/rdf+xml"
             ],
             "name": "Gecomprimeerde datadump in RDF/XML"
         }, {
             "@type": "DataDownload",
             "contentUrl": "https://api.data.netwerkdigitaalerfgoed.nl/datasets/NMVW/thesaurus/services/thesaurus/sparql",
             "encodingFormat": [
-                "https://www.iana.org/assignments/media-types/application/sparql-query"
+                "application/sparql-query"
             ],
             "name": "SPARQL endpoint"
         }, {

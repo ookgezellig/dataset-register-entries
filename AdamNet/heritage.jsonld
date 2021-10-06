@@ -21,7 +21,7 @@
             "@type": "DataDownload",
             "contentUrl": "https://api.druid.datalegend.net/datasets/AdamNet/Heritage/services/Heritage/sparql",
             "encodingFormat": [
-                "https://www.iana.org/assignments/media-types/application/sparql-query"
+                "application/sparql-query"
             ],
             "name": "SPARQL endpoint"
         }, {

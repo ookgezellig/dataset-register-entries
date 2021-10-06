@@ -21,14 +21,14 @@
             "@type": "DataDownload",
             "contentUrl": "https://api.data.netwerkdigitaalerfgoed.nl/datasets/Rijksmuseum/collection/services/collection/sparql",
             "encodingFormat": [
-                "https://www.iana.org/assignments/media-types/application/sparql-query"
+                "application/sparql-query"
             ],
             "name": "SPARQL endpoint"
         }, {
             "@type": "DataDownload",
             "contentUrl": "http://www.rijksmuseum.nl/api/oai/",
             "encodingFormat": [
-                "https://www.iana.org/assignments/media-types/text/xml"
+                "text/xml"
             ],
             "name": "OAI-PMH endpoint",
             "usageInfo": "https://data.rijksmuseum.nl/object-metadata/harvest/"

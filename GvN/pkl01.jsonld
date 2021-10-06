@@ -25,7 +25,7 @@
             "@type": "DataDownload",
             "contentUrl": "https://api.data.netwerkdigitaalerfgoed.nl/datasets/HackaLOD/GVN/services/GVN/sparql",
             "encodingFormat": [
-                "https://www.iana.org/assignments/media-types/application/sparql-query"
+                "application/sparql-query"
             ],
             "name": "SPARQL endpoint"
         }, {

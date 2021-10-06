@@ -17,7 +17,7 @@
             "@type": "DataDownload",
             "contentUrl": "https://api.data.netwerkdigitaalerfgoed.nl/datasets/hetutrechtsarchief/Dataset/services/Dataset/sparql",
             "encodingFormat": [
-                "https://www.iana.org/assignments/media-types/application/sparql-query"
+                "application/sparql-query"
             ],
             "name": "SPARQL endpoint"
         }, {

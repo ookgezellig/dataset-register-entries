@@ -22,14 +22,14 @@
             "@type": "DataDownload",
             "contentUrl": "http://collectie.wereldculturen.nl/downloads/XMLRDFobjects.zip",
             "encodingFormat": [
-                "https://www.iana.org/assignments/media-types/application/rdf+xml"
+                "application/rdf+xml"
             ],
             "name": "Gecomprimeerde datadump in RDF/XML formaat"
         }, {
             "@type": "DataDownload",
             "contentUrl": "https://api.data.netwerkdigitaalerfgoed.nl/datasets/NMVW/collectie/services/collectie/sparql",
             "encodingFormat": [
-                "https://www.iana.org/assignments/media-types/application/sparql-query"
+                "application/sparql-query"
             ],
             "name": "SPARQL endpoint"
         }, {
