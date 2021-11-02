@@ -266,9 +266,7 @@
         "@id": "https://opendata.picturae.com/organization/dre"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/dre_a2a_bs_e"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/dre_a2a_bs_e"
       }
     ]
   },
@@ -328,9 +326,7 @@
         "@id": "https://opendata.picturae.com/organization/dre"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/dre_a2a_bs_g"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/dre_a2a_bs_g"
       }
     ]
   },
@@ -390,9 +386,7 @@
         "@id": "https://opendata.picturae.com/organization/dre"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/dre_a2a_bs_h"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/dre_a2a_bs_h"
       }
     ]
   },
@@ -524,9 +518,7 @@
         "@id": "https://opendata.picturae.com/organization/dre"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/dre_a2a_bs_o"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/dre_a2a_bs_o"
       }
     ]
   },
@@ -656,9 +648,7 @@
         "@id": "https://opendata.picturae.com/organization/dre"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/dre_a2a_nt_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/dre_a2a_nt_a"
       }
     ]
   },
@@ -760,9 +750,7 @@
         "@id": "https://opendata.picturae.com/organization/dre"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/dre_a2a_dtb_t"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/dre_a2a_dtb_t"
       }
     ]
   },
@@ -927,9 +915,7 @@
         "@id": "https://opendata.picturae.com/organization/dre"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/dre_a2a_dtb_d"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/dre_a2a_dtb_d"
       }
     ]
   },
@@ -989,9 +975,7 @@
         "@id": "https://opendata.picturae.com/organization/dre"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/dre_a2a_dtb_b"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/dre_a2a_dtb_b"
       }
     ]
   },
@@ -1224,9 +1208,7 @@
         "@id": "https://opendata.picturae.com/organization/dre"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/dre_a2a_webservice"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/dre_a2a_webservice"
       }
     ]
   }

@@ -65,9 +65,7 @@
         "@id": "https://opendata.picturae.com/organization/brd"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/brd_a2a_dtb_t"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/brd_a2a_dtb_t"
       }
     ]
   },
@@ -176,9 +174,7 @@
         "@id": "https://opendata.picturae.com/organization/frl"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/frl_a2a_t16_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/frl_a2a_t16_a"
       }
     ]
   },
@@ -264,9 +260,7 @@
         "@id": "https://opendata.picturae.com/organization/brd"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/brd_a2a_dtb_b"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/brd_a2a_dtb_b"
       }
     ]
   },
@@ -336,9 +330,7 @@
         "@id": "https://opendata.picturae.com/organization/brd"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/brd_a2a_dtb_d"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/brd_a2a_dtb_d"
       }
     ]
   },
@@ -484,9 +476,7 @@
         "@id": "https://opendata.picturae.com/organization/bhic"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/bhic_a2a_br_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/bhic_a2a_br_a"
       }
     ]
   },
@@ -556,9 +546,7 @@
         "@id": "https://opendata.picturae.com/organization/brd"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/brd_a2a_dtb_l"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/brd_a2a_dtb_l"
       }
     ]
   },
@@ -1118,9 +1106,7 @@
         "@id": "https://opendata.picturae.com/organization/frl"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/frl_a2a_be_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/frl_a2a_be_a"
       }
     ]
   },
@@ -1269,9 +1255,7 @@
         "@id": "https://opendata.picturae.com/organization/gra"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/gra_a2a_dtb_d"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/gra_a2a_dtb_d"
       }
     ]
   },
@@ -1357,9 +1341,7 @@
         "@id": "https://opendata.picturae.com/organization/gra"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/gra_a2a_dtb_b"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/gra_a2a_dtb_b"
       }
     ]
   },
@@ -1426,9 +1408,7 @@
         "@id": "https://opendata.picturae.com/organization/gra"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/gra_a2a_dtb_l"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/gra_a2a_dtb_l"
       }
     ]
   },
@@ -1524,9 +1504,7 @@
         "@id": "https://opendata.picturae.com/organization/gra"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/gra_a2a_dtb_h"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/gra_a2a_dtb_h"
       }
     ]
   },
@@ -1617,9 +1595,7 @@
         "@id": "https://opendata.picturae.com/organization/ven"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/ven_a2a_bs_g"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/ven_a2a_bs_g"
       }
     ]
   },
@@ -1689,9 +1665,7 @@
         "@id": "https://opendata.picturae.com/organization/gra"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/gra_a2a_dtb_t"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/gra_a2a_dtb_t"
       }
     ]
   },
@@ -1758,9 +1732,7 @@
         "@id": "https://opendata.picturae.com/organization/szu"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/szu_a2a_gz_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/szu_a2a_gz_a"
       }
     ]
   },
@@ -1846,9 +1818,7 @@
         "@id": "https://opendata.picturae.com/organization/gra"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/gra_a2a_dtb_s"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/gra_a2a_dtb_s"
       }
     ]
   },
@@ -1931,9 +1901,7 @@
         "@id": "https://opendata.picturae.com/organization/wba"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/wba_a2a_br_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/wba_a2a_br_a"
       }
     ]
   },
@@ -2021,9 +1989,7 @@
         "@id": "https://opendata.picturae.com/organization/szu"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/szu_a2a_mg_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/szu_a2a_mg_a"
       }
     ]
   },
@@ -2285,9 +2251,7 @@
         "@id": "https://opendata.picturae.com/organization/szu"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/szu_a2a_gb_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/szu_a2a_gb_a"
       }
     ]
   },
@@ -2433,9 +2397,7 @@
         "@id": "https://opendata.picturae.com/organization/szu"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/szu_a2a_be_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/szu_a2a_be_a"
       }
     ]
   },
@@ -2571,9 +2533,7 @@
         "@id": "https://opendata.picturae.com/organization/szu"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/szu_a2a_patient_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/szu_a2a_patient_a"
       }
     ]
   },
@@ -2813,9 +2773,7 @@
         "@id": "https://opendata.picturae.com/organization/frl"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/frl_a2a_t12_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/frl_a2a_t12_a"
       }
     ]
   },
@@ -2943,9 +2901,7 @@
         "@id": "https://opendata.picturae.com/organization/frl"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/frl_a2a_t10_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/frl_a2a_t10_a"
       }
     ]
   },
@@ -3258,9 +3214,7 @@
         "@id": "https://opendata.picturae.com/organization/ecd"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/ecd_a2a_br_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/ecd_a2a_br_a"
       }
     ]
   },
@@ -3351,9 +3305,7 @@
         "@id": "https://opendata.picturae.com/organization/gra"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/gra_a2a_bs_g"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/gra_a2a_bs_g"
       }
     ]
   },
@@ -3444,9 +3396,7 @@
         "@id": "https://opendata.picturae.com/organization/gra"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/gra_a2a_bs_o"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/gra_a2a_bs_o"
       }
     ]
   },
@@ -3537,9 +3487,7 @@
         "@id": "https://opendata.picturae.com/organization/gra"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/gra_a2a_bs_h"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/gra_a2a_bs_h"
       }
     ]
   },
@@ -3796,9 +3744,7 @@
         "@id": "https://opendata.picturae.com/organization/frl"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/frl_a2a_t17_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/frl_a2a_t17_a"
       }
     ]
   },
@@ -4032,9 +3978,7 @@
         "@id": "https://opendata.picturae.com/organization/frl"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/frl_a2a_t15_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/frl_a2a_t15_a"
       }
     ]
   },
@@ -4143,9 +4087,7 @@
         "@id": "https://opendata.picturae.com/organization/szu"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/szu_a2a_id_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/szu_a2a_id_a"
       }
     ]
   },
@@ -4233,9 +4175,7 @@
         "@id": "https://opendata.picturae.com/organization/ven"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/ven_a2a_bp_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/ven_a2a_bp_a"
       }
     ]
   },
@@ -4302,9 +4242,7 @@
         "@id": "https://opendata.picturae.com/organization/ven"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/ven_a2a_br_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/ven_a2a_br_a"
       }
     ]
   },
@@ -4458,9 +4396,7 @@
         "@id": "https://opendata.picturae.com/organization/wba"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/wba_a2a_bs_g"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/wba_a2a_bs_g"
       }
     ]
   },
@@ -4603,9 +4539,7 @@
         "@id": "https://opendata.picturae.com/organization/wba"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/wba_a2a_bs_o"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/wba_a2a_bs_o"
       }
     ]
   },
@@ -4675,9 +4609,7 @@
         "@id": "https://opendata.picturae.com/organization/wba"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/wba_a2a_bs_h"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/wba_a2a_bs_h"
       }
     ]
   },
@@ -4744,9 +4676,7 @@
         "@id": "https://opendata.picturae.com/organization/szu"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/szu_a2a_ml_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/szu_a2a_ml_a"
       }
     ]
   },
@@ -4905,9 +4835,7 @@
         "@id": "https://opendata.picturae.com/organization/brd"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/brd_a2a_bs_o"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/brd_a2a_bs_o"
       }
     ]
   },
@@ -5242,9 +5170,7 @@
         "@id": "https://opendata.picturae.com/organization/szu"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/szu_a2a_bb_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/szu_a2a_bb_a"
       }
     ]
   },
@@ -5314,9 +5240,7 @@
         "@id": "https://opendata.picturae.com/organization/ven"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/ven_a2a_bs_h"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/ven_a2a_bs_h"
       }
     ]
   },
@@ -5435,9 +5359,7 @@
         "@id": "https://opendata.picturae.com/organization/brd"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/brd_a2a_vb_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/brd_a2a_vb_a"
       }
     ]
   },
@@ -5639,9 +5561,7 @@
         "@id": "https://opendata.picturae.com/organization/ven"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/ven_a2a_bs_o"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/ven_a2a_bs_o"
       }
     ]
   },
@@ -5708,9 +5628,7 @@
         "@id": "https://opendata.picturae.com/organization/szu"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/szu_a2a_br_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/szu_a2a_br_a"
       }
     ]
   },
@@ -5812,9 +5730,7 @@
         "@id": "https://opendata.picturae.com/organization/frl"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/frl_a2a_t11_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/frl_a2a_t11_a"
       }
     ]
   },
@@ -5949,9 +5865,7 @@
         "@id": "https://opendata.picturae.com/organization/wba"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/wba_a2a_oo_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/wba_a2a_oo_a"
       }
     ]
   },
@@ -6076,9 +5990,7 @@
         "@id": "https://opendata.picturae.com/organization/wba"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/wba_a2a_mi_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/wba_a2a_mi_a"
       }
     ]
   },
@@ -6224,9 +6136,7 @@
         "@id": "https://opendata.picturae.com/organization/brd"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/brd_a2a_sg_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/brd_a2a_sg_a"
       }
     ]
   },
@@ -6417,9 +6327,7 @@
         "@id": "https://opendata.picturae.com/organization/thl"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/thl_a2a_dtb_t_2019"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/thl_a2a_dtb_t_2019"
       }
     ]
   },
@@ -6502,9 +6410,7 @@
         "@id": "https://opendata.picturae.com/organization/szu"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/szu_a2a_hu_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/szu_a2a_hu_a"
       }
     ]
   },
@@ -6626,9 +6532,7 @@
         "@id": "https://opendata.picturae.com/organization/szu"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/szu_a2a_zit_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/szu_a2a_zit_a"
       }
     ]
   },
@@ -6695,9 +6599,7 @@
         "@id": "https://opendata.picturae.com/organization/wba"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/wba_a2a_oa_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/wba_a2a_oa_a"
       }
     ]
   },
@@ -6948,9 +6850,7 @@
         "@id": "https://opendata.picturae.com/organization/wba"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/wba_a2a_sa_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/wba_a2a_sa_a"
       }
     ]
   },
@@ -7059,9 +6959,7 @@
         "@id": "https://opendata.picturae.com/organization/wba"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/wba_a2a_na_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/wba_a2a_na_a"
       }
     ]
   },
@@ -7296,9 +7194,7 @@
         "@id": "https://opendata.picturae.com/organization/wba"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/wba_a2a_bg_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/wba_a2a_bg_a"
       }
     ]
   },
@@ -7365,9 +7261,7 @@
         "@id": "https://opendata.picturae.com/organization/brd"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/brd_a2a_po_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/brd_a2a_po_a"
       }
     ]
   },
@@ -7460,9 +7354,7 @@
         "@id": "https://opendata.picturae.com/organization/brd"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/brd_a2a_si_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/brd_a2a_si_a"
       }
     ]
   },
@@ -7553,9 +7445,7 @@
         "@id": "https://opendata.picturae.com/organization/bhic"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/bhic_a2a_dtb_b"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/bhic_a2a_dtb_b"
       }
     ]
   },
@@ -7662,9 +7552,7 @@
         "@id": "https://opendata.picturae.com/organization/bhic"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/bhic_a2a_dtb_d"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/bhic_a2a_dtb_d"
       }
     ]
   },
@@ -7787,9 +7675,7 @@
         "@id": "https://opendata.picturae.com/organization/bhic"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/bhic_a2a_dtb_t"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/bhic_a2a_dtb_t"
       }
     ]
   },
@@ -7911,9 +7797,7 @@
         "@id": "https://opendata.picturae.com/organization/thl"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/thl_a2a_dtb_b_2019"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/thl_a2a_dtb_b_2019"
       }
     ]
   },
@@ -8562,9 +8446,7 @@
         "@id": "https://opendata.picturae.com/organization/brd"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/brd_a2a_pt_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/brd_a2a_pt_a"
       }
     ]
   },
@@ -8928,9 +8810,7 @@
         "@id": "https://opendata.picturae.com/organization/szu"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/szu_a2a_na_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/szu_a2a_na_a"
       }
     ]
   },
@@ -9222,9 +9102,7 @@
         "@id": "https://opendata.picturae.com/organization/brd"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/brd_a2a_na_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/brd_a2a_na_a"
       }
     ]
   },
@@ -9291,9 +9169,7 @@
         "@id": "https://opendata.picturae.com/organization/brd"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/brd_a2a_aa_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/brd_a2a_aa_a"
       }
     ]
   },
@@ -9402,9 +9278,7 @@
         "@id": "https://opendata.picturae.com/organization/frl"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/frl_a2a_t06_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/frl_a2a_t06_a"
       }
     ]
   },
@@ -10043,9 +9917,7 @@
         "@id": "https://opendata.picturae.com/organization/gra"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/gra_a2a_mvs_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/gra_a2a_mvs_a"
       }
     ]
   },
@@ -10196,9 +10068,7 @@
         "@id": "https://opendata.picturae.com/organization/szu"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/szu_a2a_pa_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/szu_a2a_pa_a"
       }
     ]
   },
@@ -10344,9 +10214,7 @@
         "@id": "https://opendata.picturae.com/organization/frl"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/frl_a2a_t08_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/frl_a2a_t08_a"
       }
     ]
   },
@@ -10439,9 +10307,7 @@
         "@id": "https://opendata.picturae.com/organization/wba"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/wba_a2a_bv_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/wba_a2a_bv_a"
       }
     ]
   },
@@ -10686,9 +10552,7 @@
         "@id": "https://opendata.picturae.com/organization/szu"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/szu_a2a_vo_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/szu_a2a_vo_a"
       }
     ]
   },
@@ -11038,9 +10902,7 @@
         "@id": "https://opendata.picturae.com/organization/szu"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/szu_a2a_wb_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/szu_a2a_wb_a"
       }
     ]
   },
@@ -11254,9 +11116,7 @@
         "@id": "https://opendata.picturae.com/organization/gam"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/gam_a2a_br_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/gam_a2a_br_a"
       }
     ]
   },
@@ -11541,9 +11401,7 @@
         "@id": "https://opendata.picturae.com/organization/brd"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/brd_a2a_bs_h"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/brd_a2a_bs_h"
       }
     ]
   },
@@ -11613,9 +11471,7 @@
         "@id": "https://opendata.picturae.com/organization/ven"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/ven_a2a_dtb_d"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/ven_a2a_dtb_d"
       }
     ]
   },
@@ -11685,9 +11541,7 @@
         "@id": "https://opendata.picturae.com/organization/ven"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/ven_a2a_dtb_b"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/ven_a2a_dtb_b"
       }
     ]
   },
@@ -11786,9 +11640,7 @@
         "@id": "https://opendata.picturae.com/organization/frl"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/frl_a2a_t05_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/frl_a2a_t05_a"
       }
     ]
   },
@@ -11858,9 +11710,7 @@
         "@id": "https://opendata.picturae.com/organization/brd"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/brd_a2a_bs_e"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/brd_a2a_bs_e"
       }
     ]
   },
@@ -11930,9 +11780,7 @@
         "@id": "https://opendata.picturae.com/organization/brd"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/brd_a2a_bs_g"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/brd_a2a_bs_g"
       }
     ]
   },
@@ -12002,9 +11850,7 @@
         "@id": "https://opendata.picturae.com/organization/ven"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/ven_a2a_dtb_t"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/ven_a2a_dtb_t"
       }
     ]
   },
@@ -12137,9 +11983,7 @@
         "@id": "https://opendata.picturae.com/organization/frl"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/frl_a2a_t07_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/frl_a2a_t07_a"
       }
     ]
   },
@@ -12222,9 +12066,7 @@
         "@id": "https://opendata.picturae.com/organization/szu"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/szu_a2a_wk_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/szu_a2a_wk_a"
       }
     ]
   },
@@ -12412,9 +12254,7 @@
         "@id": "https://opendata.picturae.com/organization/bhic"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/bhic_a2a_mvs_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/bhic_a2a_mvs_a"
       }
     ]
   },
@@ -12505,9 +12345,7 @@
         "@id": "https://opendata.picturae.com/organization/ecd"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/ecd_a2a_webservice"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/ecd_a2a_webservice"
       }
     ]
   },
@@ -12624,9 +12462,7 @@
         "@id": "https://opendata.picturae.com/organization/thl"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/thl_a2a_dtb_d_2019"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/thl_a2a_dtb_d_2019"
       }
     ]
   },
@@ -12759,9 +12595,7 @@
         "@id": "https://opendata.picturae.com/organization/wba"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/wba_a2a_dtb_d"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/wba_a2a_dtb_d"
       }
     ]
   },
@@ -12847,9 +12681,7 @@
         "@id": "https://opendata.picturae.com/organization/bhic"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/bhic_a2a_bs_g"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/bhic_a2a_bs_g"
       }
     ]
   },
@@ -12916,9 +12748,7 @@
         "@id": "https://opendata.picturae.com/organization/frl"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/frl_a2a_br_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/frl_a2a_br_a"
       }
     ]
   },
@@ -12988,9 +12818,7 @@
         "@id": "https://opendata.picturae.com/organization/wba"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/wba_a2a_dtb_b"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/wba_a2a_dtb_b"
       }
     ]
   },
@@ -13060,9 +12888,7 @@
         "@id": "https://opendata.picturae.com/organization/bhic"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/bhic_a2a_bs_o"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/bhic_a2a_bs_o"
       }
     ]
   },
@@ -13132,9 +12958,7 @@
         "@id": "https://opendata.picturae.com/organization/bhic"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/bhic_a2a_bs_h"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/bhic_a2a_bs_h"
       }
     ]
   },
@@ -13225,9 +13049,7 @@
         "@id": "https://opendata.picturae.com/organization/wba"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/wba_a2a_dtb_t"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/wba_a2a_dtb_t"
       }
     ]
   },
@@ -13414,9 +13236,7 @@
         "@id": "https://opendata.picturae.com/organization/gra"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/gra_a2a_em_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/gra_a2a_em_a"
       }
     ]
   },
@@ -13577,9 +13397,7 @@
         "@id": "https://opendata.picturae.com/organization/frl"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/frl_a2a_bb_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/frl_a2a_bb_a"
       }
     ]
   },
@@ -13759,9 +13577,7 @@
         "@id": "https://opendata.picturae.com/organization/frl"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/frl_a2a_t09_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/frl_a2a_t09_a"
       }
     ]
   },
@@ -13875,9 +13691,7 @@
         "@id": "https://opendata.picturae.com/organization/ven"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/ven_a2a_na_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/ven_a2a_na_a"
       }
     ]
   },
@@ -14555,9 +14369,7 @@
         "@id": "https://opendata.picturae.com/organization/brd"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/brd_a2a_cv_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/brd_a2a_cv_a"
       }
     ]
   },
@@ -15052,9 +14864,7 @@
         "@id": "https://opendata.picturae.com/organization/bhic"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/bhic_a2a_gr_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/bhic_a2a_gr_a"
       }
     ]
   },
@@ -15147,9 +14957,7 @@
         "@id": "https://opendata.picturae.com/organization/brd"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/brd_a2a_bv_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/brd_a2a_bv_a"
       }
     ]
   },
@@ -15384,9 +15192,7 @@
         "@id": "https://opendata.picturae.com/organization/brd"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/brd_a2a_br_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/brd_a2a_br_a"
       }
     ]
   },
@@ -15741,9 +15547,7 @@
         "@id": "https://opendata.picturae.com/organization/gam"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/gam_a2a_aa_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/gam_a2a_aa_a"
       }
     ]
   },
@@ -15810,9 +15614,7 @@
         "@id": "https://opendata.picturae.com/organization/bhic"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/bhic_a2a_ml_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/bhic_a2a_ml_a"
       }
     ]
   },
@@ -16184,9 +15986,7 @@
         "@id": "https://opendata.picturae.com/organization/brd"
       }
     ],
-    "https://schema.org/url": [
-      {
-        "@value": "https://opendata.picturae.com/dataset/brd_a2a_cm_a"
+    "https://schema.org/mainEntityOfPage": [ { "@value": "https://opendata.picturae.com/dataset/brd_a2a_cm_a"
       }
     ]
   }
