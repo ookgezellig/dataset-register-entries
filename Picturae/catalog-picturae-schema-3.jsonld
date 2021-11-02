@@ -1,0 +1,1233 @@
+
+[
+  {
+    "@id": "_:Nc58f3981305d48ac9616ed272e863863",
+    "@type": [
+      "https://schema.org/ContactPoint"
+    ],
+    "https://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Drents archief "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nebd8abecb975413693a7e8b1781677bb",
+    "@type": [
+      "https://schema.org/ContactPoint"
+    ],
+    "https://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Drents archief "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://opendata.picturae.com/dataset/dre_a2a_bs_o/resource/dre_a2a_bs_o",
+    "@type": [
+      "https://schema.org/DataDownload"
+    ],
+    "https://schema.org/encodingFormat": [
+      {
+        "@value": "text/xml"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "A2A Burgerlijke stand overlijden"
+      }
+    ],
+    "https://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/91f0a0c8-75a6-4853-b24e-5a3b60dfc25d?metadataPrefix=oai_a2a&verb=ListRecords&set=bs_o"
+      }
+    ]
+  },
+  {
+    "@id": "https://opendata.picturae.com/dataset/dre_a2a_dtb_d/resource/dre_a2a_dtb_d",
+    "@type": [
+      "https://schema.org/DataDownload"
+    ],
+    "https://schema.org/encodingFormat": [
+      {
+        "@value": "text/xml"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "A2A DTB Dopen"
+      }
+    ],
+    "https://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/91f0a0c8-75a6-4853-b24e-5a3b60dfc25d?metadataPrefix=oai_a2a&verb=ListRecords&set=dtb_d"
+      }
+    ]
+  },
+  {
+    "@id": "https://opendata.picturae.com/dataset/dre_a2a_dtb_b/resource/dre_a2a_dtb_b",
+    "@type": [
+      "https://schema.org/DataDownload"
+    ],
+    "https://schema.org/encodingFormat": [
+      {
+        "@value": "text/xml"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "A2A DTB Begraven"
+      }
+    ],
+    "https://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/91f0a0c8-75a6-4853-b24e-5a3b60dfc25d?metadataPrefix=oai_a2a&verb=ListRecords&set=dtb_b"
+      }
+    ]
+  },
+  {
+    "@id": "_:N1285c29273e14a6ebf57a51005ffe81b",
+    "@type": [
+      "https://schema.org/DataCatalog"
+    ],
+    "https://schema.org/description": [
+      {
+        "@value": "Sharing Cultural Heritage"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Picturae Opendata"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ndce3d47346e84e7484d05583f4788c0b",
+    "@type": [
+      "https://schema.org/ContactPoint"
+    ],
+    "https://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Drents archief "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ncca6fe3c866446d3998460194be657be",
+    "@type": [
+      "https://schema.org/DataCatalog"
+    ],
+    "https://schema.org/description": [
+      {
+        "@value": "Sharing Cultural Heritage"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Picturae Opendata"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://opendata.picturae.com/dataset/dre_a2a_bs_e/resource/dre_a2a_bs_e",
+    "@type": [
+      "https://schema.org/DataDownload"
+    ],
+    "https://schema.org/encodingFormat": [
+      {
+        "@value": "text/xml"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "A2A Burgerlijke stand echtscheidingen"
+      }
+    ],
+    "https://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/91f0a0c8-75a6-4853-b24e-5a3b60dfc25d?metadataPrefix=oai_a2a&verb=ListRecords&set=bs_e"
+      }
+    ]
+  },
+  {
+    "@id": "_:N820854abf1834cf991f02bc6b9e725e5",
+    "@type": [
+      "https://schema.org/DataCatalog"
+    ],
+    "https://schema.org/description": [
+      {
+        "@value": "Sharing Cultural Heritage"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Picturae Opendata"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://opendata.picturae.com/dataset/dre_a2a_bs_e",
+    "@type": [
+      "https://schema.org/Dataset"
+    ],
+    "https://schema.org/dateModified": [
+      {
+        "@type": "https://schema.org/dateTime",
+ "@value": "2021-05-25T09:06:04.440432"
+      }
+    ],
+    "https://schema.org/datePublished": [
+      {
+        "@type": "https://schema.org/dateTime",
+ "@value": "2021-05-25T09:06:04.133346"
+      }
+    ],
+    "https://schema.org/distribution": [
+      {
+        "@id": "https://opendata.picturae.com/dataset/dre_a2a_bs_e/resource/dre_a2a_bs_e"
+      }
+    ],
+    "https://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N1285c29273e14a6ebf57a51005ffe81b"
+      }
+    ],
+    "https://schema.org/keywords": [
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Drenthe"
+      },
+      {
+        "@value": "Echtscheidingen"
+      },
+      {
+        "@value": "Burgerlijke stand"
+      }
+    ],
+    "https://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Drents archief  - Genealogie - A2A - Burgerlijke stand echtscheidingen"
+      }
+    ],
+    "https://schema.org/publisher": [
+      {
+        "@id": "https://opendata.picturae.com/organization/dre"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com/dataset/dre_a2a_bs_e"
+      }
+    ]
+  },
+  {
+    "@id": "https://opendata.picturae.com/dataset/dre_a2a_bs_g",
+    "@type": [
+      "https://schema.org/Dataset"
+    ],
+    "https://schema.org/dateModified": [
+      {
+        "@type": "https://schema.org/dateTime",
+ "@value": "2021-05-25T09:06:05.260286"
+      }
+    ],
+    "https://schema.org/datePublished": [
+      {
+        "@type": "https://schema.org/dateTime",
+ "@value": "2021-05-25T09:06:04.887839"
+      }
+    ],
+    "https://schema.org/distribution": [
+      {
+        "@id": "https://opendata.picturae.com/dataset/dre_a2a_bs_g/resource/dre_a2a_bs_g"
+      }
+    ],
+    "https://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N3fc59af732b04c1ba908c6f400fcb7d7"
+      }
+    ],
+    "https://schema.org/keywords": [
+      {
+        "@value": "Geboorten"
+      },
+      {
+        "@value": "Burgerlijke stand"
+      },
+      {
+        "@value": "Drenthe"
+      },
+      {
+        "@value": "genealogie"
+      }
+    ],
+    "https://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Drents archief  - Genealogie - A2A - Burgerlijke stand geboorten"
+      }
+    ],
+    "https://schema.org/publisher": [
+      {
+        "@id": "https://opendata.picturae.com/organization/dre"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com/dataset/dre_a2a_bs_g"
+      }
+    ]
+  },
+  {
+    "@id": "https://opendata.picturae.com/dataset/dre_a2a_bs_h",
+    "@type": [
+      "https://schema.org/Dataset"
+    ],
+    "https://schema.org/dateModified": [
+      {
+        "@type": "https://schema.org/dateTime",
+ "@value": "2021-05-25T09:06:06.232946"
+      }
+    ],
+    "https://schema.org/datePublished": [
+      {
+        "@type": "https://schema.org/dateTime",
+ "@value": "2021-05-25T09:06:05.749137"
+      }
+    ],
+    "https://schema.org/distribution": [
+      {
+        "@id": "https://opendata.picturae.com/dataset/dre_a2a_bs_h/resource/dre_a2a_bs_h"
+      }
+    ],
+    "https://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N820854abf1834cf991f02bc6b9e725e5"
+      }
+    ],
+    "https://schema.org/keywords": [
+      {
+        "@value": "Huwelijken"
+      },
+      {
+        "@value": "Burgerlijke stand"
+      },
+      {
+        "@value": "Drenthe"
+      },
+      {
+        "@value": "genealogie"
+      }
+    ],
+    "https://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Drents archief  - Genealogie - A2A - Burgerlijke stand huwelijken"
+      }
+    ],
+    "https://schema.org/publisher": [
+      {
+        "@id": "https://opendata.picturae.com/organization/dre"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com/dataset/dre_a2a_bs_h"
+      }
+    ]
+  },
+  {
+    "@id": "https://opendata.picturae.com",
+    "http://www.w3.org/ns/dcat#dataset": [
+      {
+        "@id": "https://opendata.picturae.com/dataset/dre_a2a_bs_g"
+      },
+      {
+        "@id": "https://opendata.picturae.com/dataset/dre_a2a_bs_o"
+      },
+      {
+        "@id": "https://opendata.picturae.com/dataset/dre_a2a_dtb_d"
+      },
+      {
+        "@id": "https://opendata.picturae.com/dataset/dre_a2a_dtb_b"
+      },
+      {
+        "@id": "https://opendata.picturae.com/dataset/dre_a2a_nt_a"
+      },
+      {
+        "@id": "https://opendata.picturae.com/dataset/dre_a2a_bs_e"
+      },
+      {
+        "@id": "https://opendata.picturae.com/dataset/dre_a2a_webservice"
+      },
+      {
+        "@id": "https://opendata.picturae.com/dataset/dre_a2a_bs_h"
+      },
+      {
+        "@id": "https://opendata.picturae.com/dataset/dre_a2a_dtb_t"
+      }
+    ]
+  },
+  {
+    "@id": "https://opendata.picturae.com/organization/dre",
+    "@type": [
+      "https://schema.org/Organization"
+    ],
+    "https://schema.org/contactPoint": [
+      {
+        "@id": "_:N0056bfbcedcf41dba7b8171f413ce6a1"
+      },
+      {
+        "@id": "_:N40cef6783b1e4864aeafc79993d55bdf"
+      },
+      {
+        "@id": "_:Ne76631988d7d41d1a7f31156521a49f0"
+      },
+      {
+        "@id": "_:Nc7fd0d2ba0d34c4aaa1363fad67e6d42"
+      },
+      {
+        "@id": "_:Nc58f3981305d48ac9616ed272e863863"
+      },
+      {
+        "@id": "_:Nebd8abecb975413693a7e8b1781677bb"
+      },
+      {
+        "@id": "_:Ndce3d47346e84e7484d05583f4788c0b"
+      },
+      {
+        "@id": "_:Nca361e51957349dca19ea7d6ad2a2fb7"
+      },
+      {
+        "@id": "_:N2c17b56f2f004856bed71a261278dd33"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Drents archief "
+      }
+    ]
+  },
+  {
+    "@id": "https://opendata.picturae.com/dataset/dre_a2a_bs_o",
+    "@type": [
+      "https://schema.org/Dataset"
+    ],
+    "https://schema.org/dateModified": [
+      {
+        "@type": "https://schema.org/dateTime",
+ "@value": "2021-05-25T09:06:07.163237"
+      }
+    ],
+    "https://schema.org/datePublished": [
+      {
+        "@type": "https://schema.org/dateTime",
+ "@value": "2021-05-25T09:06:06.836724"
+      }
+    ],
+    "https://schema.org/distribution": [
+      {
+        "@id": "https://opendata.picturae.com/dataset/dre_a2a_bs_o/resource/dre_a2a_bs_o"
+      }
+    ],
+    "https://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:Ncca6fe3c866446d3998460194be657be"
+      }
+    ],
+    "https://schema.org/keywords": [
+      {
+        "@value": "Burgerlijke stand"
+      },
+      {
+        "@value": "Overlijden"
+      },
+      {
+        "@value": "Drenthe"
+      },
+      {
+        "@value": "genealogie"
+      }
+    ],
+    "https://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Drents archief  - Genealogie - A2A - Burgerlijke stand overlijden"
+      }
+    ],
+    "https://schema.org/publisher": [
+      {
+        "@id": "https://opendata.picturae.com/organization/dre"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com/dataset/dre_a2a_bs_o"
+      }
+    ]
+  },
+  {
+    "@id": "https://opendata.picturae.com/dataset/dre_a2a_webservice/resource/dre_a2a_webservice",
+    "@type": [
+      "https://schema.org/DataDownload"
+    ],
+    "https://schema.org/encodingFormat": [
+      {
+        "@value": "text/xml"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "A2A Genealogie Webservice"
+      }
+    ],
+    "https://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/91f0a0c8-75a6-4853-b24e-5a3b60dfc25d"
+      }
+    ]
+  },
+  {
+    "@id": "_:N0056bfbcedcf41dba7b8171f413ce6a1",
+    "@type": [
+      "https://schema.org/ContactPoint"
+    ],
+    "https://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Drents archief "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://opendata.picturae.com/catalog.jsonld?profiles=schemaorg&page=3",
+    "@type": [
+      "http://www.w3.org/ns/hydra/core#PagedCollection"
+    ],
+    "http://www.w3.org/ns/hydra/core#firstPage": [
+      {
+        "@value": "https://opendata.picturae.com/catalog.jsonld?profiles=schemaorg&page=1"
+      }
+    ],
+    "http://www.w3.org/ns/hydra/core#itemsPerPage": [
+      {
+        "@value": 100
+      }
+    ],
+    "http://www.w3.org/ns/hydra/core#lastPage": [
+      {
+        "@value": "https://opendata.picturae.com/catalog.jsonld?profiles=schemaorg&page=3"
+      }
+    ],
+    "http://www.w3.org/ns/hydra/core#previousPage": [
+      {
+        "@value": "https://opendata.picturae.com/catalog.jsonld?profiles=schemaorg&page=2"
+      }
+    ],
+    "http://www.w3.org/ns/hydra/core#totalItems": [
+      {
+        "@value": 209
+      }
+    ]
+  },
+  {
+    "@id": "https://opendata.picturae.com/dataset/dre_a2a_nt_a",
+    "@type": [
+      "https://schema.org/Dataset"
+    ],
+    "https://schema.org/dateModified": [
+      {
+        "@type": "https://schema.org/dateTime",
+ "@value": "2021-05-25T09:06:10.220189"
+      }
+    ],
+    "https://schema.org/datePublished": [
+      {
+        "@type": "https://schema.org/dateTime",
+ "@value": "2021-05-25T09:06:09.898771"
+      }
+    ],
+    "https://schema.org/distribution": [
+      {
+        "@id": "https://opendata.picturae.com/dataset/dre_a2a_nt_a/resource/dre_a2a_nt_a"
+      }
+    ],
+    "https://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N62bad6d8491340a294726de7a856fb33"
+      }
+    ],
+    "https://schema.org/keywords": [
+      {
+        "@value": "Notariëel"
+      },
+      {
+        "@value": "Drenthe"
+      },
+      {
+        "@value": "genealogie"
+      }
+    ],
+    "https://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Drents archief  - Genealogie - A2A - Notariële akten"
+      }
+    ],
+    "https://schema.org/publisher": [
+      {
+        "@id": "https://opendata.picturae.com/organization/dre"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com/dataset/dre_a2a_nt_a"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne76631988d7d41d1a7f31156521a49f0",
+    "@type": [
+      "https://schema.org/ContactPoint"
+    ],
+    "https://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Drents archief "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne6b3501a736d4a4eafba1d993771ce78",
+    "@type": [
+      "https://schema.org/DataCatalog"
+    ],
+    "https://schema.org/description": [
+      {
+        "@value": "Sharing Cultural Heritage"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Picturae Opendata"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://opendata.picturae.com/dataset/dre_a2a_dtb_t",
+    "@type": [
+      "https://schema.org/Dataset"
+    ],
+    "https://schema.org/dateModified": [
+      {
+        "@type": "https://schema.org/dateTime",
+ "@value": "2021-05-25T09:06:09.446963"
+      }
+    ],
+    "https://schema.org/datePublished": [
+      {
+        "@type": "https://schema.org/dateTime",
+ "@value": "2021-05-25T09:06:09.130204"
+      }
+    ],
+    "https://schema.org/distribution": [
+      {
+        "@id": "https://opendata.picturae.com/dataset/dre_a2a_dtb_t/resource/dre_a2a_dtb_t"
+      }
+    ],
+    "https://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N7d60fe077c274ab380af302fadafdf54"
+      }
+    ],
+    "https://schema.org/keywords": [
+      {
+        "@value": "DTB"
+      },
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Trouwen"
+      },
+      {
+        "@value": "Drenthe"
+      }
+    ],
+    "https://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Drents archief  - Genealogie - A2A - DTB Trouwen"
+      }
+    ],
+    "https://schema.org/publisher": [
+      {
+        "@id": "https://opendata.picturae.com/organization/dre"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com/dataset/dre_a2a_dtb_t"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3fc59af732b04c1ba908c6f400fcb7d7",
+    "@type": [
+      "https://schema.org/DataCatalog"
+    ],
+    "https://schema.org/description": [
+      {
+        "@value": "Sharing Cultural Heritage"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Picturae Opendata"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com"
+      }
+    ]
+  },
+  {
+    "@id": "_:N88d6903b8c774bd2b55f93b1c8f29fe4",
+    "@type": [
+      "https://schema.org/DataCatalog"
+    ],
+    "https://schema.org/description": [
+      {
+        "@value": "Sharing Cultural Heritage"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Picturae Opendata"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://opendata.picturae.com/dataset/dre_a2a_dtb_t/resource/dre_a2a_dtb_t",
+    "@type": [
+      "https://schema.org/DataDownload"
+    ],
+    "https://schema.org/encodingFormat": [
+      {
+        "@value": "text/xml"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "A2A DTB Trouwen"
+      }
+    ],
+    "https://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/91f0a0c8-75a6-4853-b24e-5a3b60dfc25d?metadataPrefix=oai_a2a&verb=ListRecords&set=dtb_t"
+      }
+    ]
+  },
+  {
+    "@id": "https://opendata.picturae.com/dataset/dre_a2a_nt_a/resource/dre_a2a_nt_a",
+    "@type": [
+      "https://schema.org/DataDownload"
+    ],
+    "https://schema.org/encodingFormat": [
+      {
+        "@value": "text/xml"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "A2A Notariële akten"
+      }
+    ],
+    "https://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/91f0a0c8-75a6-4853-b24e-5a3b60dfc25d?metadataPrefix=oai_a2a&verb=ListRecords&set=nt_a"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nc7fd0d2ba0d34c4aaa1363fad67e6d42",
+    "@type": [
+      "https://schema.org/ContactPoint"
+    ],
+    "https://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Drents archief "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://opendata.picturae.com/dataset/dre_a2a_dtb_d",
+    "@type": [
+      "https://schema.org/Dataset"
+    ],
+    "https://schema.org/dateModified": [
+      {
+        "@type": "https://schema.org/dateTime",
+ "@value": "2021-05-25T09:06:08.676688"
+      }
+    ],
+    "https://schema.org/datePublished": [
+      {
+        "@type": "https://schema.org/dateTime",
+ "@value": "2021-05-25T09:06:08.397048"
+      }
+    ],
+    "https://schema.org/distribution": [
+      {
+        "@id": "https://opendata.picturae.com/dataset/dre_a2a_dtb_d/resource/dre_a2a_dtb_d"
+      }
+    ],
+    "https://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N88d6903b8c774bd2b55f93b1c8f29fe4"
+      }
+    ],
+    "https://schema.org/keywords": [
+      {
+        "@value": "Dopen"
+      },
+      {
+        "@value": "DTB"
+      },
+      {
+        "@value": "Drenthe"
+      },
+      {
+        "@value": "genealogie"
+      }
+    ],
+    "https://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Drents archief  - Genealogie - A2A - DTB Dopen"
+      }
+    ],
+    "https://schema.org/publisher": [
+      {
+        "@id": "https://opendata.picturae.com/organization/dre"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com/dataset/dre_a2a_dtb_d"
+      }
+    ]
+  },
+  {
+    "@id": "https://opendata.picturae.com/dataset/dre_a2a_dtb_b",
+    "@type": [
+      "https://schema.org/Dataset"
+    ],
+    "https://schema.org/dateModified": [
+      {
+        "@type": "https://schema.org/dateTime",
+ "@value": "2021-05-25T09:06:07.950354"
+      }
+    ],
+    "https://schema.org/datePublished": [
+      {
+        "@type": "https://schema.org/dateTime",
+ "@value": "2021-05-25T09:06:07.655758"
+      }
+    ],
+    "https://schema.org/distribution": [
+      {
+        "@id": "https://opendata.picturae.com/dataset/dre_a2a_dtb_b/resource/dre_a2a_dtb_b"
+      }
+    ],
+    "https://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:Nbc2c3f1663be45d3a90423cf52f3d0e4"
+      }
+    ],
+    "https://schema.org/keywords": [
+      {
+        "@value": "Begraven"
+      },
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "DTB"
+      },
+      {
+        "@value": "Drenthe"
+      }
+    ],
+    "https://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Drents archief  - Genealogie - A2A - DTB Begraven"
+      }
+    ],
+    "https://schema.org/publisher": [
+      {
+        "@id": "https://opendata.picturae.com/organization/dre"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com/dataset/dre_a2a_dtb_b"
+      }
+    ]
+  },
+  {
+    "@id": "_:N62bad6d8491340a294726de7a856fb33",
+    "@type": [
+      "https://schema.org/DataCatalog"
+    ],
+    "https://schema.org/description": [
+      {
+        "@value": "Sharing Cultural Heritage"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Picturae Opendata"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nbc2c3f1663be45d3a90423cf52f3d0e4",
+    "@type": [
+      "https://schema.org/DataCatalog"
+    ],
+    "https://schema.org/description": [
+      {
+        "@value": "Sharing Cultural Heritage"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Picturae Opendata"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com"
+      }
+    ]
+  },
+  {
+    "@id": "_:N7d60fe077c274ab380af302fadafdf54",
+    "@type": [
+      "https://schema.org/DataCatalog"
+    ],
+    "https://schema.org/description": [
+      {
+        "@value": "Sharing Cultural Heritage"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Picturae Opendata"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://opendata.picturae.com/dataset/dre_a2a_bs_g/resource/dre_a2a_bs_g",
+    "@type": [
+      "https://schema.org/DataDownload"
+    ],
+    "https://schema.org/encodingFormat": [
+      {
+        "@value": "text/xml"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "A2A Burgerlijke stand geboorten"
+      }
+    ],
+    "https://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/91f0a0c8-75a6-4853-b24e-5a3b60dfc25d?metadataPrefix=oai_a2a&verb=ListRecords&set=bs_g"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nca361e51957349dca19ea7d6ad2a2fb7",
+    "@type": [
+      "https://schema.org/ContactPoint"
+    ],
+    "https://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Drents archief "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://opendata.picturae.com/dataset/dre_a2a_bs_h/resource/dre_a2a_bs_h",
+    "@type": [
+      "https://schema.org/DataDownload"
+    ],
+    "https://schema.org/encodingFormat": [
+      {
+        "@value": "text/xml"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "A2A Burgerlijke stand huwelijken"
+      }
+    ],
+    "https://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/91f0a0c8-75a6-4853-b24e-5a3b60dfc25d?metadataPrefix=oai_a2a&verb=ListRecords&set=bs_h"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2c17b56f2f004856bed71a261278dd33",
+    "@type": [
+      "https://schema.org/ContactPoint"
+    ],
+    "https://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Drents archief "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com"
+      }
+    ]
+  },
+  {
+    "@id": "_:N40cef6783b1e4864aeafc79993d55bdf",
+    "@type": [
+      "https://schema.org/ContactPoint"
+    ],
+    "https://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Drents archief "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com"
+      }
+    ]
+  },
+  {
+    "@id": "https://opendata.picturae.com/dataset/dre_a2a_webservice",
+    "@type": [
+      "https://schema.org/Dataset"
+    ],
+    "https://schema.org/dateModified": [
+      {
+        "@type": "https://schema.org/dateTime",
+ "@value": "2021-05-25T09:06:03.504200"
+      }
+    ],
+    "https://schema.org/datePublished": [
+      {
+        "@type": "https://schema.org/dateTime",
+ "@value": "2021-05-25T09:06:03.169621"
+      }
+    ],
+    "https://schema.org/description": [
+      {
+        "@value": "A2A webservice om genealogische data te harvesten volgens het OAI-PMH protocol.\n\nU kunt deze service gebruiken om genealogische data te harvesten. Voor meer informatie over de data kunt u terecht bij het [Drents archief ](https://www.drentsarchief.nl/)\n\nVoor meer informatie over OAI kunt u terecht bij [The Open Archives Initiative Protocol for Metadata Harvesting](https://www.openarchives.org/OAI/openarchivesprotocol.html)\n\nVoorbeelen voor gebruik van deze webservice zijn:\n\n* https://webservices.picturae.com/a2a/91f0a0c8-75a6-4853-b24e-5a3b60dfc25d?verb=ListSets voor een overzicht van beschikbare sets.\n* https://webservices.picturae.com/a2a/91f0a0c8-75a6-4853-b24e-5a3b60dfc25d?verb=ListRecords&metadataPrefix=a2a voor een overzicht van beschikbare records.\n"
+      }
+    ],
+    "https://schema.org/distribution": [
+      {
+        "@id": "https://opendata.picturae.com/dataset/dre_a2a_webservice/resource/dre_a2a_webservice"
+      }
+    ],
+    "https://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:Ne6b3501a736d4a4eafba1d993771ce78"
+      }
+    ],
+    "https://schema.org/keywords": [
+      {
+        "@value": "Webservice"
+      },
+      {
+        "@value": "text/xml"
+      },
+      {
+        "@value": "Drenthe"
+      },
+      {
+        "@value": "genealogie"
+      }
+    ],
+    "https://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@value": "Drents archief  - Genealogie - A2A - Webservice"
+      }
+    ],
+    "https://schema.org/publisher": [
+      {
+        "@id": "https://opendata.picturae.com/organization/dre"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@value": "https://opendata.picturae.com/dataset/dre_a2a_webservice"
+      }
+    ]
+  }
+]
