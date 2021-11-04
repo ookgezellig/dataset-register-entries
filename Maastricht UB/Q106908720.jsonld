@@ -1,0 +1,31 @@
+{
+	"@context": "http://schema.org/",
+	"@type": "Dataset",
+	"@id": "http://www.wikidata.org/entity/Q106908720",
+	"identifier": "http://www.wikidata.org/entity/Q106908720",
+	"name": "Golden age of illustration collection",
+	"description": "Bijzondere collectie van de universiteitsbibliotheek Maastricht",
+	"license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
+	"publisher": {
+		"@id": "https://www.wikidata.org/",
+		"@type": "Organization",
+		"name": "Wikidata"
+	},"creator": {
+		"@id": "http://library.maastrichtuniversity.nl/",
+		"@type": "Organization",
+		"name": "Maastricht University Library"
+	},
+	"mainEntityOfPage": [
+		"https://repository.maastrichtuniversity.nl/islandora/object/um%3A844c3b4a-fb3c-43fd-89ea-0afae08e06eb"
+	],
+	"distribution": [
+		{
+			"@type": "DataDownload",
+			"contentUrl": "https://query.wikidata.org/sparql?query=SELECT%20%2a%0AWHERE%20%0A%7B%0A%20%20wd%3AQ106908720%20%3Fp%20%3Fo.%20%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cnl%22.%20%7D%0A%7D",
+			"encodingFormat": [
+				"application/sparql-query"
+			],
+			"name": "Wikidata SPARQL query"
+		}
+	]
+}
