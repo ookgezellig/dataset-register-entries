@@ -1,0 +1,51 @@
+{
+   "@context": "https://schema.org/",
+   "@type": "WebPage",
+   "url": "https://lod.uba.uva.nl/UB-UVA/Audio",
+   "mainEntity": {
+    "@id": "https://lod.uba.uva.nl/UB-UVA/Audio",
+    "@type": "Dataset",
+    "dateModified": "2021-11-03",
+    "datePublished": "2021-03-04",
+    "description": "Audio, UvA Library Central Catalogue",
+    "distribution": [
+     {
+      "@type": "DataDownload",
+      "encodingFormat": "application/trig",
+      "contentUrl": "https://lod.uba.uva.nl/UB-UVA/Audio/download.trig.gz"
+     },
+     {
+      "@type": "DataDownload",
+      "encodingFormat": "application/n-triples",
+      "contentUrl": "https://lod.uba.uva.nl/UB-UVA/Audio/download.nt.gz"
+     },
+     {
+      "@type": "DataDownload",
+      "encodingFormat": "application/n-quads",
+      "contentUrl": "https://lod.uba.uva.nl/UB-UVA/Audio/download.nq.gz"
+     },
+     {
+      "@type": "DataDownload",
+      "encodingFormat": "application/turtle",
+      "contentUrl": "https://lod.uba.uva.nl/UB-UVA/Audio/download.ttl.gz"
+     }
+    ],
+    "identifier": "https://lod.uba.uva.nl/UB-UVA/Audio",
+    "image": "https://lod.uba.uva.nl/imgs/avatars/a/603d08116297330357f9e2eb.png?v=5",
+    "inLanguage": "iso639-1:en",
+
+    "name": "Audio",
+    "publisher": {
+     "@type": "Organization",
+     "@id": "https://uba.uva.nl/",
+     "name": "Library of the University of Amsterdam"
+    },
+    "creator": {
+     "@type": "Organization",
+     "@id": "https://uba.uva.nl/",
+     "name": "Library of the University of Amsterdam"
+    },
+    "url": "https://lod.uba.uva.nl/UB-UVA/Audio"
+   },
+   "license": "http://opendatacommons.org/licenses/pddl/1.0/"
+  }

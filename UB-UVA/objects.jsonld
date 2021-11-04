@@ -1,0 +1,51 @@
+{
+   "@context": "https://schema.org/",
+   "@type": "WebPage",
+   "url": "https://lod.uba.uva.nl/UB-UVA/Objects",
+   "mainEntity": {
+    "@id": "https://lod.uba.uva.nl/UB-UVA/Objects",
+    "@type": "Dataset",
+    "dateModified": "2021-11-03",
+    "datePublished": "2021-03-30",
+    "description": "Physical objects (except archaelogy), UvA Library Central Catalogue.",
+    "distribution": [
+     {
+      "@type": "DataDownload",
+      "encodingFormat": "application/trig",
+      "contentUrl": "https://lod.uba.uva.nl/UB-UVA/Objects/download.trig.gz"
+     },
+     {
+      "@type": "DataDownload",
+      "encodingFormat": "application/n-triples",
+      "contentUrl": "https://lod.uba.uva.nl/UB-UVA/Objects/download.nt.gz"
+     },
+     {
+      "@type": "DataDownload",
+      "encodingFormat": "application/n-quads",
+      "contentUrl": "https://lod.uba.uva.nl/UB-UVA/Objects/download.nq.gz"
+     },
+     {
+      "@type": "DataDownload",
+      "encodingFormat": "application/turtle",
+      "contentUrl": "https://lod.uba.uva.nl/UB-UVA/Objects/download.ttl.gz"
+     }
+    ],
+    "identifier": "https://lod.uba.uva.nl/UB-UVA/Objects",
+    "image": "https://lod.uba.uva.nl/imgs/avatars/a/603d08116297330357f9e2eb.png?v=5",
+    "inLanguage": "iso639-1:en",
+
+    "name": "Objects",
+    "publisher": {
+     "@type": "Organization",
+     "@id": "https://uba.uva.nl/",
+     "name": "Library of the University of Amsterdam"
+    },
+    "creator": {
+     "@type": "Organization",
+     "@id": "https://uba.uva.nl/",
+     "name": "Library of the University of Amsterdam"
+    },
+    "url": "https://lod.uba.uva.nl/UB-UVA/Objects"
+   },
+   "license": "http://opendatacommons.org/licenses/pddl/1.0/"
+  }

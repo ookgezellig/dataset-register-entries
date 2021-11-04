@@ -1,0 +1,51 @@
+{
+   "@context": "https://schema.org/",
+   "@type": "WebPage",
+   "url": "https://lod.uba.uva.nl/UB-UVA/Catalogue",
+   "mainEntity": {
+    "@id": "https://lod.uba.uva.nl/UB-UVA/Catalogue",
+    "@type": "Dataset",
+    "dateModified": "2021-11-03",
+    "datePublished": "2021-04-19",
+    "description": "All [UvA Catalogue Datasets](https://lod.uba.uva.nl/UB-UVA/-/datasets), except [Beeldbank/Image Repository](https://lod.uba.uva.nl/UB-UVA/Beeldbank), combined.\n#\nContains data on incunabula, letters, maps, images, video, audio, sheetmusic, archaeological and other objects.\n#\nDatasource (catalogue) front end: https://lib.uva.nl/",
+    "distribution": [
+     {
+      "@type": "DataDownload",
+      "encodingFormat": "application/trig",
+      "contentUrl": "https://lod.uba.uva.nl/UB-UVA/Catalogue/download.trig.gz"
+     },
+     {
+      "@type": "DataDownload",
+      "encodingFormat": "application/n-triples",
+      "contentUrl": "https://lod.uba.uva.nl/UB-UVA/Catalogue/download.nt.gz"
+     },
+     {
+      "@type": "DataDownload",
+      "encodingFormat": "application/n-quads",
+      "contentUrl": "https://lod.uba.uva.nl/UB-UVA/Catalogue/download.nq.gz"
+     },
+     {
+      "@type": "DataDownload",
+      "encodingFormat": "application/turtle",
+      "contentUrl": "https://lod.uba.uva.nl/UB-UVA/Catalogue/download.ttl.gz"
+     }
+    ],
+    "identifier": "https://lod.uba.uva.nl/UB-UVA/Catalogue",
+    "image": "https://lod.uba.uva.nl/imgs/avatars/a/603d08116297330357f9e2eb.png?v=5",
+    "inLanguage": "iso639-1:en",
+
+    "name": "Catalogue",
+    "publisher": {
+     "@type": "Organization",
+     "@id": "https://uba.uva.nl/",
+     "name": "Library of the University of Amsterdam"
+    },
+    "creator": {
+     "@type": "Organization",
+     "@id": "https://uba.uva.nl/",
+     "name": "Library of the University of Amsterdam"
+    },
+    "url": "https://lod.uba.uva.nl/UB-UVA/Catalogue"
+   },
+   "license": "http://opendatacommons.org/licenses/pddl/1.0/"
+  }
