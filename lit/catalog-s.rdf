@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="http://schema.org/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <schema:DataCatalog xmlns:schema="https://schema.org/">
+    <schema:Dataset rdf:about="https://LIT.hosting.deventit.net/AtlantisPubliek/data/dataset/LOD+Archiefbeschrijvingen" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <schema:name>LOD Archiefbeschrijvingen</schema:name>
+      <schema:license>http://creativecommons.org/publicdomain/zero/1.0/</schema:license>
+      <schema:description>de linked open datasets die beschikbaar gesteld voor de archiefbeschrijvingen</schema:description>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Archiefbeschrijvingen.rdf" />
+          <schema:encodingFormat>application/rdf+xml</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisSparql" />
+          <schema:encodingFormat>application/sparql-query</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:publisher>
+        <schema:Organization>
+          <schema:name>Literatuurmuseum</schema:name>
+          <schema:url rdf:resource="https://literatuurmuseum.nl/" />
+        </schema:Organization>
+      </schema:publisher>
+    </schema:Dataset>
+    <schema:Dataset rdf:about="https://LIT.hosting.deventit.net/AtlantisPubliek/data/dataset/LOD+Museale+Objecten" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <schema:name>LOD Museale Objecten</schema:name>
+      <schema:license>http://creativecommons.org/publicdomain/zero/1.0/</schema:license>
+      <schema:description>de linked open datasets die beschikbaar gesteld voor de museale objecten.</schema:description>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Museale+Objecten.n3" />
+          <schema:encodingFormat>text/n3</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Museale+Objecten.ttl" />
+          <schema:encodingFormat>text/turtle</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Museale+Objecten.nq" />
+          <schema:encodingFormat>application/n-quads</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Museale+Objecten.jsonld" />
+          <schema:encodingFormat>application/ld+json</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Museale+Objecten.csv" />
+          <schema:encodingFormat>text/csv</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Museale+Objecten.nt" />
+          <schema:encodingFormat>application/n-triples</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Museale+Objecten.rdf" />
+          <schema:encodingFormat>application/rdf+xml</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisSparql" />
+          <schema:encodingFormat>application/sparql-query</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:publisher>
+        <schema:Organization>
+          <schema:name>Literatuurmuseum</schema:name>
+          <schema:url rdf:resource="https://literatuurmuseum.nl/" />
+        </schema:Organization>
+      </schema:publisher>
+    </schema:Dataset>
+    <schema:Dataset rdf:about="https://LIT.hosting.deventit.net/AtlantisPubliek/data/dataset/LOD+Thesaurus" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <schema:name>LOD Thesaurus</schema:name>
+      <schema:license>http://creativecommons.org/publicdomain/zero/1.0/</schema:license>
+      <schema:description>de linked open datasets die beschikbaar gesteld voor de thesaurus.</schema:description>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Thesaurus.n3" />
+          <schema:encodingFormat>text/n3</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Thesaurus.ttl" />
+          <schema:encodingFormat>text/turtle</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Thesaurus.nq" />
+          <schema:encodingFormat>application/n-quads</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Thesaurus.jsonld" />
+          <schema:encodingFormat>application/ld+json</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Thesaurus.csv" />
+          <schema:encodingFormat>text/csv</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Thesaurus.nt" />
+          <schema:encodingFormat>application/n-triples</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Thesaurus.rdf" />
+          <schema:encodingFormat>application/rdf+xml</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisSparql" />
+          <schema:encodingFormat>application/sparql-query</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:publisher>
+        <schema:Organization>
+          <schema:name>Literatuurmuseum</schema:name>
+          <schema:url rdf:resource="https://literatuurmuseum.nl/" />
+        </schema:Organization>
+      </schema:publisher>
+    </schema:Dataset>
+     <schema:Dataset rdf:about="https://LIT.hosting.deventit.net/AtlantisPubliek/data/dataset/LOD+Stambestanden" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <schema:name>LOD Stambestanden</schema:name>
+      <schema:license>http://creativecommons.org/publicdomain/zero/1.0/</schema:license>
+      <schema:description>De linked open datasets die beschikbaar gesteld voor diverse stambestanden.</schema:description>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Stambestanden.n3" />
+          <schema:encodingFormat>text/n3</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Stambestanden.ttl" />
+          <schema:encodingFormat>text/turtle</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Stambestanden.nq" />
+          <schema:encodingFormat>application/n-quads</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Stambestanden.jsonld" />
+          <schema:encodingFormat>application/ld+json</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Stambestanden.csv" />
+          <schema:encodingFormat>text/csv</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Stambestanden.nt" />
+          <schema:encodingFormat>application/n-triples</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Stambestanden.rdf" />
+          <schema:encodingFormat>application/rdf+xml</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisSparql" />
+          <schema:encodingFormat>application/sparql-query</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:publisher>
+        <schema:Organization>
+          <schema:name>Literatuurmuseum</schema:name>
+          <schema:url rdf:resource="https://literatuurmuseum.nl/" />
+        </schema:Organization>
+      </schema:publisher>
+    </schema:Dataset>
+    <schema:Dataset rdf:about="https://LIT.hosting.deventit.net/AtlantisPubliek/data/dataset/LOD+Archieven" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <schema:name>LOD Archieven</schema:name>
+      <schema:license>http://creativecommons.org/publicdomain/zero/1.0/</schema:license>
+      <schema:description>de linked open datasets die beschikbaar gesteld voor de archieven</schema:description>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Archieven.n3" />
+          <schema:encodingFormat>text/n3</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Archieven.ttl" />
+          <schema:encodingFormat>text/turtle</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Archieven.nq" />
+          <schema:encodingFormat>application/n-quads</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Archieven.jsonld" />
+          <schema:encodingFormat>application/ld+json</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Archieven.csv" />
+          <schema:encodingFormat>text/csv</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Archieven.nt" />
+          <schema:encodingFormat>application/n-triples</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Archieven.rdf" />
+          <schema:encodingFormat>application/rdf+xml</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisSparql" />
+          <schema:encodingFormat>application/sparql-query</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:publisher>
+        <schema:Organization>
+          <schema:name>Literatuurmuseum</schema:name>
+          <schema:url rdf:resource="https://literatuurmuseum.nl/" />
+        </schema:Organization>
+      </schema:publisher>
+    </schema:Dataset>
+    <schema:Dataset rdf:about="https://LIT.hosting.deventit.net/AtlantisPubliek/data/dataset/LOD+Persoon+en+Organisatie" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <schema:name>LOD Persoon en Organisatie</schema:name>
+      <schema:license>http://creativecommons.org/publicdomain/zero/1.0/</schema:license>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Persoon+en+Organisatie.n3" />
+          <schema:encodingFormat>text/n3</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Persoon+en+Organisatie.ttl" />
+          <schema:encodingFormat>text/turtle</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Persoon+en+Organisatie.nq" />
+          <schema:encodingFormat>application/n-quads</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Persoon+en+Organisatie.jsonld" />
+          <schema:encodingFormat>application/ld+json</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Persoon+en+Organisatie.csv" />
+          <schema:encodingFormat>text/csv</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Persoon+en+Organisatie.nt" />
+          <schema:encodingFormat>application/n-triples</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisPubliek/data/set/LOD+Persoon+en+Organisatie.rdf" />
+          <schema:encodingFormat>application/rdf+xml</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:distribution>
+        <schema:DataDownload>
+          <schema:contentUrl rdf:resource="https://LIT.hosting.deventit.net/AtlantisSparql" />
+          <schema:encodingFormat>application/sparql-query</schema:encodingFormat>
+        </schema:DataDownload>
+      </schema:distribution>
+      <schema:publisher>
+        <schema:Organization>
+          <schema:name>Literatuurmuseum</schema:name>
+          <schema:url rdf:resource="https://literatuurmuseum.nl/" />
+        </schema:Organization>
+      </schema:publisher>
+    </schema:Dataset>
+    <schema:description>Alle linked data zoals beschikbaar gesteld door Literatuurmuseum.</schema:description>
+    <schema:name>Linked Data Literatuurmuseum</schema:name>
+    <schema:publisher>
+      <schema:Organization>
+        <schema:name>Literatuurmuseum</schema:name>
+        <schema:url rdf:resource="https://literatuurmuseum.nl/" />
+      </schema:Organization>
+    </schema:publisher>
+  </schema:DataCatalog>
+</rdf:RDF>
