@@ -17,7 +17,8 @@
   schema:publisher <https://rkd.nl> ;
   schema:mainEntityOfPage <https://rkd.nl/nl/collecties/services-tools/rkdimages-webservice-oai-pmh> ;
   schema:distribution <https://data.rkd.nl/images/oai-pmh> .
-
+  schema:license <https://opendatacommons.org/licenses/by/1-0/>
+  
 <https://data.rkd.nl/images/oai-pmh>
   a schema:DataDownload ;
   schema:name "OAI-PMH endpoint" ;
@@ -33,6 +34,7 @@
   schema:distribution <https://data.rkd.nl/artists/jsonld>, <https://data.rkd.nl/artists/xml>, <https://data.rkd.nl/artists/ttl>, <https://data.rkd.nl/artists/nt> ;
   schema:datePublished "2021-10-05T06:51:56+02:00"^^xsd:dateTime ;
   schema:dateModified "2021-10-05T06:51:56+02:00"^^xsd:dateTime .
+  schema:license <https://opendatacommons.org/licenses/by/1-0/>
 
 <https://data.rkd.nl/artists/jsonld>
   a schema:DataDownload ;
