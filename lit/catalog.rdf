@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="http://schema.org/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-  <schema:DataCatalog xmlns:schema="http://schema.org/">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <schema:DataCatalog>
     <schema:Dataset rdf:about="https://LIT.hosting.deventit.net/AtlantisPubliek/data/dataset/LOD+Archiefbeschrijvingen" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
       <schema:name>LOD Archiefbeschrijvingen</schema:name>
       <schema:license>http://creativecommons.org/publicdomain/zero/1.0/</schema:license>
