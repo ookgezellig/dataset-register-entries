@@ -5,7 +5,7 @@
   a schema:DataCatalog ;
   schema:name "Catalogus van datasets van RKD"@nl, "Catalogue of RKD datasets"@en ;
   schema:description "Catalogus van datasets die gepubliceerd worden door RKD"@nl, "Catalogue of datasets published by RKD"@en ;
-  schema:publisher <https://rkd.nl> ;
+  schema:publisher <https://rkd.nl/> ;
   schema:dataset <https://data.rkd.nl/artists>, <https://data.rkd.nl/images> ;
   schema:datePublished "2021-10-05T06:51:56+02:00"^^xsd:dateTime ;
   schema:dateModified "2021-10-05T06:51:56+02:00"^^xsd:dateTime .
@@ -14,7 +14,7 @@
   a schema:Dataset ;
   schema:name "RKDimages"@nl, "RKDimages"@en ;
   schema:description "RKDimages is een database met beschrijvingen van voornamelijk kunstwerken met 'Nederlandse' (Noordelijke en Zuidelijke Nederlanden) achtergrond. Het gaat bijvoorbeeld om schilderijen, tekeningen, prenten en foto's. De webservice biedt een afgeleide dataset uit RKDimages zoals die via de RKD website wordt getoond. Het kan door anderen gebruikt worden als een 'authorithy file' of voor data-analyse of -verrijking. Aan de inhoud van RKDimages wordt continue gewerkt en is dus aan verandering onderhevig. De afbeeldingen die beschikbaar worden gemaakt, zijn meestal niet geschikt voor hoogwaardige publicaties. Mogelijke auteursrechten voor de afbeeldingen zijn niet altijd beschikbaar."@nl ;
-  schema:publisher <https://rkd.nl> ;
+  schema:publisher <https://rkd.nl/> ;
   schema:mainEntityOfPage <https://rkd.nl/nl/collecties/services-tools/rkdimages-webservice-oai-pmh> ;
   schema:distribution <https://data.rkd.nl/images/oai-pmh> ;
   schema:license <https://opendatacommons.org/licenses/by/1-0/> .
@@ -29,7 +29,7 @@
   a schema:Dataset ;
   schema:name "RKDartists"@nl, "RKDartists"@en ;
   schema:description "Biografische gegevens over kunstenaars, collectioneurs en andere in de culturele wereld actieve personen vanaf de middeleeuwen tot heden"@nl, "Biographical data about artists, collectors and others in the cultural world; active people since the middle ages until the present"@en ;
-  schema:publisher <https://rkd.nl> ;
+  schema:publisher <https://rkd.nl/> ;
   schema:mainEntityOfPage <https://demo.netwerkdigitaalerfgoed.nl/stories/hackalod/rkdartists/index.html>, <https://rkd.nl/nl/collecties/services-tools/rkdartists-als-linked-open-data> ;
   schema:distribution <https://data.rkd.nl/artists/jsonld>, <https://data.rkd.nl/artists/xml>, <https://data.rkd.nl/artists/ttl>, <https://data.rkd.nl/artists/nt> ;
   schema:datePublished "2021-10-05T06:51:56+02:00"^^xsd:dateTime ;
