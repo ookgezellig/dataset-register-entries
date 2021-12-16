@@ -1,351 +1,351 @@
-@prefix schema: <http://schema.org/> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema: <http://schema.org/>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix anl: <https://www.archieven.nl/id/>.
 
-<https://www.archieven.nl/id/dataset_NL-StdEHC_104> a schema:Dataset ;
-	schema:name "104" ;
-	schema:description "Bevolkingsregisters Gemeente Grevenbicht, 1870-1933" ;
-	schema:inLanguage "nl-NL" ;
-	schema:keywords "inventaris" ;
-	schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC> ; 
+anl:dataset_NL-StdEHC_104 a schema:Dataset;
+	schema:name "104";
+	schema:description "Bevolkingsregisters Gemeente Grevenbicht, 1870-1933";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
-		a schema:DataDownload ;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_104_1_EAD.xml?format=file> ;
-		schema:encodingFormat "text/xml" ;
-		schema:dateModified "2018-06-07"^^schema:Date ;
-		schema:contentSize 31037 ;
-		schema:description "XML bestand volgens EAD model" ;
-	] .
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_104_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-06-07";
+		schema:contentSize 31037;
+		schema:description "XML bestand volgens EAD model";
+	].
 
-<https://www.archieven.nl/id/dataset_NL-StdEHC_106> a schema:Dataset ;
-	schema:name "106" ;
-	schema:description "Burgerlijke stand Gemeente Grevenbicht, 1798-1940" ;
-	schema:inLanguage "nl-NL" ;
-	schema:keywords "inventaris" ;
-	schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC> ; 
+anl:dataset_NL-StdEHC_106 a schema:Dataset;
+	schema:name "106";
+	schema:description "Burgerlijke stand Gemeente Grevenbicht, 1798-1940";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
-		a schema:DataDownload ;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_106_1_EAD.xml?format=file> ;
-		schema:encodingFormat "text/xml" ;
-		schema:dateModified "2020-03-22"^^schema:Date ;
-		schema:contentSize 49688 ;
-		schema:description "XML bestand volgens EAD model" ;
-	] .
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_106_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-03-22";
+		schema:contentSize 49688;
+		schema:description "XML bestand volgens EAD model";
+	].
 
-<https://www.archieven.nl/id/dataset_NL-StdEHC_106.1138> a schema:Dataset ;
-	schema:name "106.1138" ;
-	schema:description "Grevenbicht GHO akten BS, 1798-1803" ;
-	schema:inLanguage "nl-NL" ;
-	schema:keywords "genealogie" ;
-	schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC> ; 
+anl:dataset_NL-StdEHC_106_1138 a schema:Dataset;
+	schema:name "106.1138";
+	schema:description "Grevenbicht GHO akten BS, 1798-1803";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
-		a schema:DataDownload ;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/a2a/NL-StdEHC_106.1138_54_A2A.xml?format=file> ;
-		schema:encodingFormat "text/xml" ;
-		schema:dateModified "2019-10-23"^^schema:Date ;
-		schema:contentSize 919974 ;
-		schema:description "XML bestand volgens A2A model" ;
-	] .
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/a2a/NL-StdEHC_106.1138_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-23";
+		schema:contentSize 919974;
+		schema:description "XML bestand volgens A2A model";
+	].
 
-<https://www.archieven.nl/id/dataset_NL-StdEHC_106_1150> a schema:Dataset ;
-	schema:name "106_1150" ;
-	schema:description "Geboorten Grevenbicht, 1883-1892" ;
-	schema:inLanguage "nl-NL" ;
-	schema:keywords "genealogie" ;
-	schema:license <https://creativecommons.org/licenses/by/4.0/> ;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC> ; 
+anl:dataset_NL-StdEHC_106_1150 a schema:Dataset;
+	schema:name "106_1150";
+	schema:description "Geboorten Grevenbicht, 1883-1892";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
-		a schema:DataDownload ;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/a2a/NL-StdEHC_106_1150_54_A2A.xml?format=file> ;
-		schema:encodingFormat "text/xml" ;
-		schema:dateModified "2020-03-22"^^schema:Date ;
-		schema:contentSize 2357751 ;
-		schema:description "XML bestand volgens A2A model" ;
-	] .
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/a2a/NL-StdEHC_106_1150_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-03-22";
+		schema:contentSize 2357751;
+		schema:description "XML bestand volgens A2A model";
+	].
 
-<https://www.archieven.nl/id/dataset_NL-StdEHC_106_1152> a schema:Dataset ;
-	schema:name "106_1152" ;
-	schema:description "Geboorten Grevenbicht, 1903-1912" ;
-	schema:inLanguage "nl-NL" ;
-	schema:keywords "genealogie" ;
-	schema:license <https://creativecommons.org/licenses/by/4.0/> ;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC> ; 
+anl:dataset_NL-StdEHC_106_1152 a schema:Dataset;
+	schema:name "106_1152";
+	schema:description "Geboorten Grevenbicht, 1903-1912";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
-		a schema:DataDownload ;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/a2a/NL-StdEHC_106_1152_54_A2A.xml?format=file> ;
-		schema:encodingFormat "text/xml" ;
-		schema:dateModified "2019-12-22"^^schema:Date ;
-		schema:contentSize 2182786 ;
-		schema:description "XML bestand volgens A2A model" ;
-	] .
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/a2a/NL-StdEHC_106_1152_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-12-22";
+		schema:contentSize 2182786;
+		schema:description "XML bestand volgens A2A model";
+	].
 
-<https://www.archieven.nl/id/dataset_NL-StdEHC_111> a schema:Dataset ;
-	schema:name "111" ;
-	schema:description "Bestuursarchief Gemeente Obbicht en Papenhoven, 1553-1795" ;
-	schema:inLanguage "nl-NL" ;
-	schema:keywords "inventaris" ;
-	schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC> ; 
+anl:dataset_NL-StdEHC_111 a schema:Dataset;
+	schema:name "111";
+	schema:description "Bestuursarchief Gemeente Obbicht en Papenhoven, 1553-1795";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
-		a schema:DataDownload ;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_111_1_EAD.xml?format=file> ;
-		schema:encodingFormat "text/xml" ;
-		schema:dateModified "2018-03-24"^^schema:Date ;
-		schema:contentSize 238283 ;
-		schema:description "XML bestand volgens EAD model" ;
-	] .
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_111_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-24";
+		schema:contentSize 238283;
+		schema:description "XML bestand volgens EAD model";
+	].
 
-<https://www.archieven.nl/id/dataset_NL-StdEHC_116> a schema:Dataset ;
-	schema:name "116" ;
-	schema:description "Burgerlijke stand Gemeente Obbicht en Papenhoven, 1796-1942" ;
-	schema:inLanguage "nl-NL" ;
-	schema:keywords "inventaris" ;
-	schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC> ; 
+anl:dataset_NL-StdEHC_116 a schema:Dataset;
+	schema:name "116";
+	schema:description "Burgerlijke stand Gemeente Obbicht en Papenhoven, 1796-1942";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
-		a schema:DataDownload ;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_116_1_EAD.xml?format=file> ;
-		schema:encodingFormat "text/xml" ;
-		schema:dateModified "2018-05-17"^^schema:Date ;
-		schema:contentSize 39005 ;
-		schema:description "XML bestand volgens EAD model" ;
-	] .
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_116_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-05-17";
+		schema:contentSize 39005;
+		schema:description "XML bestand volgens EAD model";
+	].
 
-<https://www.archieven.nl/id/dataset_NL-StdEHC_121> a schema:Dataset ;
-	schema:name "121" ;
-	schema:description "Bestuursarchief Gemeente Born, 1938-1981" ;
-	schema:inLanguage "nl-NL" ;
-	schema:keywords "inventaris" ;
-	schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC> ; 
+anl:dataset_NL-StdEHC_121 a schema:Dataset;
+	schema:name "121";
+	schema:description "Bestuursarchief Gemeente Born, 1938-1981";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
-		a schema:DataDownload ;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/mi/NL-StdEHC_121_1_MI.xml?format=file> ;
-		schema:encodingFormat "text/xml" ;
-		schema:dateModified "2020-05-30"^^schema:Date ;
-		schema:contentSize 4022684 ;
-		schema:description "XML bestand volgens MI model" ;
-	] .
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/mi/NL-StdEHC_121_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-05-30";
+		schema:contentSize 4022684;
+		schema:description "XML bestand volgens MI model";
+	].
 
-<https://www.archieven.nl/id/dataset_NL-StdEHC_123> a schema:Dataset ;
-	schema:name "123" ;
-	schema:description "Doop-, Huwelijks- en Overlijdensregisters Born (Retro-acta Burgerlijke Stand), 1624-1740" ;
-	schema:inLanguage "nl-NL" ;
-	schema:keywords "inventaris" ;
-	schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC> ; 
+anl:dataset_NL-StdEHC_123 a schema:Dataset;
+	schema:name "123";
+	schema:description "Doop-, Huwelijks- en Overlijdensregisters Born (Retro-acta Burgerlijke Stand), 1624-1740";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
-		a schema:DataDownload ;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_123_1_EAD.xml?format=file> ;
-		schema:encodingFormat "text/xml" ;
-		schema:dateModified "2016-10-12"^^schema:Date ;
-		schema:contentSize 3266 ;
-		schema:description "XML bestand volgens EAD model" ;
-	] .
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_123_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2016-10-12";
+		schema:contentSize 3266;
+		schema:description "XML bestand volgens EAD model";
+	].
 
-<https://www.archieven.nl/id/dataset_NL-StdEHC_124> a schema:Dataset ;
-	schema:name "124" ;
-	schema:description "Burgerlijke stand Gemeente Born, 1798-1940" ;
-	schema:inLanguage "nl-NL" ;
-	schema:keywords "genealogie" ;
-	schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC> ; 
+anl:dataset_NL-StdEHC_124 a schema:Dataset;
+	schema:name "124";
+	schema:description "Burgerlijke stand Gemeente Born, 1798-1940";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
-		a schema:DataDownload ;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_124_1_EAD.xml?format=file> ;
-		schema:encodingFormat "text/xml" ;
-		schema:dateModified "2018-05-17"^^schema:Date ;
-		schema:contentSize 30243 ;
-		schema:description "XML bestand volgens EAD model" ;
-	] .
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_124_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-05-17";
+		schema:contentSize 30243;
+		schema:description "XML bestand volgens EAD model";
+	].
 
-<https://www.archieven.nl/id/dataset_NL-StdEHC_133> a schema:Dataset ;
-	schema:name "133" ;
-	schema:description "Doop-, Huwelijks- en Overlijdensregisters Geleen (Retro-acta Burgerlijke Stand), 1605-1796" ;
-	schema:inLanguage "nl-NL" ;
-	schema:keywords "inventaris" ;
-	schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC> ; 
+anl:dataset_NL-StdEHC_133 a schema:Dataset;
+	schema:name "133";
+	schema:description "Doop-, Huwelijks- en Overlijdensregisters Geleen (Retro-acta Burgerlijke Stand), 1605-1796";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
-		a schema:DataDownload ;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_133_1_EAD.xml?format=file> ;
-		schema:encodingFormat "text/xml" ;
-		schema:dateModified "2021-01-10"^^schema:Date ;
-		schema:contentSize 12747 ;
-		schema:description "XML bestand volgens EAD model" ;
-	] .
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_133_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-01-10";
+		schema:contentSize 12747;
+		schema:description "XML bestand volgens EAD model";
+	].
 
-<https://www.archieven.nl/id/dataset_NL-StdEHC_133.145> a schema:Dataset ;
-	schema:name "133.145" ;
-	schema:description "Geleen doopakten, 1788-1792" ;
-	schema:inLanguage "nl-NL" ;
-	schema:keywords "genealogie" ;
-	schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC> ; 
+anl:dataset_NL-StdEHC_133_145 a schema:Dataset;
+	schema:name "133.145";
+	schema:description "Geleen doopakten, 1788-1792";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
-		a schema:DataDownload ;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/a2a/NL-StdEHC_133145_54_A2A.xml?format=file> ;
-		schema:encodingFormat "text/xml" ;
-		schema:dateModified "2021-01-10"^^schema:Date ;
-		schema:contentSize 2562749 ;
-		schema:description "XML bestand volgens A2A model" ;
-	] .
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/a2a/NL-StdEHC_133145_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-01-10";
+		schema:contentSize 2562749;
+		schema:description "XML bestand volgens A2A model";
+	].
 
-<https://www.archieven.nl/id/dataset_NL-StdEHC_133.146> a schema:Dataset ;
-	schema:name "133.146" ;
-	schema:description "Geleen begraafakten, 1792-1796" ;
-	schema:inLanguage "nl-NL" ;
-	schema:keywords "genealogie" ;
-	schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC> ; 
+anl:dataset_NL-StdEHC_133_146 a schema:Dataset;
+	schema:name "133.146";
+	schema:description "Geleen begraafakten, 1792-1796";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
-		a schema:DataDownload ;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/a2a/NL-StdEHC_133146_54_A2A.xml?format=file> ;
-		schema:encodingFormat "text/xml" ;
-		schema:dateModified "2021-01-10"^^schema:Date ;
-		schema:contentSize 724828 ;
-		schema:description "XML bestand volgens A2A model" ;
-	] .
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/a2a/NL-StdEHC_133146_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-01-10";
+		schema:contentSize 724828;
+		schema:description "XML bestand volgens A2A model";
+	].
 
-<https://www.archieven.nl/id/dataset_NL-StdEHC_134> a schema:Dataset ;
-	schema:name "134" ;
-	schema:description "Burgerlijke stand Gemeente Geleen, 1796-1922" ;
-	schema:inLanguage "nl-NL" ;
-	schema:keywords "genealogie" ;
-	schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC> ; 
+anl:dataset_NL-StdEHC_134 a schema:Dataset;
+	schema:name "134";
+	schema:description "Burgerlijke stand Gemeente Geleen, 1796-1922";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
-		a schema:DataDownload ;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_134_1_EAD.xml?format=file> ;
-		schema:encodingFormat "text/xml" ;
-		schema:dateModified "2018-05-17"^^schema:Date ;
-		schema:contentSize 48726 ;
-		schema:description "XML bestand volgens EAD model" ;
-	] .
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_134_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-05-17";
+		schema:contentSize 48726;
+		schema:description "XML bestand volgens EAD model";
+	].
 
-<https://www.archieven.nl/id/dataset_NL-StdEHC_138> a schema:Dataset ;
-	schema:name "138" ;
-	schema:description "Bevolkingsregisters Gemeente Broeksittard, 1850-1938" ;
-	schema:inLanguage "nl-NL" ;
-	schema:keywords "inventaris" ;
-	schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC> ; 
+anl:dataset_NL-StdEHC_138 a schema:Dataset;
+	schema:name "138";
+	schema:description "Bevolkingsregisters Gemeente Broeksittard, 1850-1938";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
-		a schema:DataDownload ;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_138_1_EAD.xml?format=file> ;
-		schema:encodingFormat "text/xml" ;
-		schema:dateModified "2020-12-06"^^schema:Date ;
-		schema:contentSize 22167 ;
-		schema:description "XML bestand volgens EAD model" ;
-	] .
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_138_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-12-06";
+		schema:contentSize 22167;
+		schema:description "XML bestand volgens EAD model";
+	].
 
-<https://www.archieven.nl/id/dataset_NL-StdEHC_140> a schema:Dataset ;
-	schema:name "140" ;
-	schema:description "Burgerlijke stand Gemeente Broeksittard, 1817-1942" ;
-	schema:inLanguage "nl-NL" ;
-	schema:keywords "genealogie" ;
-	schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC> ; 
+anl:dataset_NL-StdEHC_140 a schema:Dataset;
+	schema:name "140";
+	schema:description "Burgerlijke stand Gemeente Broeksittard, 1817-1942";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
-		a schema:DataDownload ;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_140_1_EAD.xml?format=file> ;
-		schema:encodingFormat "text/xml" ;
-		schema:dateModified "2018-05-26"^^schema:Date ;
-		schema:contentSize 53612 ;
-		schema:description "XML bestand volgens EAD model" ;
-	] .
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_140_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-05-26";
+		schema:contentSize 53612;
+		schema:description "XML bestand volgens EAD model";
+	].
 
-<https://www.archieven.nl/id/dataset_NL-StdEHC_149> a schema:Dataset ;
-	schema:name "149" ;
-	schema:description "Burgerlijke stand Gemeente Limbricht, 1798-1942" ;
-	schema:inLanguage "nl-NL" ;
-	schema:keywords "inventaris" ;
-	schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC> ; 
+anl:dataset_NL-StdEHC_149 a schema:Dataset;
+	schema:name "149";
+	schema:description "Burgerlijke stand Gemeente Limbricht, 1798-1942";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
-		a schema:DataDownload ;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_149_1_EAD.xml?format=file> ;
-		schema:encodingFormat "text/xml" ;
-		schema:dateModified "2018-05-17"^^schema:Date ;
-		schema:contentSize 46824 ;
-		schema:description "XML bestand volgens EAD model" ;
-	] .
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_149_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-05-17";
+		schema:contentSize 46824;
+		schema:description "XML bestand volgens EAD model";
+	].
 
-<https://www.archieven.nl/id/dataset_NL-StdEHC_150.1197> a schema:Dataset ;
-	schema:name "150.1197" ;
-	schema:description "OAT Limbricht, 1841" ;
-	schema:inLanguage "nl-NL" ;
-	schema:keywords "genealogie" ;
-	schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC> ; 
+anl:dataset_NL-StdEHC_150_1197 a schema:Dataset;
+	schema:name "150.1197";
+	schema:description "OAT Limbricht, 1841";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
-		a schema:DataDownload ;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/mi/NL-StdEHC_150.1197_54_MI.xml?format=file> ;
-		schema:encodingFormat "text/xml" ;
-		schema:dateModified "2019-10-10"^^schema:Date ;
-		schema:contentSize 5343416 ;
-		schema:description "XML bestand volgens MI model" ;
-	] .
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/mi/NL-StdEHC_150.1197_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-10";
+		schema:contentSize 5343416;
+		schema:description "XML bestand volgens MI model";
+	].
 
-<https://www.archieven.nl/id/dataset_NL-StdEHC_155> a schema:Dataset ;
-	schema:name "155" ;
-	schema:description "Bestuursarchief Gemeente Munstergeleen, 1940-1981" ;
-	schema:inLanguage "nl-NL" ;
-	schema:keywords "inventaris" ;
-	schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC> ; 
+anl:dataset_NL-StdEHC_155 a schema:Dataset;
+	schema:name "155";
+	schema:description "Bestuursarchief Gemeente Munstergeleen, 1940-1981";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
-		a schema:DataDownload ;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_155_1_EAD.xml?format=file> ;
-		schema:encodingFormat "text/xml" ;
-		schema:dateModified "2018-10-21"^^schema:Date ;
-		schema:contentSize 2021650 ;
-		schema:description "XML bestand volgens EAD model" ;
-	] .
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_155_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-10-21";
+		schema:contentSize 2021650;
+		schema:description "XML bestand volgens EAD model";
+	].
 
-<https://www.archieven.nl/id/dataset_NL-StdEHC_158> a schema:Dataset ;
-	schema:name "158" ;
-	schema:description "Burgerlijke stand Gemeente Munstergeleen, 1798-1942" ;
-	schema:inLanguage "nl-NL" ;
-	schema:keywords "inventaris" ;
-	schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC> ; 
+anl:dataset_NL-StdEHC_158 a schema:Dataset;
+	schema:name "158";
+	schema:description "Burgerlijke stand Gemeente Munstergeleen, 1798-1942";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
-		a schema:DataDownload ;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_158_1_EAD.xml?format=file> ;
-		schema:encodingFormat "text/xml" ;
-		schema:dateModified "2018-05-17"^^schema:Date ;
-		schema:contentSize 50914 ;
-		schema:description "XML bestand volgens EAD model" ;
-	] .
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_158_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-05-17";
+		schema:contentSize 50914;
+		schema:description "XML bestand volgens EAD model";
+	].
 
-<https://www.archieven.nl/id/dataset_NL-StdEHC_175> a schema:Dataset ;
-	schema:name "175" ;
-	schema:description "Burgerlijke stand Gemeente Sittard, 1798-1939" ;
-	schema:inLanguage "nl-NL" ;
-	schema:keywords "inventaris" ;
-	schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC> ; 
+anl:dataset_NL-StdEHC_175 a schema:Dataset;
+	schema:name "175";
+	schema:description "Burgerlijke stand Gemeente Sittard, 1798-1939";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
-		a schema:DataDownload ;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_175_1_EAD.xml?format=file> ;
-		schema:encodingFormat "text/xml" ;
-		schema:dateModified "2018-05-17"^^schema:Date ;
-		schema:contentSize 369688 ;
-		schema:description "XML bestand volgens EAD model" ;
-	] .
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_175_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-05-17";
+		schema:contentSize 369688;
+		schema:description "XML bestand volgens EAD model";
+	].
 
-<https://www.archieven.nl/id/datacatalog_NL-StdEHC>
-	a schema:DataCatalog ;
-	schema:name "Dataset catalogus van de open data gepubliceerd op archieven.nl van Archief De Domijnen" ;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC> ;
-	schema:dataset <https://www.archieven.nl/id/dataset_NL-StdEHC_104>, <https://www.archieven.nl/id/dataset_NL-StdEHC_106>, <https://www.archieven.nl/id/dataset_NL-StdEHC_106.1138>, <https://www.archieven.nl/id/dataset_NL-StdEHC_106_1150>, <https://www.archieven.nl/id/dataset_NL-StdEHC_106_1152>, <https://www.archieven.nl/id/dataset_NL-StdEHC_111>, <https://www.archieven.nl/id/dataset_NL-StdEHC_116>, <https://www.archieven.nl/id/dataset_NL-StdEHC_121>, <https://www.archieven.nl/id/dataset_NL-StdEHC_123>, <https://www.archieven.nl/id/dataset_NL-StdEHC_124>, <https://www.archieven.nl/id/dataset_NL-StdEHC_133>, <https://www.archieven.nl/id/dataset_NL-StdEHC_133.145>, <https://www.archieven.nl/id/dataset_NL-StdEHC_133.146>, <https://www.archieven.nl/id/dataset_NL-StdEHC_134>, <https://www.archieven.nl/id/dataset_NL-StdEHC_138>, <https://www.archieven.nl/id/dataset_NL-StdEHC_140>, <https://www.archieven.nl/id/dataset_NL-StdEHC_149>, <https://www.archieven.nl/id/dataset_NL-StdEHC_150.1197>, <https://www.archieven.nl/id/dataset_NL-StdEHC_155>, <https://www.archieven.nl/id/dataset_NL-StdEHC_158>, <https://www.archieven.nl/id/dataset_NL-StdEHC_175> .
+anl:datacatalog_NL-StdEHC a schema:DataCatalog;
+	schema:name "Dataset catalogus van de open data gepubliceerd op archieven.nl van Archief De Domijnen";
+	schema:publisher anl:organisation_NL-StdEHC;
+	schema:dataset anl:dataset_NL-StdEHC_104, anl:dataset_NL-StdEHC_106, anl:dataset_NL-StdEHC_106_1138, anl:dataset_NL-StdEHC_106_1150, anl:dataset_NL-StdEHC_106_1152, anl:dataset_NL-StdEHC_111, anl:dataset_NL-StdEHC_116, anl:dataset_NL-StdEHC_121, anl:dataset_NL-StdEHC_123, anl:dataset_NL-StdEHC_124, anl:dataset_NL-StdEHC_133, anl:dataset_NL-StdEHC_133_145, anl:dataset_NL-StdEHC_133_146, anl:dataset_NL-StdEHC_134, anl:dataset_NL-StdEHC_138, anl:dataset_NL-StdEHC_140, anl:dataset_NL-StdEHC_149, anl:dataset_NL-StdEHC_150_1197, anl:dataset_NL-StdEHC_155, anl:dataset_NL-StdEHC_158, anl:dataset_NL-StdEHC_175.
 
-<https://www.archieven.nl/id/organisation_NL-StdEHC> a schema:Organization ;
-	schema:identifer "NL-StdEHC" ;
-	schema:name "Archief De Domijnen" ;
-	schema:url "https://www.dedomijnen.nl/" ;
-	schema:address [ a schema:PostalAddress ; schema:addressLocality "Sittard" ] . 
+anl:organisation_NL-StdEHC a schema:Organization;
+	schema:identifer "NL-StdEHC";
+	schema:name "Archief De Domijnen";
+	schema:url "https://www.dedomijnen.nl/";
+	schema:address [ a schema:PostalAddress; schema:addressLocality "Sittard" ].
