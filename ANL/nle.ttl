@@ -1117,8 +1117,8 @@ anl:dataset_NL-LlsHFA_0188 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-nle/mi/NL-LlsHFA_0188_14_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-02";
-		schema:contentSize 2500211;
+		schema:dateModified "2021-12-01";
+		schema:contentSize 2500166;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -1185,8 +1185,8 @@ anl:dataset_NL-LlsHFA_0225 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-nle/mi/NL-LlsHFA_0225_14_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-12-15";
-		schema:contentSize 479392;
+		schema:dateModified "2021-12-03";
+		schema:contentSize 380267;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -1236,8 +1236,8 @@ anl:dataset_NL-LlsHFA_0230 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-nle/mi/NL-LlsHFA_0230_14_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-12-15";
-		schema:contentSize 50210432;
+		schema:dateModified "2021-12-03";
+		schema:contentSize 37368897;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -1861,7 +1861,7 @@ anl:dataset_NL-LlsHFA_0706 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-nle/mi/NL-LlsHFA_0706_1_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-26";
+		schema:dateModified "2021-12-03";
 		schema:contentSize 184494;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -3119,8 +3119,8 @@ anl:dataset_NL-LlsHFA_0706_097 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-nle/a2a/NL-LlsHFA_0706_097_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-12-15";
-		schema:contentSize 156595;
+		schema:dateModified "2021-12-03";
+		schema:contentSize 153706;
 		schema:description "XML bestand volgens A2A model";
 	].
 
@@ -3425,8 +3425,8 @@ anl:dataset_NL-LlsHFA_0706_115 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-nle/a2a/NL-LlsHFA_0706_115_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-07-21";
-		schema:contentSize 3654799;
+		schema:dateModified "2021-12-01";
+		schema:contentSize 3654870;
 		schema:description "XML bestand volgens A2A model";
 	].
 
@@ -7658,8 +7658,8 @@ anl:dataset_NL-LlsHFA_0711 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-nle/mi/NL-LlsHFA_0711_1_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-01-19";
-		schema:contentSize 8066;
+		schema:dateModified "2021-12-09";
+		schema:contentSize 8142;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -7675,8 +7675,8 @@ anl:dataset_NL-LlsHFA_0711_1 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-nle/a2a/NL-LlsHFA_0711_1_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-13";
-		schema:contentSize 8393389;
+		schema:dateModified "2021-12-09";
+		schema:contentSize 8230183;
 		schema:description "XML bestand volgens A2A model";
 	].
 
@@ -9018,7 +9018,7 @@ anl:dataset_NL-LlsHFA_0787 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-nle/mi/NL-LlsHFA_0787_1_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-08-07";
+		schema:dateModified "2021-12-15";
 		schema:contentSize 63777;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -9307,7 +9307,7 @@ anl:dataset_NL-LlsHFA_0787_082 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-nle/a2a/NL-LlsHFA_0787_082_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-01-13";
+		schema:dateModified "2021-12-15";
 		schema:contentSize 131331;
 		schema:description "XML bestand volgens A2A model";
 	].

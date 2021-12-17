@@ -15787,7 +15787,7 @@ anl:dataset_NL-ZdGAZ_OA-0200 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0200_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-12-02";
+		schema:dateModified "2021-12-16";
 		schema:contentSize 49698077;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -15804,7 +15804,7 @@ anl:dataset_NL-ZdGAZ_OA-0201 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0201_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-12-02";
+		schema:dateModified "2021-12-16";
 		schema:contentSize 7570548;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -15821,7 +15821,7 @@ anl:dataset_NL-ZdGAZ_OA-0202 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0202_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-12-15";
+		schema:dateModified "2021-12-16";
 		schema:contentSize 7978321;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -15838,7 +15838,7 @@ anl:dataset_NL-ZdGAZ_OA-0203 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0203_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-12-09";
+		schema:dateModified "2021-12-16";
 		schema:contentSize 18310467;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -15855,7 +15855,7 @@ anl:dataset_NL-ZdGAZ_OA-0204 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0204_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-12-02";
+		schema:dateModified "2021-12-16";
 		schema:contentSize 6750275;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -15872,7 +15872,7 @@ anl:dataset_NL-ZdGAZ_OA-0205 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0205_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-12-02";
+		schema:dateModified "2021-12-16";
 		schema:contentSize 8853000;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -15889,7 +15889,7 @@ anl:dataset_NL-ZdGAZ_OA-0206 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0206_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-12-02";
+		schema:dateModified "2021-12-16";
 		schema:contentSize 8528322;
 		schema:description "XML bestand volgens EAD model";
 	].

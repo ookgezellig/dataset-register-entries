@@ -1816,8 +1816,8 @@ anl:dataset_NL-StwGA_14_62 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_1462_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-23";
-		schema:contentSize 1732965;
+		schema:dateModified "2021-11-29";
+		schema:contentSize 1732962;
 		schema:description "XML bestand volgens MI model";
 	].
 

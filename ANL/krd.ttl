@@ -14,7 +14,7 @@ anl:dataset_NL-KrdGA_101 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101_1_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-09-17";
+		schema:dateModified "2021-12-15";
 		schema:contentSize 3675134;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -94,7 +94,7 @@ anl:dataset_NL-KrdGA_101_5578 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_101.5578_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-11-18";
+		schema:dateModified "2021-12-15";
 		schema:contentSize 1381206;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1166,8 +1166,8 @@ anl:dataset_NL-KrdGA_101_5655 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015655_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-07-09";
-		schema:contentSize 1972390;
+		schema:dateModified "2021-12-09";
+		schema:contentSize 1972386;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -1214,8 +1214,8 @@ anl:dataset_NL-KrdGA_101_5658 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gake/mi/NL-KrdGA_1015658_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-02-09";
-		schema:contentSize 1632047;
+		schema:dateModified "2021-12-09";
+		schema:contentSize 1632044;
 		schema:description "XML bestand volgens MI model";
 	].
 
