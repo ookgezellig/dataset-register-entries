@@ -1,4 +1,4 @@
-@prefix schema: <http://schema.org/>.
+@prefix schema: <https://schema.org/>.
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 @prefix anl: <https://www.archieven.nl/id/>.
@@ -14,7 +14,7 @@ anl:dataset_NL-StdEHC_104 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_104_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-06-07";
+		schema:dateModified "2021-03-24";
 		schema:contentSize 31037;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -30,7 +30,7 @@ anl:dataset_NL-StdEHC_106 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_106_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-03-22";
+		schema:dateModified "2021-12-07";
 		schema:contentSize 49688;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -46,7 +46,7 @@ anl:dataset_NL-StdEHC_106_1138 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/a2a/NL-StdEHC_106.1138_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-10-23";
+		schema:dateModified "2019-10-18";
 		schema:contentSize 919974;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -62,8 +62,8 @@ anl:dataset_NL-StdEHC_106_1150 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/a2a/NL-StdEHC_106_1150_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-03-22";
-		schema:contentSize 2357751;
+		schema:dateModified "2021-12-07";
+		schema:contentSize 2267129;
 		schema:description "XML bestand volgens A2A model";
 	].
 
@@ -78,7 +78,7 @@ anl:dataset_NL-StdEHC_106_1152 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/a2a/NL-StdEHC_106_1152_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-12-22";
+		schema:dateModified "2019-12-19";
 		schema:contentSize 2182786;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -126,8 +126,8 @@ anl:dataset_NL-StdEHC_121 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/mi/NL-StdEHC_121_1_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-05-30";
-		schema:contentSize 4022684;
+		schema:dateModified "2021-06-18";
+		schema:contentSize 4139190;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -174,7 +174,7 @@ anl:dataset_NL-StdEHC_133 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_133_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-01-10";
+		schema:dateModified "2021-02-02";
 		schema:contentSize 12747;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -190,7 +190,7 @@ anl:dataset_NL-StdEHC_133_145 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/a2a/NL-StdEHC_133145_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-01-10";
+		schema:dateModified "2021-01-07";
 		schema:contentSize 2562749;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -206,7 +206,7 @@ anl:dataset_NL-StdEHC_133_146 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/a2a/NL-StdEHC_133146_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-01-10";
+		schema:dateModified "2021-01-07";
 		schema:contentSize 724828;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -238,7 +238,7 @@ anl:dataset_NL-StdEHC_138 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_138_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-06";
+		schema:dateModified "2020-12-05";
 		schema:contentSize 22167;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -302,8 +302,8 @@ anl:dataset_NL-StdEHC_155 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_155_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
-		schema:contentSize 2021650;
+		schema:dateModified "2021-06-19";
+		schema:contentSize 1916623;
 		schema:description "XML bestand volgens EAD model";
 	].
 
