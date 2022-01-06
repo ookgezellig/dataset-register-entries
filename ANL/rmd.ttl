@@ -12,7 +12,7 @@ anl:dataset_NL-RmGA_1004-1 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-1_18_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-1_18_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-01-25";
 		schema:contentSize 7309;
@@ -29,7 +29,7 @@ anl:dataset_NL-RmGA_1004-10 a schema:Dataset;
 	schema:temporalCoverage: "1804.1834";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-10_18_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-10_18_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-01-28";
 		schema:contentSize 19639;
@@ -46,7 +46,7 @@ anl:dataset_NL-RmGA_1004-11 a schema:Dataset;
 	schema:temporalCoverage: "1819.1851";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-11_18_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-11_18_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-01-28";
 		schema:contentSize 1594432;
@@ -63,7 +63,7 @@ anl:dataset_NL-RmGA_1004-12 a schema:Dataset;
 	schema:temporalCoverage: "1825.1881";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-12_18_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-12_18_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-01-28";
 		schema:contentSize 41221479;
@@ -80,7 +80,7 @@ anl:dataset_NL-RmGA_1004-13 a schema:Dataset;
 	schema:temporalCoverage: "1834.1875";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-13_18_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-13_18_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-01-28";
 		schema:contentSize 19491745;
@@ -97,7 +97,7 @@ anl:dataset_NL-RmGA_1004-14 a schema:Dataset;
 	schema:temporalCoverage: "1843.1873";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-14_18_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-14_18_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-01-28";
 		schema:contentSize 10989872;
@@ -114,9 +114,9 @@ anl:dataset_NL-RmGA_1004-16 a schema:Dataset;
 	schema:temporalCoverage: "1870.1876";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1004-16_18_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1004-16_18_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-09";
+		schema:dateModified "2018-10-03";
 		schema:contentSize 2719086;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -131,7 +131,7 @@ anl:dataset_NL-RmGA_1004-17 a schema:Dataset;
 	schema:temporalCoverage: "1874.1882";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-17_18_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-17_18_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-01-28";
 		schema:contentSize 5014;
@@ -148,7 +148,7 @@ anl:dataset_NL-RmGA_1004-18 a schema:Dataset;
 	schema:temporalCoverage: "1876.1878";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-18_18_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-18_18_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-01-28";
 		schema:contentSize 739157;
@@ -165,7 +165,7 @@ anl:dataset_NL-RmGA_1004-2 a schema:Dataset;
 	schema:temporalCoverage: "1703.1705";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-2_18_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-2_18_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-01-25";
 		schema:contentSize 5290;
@@ -182,7 +182,7 @@ anl:dataset_NL-RmGA_1004-20 a schema:Dataset;
 	schema:temporalCoverage: "1878.1893";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-20_18_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-20_18_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-01-28";
 		schema:contentSize 2969051;
@@ -199,7 +199,7 @@ anl:dataset_NL-RmGA_1004-22 a schema:Dataset;
 	schema:temporalCoverage: "1883.1888";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-22_18_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-22_18_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-01-28";
 		schema:contentSize 1571524;
@@ -216,7 +216,7 @@ anl:dataset_NL-RmGA_1004-3 a schema:Dataset;
 	schema:temporalCoverage: "1728.1738";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-3_18_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-3_18_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-01-25";
 		schema:contentSize 20849;
@@ -233,7 +233,7 @@ anl:dataset_NL-RmGA_1004-4 a schema:Dataset;
 	schema:temporalCoverage: "1763.1793";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-4_18_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-4_18_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-01-28";
 		schema:contentSize 1287469;
@@ -250,7 +250,7 @@ anl:dataset_NL-RmGA_1004-5 a schema:Dataset;
 	schema:temporalCoverage: "1772.1798";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-5_18_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-5_18_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-01-28";
 		schema:contentSize 2065511;
@@ -267,7 +267,7 @@ anl:dataset_NL-RmGA_1004-6 a schema:Dataset;
 	schema:temporalCoverage: "1797.1798";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-6_18_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-6_18_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-01-28";
 		schema:contentSize 126312;
@@ -284,7 +284,7 @@ anl:dataset_NL-RmGA_1004-7 a schema:Dataset;
 	schema:temporalCoverage: "1798.1841";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-7_18_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-7_18_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-01-28";
 		schema:contentSize 3818402;
@@ -301,7 +301,7 @@ anl:dataset_NL-RmGA_1004-8 a schema:Dataset;
 	schema:temporalCoverage: "1801.1802";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-8_18_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_1004-8_18_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-01-28";
 		schema:contentSize 87717;
@@ -318,9 +318,9 @@ anl:dataset_NL-RmGA_1005_3793 a schema:Dataset;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3793_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3793_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-08-23";
+		schema:dateModified "2020-08-19";
 		schema:contentSize 4168670;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -335,9 +335,9 @@ anl:dataset_NL-RmGA_1005_3794 a schema:Dataset;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3794_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3794_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-08-23";
+		schema:dateModified "2020-08-19";
 		schema:contentSize 4143506;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -352,9 +352,9 @@ anl:dataset_NL-RmGA_1005_3795 a schema:Dataset;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3795_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3795_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-08-23";
+		schema:dateModified "2020-08-19";
 		schema:contentSize 3982002;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -896,9 +896,9 @@ anl:dataset_NL-RmGA_1005_3827 a schema:Dataset;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3827_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3827_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-02";
 		schema:contentSize 2229873;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -913,9 +913,9 @@ anl:dataset_NL-RmGA_1005_3828 a schema:Dataset;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3828_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3828_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-02";
 		schema:contentSize 2150562;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -930,9 +930,9 @@ anl:dataset_NL-RmGA_1005_3829 a schema:Dataset;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3829_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3829_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-02";
 		schema:contentSize 1253055;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -947,9 +947,9 @@ anl:dataset_NL-RmGA_1005_3830 a schema:Dataset;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3830_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3830_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-02";
 		schema:contentSize 2066845;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -964,9 +964,9 @@ anl:dataset_NL-RmGA_1005_3831 a schema:Dataset;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3831_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3831_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-02";
 		schema:contentSize 1917018;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -981,9 +981,9 @@ anl:dataset_NL-RmGA_1005_3832 a schema:Dataset;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3832_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3832_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2724126;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -998,9 +998,9 @@ anl:dataset_NL-RmGA_1005_3833 a schema:Dataset;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3833_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3833_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2087776;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1015,9 +1015,9 @@ anl:dataset_NL-RmGA_1005_3834 a schema:Dataset;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3834_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3834_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3106255;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1032,9 +1032,9 @@ anl:dataset_NL-RmGA_1005_3835 a schema:Dataset;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3835_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3835_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3518084;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1049,9 +1049,9 @@ anl:dataset_NL-RmGA_1005_3836 a schema:Dataset;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3836_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3836_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2597948;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1066,9 +1066,9 @@ anl:dataset_NL-RmGA_1005_3837 a schema:Dataset;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3837_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3837_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2771084;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1083,9 +1083,9 @@ anl:dataset_NL-RmGA_1005_3838 a schema:Dataset;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3838_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3838_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3146635;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1100,9 +1100,9 @@ anl:dataset_NL-RmGA_1005_3839 a schema:Dataset;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3839_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3839_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2473079;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1117,9 +1117,9 @@ anl:dataset_NL-RmGA_1005_3840 a schema:Dataset;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3840_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3840_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2228735;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1134,9 +1134,9 @@ anl:dataset_NL-RmGA_1005_3841 a schema:Dataset;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3841_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3841_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3085377;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1151,9 +1151,9 @@ anl:dataset_NL-RmGA_1005_3842 a schema:Dataset;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3842_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3842_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 8282;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1168,9 +1168,9 @@ anl:dataset_NL-RmGA_1005_3843 a schema:Dataset;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3843_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3843_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2880818;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1185,9 +1185,9 @@ anl:dataset_NL-RmGA_1005_3844 a schema:Dataset;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3844_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3844_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2642966;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1202,9 +1202,9 @@ anl:dataset_NL-RmGA_1005_3845 a schema:Dataset;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3845_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3845_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 219935;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1219,9 +1219,9 @@ anl:dataset_NL-RmGA_1005_3846 a schema:Dataset;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3846_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3846_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 1371594;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1236,9 +1236,9 @@ anl:dataset_NL-RmGA_1005_3847 a schema:Dataset;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3847_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3847_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2323878;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1253,9 +1253,9 @@ anl:dataset_NL-RmGA_1005_3848 a schema:Dataset;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3848_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3848_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2228426;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1270,9 +1270,9 @@ anl:dataset_NL-RmGA_1005_3849 a schema:Dataset;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3849_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3849_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2460757;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1287,9 +1287,9 @@ anl:dataset_NL-RmGA_1005_3850 a schema:Dataset;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3850_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3850_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2202109;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1304,9 +1304,9 @@ anl:dataset_NL-RmGA_1005_3851 a schema:Dataset;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3851_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3851_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2588108;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1321,9 +1321,9 @@ anl:dataset_NL-RmGA_1005_3852 a schema:Dataset;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3852_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3852_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3128933;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1338,9 +1338,9 @@ anl:dataset_NL-RmGA_1005_3853 a schema:Dataset;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3853_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3853_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3158199;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1355,9 +1355,9 @@ anl:dataset_NL-RmGA_1005_3854 a schema:Dataset;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3854_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3854_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3590872;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1372,9 +1372,9 @@ anl:dataset_NL-RmGA_1005_3855 a schema:Dataset;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3855_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3855_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3294795;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1389,9 +1389,9 @@ anl:dataset_NL-RmGA_1005_3856 a schema:Dataset;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3856_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3856_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3074904;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1406,9 +1406,9 @@ anl:dataset_NL-RmGA_1005_3857 a schema:Dataset;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3857_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3857_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 4795285;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1423,9 +1423,9 @@ anl:dataset_NL-RmGA_1005_3859 a schema:Dataset;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3859_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3859_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3785998;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1440,9 +1440,9 @@ anl:dataset_NL-RmGA_1005_3860 a schema:Dataset;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3860_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3860_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 1942490;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1457,9 +1457,9 @@ anl:dataset_NL-RmGA_1005_3861 a schema:Dataset;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3861_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3861_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3545568;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1474,9 +1474,9 @@ anl:dataset_NL-RmGA_1005_3862 a schema:Dataset;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3862_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3862_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 1037459;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1491,9 +1491,9 @@ anl:dataset_NL-RmGA_1005_3863 a schema:Dataset;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3863_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3863_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3531641;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1508,9 +1508,9 @@ anl:dataset_NL-RmGA_1005_3864 a schema:Dataset;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3864_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3864_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2459199;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1525,9 +1525,9 @@ anl:dataset_NL-RmGA_1005_3865 a schema:Dataset;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3865_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3865_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 1792309;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1542,9 +1542,9 @@ anl:dataset_NL-RmGA_1005_3866 a schema:Dataset;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3866_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3866_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2393610;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1559,9 +1559,9 @@ anl:dataset_NL-RmGA_1005_3867 a schema:Dataset;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3867_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3867_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 4203140;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1576,9 +1576,9 @@ anl:dataset_NL-RmGA_1005_3868 a schema:Dataset;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3868_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3868_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 1472935;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1593,9 +1593,9 @@ anl:dataset_NL-RmGA_1005_3869 a schema:Dataset;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3869_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3869_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 1986316;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1610,9 +1610,9 @@ anl:dataset_NL-RmGA_1005_3870 a schema:Dataset;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3870_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3870_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 7161130;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1627,9 +1627,9 @@ anl:dataset_NL-RmGA_1005_3871 a schema:Dataset;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3871_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3871_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 137239;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1644,9 +1644,9 @@ anl:dataset_NL-RmGA_1005_3872 a schema:Dataset;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3872_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3872_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3230249;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1661,9 +1661,9 @@ anl:dataset_NL-RmGA_1005_3873 a schema:Dataset;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3873_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3873_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2747788;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1678,9 +1678,9 @@ anl:dataset_NL-RmGA_1005_3875 a schema:Dataset;
 	schema:temporalCoverage: "1916.1936";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3875_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3875_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3082170;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1695,9 +1695,9 @@ anl:dataset_NL-RmGA_1005_3876 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3876_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3876_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3095264;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1712,9 +1712,9 @@ anl:dataset_NL-RmGA_1005_3877 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3877_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3877_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3642343;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1729,9 +1729,9 @@ anl:dataset_NL-RmGA_1005_3878 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3878_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3878_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3829809;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1746,9 +1746,9 @@ anl:dataset_NL-RmGA_1005_3879 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3879_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3879_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3667225;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1763,9 +1763,9 @@ anl:dataset_NL-RmGA_1005_3880 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3880_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3880_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2998653;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1780,9 +1780,9 @@ anl:dataset_NL-RmGA_1005_3881 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3881_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3881_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2891371;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1797,9 +1797,9 @@ anl:dataset_NL-RmGA_1005_3882 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3882_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3882_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3320725;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1814,9 +1814,9 @@ anl:dataset_NL-RmGA_1005_3883 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3883_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3883_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3013999;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1831,9 +1831,9 @@ anl:dataset_NL-RmGA_1005_3884 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3884_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3884_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2814738;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1848,9 +1848,9 @@ anl:dataset_NL-RmGA_1005_3885 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3885_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3885_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2958591;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1865,9 +1865,9 @@ anl:dataset_NL-RmGA_1005_3886 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3886_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3886_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3542046;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1882,9 +1882,9 @@ anl:dataset_NL-RmGA_1005_3887 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3887_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3887_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3565500;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1899,7 +1899,7 @@ anl:dataset_NL-RmGA_1005_3888 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3888_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3888_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-03-09";
 		schema:contentSize 3265681;
@@ -1916,9 +1916,9 @@ anl:dataset_NL-RmGA_1005_3889 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3889_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3889_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3993986;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1933,9 +1933,9 @@ anl:dataset_NL-RmGA_1005_3890 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3890_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3890_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3267170;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1950,9 +1950,9 @@ anl:dataset_NL-RmGA_1005_3891 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3891_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3891_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3478095;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1967,9 +1967,9 @@ anl:dataset_NL-RmGA_1005_3892 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3892_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3892_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3682075;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1984,9 +1984,9 @@ anl:dataset_NL-RmGA_1005_3893 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3893_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3893_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3547152;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2001,9 +2001,9 @@ anl:dataset_NL-RmGA_1005_3894 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3894_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3894_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2775677;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2018,9 +2018,9 @@ anl:dataset_NL-RmGA_1005_3895 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3895_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3895_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 4254809;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2035,9 +2035,9 @@ anl:dataset_NL-RmGA_1005_3896 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3896_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3896_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3484946;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2052,9 +2052,9 @@ anl:dataset_NL-RmGA_1005_3897 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3897_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3897_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3474845;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2069,9 +2069,9 @@ anl:dataset_NL-RmGA_1005_3898 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3898_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3898_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2966121;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2086,9 +2086,9 @@ anl:dataset_NL-RmGA_1005_3899 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3899_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3899_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2997960;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2103,9 +2103,9 @@ anl:dataset_NL-RmGA_1005_3900 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3900_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3900_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2604840;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2120,9 +2120,9 @@ anl:dataset_NL-RmGA_1005_3901 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3901_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3901_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2756962;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2137,9 +2137,9 @@ anl:dataset_NL-RmGA_1005_3902 a schema:Dataset;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3902_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3902_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 2279202;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2154,9 +2154,9 @@ anl:dataset_NL-RmGA_1005_3904 a schema:Dataset;
 	schema:temporalCoverage: "1900.1928";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3904_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3904_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 6112477;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2171,9 +2171,9 @@ anl:dataset_NL-RmGA_1005_3905 a schema:Dataset;
 	schema:temporalCoverage: "1903.1928";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3905_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3905_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 7103881;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2188,9 +2188,9 @@ anl:dataset_NL-RmGA_1005_3906 a schema:Dataset;
 	schema:temporalCoverage: "1910.1936";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3906_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3906_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 1002416;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2205,9 +2205,9 @@ anl:dataset_NL-RmGA_1005_3907 a schema:Dataset;
 	schema:temporalCoverage: "1900.1900";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3907_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3907_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 3099023;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2222,9 +2222,9 @@ anl:dataset_NL-RmGA_1005_3908 a schema:Dataset;
 	schema:temporalCoverage: "1905.1905";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3908_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3908_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 6167205;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2239,9 +2239,9 @@ anl:dataset_NL-RmGA_1005_3909 a schema:Dataset;
 	schema:temporalCoverage: "1921.1921";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3909_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3909_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-05-03";
 		schema:contentSize 5817509;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2256,9 +2256,9 @@ anl:dataset_NL-RmGA_1007_478 a schema:Dataset;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_478_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_478_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-04-19";
+		schema:dateModified "2020-04-16";
 		schema:contentSize 3303118;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2273,9 +2273,9 @@ anl:dataset_NL-RmGA_1007_479 a schema:Dataset;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_479_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_479_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 3083507;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2290,9 +2290,9 @@ anl:dataset_NL-RmGA_1007_481 a schema:Dataset;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_481_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_481_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 3940720;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2307,9 +2307,9 @@ anl:dataset_NL-RmGA_1007_482 a schema:Dataset;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_482_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_482_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 4664713;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2324,9 +2324,9 @@ anl:dataset_NL-RmGA_1007_483 a schema:Dataset;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_483_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_483_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 5034724;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2340,9 +2340,9 @@ anl:dataset_NL-RmGA_1007_488 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_488_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_488_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 3211312;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2356,9 +2356,9 @@ anl:dataset_NL-RmGA_1007_489 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_489_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_489_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 3067201;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2372,9 +2372,9 @@ anl:dataset_NL-RmGA_1007_490 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_490_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_490_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 3107600;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2388,9 +2388,9 @@ anl:dataset_NL-RmGA_1007_491 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_491_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_491_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 3130566;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2404,9 +2404,9 @@ anl:dataset_NL-RmGA_1007_492 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_492_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_492_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 2529473;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2421,9 +2421,9 @@ anl:dataset_NL-RmGA_1007_504 a schema:Dataset;
 	schema:temporalCoverage: "1901.1935";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_504_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_504_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 2232177;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2437,9 +2437,9 @@ anl:dataset_NL-RmGA_1007_505 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_505_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_505_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 23584;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2454,9 +2454,9 @@ anl:dataset_NL-RmGA_1007_506 a schema:Dataset;
 	schema:temporalCoverage: "1936.1938";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_506_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1007_506_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 380609;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2471,9 +2471,9 @@ anl:dataset_NL-RmGA_1008_316 a schema:Dataset;
 	schema:temporalCoverage: "1850.1859";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1008_316_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1008_316_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 2264278;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2488,9 +2488,9 @@ anl:dataset_NL-RmGA_1008_317 a schema:Dataset;
 	schema:temporalCoverage: "1860.1869";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1008_317_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1008_317_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 2359806;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2505,9 +2505,9 @@ anl:dataset_NL-RmGA_1008_318 a schema:Dataset;
 	schema:temporalCoverage: "1870.1879";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1008_318_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1008_318_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 2369275;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2522,9 +2522,9 @@ anl:dataset_NL-RmGA_1008_319 a schema:Dataset;
 	schema:temporalCoverage: "1880.1889";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1008_319_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1008_319_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 2485665;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2539,9 +2539,9 @@ anl:dataset_NL-RmGA_1008_320 a schema:Dataset;
 	schema:temporalCoverage: "1890.1899";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1008_320_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1008_320_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 2535274;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2556,9 +2556,9 @@ anl:dataset_NL-RmGA_1008_321 a schema:Dataset;
 	schema:temporalCoverage: "1900.1909";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1008_321_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1008_321_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 5036521;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2573,9 +2573,9 @@ anl:dataset_NL-RmGA_1008_322 a schema:Dataset;
 	schema:temporalCoverage: "1910.1919";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1008_322_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1008_322_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 3317220;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2590,9 +2590,9 @@ anl:dataset_NL-RmGA_1008_323 a schema:Dataset;
 	schema:temporalCoverage: "1920.1929";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1008_323_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1008_323_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 3690577;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2606,9 +2606,9 @@ anl:dataset_NL-RmGA_1013_1436 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1436_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1436_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 2932708;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2622,9 +2622,9 @@ anl:dataset_NL-RmGA_1013_1437 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1437_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1437_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 3785376;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2638,9 +2638,9 @@ anl:dataset_NL-RmGA_1013_1438 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1438_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1438_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 5828509;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2654,9 +2654,9 @@ anl:dataset_NL-RmGA_1013_1440 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1440_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1440_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 3919605;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2670,9 +2670,9 @@ anl:dataset_NL-RmGA_1013_1441 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1441_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1441_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 2890072;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2686,9 +2686,9 @@ anl:dataset_NL-RmGA_1013_1442 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1442_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1442_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 2018021;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2702,9 +2702,9 @@ anl:dataset_NL-RmGA_1013_1443 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1443_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1443_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 1946735;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2718,9 +2718,9 @@ anl:dataset_NL-RmGA_1013_1444 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1444_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1444_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 1661889;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2734,9 +2734,9 @@ anl:dataset_NL-RmGA_1013_1445 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1445_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1445_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 1522105;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2750,9 +2750,9 @@ anl:dataset_NL-RmGA_1013_1446 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1446_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1446_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 3836478;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2766,9 +2766,9 @@ anl:dataset_NL-RmGA_1013_1447 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1447_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1447_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 1947021;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2782,9 +2782,9 @@ anl:dataset_NL-RmGA_1013_1448 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1448_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1448_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 3812539;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2798,9 +2798,9 @@ anl:dataset_NL-RmGA_1013_1449 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1449_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1449_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 3103595;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2814,9 +2814,9 @@ anl:dataset_NL-RmGA_1013_1450 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1450_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1450_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 3123467;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2830,9 +2830,9 @@ anl:dataset_NL-RmGA_1013_1451 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1451_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1451_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-29";
 		schema:contentSize 4180508;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2846,9 +2846,9 @@ anl:dataset_NL-RmGA_1013_1452 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1452_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1013_1452_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-01-17";
+		schema:dateModified "2015-04-30";
 		schema:contentSize 1862036;
 		schema:description "XML bestand volgens A2A model";
 	].

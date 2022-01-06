@@ -49,7 +49,7 @@ anl:dataset_NL-HrlRi_015-03_134 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/a2a/NL-HrlRi_015-03.134_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-07-21";
+		schema:dateModified "2019-07-17";
 		schema:contentSize 5011482;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -695,7 +695,7 @@ anl:dataset_NL-HrlRi_025 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/ead/NL-HrlRi_025_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-09-15";
+		schema:dateModified "2019-09-13";
 		schema:contentSize 679509;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -984,7 +984,7 @@ anl:dataset_NL-HrlRi_116_107 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.107_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-02-03";
+		schema:dateModified "2019-02-02";
 		schema:contentSize 1346906;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1018,7 +1018,7 @@ anl:dataset_NL-HrlRi_116_109 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116109_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-02-23";
+		schema:dateModified "2020-02-21";
 		schema:contentSize 1436029;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1035,7 +1035,7 @@ anl:dataset_NL-HrlRi_116_110 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.110_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 990698;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1102,7 +1102,7 @@ anl:dataset_NL-HrlRi_116_114 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116114_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-02-23";
+		schema:dateModified "2020-02-21";
 		schema:contentSize 478607;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1323,7 +1323,7 @@ anl:dataset_NL-HrlRi_116_2 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.2_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-11-19";
+		schema:dateModified "2017-11-16";
 		schema:contentSize 25666;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1374,7 +1374,7 @@ anl:dataset_NL-HrlRi_116_224 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.224_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 625111;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1391,7 +1391,7 @@ anl:dataset_NL-HrlRi_116_225 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.225_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 729249;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1442,7 +1442,7 @@ anl:dataset_NL-HrlRi_116_228 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.228_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-08-25";
+		schema:dateModified "2019-08-24";
 		schema:contentSize 239173;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1595,7 +1595,7 @@ anl:dataset_NL-HrlRi_116_238 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/a2a/NL-HrlRi_116.238_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-07-21";
+		schema:dateModified "2019-07-16";
 		schema:contentSize 949850;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1629,7 +1629,7 @@ anl:dataset_NL-HrlRi_116_240 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/a2a/NL-HrlRi_116240_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-02-23";
+		schema:dateModified "2020-02-21";
 		schema:contentSize 843292;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1680,7 +1680,7 @@ anl:dataset_NL-HrlRi_116_243 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.243_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 369010;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1697,7 +1697,7 @@ anl:dataset_NL-HrlRi_116_244 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/a2a/NL-HrlRi_116244_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-02-23";
+		schema:dateModified "2020-02-21";
 		schema:contentSize 1060045;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1884,7 +1884,7 @@ anl:dataset_NL-HrlRi_116_337 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.337_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-07-29";
+		schema:dateModified "2018-07-13";
 		schema:contentSize 251724;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1969,7 +1969,7 @@ anl:dataset_NL-HrlRi_116_350 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.350_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-07-29";
+		schema:dateModified "2018-07-13";
 		schema:contentSize 575380;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2258,7 +2258,7 @@ anl:dataset_NL-HrlRi_116_424 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.424_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-07-29";
+		schema:dateModified "2018-07-13";
 		schema:contentSize 456133;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2309,7 +2309,7 @@ anl:dataset_NL-HrlRi_116_427 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.427_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-11-19";
+		schema:dateModified "2017-11-16";
 		schema:contentSize 698803;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2343,7 +2343,7 @@ anl:dataset_NL-HrlRi_116_429 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.429_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-11-19";
+		schema:dateModified "2017-11-16";
 		schema:contentSize 730258;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2377,7 +2377,7 @@ anl:dataset_NL-HrlRi_116_431 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.431_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 768247;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2530,7 +2530,7 @@ anl:dataset_NL-HrlRi_116_440 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.440_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-18";
 		schema:contentSize 706272;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2547,7 +2547,7 @@ anl:dataset_NL-HrlRi_116_441 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.441_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-18";
 		schema:contentSize 687958;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2632,7 +2632,7 @@ anl:dataset_NL-HrlRi_116_446 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.446_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-18";
 		schema:contentSize 536582;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2700,7 +2700,7 @@ anl:dataset_NL-HrlRi_116_474 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.474_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-07-21";
+		schema:dateModified "2019-07-17";
 		schema:contentSize 636534;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2802,7 +2802,7 @@ anl:dataset_NL-HrlRi_116_480 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.480_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 594851;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2819,7 +2819,7 @@ anl:dataset_NL-HrlRi_116_481 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.481_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-07-29";
+		schema:dateModified "2018-07-13";
 		schema:contentSize 627255;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2836,7 +2836,7 @@ anl:dataset_NL-HrlRi_116_482 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.482_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 661905;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2955,7 +2955,7 @@ anl:dataset_NL-HrlRi_116_489 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/a2a/NL-HrlRi_116.489_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-07-21";
+		schema:dateModified "2019-07-17";
 		schema:contentSize 1333517;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2989,7 +2989,7 @@ anl:dataset_NL-HrlRi_116_491 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.491_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-07-29";
+		schema:dateModified "2018-07-13";
 		schema:contentSize 613577;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -3040,7 +3040,7 @@ anl:dataset_NL-HrlRi_116_494 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.494_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 621856;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -3074,7 +3074,7 @@ anl:dataset_NL-HrlRi_116_496 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.496_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-07-21";
+		schema:dateModified "2019-07-17";
 		schema:contentSize 606196;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -3091,7 +3091,7 @@ anl:dataset_NL-HrlRi_116_497 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.497_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 411143;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -3159,7 +3159,7 @@ anl:dataset_NL-HrlRi_116_500 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.500_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 302056;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -3176,7 +3176,7 @@ anl:dataset_NL-HrlRi_116_501 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.501_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-11-19";
+		schema:dateModified "2017-11-16";
 		schema:contentSize 261723;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -3261,7 +3261,7 @@ anl:dataset_NL-HrlRi_116_506 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/a2a/NL-HrlRi_116.506_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-07-21";
+		schema:dateModified "2019-07-17";
 		schema:contentSize 395914;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3295,7 +3295,7 @@ anl:dataset_NL-HrlRi_116_543 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.543_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 934095;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -3329,7 +3329,7 @@ anl:dataset_NL-HrlRi_116_548 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.548_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-11-19";
+		schema:dateModified "2017-11-16";
 		schema:contentSize 236947;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -3346,7 +3346,7 @@ anl:dataset_NL-HrlRi_116_549 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.549_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-11-19";
+		schema:dateModified "2017-11-16";
 		schema:contentSize 335967;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -3414,7 +3414,7 @@ anl:dataset_NL-HrlRi_116_553 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.553_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-11-19";
+		schema:dateModified "2017-11-16";
 		schema:contentSize 403605;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -3584,7 +3584,7 @@ anl:dataset_NL-HrlRi_116_573 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.573_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-11-19";
+		schema:dateModified "2017-11-16";
 		schema:contentSize 863455;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -3601,7 +3601,7 @@ anl:dataset_NL-HrlRi_116_574 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.574_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-11-19";
+		schema:dateModified "2017-11-16";
 		schema:contentSize 863579;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -3635,7 +3635,7 @@ anl:dataset_NL-HrlRi_116_576 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.576_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-11-19";
+		schema:dateModified "2017-11-16";
 		schema:contentSize 923011;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -3686,7 +3686,7 @@ anl:dataset_NL-HrlRi_116_579 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.579_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-11-19";
+		schema:dateModified "2017-11-16";
 		schema:contentSize 822665;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -3703,7 +3703,7 @@ anl:dataset_NL-HrlRi_116_58 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/a2a/NL-HrlRi_11658_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-02-23";
+		schema:dateModified "2020-02-21";
 		schema:contentSize 1765246;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3720,7 +3720,7 @@ anl:dataset_NL-HrlRi_116_580 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.580_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-07-21";
+		schema:dateModified "2019-07-17";
 		schema:contentSize 554046;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -3737,7 +3737,7 @@ anl:dataset_NL-HrlRi_116_581 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.581_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-11-19";
+		schema:dateModified "2017-11-16";
 		schema:contentSize 571144;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -3754,7 +3754,7 @@ anl:dataset_NL-HrlRi_116_582 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.582_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-11-19";
+		schema:dateModified "2017-11-16";
 		schema:contentSize 714862;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -3839,7 +3839,7 @@ anl:dataset_NL-HrlRi_116_597 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.597_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 221132;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -3873,7 +3873,7 @@ anl:dataset_NL-HrlRi_116_599 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.599_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-11-19";
+		schema:dateModified "2017-11-16";
 		schema:contentSize 135880;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -4196,7 +4196,7 @@ anl:dataset_NL-HrlRi_116_623 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.623_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-07-21";
+		schema:dateModified "2019-07-17";
 		schema:contentSize 640448;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -4655,7 +4655,7 @@ anl:dataset_NL-HrlRi_116_648 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.648_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-12-09";
+		schema:dateModified "2018-12-05";
 		schema:contentSize 288078;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -4689,7 +4689,7 @@ anl:dataset_NL-HrlRi_116_65 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.65_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-07-29";
+		schema:dateModified "2018-07-13";
 		schema:contentSize 1093768;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -4893,7 +4893,7 @@ anl:dataset_NL-HrlRi_116_660 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.660_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-11-19";
+		schema:dateModified "2017-11-16";
 		schema:contentSize 334935;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -5165,7 +5165,7 @@ anl:dataset_NL-HrlRi_116_696 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/a2a/NL-HrlRi_116.696_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-07-21";
+		schema:dateModified "2019-07-17";
 		schema:contentSize 1288958;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5300,7 +5300,7 @@ anl:dataset_NL-HrlRi_116_703 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.703_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-11-19";
+		schema:dateModified "2017-11-16";
 		schema:contentSize 440869;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -5436,7 +5436,7 @@ anl:dataset_NL-HrlRi_116_711 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.711_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-11-19";
+		schema:dateModified "2017-11-16";
 		schema:contentSize 203013;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -5504,7 +5504,7 @@ anl:dataset_NL-HrlRi_116_715 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.715_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 316717;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -5521,7 +5521,7 @@ anl:dataset_NL-HrlRi_116_716 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.716_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 343808;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -5572,7 +5572,7 @@ anl:dataset_NL-HrlRi_116_719 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.719_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-11-19";
+		schema:dateModified "2017-11-16";
 		schema:contentSize 474823;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -5623,7 +5623,7 @@ anl:dataset_NL-HrlRi_116_742 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/a2a/NL-HrlRi_116.742_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-04-09";
+		schema:dateModified "2017-04-05";
 		schema:contentSize 636269;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5776,7 +5776,7 @@ anl:dataset_NL-HrlRi_116_9 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_116.9_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-11-19";
+		schema:dateModified "2017-11-16";
 		schema:contentSize 55922;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -5810,7 +5810,7 @@ anl:dataset_NL-HrlRi_137_196 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.196_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-07-21";
+		schema:dateModified "2019-07-16";
 		schema:contentSize 196828;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -5827,7 +5827,7 @@ anl:dataset_NL-HrlRi_137_197 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.197_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-08-25";
+		schema:dateModified "2019-08-20";
 		schema:contentSize 791376;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -5861,7 +5861,7 @@ anl:dataset_NL-HrlRi_137_199 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.199_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-09-29";
+		schema:dateModified "2019-09-26";
 		schema:contentSize 1102225;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -5929,7 +5929,7 @@ anl:dataset_NL-HrlRi_137_203 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.203_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-07-21";
+		schema:dateModified "2019-07-16";
 		schema:contentSize 1212056;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -5946,7 +5946,7 @@ anl:dataset_NL-HrlRi_137_204 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.204_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-07-21";
+		schema:dateModified "2019-07-16";
 		schema:contentSize 1340355;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -5963,7 +5963,7 @@ anl:dataset_NL-HrlRi_137_205 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.205_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-07-21";
+		schema:dateModified "2019-07-16";
 		schema:contentSize 1343200;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -5980,7 +5980,7 @@ anl:dataset_NL-HrlRi_137_206 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.206_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-07-21";
+		schema:dateModified "2019-07-16";
 		schema:contentSize 1097093;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -6014,7 +6014,7 @@ anl:dataset_NL-HrlRi_137_208 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.208_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-02-03";
+		schema:dateModified "2019-02-02";
 		schema:contentSize 979085;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -6031,7 +6031,7 @@ anl:dataset_NL-HrlRi_137_209 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.209_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-02-03";
+		schema:dateModified "2019-02-02";
 		schema:contentSize 1080677;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -6065,7 +6065,7 @@ anl:dataset_NL-HrlRi_137_210 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.210_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-02-03";
+		schema:dateModified "2019-02-02";
 		schema:contentSize 1075834;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -6082,7 +6082,7 @@ anl:dataset_NL-HrlRi_137_211 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.211_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-08-25";
+		schema:dateModified "2019-08-21";
 		schema:contentSize 1014787;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -6116,7 +6116,7 @@ anl:dataset_NL-HrlRi_137_213 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.213_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-08-25";
+		schema:dateModified "2019-08-20";
 		schema:contentSize 1314724;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -6133,7 +6133,7 @@ anl:dataset_NL-HrlRi_137_214 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.214_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-08-25";
+		schema:dateModified "2019-08-20";
 		schema:contentSize 1316051;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -6150,7 +6150,7 @@ anl:dataset_NL-HrlRi_137_215 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.215_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 1312507;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -6167,7 +6167,7 @@ anl:dataset_NL-HrlRi_137_216 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.216_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 254721;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -6184,7 +6184,7 @@ anl:dataset_NL-HrlRi_137_217 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.217_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 1037240;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -6201,7 +6201,7 @@ anl:dataset_NL-HrlRi_137_218 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.218_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 576577;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -6218,7 +6218,7 @@ anl:dataset_NL-HrlRi_137_219 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.219_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 726842;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -6252,7 +6252,7 @@ anl:dataset_NL-HrlRi_137_220 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.220_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 874772;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -6269,7 +6269,7 @@ anl:dataset_NL-HrlRi_137_221 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.221_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 570182;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -6286,7 +6286,7 @@ anl:dataset_NL-HrlRi_137_222 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.222_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 1242017;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -6524,7 +6524,7 @@ anl:dataset_NL-HrlRi_137_235 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.235_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 514347;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -6541,7 +6541,7 @@ anl:dataset_NL-HrlRi_137_236 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.236_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-19";
 		schema:contentSize 238006;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -6558,7 +6558,7 @@ anl:dataset_NL-HrlRi_137_237 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_137.237_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2017-11-19";
+		schema:dateModified "2017-11-16";
 		schema:contentSize 228601;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -7058,8 +7058,8 @@ anl:dataset_NL-HrlRi_353 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_353_14_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-02-23";
-		schema:contentSize 7388406;
+		schema:dateModified "2022-01-01";
+		schema:contentSize 7687613;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -7091,7 +7091,7 @@ anl:dataset_NL-HrlRi_563a a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-rht/mi/NL-HrlRi_563a_1_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-10-21";
+		schema:dateModified "2018-10-15";
 		schema:contentSize 4138;
 		schema:description "XML bestand volgens MI model";
 	].

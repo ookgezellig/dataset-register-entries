@@ -319,8 +319,8 @@ anl:dataset_NL-ZdGAZ_BIBLIOTHEEK a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/mi/NL-ZdGAZ_BIBLIOTHEEK_14_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-13";
-		schema:contentSize 37692612;
+		schema:dateModified "2022-01-04";
+		schema:contentSize 37770605;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -335,7 +335,7 @@ anl:dataset_NL-ZdGAZ_BIDPRENTJES a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/mi/NL-ZdGAZ_BIDPRENTJES_14_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-05";
+		schema:dateModified "2022-01-03";
 		schema:contentSize 1767085;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1133,8 +1133,8 @@ anl:dataset_NL-ZdGAZ_KA-0037 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_KA-0037_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-03-08";
-		schema:contentSize 2034;
+		schema:dateModified "2021-12-23";
+		schema:contentSize 60891;
 		schema:description "XML bestand volgens EAD model";
 	].
 
@@ -1591,8 +1591,8 @@ anl:dataset_NL-ZdGAZ_OA-0006 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0006_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-18";
-		schema:contentSize 169680;
+		schema:dateModified "2021-12-29";
+		schema:contentSize 181031;
 		schema:description "XML bestand volgens EAD model";
 	].
 
@@ -2870,8 +2870,8 @@ anl:dataset_NL-ZdGAZ_OA-0052 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0052_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2018-12-28";
-		schema:contentSize 906572;
+		schema:dateModified "2021-12-24";
+		schema:contentSize 933342;
 		schema:description "XML bestand volgens EAD model";
 	].
 
@@ -3097,7 +3097,7 @@ anl:dataset_NL-ZdGAZ_OA-0064 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_OA-0065 a schema:Dataset;
 	schema:name "OA-0065";
-	schema:description "Plaatselijk SteuncomitÃÂ© Zaandijk tijdens Eerste Wereldoorlog";
+	schema:description "Plaatselijk SteuncomitÃ© Zaandijk tijdens Eerste Wereldoorlog";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -3216,7 +3216,7 @@ anl:dataset_NL-ZdGAZ_OA-0072 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_OA-0073 a schema:Dataset;
 	schema:name "OA-0073";
-	schema:description "Fonds ter aanmoediging en ondersteuning van de gewapende dienst in Nederlanden, plaatselijk comitÃÂ© te Zaandijk";
+	schema:description "Fonds ter aanmoediging en ondersteuning van de gewapende dienst in Nederlanden, plaatselijk comitÃ© te Zaandijk";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -3503,7 +3503,7 @@ anl:dataset_NL-ZdGAZ_OA-0088 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_OA-0090 a schema:Dataset;
 	schema:name "OA-0090";
-	schema:description "Zaanse Commissie voor de HygiÃÂ«ne van het Milieu te Zaandam";
+	schema:description "Zaanse Commissie voor de HygiÃ«ne van het Milieu te Zaandam";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -3537,7 +3537,7 @@ anl:dataset_NL-ZdGAZ_OA-0092 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_OA-0093 a schema:Dataset;
 	schema:name "OA-0093";
-	schema:description "Zaanse Commissie voor de HygiÃÂ«ne van het Milieu";
+	schema:description "Zaanse Commissie voor de HygiÃ«ne van het Milieu";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -3843,7 +3843,7 @@ anl:dataset_NL-ZdGAZ_OA-0111 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_OA-0112 a schema:Dataset;
 	schema:name "OA-0112";
-	schema:description "Dienst Milieubeheer Zaanstad, voorheen Dienst Milieubeheer (1976-1981) en Dienst Reiniging, MilieuhygiÃÂ«ne en Centraal Vervoer (1976 - 1981)";
+	schema:description "Dienst Milieubeheer Zaanstad, voorheen Dienst Milieubeheer (1976-1981) en Dienst Reiniging, MilieuhygiÃ«ne en Centraal Vervoer (1976 - 1981)";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -4108,7 +4108,7 @@ anl:dataset_NL-ZdGAZ_OA-0127 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0127_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-10-25";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 74787;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -4448,7 +4448,7 @@ anl:dataset_NL-ZdGAZ_OA-0129 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0129_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-09-14";
+		schema:dateModified "2022-01-04";
 		schema:contentSize 84039;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -4482,7 +4482,7 @@ anl:dataset_NL-ZdGAZ_OA-0129_102 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/a2a/NL-ZdGAZ_OA-0129_102_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-08-26";
+		schema:dateModified "2022-01-04";
 		schema:contentSize 2967407;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4533,7 +4533,7 @@ anl:dataset_NL-ZdGAZ_OA-0130 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0130_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-09-14";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 57055;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -4601,8 +4601,8 @@ anl:dataset_NL-ZdGAZ_OA-0131 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0131_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-12-15";
-		schema:contentSize 69703;
+		schema:dateModified "2022-01-05";
+		schema:contentSize 67794;
 		schema:description "XML bestand volgens EAD model";
 	].
 
@@ -4822,7 +4822,7 @@ anl:dataset_NL-ZdGAZ_OA-0131_58 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/a2a/NL-ZdGAZ_OA-0131_58_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-08-24";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 7988992;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4924,7 +4924,7 @@ anl:dataset_NL-ZdGAZ_OA-0131_82 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/a2a/NL-ZdGAZ_OA-0131_82_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-03-19";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 7446718;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4958,7 +4958,7 @@ anl:dataset_NL-ZdGAZ_OA-0132 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0132_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-10-27";
+		schema:dateModified "2022-01-04";
 		schema:contentSize 397258;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -5689,7 +5689,7 @@ anl:dataset_NL-ZdGAZ_OA-0133 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0133_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-09-14";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 52653;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -5808,7 +5808,7 @@ anl:dataset_NL-ZdGAZ_OA-0133_42 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/a2a/NL-ZdGAZ_OA-0133_42_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-09-03";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 2807712;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5944,7 +5944,7 @@ anl:dataset_NL-ZdGAZ_OA-0134 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0134_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-09-28";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 42489;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -5995,7 +5995,7 @@ anl:dataset_NL-ZdGAZ_OA-0134_42 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/a2a/NL-ZdGAZ_OA-0134_42_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-01-06";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 909743;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -7328,7 +7328,7 @@ anl:dataset_NL-ZdGAZ_OA-0138 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0138_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-09";
+		schema:dateModified "2022-01-04";
 		schema:contentSize 60153;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -7536,7 +7536,7 @@ anl:dataset_NL-ZdGAZ_OA-0138_32 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/a2a/NL-ZdGAZ_OA-0138_32_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-08-26";
+		schema:dateModified "2022-01-04";
 		schema:contentSize 2421328;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -8723,7 +8723,7 @@ anl:dataset_NL-ZdGAZ_OA-0141 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0141_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-22";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 532806;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -8739,7 +8739,7 @@ anl:dataset_NL-ZdGAZ_OA-0141_10 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/a2a/NL-ZdGAZ_OA-0141_10_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-04";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 6565724;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -10339,7 +10339,7 @@ anl:dataset_NL-ZdGAZ_OA-0141_23 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/a2a/NL-ZdGAZ_OA-0141_23_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-05";
+		schema:dateModified "2022-01-03";
 		schema:contentSize 1481277;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -15787,8 +15787,8 @@ anl:dataset_NL-ZdGAZ_OA-0200 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0200_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-12-16";
-		schema:contentSize 49698077;
+		schema:dateModified "2021-12-24";
+		schema:contentSize 52447679;
 		schema:description "XML bestand volgens EAD model";
 	].
 
@@ -15804,8 +15804,8 @@ anl:dataset_NL-ZdGAZ_OA-0201 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0201_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-12-16";
-		schema:contentSize 7570548;
+		schema:dateModified "2021-12-24";
+		schema:contentSize 8047323;
 		schema:description "XML bestand volgens EAD model";
 	].
 
@@ -15821,8 +15821,8 @@ anl:dataset_NL-ZdGAZ_OA-0202 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0202_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-12-16";
-		schema:contentSize 7978321;
+		schema:dateModified "2021-12-24";
+		schema:contentSize 8125892;
 		schema:description "XML bestand volgens EAD model";
 	].
 
@@ -15838,8 +15838,8 @@ anl:dataset_NL-ZdGAZ_OA-0203 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0203_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-12-16";
-		schema:contentSize 18310467;
+		schema:dateModified "2021-12-24";
+		schema:contentSize 18670948;
 		schema:description "XML bestand volgens EAD model";
 	].
 
@@ -15855,8 +15855,8 @@ anl:dataset_NL-ZdGAZ_OA-0204 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0204_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-12-16";
-		schema:contentSize 6750275;
+		schema:dateModified "2021-12-24";
+		schema:contentSize 7272863;
 		schema:description "XML bestand volgens EAD model";
 	].
 
@@ -15872,8 +15872,8 @@ anl:dataset_NL-ZdGAZ_OA-0205 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0205_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-12-16";
-		schema:contentSize 8853000;
+		schema:dateModified "2021-12-24";
+		schema:contentSize 9308805;
 		schema:description "XML bestand volgens EAD model";
 	].
 
@@ -15889,8 +15889,8 @@ anl:dataset_NL-ZdGAZ_OA-0206 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0206_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-12-16";
-		schema:contentSize 8528322;
+		schema:dateModified "2021-12-24";
+		schema:contentSize 9111847;
 		schema:description "XML bestand volgens EAD model";
 	].
 
@@ -15923,7 +15923,7 @@ anl:dataset_NL-ZdGAZ_OA-0208 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_OA-0208_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-05-19";
+		schema:dateModified "2021-12-24";
 		schema:contentSize 9566507;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -16593,7 +16593,7 @@ anl:dataset_NL-ZdGAZ_PA-0039 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_PA-0040 a schema:Dataset;
 	schema:name "PA-0040";
-	schema:description "De sociÃÂ«teit Tot onderling genoegen";
+	schema:description "De sociÃ«teit Tot onderling genoegen";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -16610,7 +16610,7 @@ anl:dataset_NL-ZdGAZ_PA-0040 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_PA-0041 a schema:Dataset;
 	schema:name "PA-0041";
-	schema:description "De sociÃÂ«teit Tot onderling genoegen";
+	schema:description "De sociÃ«teit Tot onderling genoegen";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -16763,7 +16763,7 @@ anl:dataset_NL-ZdGAZ_PA-0049 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_PA-0050 a schema:Dataset;
 	schema:name "PA-0050";
-	schema:description "Damesvereniging PaÃÂ¯dophilos";
+	schema:description "Damesvereniging PaÃ¯dophilos";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -16831,7 +16831,7 @@ anl:dataset_NL-ZdGAZ_PA-0053 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_PA-0054 a schema:Dataset;
 	schema:name "PA-0054";
-	schema:description "J.D. Vis (1890-1953), leider van de verzetsbeweging in Zaandijk, plaatselijk commandant en plaatselijk vertegenwoordiger van de Nederlandse Binnenlandse Strijdkrachten (N.B.S.), secretaris van de Commissie van advies voor de Zuivering van het Wegvervoer en lid van het plaatselijk comitÃÂ© Nederlands Volksherstel te Koog-Zaandijk";
+	schema:description "J.D. Vis (1890-1953), leider van de verzetsbeweging in Zaandijk, plaatselijk commandant en plaatselijk vertegenwoordiger van de Nederlandse Binnenlandse Strijdkrachten (N.B.S.), secretaris van de Commissie van advies voor de Zuivering van het Wegvervoer en lid van het plaatselijk comitÃ© Nederlands Volksherstel te Koog-Zaandijk";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -17579,7 +17579,7 @@ anl:dataset_NL-ZdGAZ_PA-0097 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_PA-0098 a schema:Dataset;
 	schema:name "PA-0098";
-	schema:description "ComitÃÂ© nationale feestdagen";
+	schema:description "ComitÃ© nationale feestdagen";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -17596,7 +17596,7 @@ anl:dataset_NL-ZdGAZ_PA-0098 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_PA-0099 a schema:Dataset;
 	schema:name "PA-0099";
-	schema:description "R.K. CoÃÂ¶peratie De Voorzorg U.A. Zaandam";
+	schema:description "R.K. CoÃ¶peratie De Voorzorg U.A. Zaandam";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -17997,7 +17997,7 @@ anl:dataset_NL-ZdGAZ_PA-0122 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_PA-0122_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2015-01-28";
+		schema:dateModified "2022-01-04";
 		schema:contentSize 16313;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -18031,14 +18031,14 @@ anl:dataset_NL-ZdGAZ_PA-0124 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_PA-0124_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2015-01-28";
+		schema:dateModified "2022-01-04";
 		schema:contentSize 6025;
 		schema:description "XML bestand volgens EAD model";
 	].
 
 anl:dataset_NL-ZdGAZ_PA-0125 a schema:Dataset;
 	schema:name "PA-0125";
-	schema:description "Plaatselijk SteuncomitÃÂ© Krommenie";
+	schema:description "Plaatselijk SteuncomitÃ© Krommenie";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -18106,7 +18106,7 @@ anl:dataset_NL-ZdGAZ_PA-0128 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_PA-0129 a schema:Dataset;
 	schema:name "PA-0129";
-	schema:description "Verenging tot bevordering van uiterlijke welsprekendheid Vondel, later Toneelvereniging Vondel Zaandam";
+	schema:description "Vereniging tot bevordering van uiterlijke welsprekendheid Vondel, later Toneelvereniging Vondel Zaandam";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -18116,7 +18116,7 @@ anl:dataset_NL-ZdGAZ_PA-0129 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_PA-0129_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2015-01-28";
+		schema:dateModified "2022-01-04";
 		schema:contentSize 25565;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -18157,7 +18157,7 @@ anl:dataset_NL-ZdGAZ_PA-0131 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_PA-0132 a schema:Dataset;
 	schema:name "PA-0132";
-	schema:description "Plaatselijk WatersnoodcomitÃÂ© Westzaan";
+	schema:description "Plaatselijk WatersnoodcomitÃ© Westzaan";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -18174,7 +18174,7 @@ anl:dataset_NL-ZdGAZ_PA-0132 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_PA-0133 a schema:Dataset;
 	schema:name "PA-0133";
-	schema:description "Plaatselijk comitÃÂ© oprichten monument en stichten asiel voor oude en verminkte zeelieden i.v.m. 300 jarige herdenking bevrijding van Den Briel Westzaan";
+	schema:description "Plaatselijk comitÃ© oprichten monument en stichten asiel voor oude en verminkte zeelieden i.v.m. 300 jarige herdenking bevrijding van Den Briel Westzaan";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -18404,7 +18404,7 @@ anl:dataset_NL-ZdGAZ_PA-0155 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_PA-0155_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2015-01-28";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 26497;
 		schema:description "XML bestand volgens EAD model";
 	].
@@ -18479,7 +18479,7 @@ anl:dataset_NL-ZdGAZ_PA-0160 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_PA-0161 a schema:Dataset;
 	schema:name "PA-0161";
-	schema:description "Plaatselijk WatersnoodcomitÃÂ© Assendelft";
+	schema:description "Plaatselijk WatersnoodcomitÃ© Assendelft";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -18546,7 +18546,7 @@ anl:dataset_NL-ZdGAZ_PA-0164 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_PA-0165 a schema:Dataset;
 	schema:name "PA-0165";
-	schema:description "R.K. CoÃÂ¶peratieve Boerenleenbank Assendelft";
+	schema:description "R.K. CoÃ¶peratieve Boerenleenbank Assendelft";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -18733,7 +18733,7 @@ anl:dataset_NL-ZdGAZ_PA-0176 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_PA-0177 a schema:Dataset;
 	schema:name "PA-0177";
-	schema:description "ComitÃÂ© Belgische Vluchtelingen Zaandam tijdens Eerste Wereldoorlog";
+	schema:description "ComitÃ© Belgische Vluchtelingen Zaandam tijdens Eerste Wereldoorlog";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -19022,7 +19022,7 @@ anl:dataset_NL-ZdGAZ_PA-0197 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_PA-0198 a schema:Dataset;
 	schema:name "PA-0198";
-	schema:description "SociÃÂ«teit de Zaanlandsche Manege, vanaf 1871 Vereniging de Nieuwe SociÃÂ«teit";
+	schema:description "SociÃ«teit de Zaanlandsche Manege, vanaf 1871 Vereniging de Nieuwe SociÃ«teit";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -19463,7 +19463,7 @@ anl:dataset_NL-ZdGAZ_PA-0235 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_PA-0236 a schema:Dataset;
 	schema:name "PA-0236";
-	schema:description "CoÃÂ¶peratieve In- en Verkoopvereniging Levensmiddelen EnkabÃÂ© Noord-Holland Noord U.A. Assendelft";
+	schema:description "CoÃ¶peratieve In- en Verkoopvereniging Levensmiddelen EnkabÃ© Noord-Holland Noord U.A. Assendelft";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -19718,7 +19718,7 @@ anl:dataset_NL-ZdGAZ_PA-0268 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_PA-0269 a schema:Dataset;
 	schema:name "PA-0269";
-	schema:description "ComitÃÂ© Weet Waar U Woont Krommenie";
+	schema:description "ComitÃ© Weet Waar U Woont Krommenie";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -20221,8 +20221,8 @@ anl:dataset_NL-ZdGAZ_PA-0325 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/ead/NL-ZdGAZ_PA-0325_1_EAD.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-12-14";
-		schema:contentSize 467411;
+		schema:dateModified "2022-01-05";
+		schema:contentSize 164954596;
 		schema:description "XML bestand volgens EAD model";
 	].
 
@@ -20737,7 +20737,7 @@ anl:dataset_NL-ZdGAZ_PA-0375 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_PA-0376 a schema:Dataset;
 	schema:name "PA-0376";
-	schema:description "P. Visser, voorzitter van de CoÃÂ¶peratieve Bergingsvereniging Renate Leonhardt";
+	schema:description "P. Visser, voorzitter van de CoÃ¶peratieve Bergingsvereniging Renate Leonhardt";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -20855,7 +20855,7 @@ anl:dataset_NL-ZdGAZ_PA-0384 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_PA-0385 a schema:Dataset;
 	schema:name "PA-0385";
-	schema:description "Buurtvereniging Rooswijk, later ComitÃÂ© Rooswijk en Wijkcontactraad Rooswijk Zaandijk";
+	schema:description "Buurtvereniging Rooswijk, later ComitÃ© Rooswijk en Wijkcontactraad Rooswijk Zaandijk";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -21093,7 +21093,7 @@ anl:dataset_NL-ZdGAZ_PA-0399 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_PA-0400 a schema:Dataset;
 	schema:name "PA-0400";
-	schema:description "CoÃÂ¶peratieve Verbruikersvereniging De Eenheid U.A. Zaanstreek";
+	schema:description "CoÃ¶peratieve Verbruikersvereniging De Eenheid U.A. Zaanstreek";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -21875,7 +21875,7 @@ anl:dataset_NL-ZdGAZ_PA-0461 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_PA-0462 a schema:Dataset;
 	schema:name "PA-0462";
-	schema:description "CoÃÂ¶peratieve Bakkersvereniging Zaanland G.A.";
+	schema:description "CoÃ¶peratieve Bakkersvereniging Zaanland G.A.";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -22368,7 +22368,7 @@ anl:dataset_NL-ZdGAZ_PA-0494 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_PA-0495 a schema:Dataset;
 	schema:name "PA-0495";
-	schema:description "Vereniging Behoud IdeeÃÂ«ngoed Pacifisme en Socialisme Zaanstreek (BIPS)";
+	schema:description "Vereniging Behoud IdeeÃ«ngoed Pacifisme en Socialisme Zaanstreek (BIPS)";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -22700,8 +22700,8 @@ anl:dataset_NL-ZdGAZ_TS a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/mi/NL-ZdGAZ_TS_14_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-12-14";
-		schema:contentSize 82874942;
+		schema:dateModified "2022-01-04";
+		schema:contentSize 82645190;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -23029,7 +23029,7 @@ anl:dataset_NL-ZdGAZ_WA-0012 a schema:Dataset;
 
 anl:dataset_NL-ZdGAZ_WA-0013 a schema:Dataset;
 	schema:name "WA-0013";
-	schema:description "KrommenieÃÂ«r Woudpolder, later het Waterschap Assendelft";
+	schema:description "KrommenieÃ«r Woudpolder, later het Waterschap Assendelft";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
@@ -25572,7 +25572,7 @@ anl:dataset_NL-ZdGAZ_ZLD-1951 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve2.archieven.nl/open/opendata-gzd/mi/NL-ZdGAZ_ZLD-1951_14_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-08-17";
+		schema:dateModified "2022-01-04";
 		schema:contentSize 2136799;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -27627,3 +27627,4 @@ anl:organisation_NL-ZdGAZ a schema:Organization;
 	schema:name "Gemeentearchief Zaanstad";
 	schema:url "https://archief.zaanstad.nl/";
 	schema:address [ a schema:PostalAddress; schema:addressLocality "Zaandam" ].
+                                                                                                           

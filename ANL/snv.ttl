@@ -5,17 +5,18 @@
 
 anl:dataset_NL-EbSNWV_1001 a schema:Dataset;
 	schema:name "1001";
-	schema:description "Stadsbestuur Elburg 1320-1813 ,";
+	schema:description "Stadsbestuur Elburg, 1320-1813";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
+	schema:temporalCoverage: "1320.1813";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1001_1_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_1001_1_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 3142348;
+		schema:dateModified "2021-11-03";
+		schema:contentSize 3142316;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -29,10 +30,10 @@ anl:dataset_NL-EbSNWV_1003 a schema:Dataset;
 	schema:temporalCoverage: "1442.1811";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1003_1_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_1003_1_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-02-14";
-		schema:contentSize 314833;
+		schema:dateModified "2021-06-23";
+		schema:contentSize 332028;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -45,9 +46,9 @@ anl:dataset_NL-EbSNWV_1004 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1004_1_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_1004_1_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-03-28";
+		schema:dateModified "2021-10-29";
 		schema:contentSize 776382;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -62,10 +63,10 @@ anl:dataset_NL-EbSNWV_1004_247 a schema:Dataset;
 	schema:temporalCoverage: "1900.1902";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1004_247_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_1004_247_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-03-28";
-		schema:contentSize 1599759;
+		schema:dateModified "2021-09-01";
+		schema:contentSize 1599763;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -81,8 +82,8 @@ anl:dataset_NL-EbSNWV_1004_248 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1004_248_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-03-28";
-		schema:contentSize 1615367;
+		schema:dateModified "2021-04-13";
+		schema:contentSize 1615369;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -113,10 +114,10 @@ anl:dataset_NL-EbSNWV_1004_251 a schema:Dataset;
 	schema:temporalCoverage: "1910.1912";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1004_251_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_1004_251_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-09-29";
-		schema:contentSize 2136282;
+		schema:dateModified "2021-10-29";
+		schema:contentSize 2136283;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -148,7 +149,7 @@ anl:dataset_NL-EbSNWV_1004_345 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1004_345_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2020-05-29";
 		schema:contentSize 339119;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -198,7 +199,7 @@ anl:dataset_NL-EbSNWV_1017 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1017_1_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-06";
+		schema:dateModified "2020-11-30";
 		schema:contentSize 10880;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -222,17 +223,18 @@ anl:dataset_NL-EbSNWV_1019 a schema:Dataset;
 
 anl:dataset_NL-EbSNWV_1024 a schema:Dataset;
 	schema:name "1024";
-	schema:description "Gemeentebestuur Doornspijk 1743-1814.";
+	schema:description "Gemeentebestuur Doornspijk, 1743-1814";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
+	schema:temporalCoverage: "1743.1814";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1024_1_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_1024_1_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 14345;
+		schema:dateModified "2021-08-05";
+		schema:contentSize 17993;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -262,10 +264,10 @@ anl:dataset_NL-EbSNWV_1029 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1029_1_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_1029_1_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-06";
-		schema:contentSize 383852;
+		schema:dateModified "2021-10-04";
+		schema:contentSize 378563;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -330,10 +332,10 @@ anl:dataset_NL-EbSNWV_1029_29 a schema:Dataset;
 	schema:temporalCoverage: "1823.1824";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1029_29_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_1029_29_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 370060;
+		schema:dateModified "2021-10-04";
+		schema:contentSize 366988;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -364,10 +366,10 @@ anl:dataset_NL-EbSNWV_1029_72 a schema:Dataset;
 	schema:temporalCoverage: "1906.1914";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1029_72_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_1029_72_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-06";
-		schema:contentSize 1209293;
+		schema:dateModified "2021-06-15";
+		schema:contentSize 1209292;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -383,7 +385,7 @@ anl:dataset_NL-EbSNWV_1029_81 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1029_81_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-06";
+		schema:dateModified "2020-11-30";
 		schema:contentSize 141710;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -607,19 +609,36 @@ anl:dataset_NL-EbSNWV_1112 a schema:Dataset;
 
 anl:dataset_NL-EbSNWV_1131 a schema:Dataset;
 	schema:name "1131";
-	schema:description "Bevolkingsregistratie Elburg, 1812-1950";
+	schema:description "Bevolkingsregistratie Elburg, 1812-1960";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
-	schema:temporalCoverage: "1812.1950";
+	schema:temporalCoverage: "1812.1960";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1131_1_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_1131_1_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-02-04";
-		schema:contentSize 52797;
+		schema:dateModified "2021-11-25";
+		schema:contentSize 64249;
 		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-EbSNWV_1131_48 a schema:Dataset;
+	schema:name "1131_48";
+	schema:description "Volkstelling Elburg (in bewerking)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
+	schema:temporalCoverage: "1850.1850";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_1131_48_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-25";
+		schema:contentSize 1899788;
+		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_1136 a schema:Dataset;
@@ -632,9 +651,9 @@ anl:dataset_NL-EbSNWV_1136 a schema:Dataset;
 	schema:temporalCoverage: "1812.1932";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1136_1_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_1136_1_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2021-07-30";
 		schema:contentSize 64682;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -668,7 +687,7 @@ anl:dataset_NL-EbSNWV_1251 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1251_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2018-11-03";
 		schema:contentSize 2137005;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -685,7 +704,7 @@ anl:dataset_NL-EbSNWV_1252 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1252_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2018-11-16";
 		schema:contentSize 8131422;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -719,7 +738,7 @@ anl:dataset_NL-EbSNWV_1255 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/434_1255_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-06";
+		schema:dateModified "2020-11-30";
 		schema:contentSize 3085880;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -736,25 +755,26 @@ anl:dataset_NL-EbSNWV_1256 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1256_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2018-05-23";
 		schema:contentSize 2575161;
 		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_1257 a schema:Dataset;
 	schema:name "1257";
-	schema:description "Begraven Doornspijk 1843-1871";
+	schema:description "Begraven Doornspijk";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
+	schema:temporalCoverage: "1843.1871";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1257_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_1257_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 1940275;
-		schema:description "XML bestand volgens MI model";
+		schema:dateModified "2021-07-30";
+		schema:contentSize 3967489;
+		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_1259 a schema:Dataset;
@@ -769,7 +789,7 @@ anl:dataset_NL-EbSNWV_1259 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1259_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2017-10-31";
 		schema:contentSize 3564419;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -785,7 +805,7 @@ anl:dataset_NL-EbSNWV_1260 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1260_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2019-07-10";
 		schema:contentSize 2338404;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -801,7 +821,7 @@ anl:dataset_NL-EbSNWV_1262 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1262_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2018-06-02";
 		schema:contentSize 965989;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -852,7 +872,7 @@ anl:dataset_NL-EbSNWV_1266 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1266_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2019-07-12";
 		schema:contentSize 664549;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -903,14 +923,14 @@ anl:dataset_NL-EbSNWV_1269 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/434_1269_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-29";
+		schema:dateModified "2020-12-16";
 		schema:contentSize 5053406;
 		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_1351 a schema:Dataset;
 	schema:name "1351";
-	schema:description "Bevolkingsregister Doornspijk 1870-1880";
+	schema:description "Bevolkingsregister Doornspijk";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
@@ -918,11 +938,11 @@ anl:dataset_NL-EbSNWV_1351 a schema:Dataset;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1351_18_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_1351_18_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 5559982;
-		schema:description "XML bestand volgens MI model";
+		schema:dateModified "2021-07-30";
+		schema:contentSize 7781222;
+		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_1352 a schema:Dataset;
@@ -936,46 +956,48 @@ anl:dataset_NL-EbSNWV_1352 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1352_18_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2019-06-19";
 		schema:contentSize 6804093;
 		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_1353 a schema:Dataset;
 	schema:name "1353";
-	schema:description "Bevolkingsregister Doornspijk 1840";
+	schema:description "Bevolkingsregister Doornspijk";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
+	schema:temporalCoverage: "1840.1840";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1353_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_1353_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 3252701;
-		schema:description "XML bestand volgens MI model";
+		schema:dateModified "2021-07-30";
+		schema:contentSize 4847172;
+		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_1354 a schema:Dataset;
 	schema:name "1354";
-	schema:description "Bevolkingsregister Doornspijk 1850";
+	schema:description "Bevolkingsregister Doornspijk";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
+	schema:temporalCoverage: "1850.1850";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1354_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_1354_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 4018236;
-		schema:description "XML bestand volgens MI model";
+		schema:dateModified "2021-07-30";
+		schema:contentSize 6022067;
+		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_1356 a schema:Dataset;
 	schema:name "1356";
-	schema:description "Bevolkingsregister Doornspijk I";
+	schema:description "Bevolkingsregister Doornspijk, boek I";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
@@ -983,11 +1005,11 @@ anl:dataset_NL-EbSNWV_1356 a schema:Dataset;
 	schema:temporalCoverage: "1890.1920";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1356_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_1356_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 2166901;
-		schema:description "XML bestand volgens MI model";
+		schema:dateModified "2021-07-30";
+		schema:contentSize 3269196;
+		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_1357 a schema:Dataset;
@@ -1017,16 +1039,16 @@ anl:dataset_NL-EbSNWV_1368 a schema:Dataset;
 	schema:temporalCoverage: "1900.1920";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1368_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/434_1368_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 8696196;
-		schema:description "XML bestand volgens MI model";
+		schema:dateModified "2021-05-20";
+		schema:contentSize 18819872;
+		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_1369 a schema:Dataset;
 	schema:name "1369";
-	schema:description "Bevolkingsregister Elburg";
+	schema:description "Bevolkingsregister Elburg, boek II";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
@@ -1034,16 +1056,16 @@ anl:dataset_NL-EbSNWV_1369 a schema:Dataset;
 	schema:temporalCoverage: "1900.1920";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1369_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_1369_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 2627823;
-		schema:description "XML bestand volgens MI model";
+		schema:dateModified "2021-07-30";
+		schema:contentSize 5671779;
+		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_1370 a schema:Dataset;
 	schema:name "1370";
-	schema:description "Bevolkingsregister Elburg";
+	schema:description "Bevolkingsregister Elburg, boek III";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
@@ -1051,16 +1073,16 @@ anl:dataset_NL-EbSNWV_1370 a schema:Dataset;
 	schema:temporalCoverage: "1900.1920";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1370_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_1370_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 2580804;
-		schema:description "XML bestand volgens MI model";
+		schema:dateModified "2021-07-30";
+		schema:contentSize 5623612;
+		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_1371 a schema:Dataset;
 	schema:name "1371";
-	schema:description "Bevolkingsregister Elburg";
+	schema:description "Bevolkingsregister Elburg, boek IV";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
@@ -1068,16 +1090,16 @@ anl:dataset_NL-EbSNWV_1371 a schema:Dataset;
 	schema:temporalCoverage: "1900.1920";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1371_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_1371_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 1265392;
-		schema:description "XML bestand volgens MI model";
+		schema:dateModified "2021-07-30";
+		schema:contentSize 2759420;
+		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_1372 a schema:Dataset;
 	schema:name "1372";
-	schema:description "Bevolkingsregister Elburg";
+	schema:description "Bevolkingsregister Elburg, boek V";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
@@ -1085,10 +1107,10 @@ anl:dataset_NL-EbSNWV_1372 a schema:Dataset;
 	schema:temporalCoverage: "1900.1920";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/434_1372_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_1372_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-07-13";
-		schema:contentSize 5002287;
+		schema:dateModified "2021-07-30";
+		schema:contentSize 5014727;
 		schema:description "XML bestand volgens A2A model";
 	].
 
@@ -1111,7 +1133,7 @@ anl:dataset_NL-EbSNWV_1382 a schema:Dataset;
 
 anl:dataset_NL-EbSNWV_1383 a schema:Dataset;
 	schema:name "1383";
-	schema:description "Bevolkingsregister Doornspijk III";
+	schema:description "Bevolkingsregister Doornspijk, boek III";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
@@ -1119,16 +1141,16 @@ anl:dataset_NL-EbSNWV_1383 a schema:Dataset;
 	schema:temporalCoverage: "1890.1920";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1383_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_1383_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 2190631;
-		schema:description "XML bestand volgens MI model";
+		schema:dateModified "2021-07-30";
+		schema:contentSize 3106395;
+		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_1384 a schema:Dataset;
 	schema:name "1384";
-	schema:description "Bevolkingsregister Doornspijk IV";
+	schema:description "Bevolkingsregister Doornspijk, boek IV";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
@@ -1136,16 +1158,16 @@ anl:dataset_NL-EbSNWV_1384 a schema:Dataset;
 	schema:temporalCoverage: "1890.1920";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1384_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_1384_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 2352009;
-		schema:description "XML bestand volgens MI model";
+		schema:dateModified "2021-07-30";
+		schema:contentSize 3319279;
+		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_1385 a schema:Dataset;
 	schema:name "1385";
-	schema:description "Bevolkingsregister Doornspijk V";
+	schema:description "Bevolkingsregister Doornspijk, boek V";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
@@ -1153,32 +1175,16 @@ anl:dataset_NL-EbSNWV_1385 a schema:Dataset;
 	schema:temporalCoverage: "1890.1920";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1385_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_1385_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 1704156;
-		schema:description "XML bestand volgens MI model";
+		schema:dateModified "2021-07-30";
+		schema:contentSize 2460716;
+		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_1386 a schema:Dataset;
 	schema:name "1386";
-	schema:description "Gezinskaarten A-G Elburg 1920-1930";
-	schema:inLanguage "nl-NL";
-	schema:keywords "genealogie";
-	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
-	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
-	schema:distribution [
-		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/434_1386_54_A2A.xml?format=file>;
-		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-09-02";
-		schema:contentSize 1956787;
-		schema:description "XML bestand volgens A2A model";
-	].
-
-anl:dataset_NL-EbSNWV_1387 a schema:Dataset;
-	schema:name "1387";
-	schema:description "Gezinskaarten Elburg G t/m K ( L t/m Z ontbreekt)";
+	schema:description "Gezinskaarten A-G Elburg";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
@@ -1186,10 +1192,27 @@ anl:dataset_NL-EbSNWV_1387 a schema:Dataset;
 	schema:temporalCoverage: "1920.1930";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/434_1387_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_1386_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-02-04";
-		schema:contentSize 1873117;
+		schema:dateModified "2021-07-30";
+		schema:contentSize 1954147;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-EbSNWV_1387 a schema:Dataset;
+	schema:name "1387";
+	schema:description "Gezinskaarten Elburg G t/m K (L t/m Z ontbreekt)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
+	schema:temporalCoverage: "1920.1930";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_1387_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-10-11";
+		schema:contentSize 1872869;
 		schema:description "XML bestand volgens A2A model";
 	].
 
@@ -1204,25 +1227,60 @@ anl:dataset_NL-EbSNWV_1395 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1395_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2018-02-27";
 		schema:contentSize 158935;
 		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_1396 a schema:Dataset;
 	schema:name "1396";
-	schema:description "Bevolkingsregister VII Elburg vluchtelingen";
+	schema:description "Bevolkingsregister vluchtelingen Elburg, boek VII";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
+	schema:temporalCoverage: "1914.1918";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/434_1396_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_1396_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-08-24";
-		schema:contentSize 156776;
+		schema:dateModified "2021-08-04";
+		schema:contentSize 156854;
 		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-EbSNWV_1451 a schema:Dataset;
+	schema:name "1451";
+	schema:description "Bouwvergunningen Doornspijk";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
+	schema:temporalCoverage: "1969.1972";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_1451_18_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-06-17";
+		schema:contentSize 589229;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-EbSNWV_1455 a schema:Dataset;
+	schema:name "1455";
+	schema:description "Bouwvergunningen Elburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
+	schema:temporalCoverage: "1913.1960";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_1455_18_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-08-12";
+		schema:contentSize 1309525;
+		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_1456 a schema:Dataset;
@@ -1244,33 +1302,35 @@ anl:dataset_NL-EbSNWV_1456 a schema:Dataset;
 
 anl:dataset_NL-EbSNWV_1851 a schema:Dataset;
 	schema:name "1851";
-	schema:description "Bestuur Elburg 1811-2010";
+	schema:description "Bestuur Elburg";
 	schema:inLanguage "nl-NL";
 	schema:keywords "sys_ovr";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
+	schema:temporalCoverage: "1811.2010";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1851_14_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_1851_14_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 105118;
+		schema:dateModified "2021-08-04";
+		schema:contentSize 115834;
 		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_1852 a schema:Dataset;
 	schema:name "1852";
-	schema:description "Bestuur Doornspijk 1815-1974";
+	schema:description "Bestuur Doornspijk";
 	schema:inLanguage "nl-NL";
 	schema:keywords "sys_ovr";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
+	schema:temporalCoverage: "1815.1974";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1852_14_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_1852_14_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 102242;
+		schema:dateModified "2021-08-04";
+		schema:contentSize 112580;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -1317,9 +1377,9 @@ anl:dataset_NL-EbSNWV_2003 a schema:Dataset;
 	schema:temporalCoverage: "1814.1919";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2003_1_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_2003_1_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-29";
+		schema:dateModified "2021-06-23";
 		schema:contentSize 597320;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1353,8 +1413,8 @@ anl:dataset_NL-EbSNWV_2003_333 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2003_333_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-08-23";
-		schema:contentSize 1763355;
+		schema:dateModified "2021-04-23";
+		schema:contentSize 1763354;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -1370,8 +1430,8 @@ anl:dataset_NL-EbSNWV_2003_334 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2003_334_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-06";
-		schema:contentSize 1410982;
+		schema:dateModified "2021-04-23";
+		schema:contentSize 1410981;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -1404,8 +1464,8 @@ anl:dataset_NL-EbSNWV_2003_336 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2003_336_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-15";
-		schema:contentSize 2512788;
+		schema:dateModified "2021-04-23";
+		schema:contentSize 2512787;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -1455,8 +1515,8 @@ anl:dataset_NL-EbSNWV_2003_339 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2003_339_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-08-23";
-		schema:contentSize 2694123;
+		schema:dateModified "2021-04-23";
+		schema:contentSize 2694121;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -1472,7 +1532,7 @@ anl:dataset_NL-EbSNWV_2003_340 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2003_340_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-29";
+		schema:dateModified "2020-12-16";
 		schema:contentSize 1514175;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1520,10 +1580,10 @@ anl:dataset_NL-EbSNWV_2009 a schema:Dataset;
 	schema:temporalCoverage: "1702.1817";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2009_1_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_2009_1_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 15276;
+		schema:dateModified "2021-07-30";
+		schema:contentSize 14948;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -1537,10 +1597,10 @@ anl:dataset_NL-EbSNWV_2026 a schema:Dataset;
 	schema:temporalCoverage: "1620.1802";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2026_1_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_2026_1_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 117802;
+		schema:dateModified "2021-08-04";
+		schema:contentSize 131486;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -1622,10 +1682,27 @@ anl:dataset_NL-EbSNWV_2067 a schema:Dataset;
 	schema:temporalCoverage: "1811.1950";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2067_1_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_2067_1_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2021-08-04";
 		schema:contentSize 98878;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-EbSNWV_2233 a schema:Dataset;
+	schema:name "2233";
+	schema:description "Bouwvergunningen Oldebroek";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
+	schema:temporalCoverage: "1919.1939";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2233_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-09";
+		schema:contentSize 654430;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -1636,11 +1713,12 @@ anl:dataset_NL-EbSNWV_2251 a schema:Dataset;
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
+	schema:temporalCoverage: "1702.1771";
 	schema:distribution [
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/434_2251_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2021-05-21";
 		schema:contentSize 7782670;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1771,24 +1849,25 @@ anl:dataset_NL-EbSNWV_2260 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2260_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2018-03-21";
 		schema:contentSize 3817036;
 		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_2261 a schema:Dataset;
 	schema:name "2261";
-	schema:description "Lidmaten Oosterwolde (Gld) 1702-1830";
+	schema:description "Lidmaten Oosterwolde (Gld)";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
+	schema:temporalCoverage: "1702.1830";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2261_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_2261_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 2254005;
+		schema:dateModified "2021-07-30";
+		schema:contentSize 2459911;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -1811,7 +1890,7 @@ anl:dataset_NL-EbSNWV_2262 a schema:Dataset;
 
 anl:dataset_NL-EbSNWV_2263 a schema:Dataset;
 	schema:name "2263";
-	schema:description "Overlijden Oldebroek 1933-1940";
+	schema:description "Overlijden Oldebroek";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
@@ -1819,11 +1898,11 @@ anl:dataset_NL-EbSNWV_2263 a schema:Dataset;
 	schema:temporalCoverage: "1933.1940";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2263_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_2263_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 2268029;
-		schema:description "XML bestand volgens MI model";
+		schema:dateModified "2021-07-30";
+		schema:contentSize 4368359;
+		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_2264 a schema:Dataset;
@@ -1921,14 +2000,14 @@ anl:dataset_NL-EbSNWV_2269 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2269_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2017-09-21";
 		schema:contentSize 760939;
 		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_2270 a schema:Dataset;
 	schema:name "2270";
-	schema:description "Overlijden Oldebroek 1941-1950";
+	schema:description "Overlijden Oldebroek";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
@@ -1936,16 +2015,16 @@ anl:dataset_NL-EbSNWV_2270 a schema:Dataset;
 	schema:temporalCoverage: "1941.1950";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2270_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_2270_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 3139772;
-		schema:description "XML bestand volgens MI model";
+		schema:dateModified "2021-07-30";
+		schema:contentSize 6136608;
+		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_2271 a schema:Dataset;
 	schema:name "2271";
-	schema:description "Overlijden Oldebroek 1951-1955";
+	schema:description "Overlijden Oldebroek";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
@@ -1953,11 +2032,11 @@ anl:dataset_NL-EbSNWV_2271 a schema:Dataset;
 	schema:temporalCoverage: "1951.1955";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2271_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_2271_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 1167902;
-		schema:description "XML bestand volgens MI model";
+		schema:dateModified "2021-07-30";
+		schema:contentSize 2282084;
+		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_2273 a schema:Dataset;
@@ -1972,7 +2051,7 @@ anl:dataset_NL-EbSNWV_2273 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2273_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2019-05-15";
 		schema:contentSize 85791;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1987,11 +2066,11 @@ anl:dataset_NL-EbSNWV_2274 a schema:Dataset;
 	schema:temporalCoverage: "1857.1867";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2274_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_2274_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 946509;
-		schema:description "XML bestand volgens MI model";
+		schema:dateModified "2021-06-23";
+		schema:contentSize 1854165;
+		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_2275 a schema:Dataset;
@@ -2006,7 +2085,7 @@ anl:dataset_NL-EbSNWV_2275 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2275_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2017-09-21";
 		schema:contentSize 1281355;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2023,7 +2102,7 @@ anl:dataset_NL-EbSNWV_2276 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2276_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2017-09-21";
 		schema:contentSize 714011;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2040,7 +2119,7 @@ anl:dataset_NL-EbSNWV_2277 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2277_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2017-09-21";
 		schema:contentSize 429591;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2055,11 +2134,11 @@ anl:dataset_NL-EbSNWV_2278 a schema:Dataset;
 	schema:temporalCoverage: "1891.1921";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2278_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_2278_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 1977552;
-		schema:description "XML bestand volgens MI model";
+		schema:dateModified "2021-06-23";
+		schema:contentSize 3867887;
+		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_2279 a schema:Dataset;
@@ -2074,7 +2153,7 @@ anl:dataset_NL-EbSNWV_2279 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2279_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2017-09-21";
 		schema:contentSize 280878;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2091,7 +2170,7 @@ anl:dataset_NL-EbSNWV_2280 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2280_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2017-09-21";
 		schema:contentSize 415688;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2108,7 +2187,7 @@ anl:dataset_NL-EbSNWV_2281 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2281_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2017-09-21";
 		schema:contentSize 67255;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2125,7 +2204,7 @@ anl:dataset_NL-EbSNWV_2282 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2282_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2017-09-21";
 		schema:contentSize 599753;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2140,11 +2219,11 @@ anl:dataset_NL-EbSNWV_2283 a schema:Dataset;
 	schema:temporalCoverage: "1891.1924";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2283_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_2283_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 2412300;
-		schema:description "XML bestand volgens MI model";
+		schema:dateModified "2021-06-23";
+		schema:contentSize 4706544;
+		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_2284 a schema:Dataset;
@@ -2158,7 +2237,7 @@ anl:dataset_NL-EbSNWV_2284 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2284_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2018-05-30";
 		schema:contentSize 2158098;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2175,25 +2254,43 @@ anl:dataset_NL-EbSNWV_2285 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2285_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2018-03-28";
 		schema:contentSize 86830;
 		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_2350 a schema:Dataset;
 	schema:name "2350";
-	schema:description "Bevolkingsregister Oldebroek 1900-1927";
+	schema:description "Bevolkingsregister Oldebroek";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
+	schema:temporalCoverage: "1900.1927";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2350_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_2350_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 88304;
-		schema:description "XML bestand volgens MI model";
+		schema:dateModified "2021-08-04";
+		schema:contentSize 83900;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-EbSNWV_2351 a schema:Dataset;
+	schema:name "2351";
+	schema:description "Gezinskaarten Oldebroek";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
+	schema:temporalCoverage: "1927.1939";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_2351_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-08-04";
+		schema:contentSize 965389;
+		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_2352 a schema:Dataset;
@@ -2224,7 +2321,7 @@ anl:dataset_NL-EbSNWV_2360 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/434_2360_18_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-02-04";
+		schema:dateModified "2021-01-26";
 		schema:contentSize 22211453;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2239,9 +2336,9 @@ anl:dataset_NL-EbSNWV_2361 a schema:Dataset;
 	schema:temporalCoverage: "1830.1927";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/434_2361_18_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_2361_18_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-17";
+		schema:dateModified "2021-11-25";
 		schema:contentSize 20190921;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2256,9 +2353,9 @@ anl:dataset_NL-EbSNWV_2362 a schema:Dataset;
 	schema:temporalCoverage: "1830.1927";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/434_2362_18_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_2362_18_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-11";
+		schema:dateModified "2021-10-11";
 		schema:contentSize 18789287;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2273,9 +2370,9 @@ anl:dataset_NL-EbSNWV_2363 a schema:Dataset;
 	schema:temporalCoverage: "1830.1927";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/434_2363_18_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_2363_18_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-11";
+		schema:dateModified "2021-08-20";
 		schema:contentSize 17552895;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2309,7 +2406,7 @@ anl:dataset_NL-EbSNWV_2365 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2365_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2017-11-26";
 		schema:contentSize 1044223;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2326,7 +2423,7 @@ anl:dataset_NL-EbSNWV_2460 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2460_14_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-03-28";
+		schema:dateModified "2021-03-22";
 		schema:contentSize 381680;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2343,7 +2440,7 @@ anl:dataset_NL-EbSNWV_2664 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2664_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2018-04-27";
 		schema:contentSize 4763430;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2359,7 +2456,7 @@ anl:dataset_NL-EbSNWV_2850 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2850_14_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2017-10-30";
 		schema:contentSize 21050;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2432,18 +2529,18 @@ anl:dataset_NL-EbSNWV_3134 a schema:Dataset;
 
 anl:dataset_NL-EbSNWV_3252 a schema:Dataset;
 	schema:name "3252";
-	schema:description "Begraven Nunspeet aan Eperweg - Oosterlaan";
+	schema:description "Begraven Nunspeet aan Eperweg - Oosterlaan, perk A - K";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_3252_18_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_3252_18_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 6456040;
-		schema:description "XML bestand volgens MI model";
+		schema:dateModified "2021-07-30";
+		schema:contentSize 12633440;
+		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_3305 a schema:Dataset;
@@ -2472,9 +2569,9 @@ anl:dataset_NL-EbSNWV_3315 a schema:Dataset;
 	schema:temporalCoverage: "1939.1949";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/434_3315_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_3315_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-02-04";
+		schema:dateModified "2021-11-01";
 		schema:contentSize 9613450;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2542,7 +2639,7 @@ anl:dataset_NL-EbSNWV_3451 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_3451_18_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-03-21";
+		schema:dateModified "2021-03-19";
 		schema:contentSize 972271;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2571,12 +2668,13 @@ anl:dataset_NL-EbSNWV_4001 a schema:Dataset;
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
+	schema:temporalCoverage: "1796.1912";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_4001_1_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_4001_1_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-09-29";
-		schema:contentSize 1129849;
+		schema:dateModified "2021-07-27";
+		schema:contentSize 1110313;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -2587,12 +2685,13 @@ anl:dataset_NL-EbSNWV_4002 a schema:Dataset;
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
+	schema:temporalCoverage: "1913.1971";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_4002_1_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_4002_1_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 2100477;
+		schema:dateModified "2021-11-25";
+		schema:contentSize 2427788;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -2632,17 +2731,18 @@ anl:dataset_NL-EbSNWV_4010 a schema:Dataset;
 
 anl:dataset_NL-EbSNWV_4031 a schema:Dataset;
 	schema:name "4031";
-	schema:description "Gemeentebestuur Ermelo 1972 - 1996.";
+	schema:description "Gemeentebestuur Ermelo, 1972-1996";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
+	schema:temporalCoverage: "1972.1996";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_4031_1_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_4031_1_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 3461186;
+		schema:dateModified "2021-08-04";
+		schema:contentSize 3342602;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -2657,7 +2757,7 @@ anl:dataset_NL-EbSNWV_4201 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_4201_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2018-01-26";
 		schema:contentSize 247199;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2691,7 +2791,7 @@ anl:dataset_NL-EbSNWV_4251 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_4251_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2017-11-20";
 		schema:contentSize 1596639;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2721,9 +2821,9 @@ anl:dataset_NL-EbSNWV_5002 a schema:Dataset;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_5002_1_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/NL-EbSNWV_5002_1_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2021-07-30";
 		schema:contentSize 3565373;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2857,7 +2957,7 @@ anl:dataset_NL-EbSNWV_5270 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_5270_18_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-29";
+		schema:dateModified "2020-12-23";
 		schema:contentSize 11365351;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2890,7 +2990,7 @@ anl:dataset_NL-EbSNWV_5350 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_5350_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2017-12-10";
 		schema:contentSize 10423362;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2940,7 +3040,7 @@ anl:dataset_NL-EbSNWV_5363 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_5363_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2019-06-15";
 		schema:contentSize 2288476;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2957,25 +3057,25 @@ anl:dataset_NL-EbSNWV_5364 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_5364_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2018-10-23";
 		schema:contentSize 3478253;
 		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_5366 a schema:Dataset;
 	schema:name "5366";
-	schema:description "Belgische geinterneerde militairen";
+	schema:description "Belgische geïnterneerde militairen";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_5366_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/a2a/NL-EbSNWV_5366_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
-		schema:contentSize 4157055;
-		schema:description "XML bestand volgens MI model";
+		schema:dateModified "2021-07-30";
+		schema:contentSize 9340501;
+		schema:description "XML bestand volgens A2A model";
 	].
 
 anl:dataset_NL-EbSNWV_5367 a schema:Dataset;
@@ -2990,7 +3090,7 @@ anl:dataset_NL-EbSNWV_5367 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_5367_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-06-25";
+		schema:dateModified "2018-10-23";
 		schema:contentSize 204892;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -3014,10 +3114,4 @@ anl:dataset_NL-EbSNWV_5919 a schema:Dataset;
 anl:datacatalog_NL-EbSNWV a schema:DataCatalog;
 	schema:name "Dataset catalogus van de open data gepubliceerd op archieven.nl van Streekarchivariaat Noordwest-Veluwe";
 	schema:publisher anl:organisation_NL-EbSNWV;
-	schema:dataset anl:dataset_NL-EbSNWV_1001, anl:dataset_NL-EbSNWV_1003, anl:dataset_NL-EbSNWV_1004, anl:dataset_NL-EbSNWV_1004_247, anl:dataset_NL-EbSNWV_1004_248, anl:dataset_NL-EbSNWV_1004_250, anl:dataset_NL-EbSNWV_1004_251, anl:dataset_NL-EbSNWV_1004_252, anl:dataset_NL-EbSNWV_1004_345, anl:dataset_NL-EbSNWV_1004_98, anl:dataset_NL-EbSNWV_1005, anl:dataset_NL-EbSNWV_1017, anl:dataset_NL-EbSNWV_1019, anl:dataset_NL-EbSNWV_1024, anl:dataset_NL-EbSNWV_1028, anl:dataset_NL-EbSNWV_1029, anl:dataset_NL-EbSNWV_1029_134, anl:dataset_NL-EbSNWV_1029_138, anl:dataset_NL-EbSNWV_1029_139, anl:dataset_NL-EbSNWV_1029_29, anl:dataset_NL-EbSNWV_1029_71, anl:dataset_NL-EbSNWV_1029_72, anl:dataset_NL-EbSNWV_1029_81, anl:dataset_NL-EbSNWV_1030, anl:dataset_NL-EbSNWV_1036, anl:dataset_NL-EbSNWV_1050, anl:dataset_NL-EbSNWV_1050_446, anl:dataset_NL-EbSNWV_1050_447, anl:dataset_NL-EbSNWV_1050_448, anl:dataset_NL-EbSNWV_1051, anl:dataset_NL-EbSNWV_1054, anl:dataset_NL-EbSNWV_1066, anl:dataset_NL-EbSNWV_1067, anl:dataset_NL-EbSNWV_1083, anl:dataset_NL-EbSNWV_1092, anl:dataset_NL-EbSNWV_1112, anl:dataset_NL-EbSNWV_1131, anl:dataset_NL-EbSNWV_1136, anl:dataset_NL-EbSNWV_1138, anl:dataset_NL-EbSNWV_1251, anl:dataset_NL-EbSNWV_1252, anl:dataset_NL-EbSNWV_1253, anl:dataset_NL-EbSNWV_1255, anl:dataset_NL-EbSNWV_1256, anl:dataset_NL-EbSNWV_1257, anl:dataset_NL-EbSNWV_1259, anl:dataset_NL-EbSNWV_1260, anl:dataset_NL-EbSNWV_1262, anl:dataset_NL-EbSNWV_1263, anl:dataset_NL-EbSNWV_1264, anl:dataset_NL-EbSNWV_1266, anl:dataset_NL-EbSNWV_1267, anl:dataset_NL-EbSNWV_1268, anl:dataset_NL-EbSNWV_1269, anl:dataset_NL-EbSNWV_1351, anl:dataset_NL-EbSNWV_1352, anl:dataset_NL-EbSNWV_1353, anl:dataset_NL-EbSNWV_1354, anl:dataset_NL-EbSNWV_1356, anl:dataset_NL-EbSNWV_1357, anl:dataset_NL-EbSNWV_1368, anl:dataset_NL-EbSNWV_1369, anl:dataset_NL-EbSNWV_1370, anl:dataset_NL-EbSNWV_1371, anl:dataset_NL-EbSNWV_1372, anl:dataset_NL-EbSNWV_1382, anl:dataset_NL-EbSNWV_1383, anl:dataset_NL-EbSNWV_1384, anl:dataset_NL-EbSNWV_1385, anl:dataset_NL-EbSNWV_1386, anl:dataset_NL-EbSNWV_1387, anl:dataset_NL-EbSNWV_1395, anl:dataset_NL-EbSNWV_1396, anl:dataset_NL-EbSNWV_1456, anl:dataset_NL-EbSNWV_1851, anl:dataset_NL-EbSNWV_1852, anl:dataset_NL-EbSNWV_2001, anl:dataset_NL-EbSNWV_2002, anl:dataset_NL-EbSNWV_2003, anl:dataset_NL-EbSNWV_2003_332, anl:dataset_NL-EbSNWV_2003_333, anl:dataset_NL-EbSNWV_2003_334, anl:dataset_NL-EbSNWV_2003_335, anl:dataset_NL-EbSNWV_2003_336, anl:dataset_NL-EbSNWV_2003_337, anl:dataset_NL-EbSNWV_2003_338, anl:dataset_NL-EbSNWV_2003_339, anl:dataset_NL-EbSNWV_2003_340, anl:dataset_NL-EbSNWV_2003_342, anl:dataset_NL-EbSNWV_2004, anl:dataset_NL-EbSNWV_2009, anl:dataset_NL-EbSNWV_2026, anl:dataset_NL-EbSNWV_2027, anl:dataset_NL-EbSNWV_2028, anl:dataset_NL-EbSNWV_2062, anl:dataset_NL-EbSNWV_2065, anl:dataset_NL-EbSNWV_2067, anl:dataset_NL-EbSNWV_2251, anl:dataset_NL-EbSNWV_2252, anl:dataset_NL-EbSNWV_2253, anl:dataset_NL-EbSNWV_2254, anl:dataset_NL-EbSNWV_2255, anl:dataset_NL-EbSNWV_2256, anl:dataset_NL-EbSNWV_2257, anl:dataset_NL-EbSNWV_2258, anl:dataset_NL-EbSNWV_2260, anl:dataset_NL-EbSNWV_2261, anl:dataset_NL-EbSNWV_2262, anl:dataset_NL-EbSNWV_2263, anl:dataset_NL-EbSNWV_2264, anl:dataset_NL-EbSNWV_2265, anl:dataset_NL-EbSNWV_2266, anl:dataset_NL-EbSNWV_2267, anl:dataset_NL-EbSNWV_2268, anl:dataset_NL-EbSNWV_2269, anl:dataset_NL-EbSNWV_2270, anl:dataset_NL-EbSNWV_2271, anl:dataset_NL-EbSNWV_2273, anl:dataset_NL-EbSNWV_2274, anl:dataset_NL-EbSNWV_2275, anl:dataset_NL-EbSNWV_2276, anl:dataset_NL-EbSNWV_2277, anl:dataset_NL-EbSNWV_2278, anl:dataset_NL-EbSNWV_2279, anl:dataset_NL-EbSNWV_2280, anl:dataset_NL-EbSNWV_2281, anl:dataset_NL-EbSNWV_2282, anl:dataset_NL-EbSNWV_2283, anl:dataset_NL-EbSNWV_2284, anl:dataset_NL-EbSNWV_2285, anl:dataset_NL-EbSNWV_2350, anl:dataset_NL-EbSNWV_2352, anl:dataset_NL-EbSNWV_2360, anl:dataset_NL-EbSNWV_2361, anl:dataset_NL-EbSNWV_2362, anl:dataset_NL-EbSNWV_2363, anl:dataset_NL-EbSNWV_2364, anl:dataset_NL-EbSNWV_2365, anl:dataset_NL-EbSNWV_2460, anl:dataset_NL-EbSNWV_2664, anl:dataset_NL-EbSNWV_2850, anl:dataset_NL-EbSNWV_3025, anl:dataset_NL-EbSNWV_3026, anl:dataset_NL-EbSNWV_3027, anl:dataset_NL-EbSNWV_3134, anl:dataset_NL-EbSNWV_3252, anl:dataset_NL-EbSNWV_3305, anl:dataset_NL-EbSNWV_3315, anl:dataset_NL-EbSNWV_3401, anl:dataset_NL-EbSNWV_3402, anl:dataset_NL-EbSNWV_3410, anl:dataset_NL-EbSNWV_3451, anl:dataset_NL-EbSNWV_3621, anl:dataset_NL-EbSNWV_4001, anl:dataset_NL-EbSNWV_4002, anl:dataset_NL-EbSNWV_4003, anl:dataset_NL-EbSNWV_4010, anl:dataset_NL-EbSNWV_4031, anl:dataset_NL-EbSNWV_4201, anl:dataset_NL-EbSNWV_4202, anl:dataset_NL-EbSNWV_4251, anl:dataset_NL-EbSNWV_5001, anl:dataset_NL-EbSNWV_5002, anl:dataset_NL-EbSNWV_5003, anl:dataset_NL-EbSNWV_5004, anl:dataset_NL-EbSNWV_5055, anl:dataset_NL-EbSNWV_5063, anl:dataset_NL-EbSNWV_5118, anl:dataset_NL-EbSNWV_5248, anl:dataset_NL-EbSNWV_5249, anl:dataset_NL-EbSNWV_5270, anl:dataset_NL-EbSNWV_5299, anl:dataset_NL-EbSNWV_5350, anl:dataset_NL-EbSNWV_5352, anl:dataset_NL-EbSNWV_5362, anl:dataset_NL-EbSNWV_5363, anl:dataset_NL-EbSNWV_5364, anl:dataset_NL-EbSNWV_5366, anl:dataset_NL-EbSNWV_5367, anl:dataset_NL-EbSNWV_5919.
-
-anl:organisation_NL-EbSNWV a schema:Organization;
-	schema:identifer "NL-EbSNWV";
-	schema:name "Streekarchivariaat Noordwest-Veluwe";
-	schema:url "https://www.streekarchivariaat.nl/";
-	schema:address [ a schema:PostalAddress; schema:addressLocality "Elburg" ].
+	schema:dataset anl:dataset_NL-EbSNWV_1001, anl:dataset_NL-EbSNWV_1003, anl:dataset_NL-EbSNWV_1004, anl:dataset_NL-EbSNWV_1004_247, anl:dataset_NL-EbSNWV_1004_248, anl:dataset_NL-EbSNWV_1004_250, anl:dataset_NL-EbSNWV_1004_251, anl:dataset_NL-EbSNWV_1004_252, anl:dataset_NL-EbSNWV_1004_345, anl:dataset_NL-EbSNWV_1004_98, anl:dataset_NL-EbSNWV_1005, anl:dataset_NL-EbSNWV_1017, anl:dataset_NL-EbSNWV_1019, anl:dataset_NL-EbSNWV_1024, anl:dataset_NL-EbSNWV_1028, anl:dataset_NL-EbSNWV_1029, anl:dataset_NL-EbSNWV_1029_134, anl:dataset_NL-EbSNWV_1029_138, anl:dataset_NL-EbSNWV_1029_139, anl:dataset_NL-EbSNWV_1029_29, anl:dataset_NL-EbSNWV_1029_71, anl:dataset_NL-EbSNWV_1029_72, anl:dataset_NL-EbSNWV_1029_81, anl:dataset_NL-EbSNWV_1030, anl:dataset_NL-EbSNWV_1036, anl:dataset_NL-EbSNWV_1050, anl:dataset_NL-EbSNWV_1050_446, anl:dataset_NL-EbSNWV_1050_447, anl:dataset_NL-EbSNWV_1050_448, anl:dataset_NL-EbSNWV_1051, anl:dataset_NL-EbSNWV_1054, anl:dataset_NL-EbSNWV_1066, anl:dataset_NL-EbSNWV_1067, anl:dataset_NL-EbSNWV_1083, anl:dataset_NL-EbSNWV_1092, anl:dataset_NL-EbSNWV_1112, anl:dataset_NL-EbSNWV_1131, 

@@ -133,7 +133,7 @@ anl:dataset_NL-KrdGA_142_1_06-36 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-sarm/mi/NL-AlSARM_142106-36_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-04-10";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 2081316;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -286,7 +286,7 @@ anl:dataset_NL-KrdGA_142_1_06-6 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-sarm/mi/NL-AlSARM_142.1.06-6_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2014-11-14";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 620999;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -966,7 +966,7 @@ anl:dataset_NL-KrdGA_143_1_04-17 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-sarm/mi/NL-AlSARM_143.1.04-17_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2014-12-06";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 498120;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1017,7 +1017,7 @@ anl:dataset_NL-KrdGA_143_1_04-3 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-sarm/mi/NL-AlSARM_143.1.04-3_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2014-12-06";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 5044429;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1204,7 +1204,7 @@ anl:dataset_NL-KrdGA_143_1_05-15 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-sarm/mi/NL-AlSARM_143.1.05-15_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2014-11-14";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 1591426;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1357,7 +1357,7 @@ anl:dataset_NL-KrdGA_143_1_05-4 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-sarm/mi/NL-AlSARM_143105-4_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-02-29";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 3594119;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1391,7 +1391,7 @@ anl:dataset_NL-KrdGA_143_1_05-54 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-sarm/mi/NL-AlSARM_143105-54_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-02-29";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 2564785;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1408,7 +1408,7 @@ anl:dataset_NL-KrdGA_143_1_05-55 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-sarm/mi/NL-AlSARM_143105-55_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-08-04";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 3733155;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1425,7 +1425,7 @@ anl:dataset_NL-KrdGA_143_1_05-56 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-sarm/mi/NL-AlSARM_143105-56_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-04-10";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 3770535;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1712,7 +1712,7 @@ anl:dataset_NL-KrdGA_143_2_04-25 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-sarm/mi/NL-AlSARM_143.2.04-25_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2014-11-19";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 2021097;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1913,7 +1913,7 @@ anl:dataset_NL-KrdGA_145_1_05-15 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-sarm/mi/NL-AlSARM_145.1.05-15_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2014-11-14";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 472428;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -1964,7 +1964,7 @@ anl:dataset_NL-KrdGA_145_1_05-18 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-sarm/mi/NL-AlSARM_145.1.05-18_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2014-11-14";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 799304;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2100,7 +2100,7 @@ anl:dataset_NL-KrdGA_145_1_05-3 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-sarm/mi/NL-AlSARM_145.1.05-3_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2014-11-20";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 1538729;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2219,7 +2219,7 @@ anl:dataset_NL-KrdGA_145_1_05-6 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-sarm/mi/NL-AlSARM_145.1.05-6_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-10-19";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 2905491;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2474,7 +2474,7 @@ anl:dataset_NL-KrdGA_145_1_05-8 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-sarm/mi/NL-AlSARM_145.1.05-8_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2014-11-19";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 2233394;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2695,7 +2695,7 @@ anl:dataset_NL-KrdGA_145_1_09-50 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-sarm/mi/NL-AlSARM_145.1.09-50_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2014-12-02";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 178105;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2779,7 +2779,7 @@ anl:dataset_NL-KrdGA_145_1_11-5 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-sarm/mi/NL-AlSARM_145.1.11-5_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2014-12-06";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 1164144;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2949,7 +2949,7 @@ anl:dataset_NL-KrdGA_145_1_12-6 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-sarm/mi/NL-AlSARM_145.1.12-6_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2014-12-11";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 532434;
 		schema:description "XML bestand volgens MI model";
 	].
@@ -2966,7 +2966,7 @@ anl:dataset_NL-KrdGA_145_1_12-7 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve.archieven.nl/open/opendata-sarm/mi/NL-AlSARM_145.1.12-7_54_MI.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2014-12-11";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 788083;
 		schema:description "XML bestand volgens MI model";
 	].

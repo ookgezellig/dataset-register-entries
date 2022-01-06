@@ -83,7 +83,7 @@ anl:dataset_NL-PmWA_0232_3 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0232_3_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-07-06";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 771075;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -134,7 +134,7 @@ anl:dataset_NL-PmWA_0233_10a a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0233_10a_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-07-06";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 2451095;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -202,7 +202,7 @@ anl:dataset_NL-PmWA_0233_17 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0233_17_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-12";
 		schema:contentSize 741999;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -338,7 +338,7 @@ anl:dataset_NL-PmWA_0234_25a a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0234_25a_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-12";
 		schema:contentSize 537519;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -372,7 +372,7 @@ anl:dataset_NL-PmWA_0234_26a a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0234_26a_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-12";
 		schema:contentSize 479128;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -695,7 +695,7 @@ anl:dataset_NL-PmWA_0236_5 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0236_5_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-08-31";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 3761034;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1052,7 +1052,7 @@ anl:dataset_NL-PmWA_0241_5 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0241_5_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-03-12";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 7553445;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1069,7 +1069,7 @@ anl:dataset_NL-PmWA_0241_6 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0241_6_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-10";
 		schema:contentSize 3436004;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1086,7 +1086,7 @@ anl:dataset_NL-PmWA_0242_5a a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0242_5a_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-12";
 		schema:contentSize 3106655;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1103,7 +1103,7 @@ anl:dataset_NL-PmWA_0242_6b a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0242_6b_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-12";
 		schema:contentSize 3174253;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1171,7 +1171,7 @@ anl:dataset_NL-PmWA_0243_14 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0243_14_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-09";
+		schema:dateModified "2022-01-04";
 		schema:contentSize 1086174;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1205,7 +1205,7 @@ anl:dataset_NL-PmWA_0243_2a a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0243_2a_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 2833199;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1222,7 +1222,7 @@ anl:dataset_NL-PmWA_0243_9a a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0243_9a_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-22";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 12640095;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1273,7 +1273,7 @@ anl:dataset_NL-PmWA_0245_1a a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0245_1a_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-10";
 		schema:contentSize 1077875;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1290,7 +1290,7 @@ anl:dataset_NL-PmWA_0245_1b a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0245_1b_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-10";
 		schema:contentSize 5001927;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1307,7 +1307,7 @@ anl:dataset_NL-PmWA_0245_2 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0245_2_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-10";
 		schema:contentSize 9696761;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1324,7 +1324,7 @@ anl:dataset_NL-PmWA_0245_3a a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0245_3a_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-10";
 		schema:contentSize 2003685;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1358,7 +1358,7 @@ anl:dataset_NL-PmWA_0245_4 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0245_4_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-10";
 		schema:contentSize 1642398;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1426,7 +1426,7 @@ anl:dataset_NL-PmWA_0265_10 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0265_10_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 3048794;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1460,7 +1460,7 @@ anl:dataset_NL-PmWA_0265_12 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0265_12_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1355806;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1477,7 +1477,7 @@ anl:dataset_NL-PmWA_0265_13 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0265_13_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-09";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 7679908;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1545,7 +1545,7 @@ anl:dataset_NL-PmWA_0265_5 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0265_5_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 2589940;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1647,7 +1647,7 @@ anl:dataset_NL-PmWA_0266_14 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0266_14_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-05-28";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 2559801;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1698,7 +1698,7 @@ anl:dataset_NL-PmWA_0266_17 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0266_17_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1846083;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1715,7 +1715,7 @@ anl:dataset_NL-PmWA_0266_18 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0266_18_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1579111;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1732,7 +1732,7 @@ anl:dataset_NL-PmWA_0266_19 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0266_19_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 873413;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1749,7 +1749,7 @@ anl:dataset_NL-PmWA_0266_21 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0266_21_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1476516;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1766,7 +1766,7 @@ anl:dataset_NL-PmWA_0266_22 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0266_22_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-03-30";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 1335890;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1783,7 +1783,7 @@ anl:dataset_NL-PmWA_0266_23 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0266_23_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 1305585;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1800,7 +1800,7 @@ anl:dataset_NL-PmWA_0266_24 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0266_24_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1298525;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1834,7 +1834,7 @@ anl:dataset_NL-PmWA_0266_26 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0266_26_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1088624;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1851,7 +1851,7 @@ anl:dataset_NL-PmWA_0266_27 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0266_27_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 821890;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1868,7 +1868,7 @@ anl:dataset_NL-PmWA_0266_28 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0266_28_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1921556;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1919,7 +1919,7 @@ anl:dataset_NL-PmWA_0266_4 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0266_4_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 868419;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -1970,7 +1970,7 @@ anl:dataset_NL-PmWA_0266_9 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0266_9_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1240854;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2004,7 +2004,7 @@ anl:dataset_NL-PmWA_0267_2 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0267_2_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-02";
 		schema:contentSize 6277813;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2038,7 +2038,7 @@ anl:dataset_NL-PmWA_0267_4 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0267_4_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-02";
 		schema:contentSize 712753;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2055,7 +2055,7 @@ anl:dataset_NL-PmWA_0267_5 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0267_5_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-02";
 		schema:contentSize 528627;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2089,7 +2089,7 @@ anl:dataset_NL-PmWA_0267_7 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0267_7_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-02";
 		schema:contentSize 182850;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2106,7 +2106,7 @@ anl:dataset_NL-PmWA_0268_1 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0268_1_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-02";
 		schema:contentSize 1582421;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2225,7 +2225,7 @@ anl:dataset_NL-PmWA_0268_7 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0268_7_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-03";
 		schema:contentSize 2080763;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2276,7 +2276,7 @@ anl:dataset_NL-PmWA_0269_1 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0269_1_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 2420234;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2293,7 +2293,7 @@ anl:dataset_NL-PmWA_0269_10 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0269_10_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 804834;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2310,7 +2310,7 @@ anl:dataset_NL-PmWA_0269_11 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0269_11_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 826377;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2327,7 +2327,7 @@ anl:dataset_NL-PmWA_0269_12 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0269_12_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1907107;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2344,7 +2344,7 @@ anl:dataset_NL-PmWA_0269_13 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0269_13_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1681269;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2361,7 +2361,7 @@ anl:dataset_NL-PmWA_0269_14 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0269_14_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1712100;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2395,7 +2395,7 @@ anl:dataset_NL-PmWA_0269_16 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0269_16_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1227223;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2412,7 +2412,7 @@ anl:dataset_NL-PmWA_0269_17 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0269_17_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1184647;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2446,7 +2446,7 @@ anl:dataset_NL-PmWA_0269_19 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0269_19_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1495348;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2497,7 +2497,7 @@ anl:dataset_NL-PmWA_0269_21 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0269_21_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1894067;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2514,7 +2514,7 @@ anl:dataset_NL-PmWA_0269_22 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0269_22_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1242956;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2531,7 +2531,7 @@ anl:dataset_NL-PmWA_0269_23 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0269_23_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 709873;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2565,7 +2565,7 @@ anl:dataset_NL-PmWA_0269_25 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0269_25_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 2153105;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2582,7 +2582,7 @@ anl:dataset_NL-PmWA_0269_26 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0269_26_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1575457;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2599,7 +2599,7 @@ anl:dataset_NL-PmWA_0269_27 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0269_27_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1923819;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2633,7 +2633,7 @@ anl:dataset_NL-PmWA_0269_29 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0269_29_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1436370;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2684,7 +2684,7 @@ anl:dataset_NL-PmWA_0269_5 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0269_5_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 737282;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2701,7 +2701,7 @@ anl:dataset_NL-PmWA_0269_6 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0269_6_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 1585067;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2718,7 +2718,7 @@ anl:dataset_NL-PmWA_0269_7 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0269_7_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1485734;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2752,7 +2752,7 @@ anl:dataset_NL-PmWA_0269_9 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0269_9_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1775307;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2769,7 +2769,7 @@ anl:dataset_NL-PmWA_0270_1 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0270_1_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1964919;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2786,7 +2786,7 @@ anl:dataset_NL-PmWA_0270_10 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0270_10_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 2439959;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2803,7 +2803,7 @@ anl:dataset_NL-PmWA_0270_11 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0270_11_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1601384;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2820,7 +2820,7 @@ anl:dataset_NL-PmWA_0270_12 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0270_12_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1244783;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2854,7 +2854,7 @@ anl:dataset_NL-PmWA_0270_14 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0270_14_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1284981;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2871,7 +2871,7 @@ anl:dataset_NL-PmWA_0270_15 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0270_15_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 3719620;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2888,7 +2888,7 @@ anl:dataset_NL-PmWA_0270_16 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0270_16_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1449346;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2905,7 +2905,7 @@ anl:dataset_NL-PmWA_0270_17 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0270_17_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1195077;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2922,7 +2922,7 @@ anl:dataset_NL-PmWA_0270_18 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0270_18_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 292471;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2939,7 +2939,7 @@ anl:dataset_NL-PmWA_0270_19 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0270_19_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 423579;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2956,7 +2956,7 @@ anl:dataset_NL-PmWA_0270_2 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0270_2_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1669624;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2973,7 +2973,7 @@ anl:dataset_NL-PmWA_0270_20 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0270_20_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 683727;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -2990,7 +2990,7 @@ anl:dataset_NL-PmWA_0270_21 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0270_21_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 689874;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3024,7 +3024,7 @@ anl:dataset_NL-PmWA_0270_4 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0270_4_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 2272518;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3041,7 +3041,7 @@ anl:dataset_NL-PmWA_0270_5 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0270_5_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 2405111;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3058,7 +3058,7 @@ anl:dataset_NL-PmWA_0270_6 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0270_6_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 826583;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3075,7 +3075,7 @@ anl:dataset_NL-PmWA_0270_7 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0270_7_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 289926;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3092,7 +3092,7 @@ anl:dataset_NL-PmWA_0270_8 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0270_8_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 440441;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3109,7 +3109,7 @@ anl:dataset_NL-PmWA_0270_9 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0270_9_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 787693;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3143,7 +3143,7 @@ anl:dataset_NL-PmWA_0271_2 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0271_2_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 3181000;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3160,7 +3160,7 @@ anl:dataset_NL-PmWA_0271_3 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0271_3_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 700586;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3177,7 +3177,7 @@ anl:dataset_NL-PmWA_0271_4 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0271_4_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 2446891;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3194,7 +3194,7 @@ anl:dataset_NL-PmWA_0271_5 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0271_5_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-05";
 		schema:contentSize 607174;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3211,7 +3211,7 @@ anl:dataset_NL-PmWA_0271_9 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0271_9_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 361516;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3228,7 +3228,7 @@ anl:dataset_NL-PmWA_0272_1 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0272_1_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 660437;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3245,7 +3245,7 @@ anl:dataset_NL-PmWA_0272_2 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0272_2_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1407856;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3262,7 +3262,7 @@ anl:dataset_NL-PmWA_0272_3 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0272_3_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 754769;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3296,7 +3296,7 @@ anl:dataset_NL-PmWA_0272_5 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0272_5_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 810170;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3313,7 +3313,7 @@ anl:dataset_NL-PmWA_0272_7 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0272_7_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 317429;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3330,7 +3330,7 @@ anl:dataset_NL-PmWA_0273_1 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0273_1_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1136140;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3347,7 +3347,7 @@ anl:dataset_NL-PmWA_0273_2 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0273_2_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 2503015;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3364,7 +3364,7 @@ anl:dataset_NL-PmWA_0273_3 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0273_3_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1522216;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3381,7 +3381,7 @@ anl:dataset_NL-PmWA_0273_4 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0273_4_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 2322950;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3398,7 +3398,7 @@ anl:dataset_NL-PmWA_0273_6 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0273_6_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 214796;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3415,7 +3415,7 @@ anl:dataset_NL-PmWA_0273_7 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0273_7_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 449846;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3449,7 +3449,7 @@ anl:dataset_NL-PmWA_0274_10 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0274_10_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-10-01";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 4616722;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3466,7 +3466,7 @@ anl:dataset_NL-PmWA_0274_11 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0274_11_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-05-28";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 3266229;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3500,7 +3500,7 @@ anl:dataset_NL-PmWA_0274_13 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0274_13_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-09";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 4899779;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3551,7 +3551,7 @@ anl:dataset_NL-PmWA_0274_16 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0274_16_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1999215;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3568,7 +3568,7 @@ anl:dataset_NL-PmWA_0274_17 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0274_17_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1403627;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3585,7 +3585,7 @@ anl:dataset_NL-PmWA_0274_18 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0274_18_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 2344371;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3602,7 +3602,7 @@ anl:dataset_NL-PmWA_0274_19 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0274_19_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1523085;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3636,7 +3636,7 @@ anl:dataset_NL-PmWA_0274_20 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0274_20_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-08-31";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 1940227;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3653,7 +3653,7 @@ anl:dataset_NL-PmWA_0274_21 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0274_21_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 2485411;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3670,7 +3670,7 @@ anl:dataset_NL-PmWA_0274_22 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0274_22_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 184505;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3704,7 +3704,7 @@ anl:dataset_NL-PmWA_0274_24 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0274_24_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 224338;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3721,7 +3721,7 @@ anl:dataset_NL-PmWA_0274_29 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0274_29_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-05-11";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 2778601;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3755,7 +3755,7 @@ anl:dataset_NL-PmWA_0274_4 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0274_4_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-10-01";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 4661962;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3823,7 +3823,7 @@ anl:dataset_NL-PmWA_0274_8 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0274_8_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-10-01";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 4623560;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3840,7 +3840,7 @@ anl:dataset_NL-PmWA_0274_9 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0274_9_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-08-31";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 4838875;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3959,7 +3959,7 @@ anl:dataset_NL-PmWA_0275_15 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0275_15_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-06-24";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 6501045;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3976,7 +3976,7 @@ anl:dataset_NL-PmWA_0275_16 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0275_16_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-06-24";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 4436141;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -3993,7 +3993,7 @@ anl:dataset_NL-PmWA_0275_17 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0275_17_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-05-28";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 4916790;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4027,7 +4027,7 @@ anl:dataset_NL-PmWA_0275_19 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0275_19_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-06-24";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 5470767;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4061,7 +4061,7 @@ anl:dataset_NL-PmWA_0275_20 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0275_20_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-08-31";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 6675184;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4078,7 +4078,7 @@ anl:dataset_NL-PmWA_0275_21 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0275_21_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-03-09";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 4198151;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4214,7 +4214,7 @@ anl:dataset_NL-PmWA_0275_6 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0275_6_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 2886528;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4231,7 +4231,7 @@ anl:dataset_NL-PmWA_0275_7 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0275_7_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 3757383;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4282,7 +4282,7 @@ anl:dataset_NL-PmWA_0276_1 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0276_1_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-06";
 		schema:contentSize 987996;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4299,7 +4299,7 @@ anl:dataset_NL-PmWA_0276_10 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0276_10_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 2011152;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4333,7 +4333,7 @@ anl:dataset_NL-PmWA_0276_12 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0276_12_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 1395060;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4367,7 +4367,7 @@ anl:dataset_NL-PmWA_0276_14 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0276_14_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 860710;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4384,7 +4384,7 @@ anl:dataset_NL-PmWA_0276_15 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0276_15_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 1254137;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4418,7 +4418,7 @@ anl:dataset_NL-PmWA_0276_17 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0276_17_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 6297625;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4435,7 +4435,7 @@ anl:dataset_NL-PmWA_0276_18 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0276_18_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 4855345;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4452,7 +4452,7 @@ anl:dataset_NL-PmWA_0276_19 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0276_19_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 1870078;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4469,7 +4469,7 @@ anl:dataset_NL-PmWA_0276_2 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0276_2_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-06";
 		schema:contentSize 1878585;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4486,7 +4486,7 @@ anl:dataset_NL-PmWA_0276_20 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0276_20_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 3605138;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4503,7 +4503,7 @@ anl:dataset_NL-PmWA_0276_21 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0276_21_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 7410149;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4554,7 +4554,7 @@ anl:dataset_NL-PmWA_0276_5 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0276_5_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 2333835;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4571,7 +4571,7 @@ anl:dataset_NL-PmWA_0276_6 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0276_6_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 1628566;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4588,7 +4588,7 @@ anl:dataset_NL-PmWA_0276_7 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0276_7_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 612965;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4605,7 +4605,7 @@ anl:dataset_NL-PmWA_0276_8 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0276_8_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 2524930;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4622,7 +4622,7 @@ anl:dataset_NL-PmWA_0276_9 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0276_9_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 1415680;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4639,8 +4639,8 @@ anl:dataset_NL-PmWA_0277_1 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0277_1_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-24";
-		schema:contentSize 1478909;
+		schema:dateModified "2022-01-03";
+		schema:contentSize 1480878;
 		schema:description "XML bestand volgens A2A model";
 	].
 
@@ -4656,8 +4656,8 @@ anl:dataset_NL-PmWA_0277_2 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0277_2_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-24";
-		schema:contentSize 897008;
+		schema:dateModified "2022-01-03";
+		schema:contentSize 897404;
 		schema:description "XML bestand volgens A2A model";
 	].
 
@@ -4673,8 +4673,8 @@ anl:dataset_NL-PmWA_0277_3 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0277_3_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-01";
-		schema:contentSize 2147148;
+		schema:dateModified "2022-01-03";
+		schema:contentSize 2146569;
 		schema:description "XML bestand volgens A2A model";
 	].
 
@@ -4690,8 +4690,8 @@ anl:dataset_NL-PmWA_0277_4 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0277_4_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-24";
-		schema:contentSize 1424633;
+		schema:dateModified "2022-01-03";
+		schema:contentSize 1424749;
 		schema:description "XML bestand volgens A2A model";
 	].
 
@@ -4707,8 +4707,8 @@ anl:dataset_NL-PmWA_0277_5 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0277_5_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-15";
-		schema:contentSize 1171993;
+		schema:dateModified "2022-01-03";
+		schema:contentSize 1170970;
 		schema:description "XML bestand volgens A2A model";
 	].
 
@@ -4724,8 +4724,8 @@ anl:dataset_NL-PmWA_0277_6 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0277_6_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-08";
-		schema:contentSize 1399320;
+		schema:dateModified "2022-01-03";
+		schema:contentSize 1397255;
 		schema:description "XML bestand volgens A2A model";
 	].
 
@@ -4741,8 +4741,8 @@ anl:dataset_NL-PmWA_0277_7-1 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0277_7-1_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-15";
-		schema:contentSize 203928;
+		schema:dateModified "2021-12-21";
+		schema:contentSize 203935;
 		schema:description "XML bestand volgens A2A model";
 	].
 
@@ -4758,8 +4758,8 @@ anl:dataset_NL-PmWA_0277_7-2 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0277_7-2_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-15";
-		schema:contentSize 294167;
+		schema:dateModified "2021-12-21";
+		schema:contentSize 294171;
 		schema:description "XML bestand volgens A2A model";
 	].
 
@@ -4775,7 +4775,7 @@ anl:dataset_NL-PmWA_0277_7-3 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0277_7-3_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-25";
+		schema:dateModified "2021-11-30";
 		schema:contentSize 201485;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4792,8 +4792,8 @@ anl:dataset_NL-PmWA_0277_7-4 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0277_7-4_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-25";
-		schema:contentSize 396694;
+		schema:dateModified "2021-12-21";
+		schema:contentSize 396736;
 		schema:description "XML bestand volgens A2A model";
 	].
 
@@ -4843,8 +4843,8 @@ anl:dataset_NL-PmWA_0277_8-1 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0277_8-1_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-15";
-		schema:contentSize 195179;
+		schema:dateModified "2021-12-13";
+		schema:contentSize 195213;
 		schema:description "XML bestand volgens A2A model";
 	].
 
@@ -4860,8 +4860,8 @@ anl:dataset_NL-PmWA_0277_8-2 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0277_8-2_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-08";
-		schema:contentSize 209922;
+		schema:dateModified "2022-01-03";
+		schema:contentSize 208837;
 		schema:description "XML bestand volgens A2A model";
 	].
 
@@ -4877,8 +4877,8 @@ anl:dataset_NL-PmWA_0277_8-3 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0277_8-3_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-08";
-		schema:contentSize 188834;
+		schema:dateModified "2021-12-21";
+		schema:contentSize 188836;
 		schema:description "XML bestand volgens A2A model";
 	].
 
@@ -4928,7 +4928,7 @@ anl:dataset_NL-PmWA_0279_10 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0279_10_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 1703233;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4962,7 +4962,7 @@ anl:dataset_NL-PmWA_0279_12 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0279_12_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 595477;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -4979,7 +4979,7 @@ anl:dataset_NL-PmWA_0279_13 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0279_13_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 3301074;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5030,7 +5030,7 @@ anl:dataset_NL-PmWA_0279_16 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0279_16_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 1183200;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5064,7 +5064,7 @@ anl:dataset_NL-PmWA_0279_3 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0279_3_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 946631;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5149,7 +5149,7 @@ anl:dataset_NL-PmWA_0279_8 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0279_8_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 1555885;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5166,7 +5166,7 @@ anl:dataset_NL-PmWA_0279_9 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0279_9_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 1961716;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5183,7 +5183,7 @@ anl:dataset_NL-PmWA_0280_1 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0280_1_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 1041866;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5200,7 +5200,7 @@ anl:dataset_NL-PmWA_0280_2 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0280_2_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 2136389;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5217,7 +5217,7 @@ anl:dataset_NL-PmWA_0280_3 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0280_3_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 1275795;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5234,7 +5234,7 @@ anl:dataset_NL-PmWA_0280_4 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0280_4_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 2140655;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5251,7 +5251,7 @@ anl:dataset_NL-PmWA_0280_6 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0280_6_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 311739;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5268,7 +5268,7 @@ anl:dataset_NL-PmWA_0280_7 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0280_7_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 611235;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5302,7 +5302,7 @@ anl:dataset_NL-PmWA_0281_2 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0281_2_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 2594101;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5319,7 +5319,7 @@ anl:dataset_NL-PmWA_0281_3 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0281_3_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 2653542;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5336,7 +5336,7 @@ anl:dataset_NL-PmWA_0281_4 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0281_4_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-29";
+		schema:dateModified "2020-11-27";
 		schema:contentSize 2569180;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5353,7 +5353,7 @@ anl:dataset_NL-PmWA_0281_5 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0281_5_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 5365717;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5370,7 +5370,7 @@ anl:dataset_NL-PmWA_0281_6 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0281_6_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 4179414;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5387,7 +5387,7 @@ anl:dataset_NL-PmWA_0281_7 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0281_7_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 366586;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5438,7 +5438,7 @@ anl:dataset_NL-PmWA_0574_8a a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0574_8a_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-12";
 		schema:contentSize 5286508;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5455,7 +5455,7 @@ anl:dataset_NL-PmWA_0643_20b a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0643_20b_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-12";
 		schema:contentSize 3394860;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5472,7 +5472,7 @@ anl:dataset_NL-PmWA_0698_10 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_10_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-06";
 		schema:contentSize 1113165;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5489,7 +5489,7 @@ anl:dataset_NL-PmWA_0698_11 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_11_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-29";
 		schema:contentSize 1030034;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5506,7 +5506,7 @@ anl:dataset_NL-PmWA_0698_12 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_12_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-06";
 		schema:contentSize 835410;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5523,7 +5523,7 @@ anl:dataset_NL-PmWA_0698_13 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_13_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 1627144;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5540,7 +5540,7 @@ anl:dataset_NL-PmWA_0698_14 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_14_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1194835;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5557,7 +5557,7 @@ anl:dataset_NL-PmWA_0698_15 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_15_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-30";
 		schema:contentSize 2064305;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5574,7 +5574,7 @@ anl:dataset_NL-PmWA_0698_16 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_16_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-30";
 		schema:contentSize 1925576;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5591,7 +5591,7 @@ anl:dataset_NL-PmWA_0698_17 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_17_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-30";
 		schema:contentSize 1788927;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5625,7 +5625,7 @@ anl:dataset_NL-PmWA_0698_19 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_19_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-04";
 		schema:contentSize 1990457;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5642,7 +5642,7 @@ anl:dataset_NL-PmWA_0698_20 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_20_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-30";
 		schema:contentSize 1130411;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5659,7 +5659,7 @@ anl:dataset_NL-PmWA_0698_23a a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_23a_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 127269;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5676,7 +5676,7 @@ anl:dataset_NL-PmWA_0698_23b a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_23b_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1432960;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5693,7 +5693,7 @@ anl:dataset_NL-PmWA_0698_24 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_24_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1083716;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5710,7 +5710,7 @@ anl:dataset_NL-PmWA_0698_25 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_25_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1477157;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5727,7 +5727,7 @@ anl:dataset_NL-PmWA_0698_26 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_26_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1748624;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5761,7 +5761,7 @@ anl:dataset_NL-PmWA_0698_28-29 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_28-29_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1937634;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5778,7 +5778,7 @@ anl:dataset_NL-PmWA_0698_32 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_32_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1170169;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5795,7 +5795,7 @@ anl:dataset_NL-PmWA_0698_33 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_33_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 2131365;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5829,7 +5829,7 @@ anl:dataset_NL-PmWA_0698_35 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_35_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 2955965;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5846,7 +5846,7 @@ anl:dataset_NL-PmWA_0698_36 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_36_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1971405;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5863,7 +5863,7 @@ anl:dataset_NL-PmWA_0698_37 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_37_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1760499;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5880,7 +5880,7 @@ anl:dataset_NL-PmWA_0698_38 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_38_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 2347298;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5897,7 +5897,7 @@ anl:dataset_NL-PmWA_0698_39 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_39_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1503308;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5914,7 +5914,7 @@ anl:dataset_NL-PmWA_0698_4 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_4_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1082248;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5948,7 +5948,7 @@ anl:dataset_NL-PmWA_0698_41 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_41_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1687116;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5965,7 +5965,7 @@ anl:dataset_NL-PmWA_0698_42 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_42_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1911057;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -5999,7 +5999,7 @@ anl:dataset_NL-PmWA_0698_44 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_44_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 152822;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6016,7 +6016,7 @@ anl:dataset_NL-PmWA_0698_47 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_47_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 817932;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6033,7 +6033,7 @@ anl:dataset_NL-PmWA_0698_48 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_48_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1724665;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6084,7 +6084,7 @@ anl:dataset_NL-PmWA_0698_50 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_50_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-06";
 		schema:contentSize 2071034;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6101,7 +6101,7 @@ anl:dataset_NL-PmWA_0698_53 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_53_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1969113;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6118,7 +6118,7 @@ anl:dataset_NL-PmWA_0698_54 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_54_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1774067;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6135,7 +6135,7 @@ anl:dataset_NL-PmWA_0698_55 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_55_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1884000;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6169,7 +6169,7 @@ anl:dataset_NL-PmWA_0698_57 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_57_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 2058101;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6186,7 +6186,7 @@ anl:dataset_NL-PmWA_0698_58 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_58_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1677232;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6220,7 +6220,7 @@ anl:dataset_NL-PmWA_0698_6 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_6_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1245071;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6237,7 +6237,7 @@ anl:dataset_NL-PmWA_0698_60 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_60_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 2037085;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6254,7 +6254,7 @@ anl:dataset_NL-PmWA_0698_61 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_61_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1787353;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6271,7 +6271,7 @@ anl:dataset_NL-PmWA_0698_62 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_62_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1670203;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6288,7 +6288,7 @@ anl:dataset_NL-PmWA_0698_63 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_63_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1448493;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6305,7 +6305,7 @@ anl:dataset_NL-PmWA_0698_64 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_64_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1645209;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6322,7 +6322,7 @@ anl:dataset_NL-PmWA_0698_65 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_65_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1581456;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6356,7 +6356,7 @@ anl:dataset_NL-PmWA_0698_7 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_7_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1060344;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6373,7 +6373,7 @@ anl:dataset_NL-PmWA_0698_79 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_79_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1264658;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6407,7 +6407,7 @@ anl:dataset_NL-PmWA_0698_80 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_80_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1698337;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6424,7 +6424,7 @@ anl:dataset_NL-PmWA_0698_81 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_81_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 939949;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6475,7 +6475,7 @@ anl:dataset_NL-PmWA_0698_84 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_84_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1751685;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6492,7 +6492,7 @@ anl:dataset_NL-PmWA_0698_85 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_85_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1548581;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6509,7 +6509,7 @@ anl:dataset_NL-PmWA_0698_86 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_86_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1189738;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6526,7 +6526,7 @@ anl:dataset_NL-PmWA_0698_87 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_87_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1121249;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6543,7 +6543,7 @@ anl:dataset_NL-PmWA_0698_88 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_88_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1662470;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6560,7 +6560,7 @@ anl:dataset_NL-PmWA_0698_89 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_89_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1245069;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6594,7 +6594,7 @@ anl:dataset_NL-PmWA_0698_90 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_90_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1430932;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6611,7 +6611,7 @@ anl:dataset_NL-PmWA_0698_91 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_91_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1315461;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6628,7 +6628,7 @@ anl:dataset_NL-PmWA_0698_92 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_92_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-06";
 		schema:contentSize 1399694;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6645,7 +6645,7 @@ anl:dataset_NL-PmWA_0698_93 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_93_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1304993;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6662,7 +6662,7 @@ anl:dataset_NL-PmWA_0698_94 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_94_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1486990;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6679,7 +6679,7 @@ anl:dataset_NL-PmWA_0698_95 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0698_95_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-01";
+		schema:dateModified "2020-10-31";
 		schema:contentSize 1371413;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6713,7 +6713,7 @@ anl:dataset_NL-PmWA_0758_1 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0758_1_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 1570446;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6747,7 +6747,7 @@ anl:dataset_NL-PmWA_0758_3 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0758_3_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 1968780;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6781,7 +6781,7 @@ anl:dataset_NL-PmWA_0758_6 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0758_6_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 314671;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6798,7 +6798,7 @@ anl:dataset_NL-PmWA_0758_7 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0758_7_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-11-08";
+		schema:dateModified "2020-11-07";
 		schema:contentSize 595930;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6815,7 +6815,7 @@ anl:dataset_NL-PmWA_0771_1a a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0771_1a_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-09-22";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 11970013;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6883,7 +6883,7 @@ anl:dataset_NL-PmWA_0771_6 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0771_6_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-12";
 		schema:contentSize 10583764;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6900,7 +6900,7 @@ anl:dataset_NL-PmWA_0772_1a a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0772_1a_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-11";
 		schema:contentSize 4687163;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6934,7 +6934,7 @@ anl:dataset_NL-PmWA_0772_2 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0772_2_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-11";
 		schema:contentSize 5008239;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6951,7 +6951,7 @@ anl:dataset_NL-PmWA_0772_27a a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0772_27a_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-11";
 		schema:contentSize 7486054;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6968,7 +6968,7 @@ anl:dataset_NL-PmWA_0772_27c a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0772_27c_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-11";
 		schema:contentSize 2841103;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -6985,7 +6985,7 @@ anl:dataset_NL-PmWA_0772_3 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0772_3_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-11";
 		schema:contentSize 14701490;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -7087,7 +7087,7 @@ anl:dataset_NL-PmWA_0772_4 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0772_4_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-11";
 		schema:contentSize 12493124;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -7104,7 +7104,7 @@ anl:dataset_NL-PmWA_0772_45 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0772_45_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-06-25";
+		schema:dateModified "2022-01-05";
 		schema:contentSize 1753582;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -7189,7 +7189,7 @@ anl:dataset_NL-PmWA_0772_5 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0772_5_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-11";
 		schema:contentSize 8139871;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -7325,7 +7325,7 @@ anl:dataset_NL-PmWA_0772_6 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0772_6_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-11";
 		schema:contentSize 9213605;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -7342,7 +7342,7 @@ anl:dataset_NL-PmWA_0772_7 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0772_7_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-11";
 		schema:contentSize 10508483;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -7359,7 +7359,7 @@ anl:dataset_NL-PmWA_0772_8 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0772_8_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-11";
 		schema:contentSize 7247260;
 		schema:description "XML bestand volgens A2A model";
 	].
@@ -7376,7 +7376,7 @@ anl:dataset_NL-PmWA_0772_9 a schema:Dataset;
 		a schema:DataDownload;
 		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-waf/a2a/NL-PmWA_0772_9_54_A2A.xml?format=file>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-12-13";
+		schema:dateModified "2020-12-11";
 		schema:contentSize 5387409;
 		schema:description "XML bestand volgens A2A model";
 	].
