@@ -1,0 +1,46 @@
+@base          <http://data.bibliotheken.nl/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix schema: <http://schema.org/> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+# Vooralsnog voor testdoeleinden - wordt op termijn complete set met Alba van de KB
+
+<id/dataset/albac>
+        a                             schema:Dataset ;
+        schema:datePublished          "2022-04-07"^^xsd:date ;
+        schema:description            "De data in deze mini-dataset is geplaatst in een nieuwe set (albac; afkorting van albacompleet) waarin het komende jaar de linked data van alle bij de KB aanwezige alba amicorum ter beschikking gesteld zal worden."@nl  ;
+        schema:distribution           [ a                      schema:DataDownload ;
+                                        schema:contentUrl      <sparql> ;
+                                        schema:description     "Entiteiten beschreven door deze dataset zijn op te vragen met SELECT ?s WHERE { ?s schema:mainEntityOfPage [schema:isPartOf <http://data.bibliotheken.nl/id/dataset/albac> ] . }"@nl ;
+                                        schema:encodingFormat  "application/sparql-query" ;
+                                        schema:name            "SPARQL-endpoint voor albac"@nl ;
+                                      ] ;
+        schema:identifier             <id/dataset/albac> ;
+        schema:license                <http://creativecommons.org/publicdomain/zero/1.0/> ;
+        schema:name                   "Alba Compleet (mini-dataset)"@nl ;
+        schema:provider               <id/thes/p075301482> ;
+        schema:publisher              <id/thes/p075301482> ;
+        schema:workExample            <doc/albac/e389951986> , <doc/albac/e310918324> .
+		
+<id/thes/p075301482>  a          schema:Organization ;
+        rdfs:seeAlso             <id/thes/p143859463> ;
+        schema:alternateName     "Royal Library (The Hague)" , "KB | Nationale Bibliotheek (Den Haag)" , "KB (Den Haag)" ;
+        schema:description       "Vanaf 2018 is de roepnaam: KB | Nationale Bibliotheek" , "\"Koninklijke Bibliotheek, Nationale bibliotheek van Nederland" , "Voortz. van: Nationale Bibliotheek, 's-Gravenhage"@nl , "Koninklijke Bibliotheek, National Library of the Netherlands\"" ;
+        schema:location          [ a                       schema:PostalAddress ;
+                                   schema:addressCountry   "nl" ;
+                                   schema:addressLocality  "Den Haag " ;
+                                   schema:streetAddress    "Prins Willem-Alexanderhof 5"
+                                 ] ;
+        schema:mainEntityOfPage  <doc/thes/p075301482> ;
+        schema:mainEntityOfPage  [ a                    schema:WebPage  ;
+                                   <def#ppn>            "075301482" ;
+                                   schema:dateModified  "2020-12-07"^^xsd:date ;
+                                   schema:isBasedOn     <http://services.kb.nl/mdo/oai?verb=GetRecord&identifier=GGC-THES:AC:075301482&metadataPrefix=mdoall> ;
+                                   schema:isPartOf      <id/dataset/corps> ;
+                                   schema:license       <http://creativecommons.org/publicdomain/zero/1.0/> ;
+                                   schema:mainEntity    <id/thes/p075301482> ;
+                                   owl:sameAs           <doc/thes/p075301482>
+                                 ] ;
+        schema:name              "Koninklijke Bibliotheek (Den Haag)" ;
+        schema:sameAs            <http://www.wikidata.org/entity/Q1526131> , <http://standaarden.overheid.nl/owms/terms/Koninklijke_Bibliotheek> , <http://viaf.org/viaf/157027892> .
