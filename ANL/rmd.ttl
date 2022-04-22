@@ -3,12 +3,15 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 @prefix anl: <https://www.archieven.nl/id/>.
 
+# Test bestand gegenereerd via create_ttl_datacatalog_pages.pl op basis van door Open Archieven verzamelde informatie. 
+
 anl:dataset_NL-RmGA_1004-1 a schema:Dataset;
 	schema:name "1004-1";
 	schema:description "Notaris R. Coppeineur";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -25,6 +28,7 @@ anl:dataset_NL-RmGA_1004-10 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1804.1834";
 	schema:distribution [
@@ -42,6 +46,7 @@ anl:dataset_NL-RmGA_1004-11 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1819.1851";
 	schema:distribution [
@@ -59,6 +64,7 @@ anl:dataset_NL-RmGA_1004-12 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1825.1881";
 	schema:distribution [
@@ -76,6 +82,7 @@ anl:dataset_NL-RmGA_1004-13 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1834.1875";
 	schema:distribution [
@@ -93,6 +100,7 @@ anl:dataset_NL-RmGA_1004-14 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1843.1873";
 	schema:distribution [
@@ -110,6 +118,7 @@ anl:dataset_NL-RmGA_1004-16 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1870.1876";
 	schema:distribution [
@@ -127,6 +136,7 @@ anl:dataset_NL-RmGA_1004-17 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1874.1882";
 	schema:distribution [
@@ -144,6 +154,7 @@ anl:dataset_NL-RmGA_1004-18 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1876.1878";
 	schema:distribution [
@@ -161,6 +172,7 @@ anl:dataset_NL-RmGA_1004-2 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1703.1705";
 	schema:distribution [
@@ -178,6 +190,7 @@ anl:dataset_NL-RmGA_1004-20 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1878.1893";
 	schema:distribution [
@@ -195,6 +208,7 @@ anl:dataset_NL-RmGA_1004-22 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1883.1888";
 	schema:distribution [
@@ -212,6 +226,7 @@ anl:dataset_NL-RmGA_1004-3 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1728.1738";
 	schema:distribution [
@@ -229,6 +244,7 @@ anl:dataset_NL-RmGA_1004-4 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1763.1793";
 	schema:distribution [
@@ -246,6 +262,7 @@ anl:dataset_NL-RmGA_1004-5 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1772.1798";
 	schema:distribution [
@@ -263,6 +280,7 @@ anl:dataset_NL-RmGA_1004-6 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1797.1798";
 	schema:distribution [
@@ -280,6 +298,7 @@ anl:dataset_NL-RmGA_1004-7 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1798.1841";
 	schema:distribution [
@@ -297,6 +316,7 @@ anl:dataset_NL-RmGA_1004-8 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1801.1802";
 	schema:distribution [
@@ -314,6 +334,7 @@ anl:dataset_NL-RmGA_1005_3793 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -331,6 +352,7 @@ anl:dataset_NL-RmGA_1005_3794 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -348,6 +370,7 @@ anl:dataset_NL-RmGA_1005_3795 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -365,6 +388,7 @@ anl:dataset_NL-RmGA_1005_3796 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -382,6 +406,7 @@ anl:dataset_NL-RmGA_1005_3797 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -399,6 +424,7 @@ anl:dataset_NL-RmGA_1005_3798 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -416,6 +442,7 @@ anl:dataset_NL-RmGA_1005_3799 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -433,6 +460,7 @@ anl:dataset_NL-RmGA_1005_3800 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -450,6 +478,7 @@ anl:dataset_NL-RmGA_1005_3801 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -467,6 +496,7 @@ anl:dataset_NL-RmGA_1005_3802 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -484,6 +514,7 @@ anl:dataset_NL-RmGA_1005_3803 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -501,6 +532,7 @@ anl:dataset_NL-RmGA_1005_3804 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -518,6 +550,7 @@ anl:dataset_NL-RmGA_1005_3805 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -535,6 +568,7 @@ anl:dataset_NL-RmGA_1005_3806 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -552,6 +586,7 @@ anl:dataset_NL-RmGA_1005_3807 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -569,6 +604,7 @@ anl:dataset_NL-RmGA_1005_3808 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -586,6 +622,7 @@ anl:dataset_NL-RmGA_1005_3809 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -603,6 +640,7 @@ anl:dataset_NL-RmGA_1005_3810 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -620,6 +658,7 @@ anl:dataset_NL-RmGA_1005_3811 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -637,6 +676,7 @@ anl:dataset_NL-RmGA_1005_3812 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -654,6 +694,7 @@ anl:dataset_NL-RmGA_1005_3813 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -671,6 +712,7 @@ anl:dataset_NL-RmGA_1005_3814 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
@@ -688,6 +730,7 @@ anl:dataset_NL-RmGA_1005_3815 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
@@ -705,6 +748,7 @@ anl:dataset_NL-RmGA_1005_3816 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
@@ -722,11 +766,12 @@ anl:dataset_NL-RmGA_1005_3817 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3817_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3817_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUZGQTZGNE9wQzMzREY0RTcDRjQwNkMxOEU3Njl9RTJ9JmFkdF4pZE0xMEMmbnVtbWVyPT9wMEVfMzgxNw>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-07-28";
 		schema:contentSize 3917526;
@@ -739,6 +784,7 @@ anl:dataset_NL-RmGA_1005_3818 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
@@ -756,11 +802,12 @@ anl:dataset_NL-RmGA_1005_3819 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3819_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3819_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTQ3MU9DNzBBQzlCNzJFM9VEMTgwQzdCNTBBN0M5N9U1JmFkdF4pZE0xMEMmbnVtbWVyPT9wMEVfMzgxOQ>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-07-28";
 		schema:contentSize 2746908;
@@ -773,11 +820,12 @@ anl:dataset_NL-RmGA_1005_3820 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3820_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3820_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTUyNzdEQjJCMUUwN9MyNEc2OEV9O9Q0Qj90N9U2M9R9JmFkdF4pZE0xMEMmbnVtbWVyPT9wMEVfMzgyMA>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-07-28";
 		schema:contentSize 2451041;
@@ -790,11 +838,12 @@ anl:dataset_NL-RmGA_1005_3821 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3821_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3821_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTBFOEBFN0Q2Mjg0N0UDM9QxR9QwRjY0RTY1MjlBOUV9JmFkdF4pZE0xMEMmbnVtbWVyPT9wMEVfMzgyMQ>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-07-28";
 		schema:contentSize 2562111;
@@ -807,11 +856,12 @@ anl:dataset_NL-RmGA_1005_3822 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3822_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3822_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTU1MEAyMzY5NjIyQjk2M0IxQjg5NEU0NkQwRkU2OTkDJmFkdF4pZE0xMEMmbnVtbWVyPT9wMEVfMzgyMg>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-07-28";
 		schema:contentSize 2033676;
@@ -824,11 +874,12 @@ anl:dataset_NL-RmGA_1005_3823 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3823_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3823_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTdFMEVENkYxNjU1MEg3QzMxOEA5RjA5REgzR9UxRjNBJmFkdF4pZE0xMEMmbnVtbWVyPT9wMEVfMzgyMw>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-07-28";
 		schema:contentSize 2519756;
@@ -841,11 +892,12 @@ anl:dataset_NL-RmGA_1005_3824 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3824_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3824_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTgwOUVFQ09DNjA3MUIzRkIwOTA3NkF9Qzk3MUZGMjQ0JmFkdF4pZE0xMEMmbnVtbWVyPT9wMEVfMzgyNA>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-07-28";
 		schema:contentSize 2865468;
@@ -858,11 +910,12 @@ anl:dataset_NL-RmGA_1005_3825 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3825_54_A2A.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/a2a/NL-RmGA_1005_3825_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTkDNz9yOEA1QzU2R9Q3NUJEQThEMTAzNjUDN9QxN99yJmFkdF4pZE0xMEMmbnVtbWVyPT9wMEVfMzgyNQ>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-07-28";
 		schema:contentSize 1068824;
@@ -875,6 +928,7 @@ anl:dataset_NL-RmGA_1005_3826 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
@@ -892,6 +946,7 @@ anl:dataset_NL-RmGA_1005_3827 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -909,6 +964,7 @@ anl:dataset_NL-RmGA_1005_3828 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -926,6 +982,7 @@ anl:dataset_NL-RmGA_1005_3829 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -943,6 +1000,7 @@ anl:dataset_NL-RmGA_1005_3830 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -960,6 +1018,7 @@ anl:dataset_NL-RmGA_1005_3831 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -977,6 +1036,7 @@ anl:dataset_NL-RmGA_1005_3832 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -994,6 +1054,7 @@ anl:dataset_NL-RmGA_1005_3833 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -1011,6 +1072,7 @@ anl:dataset_NL-RmGA_1005_3834 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -1028,6 +1090,7 @@ anl:dataset_NL-RmGA_1005_3835 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -1045,6 +1108,7 @@ anl:dataset_NL-RmGA_1005_3836 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -1062,6 +1126,7 @@ anl:dataset_NL-RmGA_1005_3837 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -1079,6 +1144,7 @@ anl:dataset_NL-RmGA_1005_3838 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -1096,6 +1162,7 @@ anl:dataset_NL-RmGA_1005_3839 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -1113,6 +1180,7 @@ anl:dataset_NL-RmGA_1005_3840 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -1130,6 +1198,7 @@ anl:dataset_NL-RmGA_1005_3841 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -1147,6 +1216,7 @@ anl:dataset_NL-RmGA_1005_3842 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -1164,6 +1234,7 @@ anl:dataset_NL-RmGA_1005_3843 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -1181,6 +1252,7 @@ anl:dataset_NL-RmGA_1005_3844 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -1198,6 +1270,7 @@ anl:dataset_NL-RmGA_1005_3845 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -1215,6 +1288,7 @@ anl:dataset_NL-RmGA_1005_3846 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -1232,6 +1306,7 @@ anl:dataset_NL-RmGA_1005_3847 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -1249,6 +1324,7 @@ anl:dataset_NL-RmGA_1005_3848 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -1266,6 +1342,7 @@ anl:dataset_NL-RmGA_1005_3849 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -1283,6 +1360,7 @@ anl:dataset_NL-RmGA_1005_3850 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -1300,6 +1378,7 @@ anl:dataset_NL-RmGA_1005_3851 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -1317,6 +1396,7 @@ anl:dataset_NL-RmGA_1005_3852 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -1334,6 +1414,7 @@ anl:dataset_NL-RmGA_1005_3853 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -1351,6 +1432,7 @@ anl:dataset_NL-RmGA_1005_3854 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -1368,6 +1450,7 @@ anl:dataset_NL-RmGA_1005_3855 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -1385,6 +1468,7 @@ anl:dataset_NL-RmGA_1005_3856 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -1402,6 +1486,7 @@ anl:dataset_NL-RmGA_1005_3857 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -1419,6 +1504,7 @@ anl:dataset_NL-RmGA_1005_3859 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
@@ -1436,6 +1522,7 @@ anl:dataset_NL-RmGA_1005_3860 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
@@ -1453,6 +1540,7 @@ anl:dataset_NL-RmGA_1005_3861 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
@@ -1470,6 +1558,7 @@ anl:dataset_NL-RmGA_1005_3862 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
@@ -1487,6 +1576,7 @@ anl:dataset_NL-RmGA_1005_3863 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
@@ -1504,6 +1594,7 @@ anl:dataset_NL-RmGA_1005_3864 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
@@ -1521,6 +1612,7 @@ anl:dataset_NL-RmGA_1005_3865 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
@@ -1538,6 +1630,7 @@ anl:dataset_NL-RmGA_1005_3866 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
@@ -1555,6 +1648,7 @@ anl:dataset_NL-RmGA_1005_3867 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
@@ -1572,6 +1666,7 @@ anl:dataset_NL-RmGA_1005_3868 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
@@ -1589,6 +1684,7 @@ anl:dataset_NL-RmGA_1005_3869 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
@@ -1606,6 +1702,7 @@ anl:dataset_NL-RmGA_1005_3870 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
@@ -1623,6 +1720,7 @@ anl:dataset_NL-RmGA_1005_3871 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
@@ -1640,6 +1738,7 @@ anl:dataset_NL-RmGA_1005_3872 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
@@ -1657,6 +1756,7 @@ anl:dataset_NL-RmGA_1005_3873 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1900.1915";
 	schema:distribution [
@@ -1674,6 +1774,7 @@ anl:dataset_NL-RmGA_1005_3875 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1916.1936";
 	schema:distribution [
@@ -1691,6 +1792,7 @@ anl:dataset_NL-RmGA_1005_3876 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -1708,6 +1810,7 @@ anl:dataset_NL-RmGA_1005_3877 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -1725,6 +1828,7 @@ anl:dataset_NL-RmGA_1005_3878 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -1742,6 +1846,7 @@ anl:dataset_NL-RmGA_1005_3879 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -1759,6 +1864,7 @@ anl:dataset_NL-RmGA_1005_3880 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -1776,6 +1882,7 @@ anl:dataset_NL-RmGA_1005_3881 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -1793,6 +1900,7 @@ anl:dataset_NL-RmGA_1005_3882 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -1810,6 +1918,7 @@ anl:dataset_NL-RmGA_1005_3883 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -1827,6 +1936,7 @@ anl:dataset_NL-RmGA_1005_3884 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -1844,6 +1954,7 @@ anl:dataset_NL-RmGA_1005_3885 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -1861,6 +1972,7 @@ anl:dataset_NL-RmGA_1005_3886 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -1878,6 +1990,7 @@ anl:dataset_NL-RmGA_1005_3887 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -1895,6 +2008,7 @@ anl:dataset_NL-RmGA_1005_3888 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -1912,6 +2026,7 @@ anl:dataset_NL-RmGA_1005_3889 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -1929,6 +2044,7 @@ anl:dataset_NL-RmGA_1005_3890 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -1946,6 +2062,7 @@ anl:dataset_NL-RmGA_1005_3891 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -1963,6 +2080,7 @@ anl:dataset_NL-RmGA_1005_3892 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -1980,6 +2098,7 @@ anl:dataset_NL-RmGA_1005_3893 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -1997,6 +2116,7 @@ anl:dataset_NL-RmGA_1005_3894 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -2014,6 +2134,7 @@ anl:dataset_NL-RmGA_1005_3895 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -2031,6 +2152,7 @@ anl:dataset_NL-RmGA_1005_3896 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -2048,6 +2170,7 @@ anl:dataset_NL-RmGA_1005_3897 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -2065,6 +2188,7 @@ anl:dataset_NL-RmGA_1005_3898 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -2082,6 +2206,7 @@ anl:dataset_NL-RmGA_1005_3899 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -2099,6 +2224,7 @@ anl:dataset_NL-RmGA_1005_3900 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -2116,6 +2242,7 @@ anl:dataset_NL-RmGA_1005_3901 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -2133,6 +2260,7 @@ anl:dataset_NL-RmGA_1005_3902 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1915.1939";
 	schema:distribution [
@@ -2150,6 +2278,7 @@ anl:dataset_NL-RmGA_1005_3904 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1900.1928";
 	schema:distribution [
@@ -2167,6 +2296,7 @@ anl:dataset_NL-RmGA_1005_3905 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1903.1928";
 	schema:distribution [
@@ -2184,6 +2314,7 @@ anl:dataset_NL-RmGA_1005_3906 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1910.1936";
 	schema:distribution [
@@ -2201,6 +2332,7 @@ anl:dataset_NL-RmGA_1005_3907 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1900.1900";
 	schema:distribution [
@@ -2218,6 +2350,7 @@ anl:dataset_NL-RmGA_1005_3908 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1905.1905";
 	schema:distribution [
@@ -2235,6 +2368,7 @@ anl:dataset_NL-RmGA_1005_3909 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1921.1921";
 	schema:distribution [
@@ -2252,6 +2386,7 @@ anl:dataset_NL-RmGA_1007_478 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -2269,6 +2404,7 @@ anl:dataset_NL-RmGA_1007_479 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -2286,6 +2422,7 @@ anl:dataset_NL-RmGA_1007_481 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
@@ -2303,6 +2440,7 @@ anl:dataset_NL-RmGA_1007_482 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -2320,6 +2458,7 @@ anl:dataset_NL-RmGA_1007_483 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -2337,6 +2476,7 @@ anl:dataset_NL-RmGA_1007_488 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2353,6 +2493,7 @@ anl:dataset_NL-RmGA_1007_489 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2369,6 +2510,7 @@ anl:dataset_NL-RmGA_1007_490 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2385,6 +2527,7 @@ anl:dataset_NL-RmGA_1007_491 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2401,6 +2544,7 @@ anl:dataset_NL-RmGA_1007_492 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2417,6 +2561,7 @@ anl:dataset_NL-RmGA_1007_504 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1901.1935";
 	schema:distribution [
@@ -2434,6 +2579,7 @@ anl:dataset_NL-RmGA_1007_505 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2450,6 +2596,7 @@ anl:dataset_NL-RmGA_1007_506 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1936.1938";
 	schema:distribution [
@@ -2467,6 +2614,7 @@ anl:dataset_NL-RmGA_1008_316 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1850.1859";
 	schema:distribution [
@@ -2484,6 +2632,7 @@ anl:dataset_NL-RmGA_1008_317 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1860.1869";
 	schema:distribution [
@@ -2501,6 +2650,7 @@ anl:dataset_NL-RmGA_1008_318 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1870.1879";
 	schema:distribution [
@@ -2518,6 +2668,7 @@ anl:dataset_NL-RmGA_1008_319 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1880.1889";
 	schema:distribution [
@@ -2535,6 +2686,7 @@ anl:dataset_NL-RmGA_1008_320 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1890.1899";
 	schema:distribution [
@@ -2552,6 +2704,7 @@ anl:dataset_NL-RmGA_1008_321 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1900.1909";
 	schema:distribution [
@@ -2569,6 +2722,7 @@ anl:dataset_NL-RmGA_1008_322 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1910.1919";
 	schema:distribution [
@@ -2586,6 +2740,7 @@ anl:dataset_NL-RmGA_1008_323 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:temporalCoverage: "1920.1929";
 	schema:distribution [
@@ -2603,6 +2758,7 @@ anl:dataset_NL-RmGA_1013_1436 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2619,6 +2775,7 @@ anl:dataset_NL-RmGA_1013_1437 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2635,6 +2792,7 @@ anl:dataset_NL-RmGA_1013_1438 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2651,6 +2809,7 @@ anl:dataset_NL-RmGA_1013_1440 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2667,6 +2826,7 @@ anl:dataset_NL-RmGA_1013_1441 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2683,6 +2843,7 @@ anl:dataset_NL-RmGA_1013_1442 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2699,6 +2860,7 @@ anl:dataset_NL-RmGA_1013_1443 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2715,6 +2877,7 @@ anl:dataset_NL-RmGA_1013_1444 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2731,6 +2894,7 @@ anl:dataset_NL-RmGA_1013_1445 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2747,6 +2911,7 @@ anl:dataset_NL-RmGA_1013_1446 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2763,6 +2928,7 @@ anl:dataset_NL-RmGA_1013_1447 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2779,6 +2945,7 @@ anl:dataset_NL-RmGA_1013_1448 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2795,6 +2962,7 @@ anl:dataset_NL-RmGA_1013_1449 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2811,6 +2979,7 @@ anl:dataset_NL-RmGA_1013_1450 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2827,6 +2996,7 @@ anl:dataset_NL-RmGA_1013_1451 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2843,6 +3013,7 @@ anl:dataset_NL-RmGA_1013_1452 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2859,10 +3030,11 @@ anl:dataset_NL-RmGA_8001_01 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "sys_ovr";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8001_01_14_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8001_01_14_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTc3R9Y5NEcDQ0M0OTA0OEc5RTk0RjdBQUMDM0U3MzgzJmFkdF4pZE0xMEMmbnVtbWVyPTgwMEFfME9>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-08-21";
 		schema:contentSize 6023943;
@@ -2875,10 +3047,11 @@ anl:dataset_NL-RmGA_8001_02 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "sys_ovr";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8001_02_14_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8001_02_14_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PUY1M9ZBMzUxMEd9NEhGMzQyNERBRTUDMEVEQUU0RkFGJmFkdF4pZE0xMEMmbnVtbWVyPTgwMEFfMEI>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-08-21";
 		schema:contentSize 7626170;
@@ -2891,10 +3064,11 @@ anl:dataset_NL-RmGA_8001_03 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "sys_ovr";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8001_03_14_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8001_03_14_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PUI0NjYxRjhFOEdBMkVFQjAwN9IDMEcwNTdGN9I5RTN9JmFkdF4pZE0xMEMmbnVtbWVyPTgwMEFfMEM>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-08-21";
 		schema:contentSize 6483804;
@@ -2907,10 +3081,11 @@ anl:dataset_NL-RmGA_8001_04 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "sys_ovr";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8001_04_14_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8001_04_14_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTM5RjFGO9Y0MTI2MUR9MEI2NTU1N9VCQzcDN9ZEM9I1JmFkdF4pZE0xMEMmbnVtbWVyPTgwMEFfMEQ>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-08-21";
 		schema:contentSize 7252938;
@@ -2923,10 +3098,11 @@ anl:dataset_NL-RmGA_8001_05 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "sys_ovr";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8001_05_14_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8001_05_14_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PUVEREQ5O9UDOU9wNzB9OEl9QTFGQTMwQjU3MEcxR9I2JmFkdF4pZE0xMEMmbnVtbWVyPTgwMEFfMEU>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-08-21";
 		schema:contentSize 4155333;
@@ -2939,10 +3115,11 @@ anl:dataset_NL-RmGA_8002 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "sys_ovr";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8002_14_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8002_14_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTQ5OERFMUZEMUMxQkRBMjUwO9R9M9YwOUYwNT9yQjZEJmFkdF4pZE0xMEMmbnVtbWVyPTgwMEI>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-08-21";
 		schema:contentSize 7848779;
@@ -2955,10 +3132,11 @@ anl:dataset_NL-RmGA_8003 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "sys_ovr";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8003_14_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8003_14_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTNCNjVGRTFGREgDRUUzN0Q1OTMxN0NEMzI3QUZFREFCJmFkdF4pZE0xMEMmbnVtbWVyPTgwMEM>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-08-20";
 		schema:contentSize 15754864;
@@ -2971,10 +3149,11 @@ anl:dataset_NL-RmGA_8004_01 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "sys_ovr";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8004_01_14_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8004_01_14_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTgzNTRCRUQDREU3OElFRkU3OEg5RTYxN9IyNjZCREF9JmFkdF4pZE0xMEMmbnVtbWVyPTgwMERfME9>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-08-21";
 		schema:contentSize 19355706;
@@ -2987,10 +3166,11 @@ anl:dataset_NL-RmGA_8004_02 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "sys_ovr";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8004_02_14_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8004_02_14_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTBBQjc5OEZENzc0REY1NjNGO9Q1MzUzR9JBMEI0MkIxJmFkdF4pZE0xMEMmbnVtbWVyPTgwMERfMEI>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-08-21";
 		schema:contentSize 14801052;
@@ -3003,10 +3183,11 @@ anl:dataset_NL-RmGA_8004_03 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "sys_ovr";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8004_03_14_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8004_03_14_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTZ9NTJBOEJFNTg5NkUwMERFQzZFQjgDMzJCMTNENzFBJmFkdF4pZE0xMEMmbnVtbWVyPTgwMERfMEM>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-08-21";
 		schema:contentSize 15201253;
@@ -3019,10 +3200,11 @@ anl:dataset_NL-RmGA_8004_04 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "sys_ovr";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8004_04_14_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8004_04_14_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTUzNUZCMjUDOU95O993OUVGOEd9MkY3NkRFMzc1M9YxJmFkdF4pZE0xMEMmbnVtbWVyPTgwMERfMEQ>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-08-21";
 		schema:contentSize 11308076;
@@ -3035,23 +3217,24 @@ anl:dataset_NL-RmGA_8004_05 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "sys_ovr";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RmGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-RmGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8004_05_14_MI.xml?format=file>;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-grm/mi/NL-RmGA_8004_05_14_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PUFCMjFCNjRENzAzQkI1QjdCRjh9OTcDNT91M0U1QkIyJmFkdF4pZE0xMEMmbnVtbWVyPTgwMERfMEU>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-08-21";
 		schema:contentSize 1578592;
 		schema:description "XML bestand volgens MI model";
 	].
 
-anl:datacatalog_NL-RmGA a schema:DataCatalog;
-	schema:name "Dataset catalogus van de open data gepubliceerd op archieven.nl van Gemeentearchief Roermond";
-	schema:publisher anl:organisation_NL-RmGA;
-	schema:dataset anl:dataset_NL-RmGA_1004-1, anl:dataset_NL-RmGA_1004-10, anl:dataset_NL-RmGA_1004-11, anl:dataset_NL-RmGA_1004-12, anl:dataset_NL-RmGA_1004-13, anl:dataset_NL-RmGA_1004-14, anl:dataset_NL-RmGA_1004-16, anl:dataset_NL-RmGA_1004-17, anl:dataset_NL-RmGA_1004-18, anl:dataset_NL-RmGA_1004-2, anl:dataset_NL-RmGA_1004-20, anl:dataset_NL-RmGA_1004-22, anl:dataset_NL-RmGA_1004-3, anl:dataset_NL-RmGA_1004-4, anl:dataset_NL-RmGA_1004-5, anl:dataset_NL-RmGA_1004-6, anl:dataset_NL-RmGA_1004-7, anl:dataset_NL-RmGA_1004-8, anl:dataset_NL-RmGA_1005_3793, anl:dataset_NL-RmGA_1005_3794, anl:dataset_NL-RmGA_1005_3795, anl:dataset_NL-RmGA_1005_3796, anl:dataset_NL-RmGA_1005_3797, anl:dataset_NL-RmGA_1005_3798, anl:dataset_NL-RmGA_1005_3799, anl:dataset_NL-RmGA_1005_3800, anl:dataset_NL-RmGA_1005_3801, anl:dataset_NL-RmGA_1005_3802, anl:dataset_NL-RmGA_1005_3803, anl:dataset_NL-RmGA_1005_3804, anl:dataset_NL-RmGA_1005_3805, anl:dataset_NL-RmGA_1005_3806, anl:dataset_NL-RmGA_1005_3807, anl:dataset_NL-RmGA_1005_3808, anl:dataset_NL-RmGA_1005_3809, anl:dataset_NL-RmGA_1005_3810, anl:dataset_NL-RmGA_1005_3811, anl:dataset_NL-RmGA_1005_3812, anl:dataset_NL-RmGA_1005_3813, anl:dataset_NL-RmGA_1005_3814, anl:dataset_NL-RmGA_1005_3815, anl:dataset_NL-RmGA_1005_3816, anl:dataset_NL-RmGA_1005_3817, anl:dataset_NL-RmGA_1005_3818, anl:dataset_NL-RmGA_1005_3819, anl:dataset_NL-RmGA_1005_3820, anl:dataset_NL-RmGA_1005_3821, anl:dataset_NL-RmGA_1005_3822, anl:dataset_NL-RmGA_1005_3823, anl:dataset_NL-RmGA_1005_3824, anl:dataset_NL-RmGA_1005_3825, anl:dataset_NL-RmGA_1005_3826, anl:dataset_NL-RmGA_1005_3827, anl:dataset_NL-RmGA_1005_3828, anl:dataset_NL-RmGA_1005_3829, anl:dataset_NL-RmGA_1005_3830, anl:dataset_NL-RmGA_1005_3831, anl:dataset_NL-RmGA_1005_3832, anl:dataset_NL-RmGA_1005_3833, anl:dataset_NL-RmGA_1005_3834, anl:dataset_NL-RmGA_1005_3835, anl:dataset_NL-RmGA_1005_3836, anl:dataset_NL-RmGA_1005_3837, anl:dataset_NL-RmGA_1005_3838, anl:dataset_NL-RmGA_1005_3839, anl:dataset_NL-RmGA_1005_3840, anl:dataset_NL-RmGA_1005_3841, anl:dataset_NL-RmGA_1005_3842, anl:dataset_NL-RmGA_1005_3843, anl:dataset_NL-RmGA_1005_3844, anl:dataset_NL-RmGA_1005_3845, anl:dataset_NL-RmGA_1005_3846, anl:dataset_NL-RmGA_1005_3847, anl:dataset_NL-RmGA_1005_3848, anl:dataset_NL-RmGA_1005_3849, anl:dataset_NL-RmGA_1005_3850, anl:dataset_NL-RmGA_1005_3851, anl:dataset_NL-RmGA_1005_3852, anl:dataset_NL-RmGA_1005_3853, anl:dataset_NL-RmGA_1005_3854, anl:dataset_NL-RmGA_1005_3855, anl:dataset_NL-RmGA_1005_3856, anl:dataset_NL-RmGA_1005_3857, anl:dataset_NL-RmGA_1005_3859, anl:dataset_NL-RmGA_1005_3860, anl:dataset_NL-RmGA_1005_3861, anl:dataset_NL-RmGA_1005_3862, anl:dataset_NL-RmGA_1005_3863, anl:dataset_NL-RmGA_1005_3864, anl:dataset_NL-RmGA_1005_3865, anl:dataset_NL-RmGA_1005_3866, anl:dataset_NL-RmGA_1005_3867, anl:dataset_NL-RmGA_1005_3868, anl:dataset_NL-RmGA_1005_3869, anl:dataset_NL-RmGA_1005_3870, anl:dataset_NL-RmGA_1005_3871, anl:dataset_NL-RmGA_1005_3872, anl:dataset_NL-RmGA_1005_3873, anl:dataset_NL-RmGA_1005_3875, anl:dataset_NL-RmGA_1005_3876, anl:dataset_NL-RmGA_1005_3877, anl:dataset_NL-RmGA_1005_3878, anl:dataset_NL-RmGA_1005_3879, anl:dataset_NL-RmGA_1005_3880, anl:dataset_NL-RmGA_1005_3881, anl:dataset_NL-RmGA_1005_3882, anl:dataset_NL-RmGA_1005_3883, anl:dataset_NL-RmGA_1005_3884, anl:dataset_NL-RmGA_1005_3885, anl:dataset_NL-RmGA_1005_3886, anl:dataset_NL-RmGA_1005_3887, anl:dataset_NL-RmGA_1005_3888, anl:dataset_NL-RmGA_1005_3889, anl:dataset_NL-RmGA_1005_3890, anl:dataset_NL-RmGA_1005_3891, anl:dataset_NL-RmGA_1005_3892, anl:dataset_NL-RmGA_1005_3893, anl:dataset_NL-RmGA_1005_3894, anl:dataset_NL-RmGA_1005_3895, anl:dataset_NL-RmGA_1005_3896, anl:dataset_NL-RmGA_1005_3897, anl:dataset_NL-RmGA_1005_3898, anl:dataset_NL-RmGA_1005_3899, anl:dataset_NL-RmGA_1005_3900, anl:dataset_NL-RmGA_1005_3901, anl:dataset_NL-RmGA_1005_3902, anl:dataset_NL-RmGA_1005_3904, anl:dataset_NL-RmGA_1005_3905, anl:dataset_NL-RmGA_1005_3906, anl:dataset_NL-RmGA_1005_3907, anl:dataset_NL-RmGA_1005_3908, anl:dataset_NL-RmGA_1005_3909, anl:dataset_NL-RmGA_1007_478, anl:dataset_NL-RmGA_1007_479, anl:dataset_NL-RmGA_1007_481, anl:dataset_NL-RmGA_1007_482, anl:dataset_NL-RmGA_1007_483, anl:dataset_NL-RmGA_1007_488, anl:dataset_NL-RmGA_1007_489, anl:dataset_NL-RmGA_1007_490, anl:dataset_NL-RmGA_1007_491, anl:dataset_NL-RmGA_1007_492, anl:dataset_NL-RmGA_1007_504, anl:dataset_NL-RmGA_1007_505, anl:dataset_NL-RmGA_1007_506, anl:dataset_NL-RmGA_1008_316, anl:dataset_NL-RmGA_1008_317, anl:dataset_NL-RmGA_1008_318, anl:dataset_NL-RmGA_1008_319, anl:dataset_NL-RmGA_1008_320, anl:dataset_NL-RmGA_1008_321, anl:dataset_NL-RmGA_1008_322, anl:dataset_NL-RmGA_1008_323, anl:dataset_NL-RmGA_1013_1436, anl:dataset_NL-RmGA_1013_1437, anl:dataset_NL-RmGA_1013_1438, anl:dataset_NL-RmGA_1013_1440, anl:dataset_NL-RmGA_1013_1441, anl:dataset_NL-RmGA_1013_1442, anl:dataset_NL-RmGA_1013_1443, anl:dataset_NL-RmGA_1013_1444, anl:dataset_NL-RmGA_1013_1445, anl:dataset_NL-RmGA_1013_1446, anl:dataset_NL-RmGA_1013_1447, anl:dataset_NL-RmGA_1013_1448, anl:dataset_NL-RmGA_1013_1449, anl:dataset_NL-RmGA_1013_1450, anl:dataset_NL-RmGA_1013_1451, anl:dataset_NL-RmGA_1013_1452, anl:dataset_NL-RmGA_8001_01, anl:dataset_NL-RmGA_8001_02, anl:dataset_NL-RmGA_8001_03, anl:dataset_NL-RmGA_8001_04, anl:dataset_NL-RmGA_8001_05, anl:dataset_NL-RmGA_8002, anl:dataset_NL-RmGA_8003, anl:dataset_NL-RmGA_8004_01, anl:dataset_NL-RmGA_8004_02, anl:dataset_NL-RmGA_8004_03, anl:dataset_NL-RmGA_8004_04, anl:dataset_NL-RmGA_8004_05.
-
 anl:organisation_NL-RmGA a schema:Organization;
 	schema:identifer "NL-RmGA";
 	schema:name "Gemeentearchief Roermond";
 	schema:url "https://www.archiefroermond.nl/";
 	schema:address [ a schema:PostalAddress; schema:addressLocality "Roermond" ].
+anl:datacatalog_NL-RmGA a schema:DataCatalog;
+	schema:name "Dataset catalogus van de open data gepubliceerd op archieven.nl van Gemeentearchief Roermond";
+	schema:publisher anl:organisation_NL-RmGA;
+	schema:dataset anl:dataset_NL-RmGA_1004-1, anl:dataset_NL-RmGA_1004-10, anl:dataset_NL-RmGA_1004-11, anl:dataset_NL-RmGA_1004-12, anl:dataset_NL-RmGA_1004-13, anl:dataset_NL-RmGA_1004-14, anl:dataset_NL-RmGA_1004-16, anl:dataset_NL-RmGA_1004-17, anl:dataset_NL-RmGA_1004-18, anl:dataset_NL-RmGA_1004-2, anl:dataset_NL-RmGA_1004-20, anl:dataset_NL-RmGA_1004-22, anl:dataset_NL-RmGA_1004-3, anl:dataset_NL-RmGA_1004-4, anl:dataset_NL-RmGA_1004-5, anl:dataset_NL-RmGA_1004-6, anl:dataset_NL-RmGA_1004-7, anl:dataset_NL-RmGA_1004-8, anl:dataset_NL-RmGA_1005_3793, anl:dataset_NL-RmGA_1005_3794, anl:dataset_NL-RmGA_1005_3795, anl:dataset_NL-RmGA_1005_3796, anl:dataset_NL-RmGA_1005_3797, anl:dataset_NL-RmGA_1005_3798, anl:dataset_NL-RmGA_1005_3799, anl:dataset_NL-RmGA_1005_3800, anl:dataset_NL-RmGA_1005_3801, anl:dataset_NL-RmGA_1005_3802, anl:dataset_NL-RmGA_1005_3803, anl:dataset_NL-RmGA_1005_3804, anl:dataset_NL-RmGA_1005_3805, anl:dataset_NL-RmGA_1005_3806, anl:dataset_NL-RmGA_1005_3807, anl:dataset_NL-RmGA_1005_3808, anl:dataset_NL-RmGA_1005_3809, anl:dataset_NL-RmGA_1005_3810, anl:dataset_NL-RmGA_1005_3811, anl:dataset_NL-RmGA_1005_3812, anl:dataset_NL-RmGA_1005_3813, anl:dataset_NL-RmGA_1005_3814, anl:dataset_NL-RmGA_1005_3815, anl:dataset_NL-RmGA_1005_3816, anl:dataset_NL-RmGA_1005_3817, anl:dataset_NL-RmGA_1005_3818, anl:dataset_NL-RmGA_1005_3819, anl:dataset_NL-RmGA_1005_3820, anl:dataset_NL-RmGA_1005_3821, anl:dataset_NL-RmGA_1005_3822, anl:dataset_NL-RmGA_1005_3823, anl:dataset_NL-RmGA_1005_3824, anl:dataset_NL-RmGA_1005_3825, anl:dataset_NL-RmGA_1005_3826, anl:dataset_NL-RmGA_1005_3827, anl:dataset_NL-RmGA_1005_3828, anl:dataset_NL-RmGA_1005_3829, anl:dataset_NL-RmGA_1005_3830, anl:dataset_NL-RmGA_1005_3831, anl:dataset_NL-RmGA_1005_3832, anl:dataset_NL-RmGA_1005_3833, anl:dataset_NL-RmGA_1005_3834, anl:dataset_NL-RmGA_1005_3835, anl:dataset_NL-RmGA_1005_3836, anl:dataset_NL-RmGA_1005_3837, anl:dataset_NL-RmGA_1005_3838, anl:dataset_NL-RmGA_1005_3839, anl:dataset_NL-RmGA_1005_3840, anl:dataset_NL-RmGA_1005_3841, anl:dataset_NL-RmGA_1005_3842, anl:dataset_NL-RmGA_1005_3843, anl:dataset_NL-RmGA_1005_3844, anl:dataset_NL-RmGA_1005_3845, anl:dataset_NL-RmGA_1005_3846, anl:dataset_NL-RmGA_1005_3847, anl:dataset_NL-RmGA_1005_3848, anl:dataset_NL-RmGA_1005_3849, anl:dataset_NL-RmGA_1005_3850, anl:dataset_NL-RmGA_1005_3851, anl:dataset_NL-RmGA_1005_3852, anl:dataset_NL-RmGA_1005_3853, anl:dataset_NL-RmGA_1005_3854, anl:dataset_NL-RmGA_1005_3855, anl:dataset_NL-RmGA_1005_3856, anl:dataset_NL-RmGA_1005_3857, anl:dataset_NL-RmGA_1005_3859, anl:dataset_NL-RmGA_1005_3860, anl:dataset_NL-RmGA_1005_3861, anl:dataset_NL-RmGA_1005_3862, anl:dataset_NL-RmGA_1005_3863, anl:dataset_NL-RmGA_1005_3864, anl:dataset_NL-RmGA_1005_3865, anl:dataset_NL-RmGA_1005_3866, anl:dataset_NL-RmGA_1005_3867, anl:dataset_NL-RmGA_1005_3868, anl:dataset_NL-RmGA_1005_3869, anl:dataset_NL-RmGA_1005_3870, anl:dataset_NL-RmGA_1005_3871, anl:dataset_NL-RmGA_1005_3872, anl:dataset_NL-RmGA_1005_3873, anl:dataset_NL-RmGA_1005_3875, anl:dataset_NL-RmGA_1005_3876, anl:dataset_NL-RmGA_1005_3877, anl:dataset_NL-RmGA_1005_3878, anl:dataset_NL-RmGA_1005_3879, anl:dataset_NL-RmGA_1005_3880, anl:dataset_NL-RmGA_1005_3881, anl:dataset_NL-RmGA_1005_3882, anl:dataset_NL-RmGA_1005_3883, anl:dataset_NL-RmGA_1005_3884, anl:dataset_NL-RmGA_1005_3885, anl:dataset_NL-RmGA_1005_3886, anl:dataset_NL-RmGA_1005_3887, anl:dataset_NL-RmGA_1005_3888, anl:dataset_NL-RmGA_1005_3889, anl:dataset_NL-RmGA_1005_3890, anl:dataset_NL-RmGA_1005_3891, anl:dataset_NL-RmGA_1005_3892, anl:dataset_NL-RmGA_1005_3893, anl:dataset_NL-RmGA_1005_3894, anl:dataset_NL-RmGA_1005_3895, anl:dataset_NL-RmGA_1005_3896, anl:dataset_NL-RmGA_1005_3897, anl:dataset_NL-RmGA_1005_3898, anl:dataset_NL-RmGA_1005_3899, anl:dataset_NL-RmGA_1005_3900, anl:dataset_NL-RmGA_1005_3901, anl:dataset_NL-RmGA_1005_3902, anl:dataset_NL-RmGA_1005_3904, anl:dataset_NL-RmGA_1005_3905, anl:dataset_NL-RmGA_1005_3906, anl:dataset_NL-RmGA_1005_3907, anl:dataset_NL-RmGA_1005_3908, anl:dataset_NL-RmGA_1005_3909, anl:dataset_NL-RmGA_1007_478, anl:dataset_NL-RmGA_1007_479, anl:dataset_NL-RmGA_1007_481, anl:dataset_NL-RmGA_1007_482, anl:dataset_NL-RmGA_1007_483, anl:dataset_NL-RmGA_1007_488, anl:dataset_NL-RmGA_1007_489, anl:dataset_NL-RmGA_1007_490, anl:dataset_NL-RmGA_1007_491, anl:dataset_NL-RmGA_1007_492, anl:dataset_NL-RmGA_1007_504, anl:dataset_NL-RmGA_1007_505, anl:dataset_NL-RmGA_1007_506, anl:dataset_NL-RmGA_1008_316, anl:dataset_NL-RmGA_1008_317, anl:dataset_NL-RmGA_1008_318, anl:dataset_NL-RmGA_1008_319, anl:dataset_NL-RmGA_1008_320, anl:dataset_NL-RmGA_1008_321, anl:dataset_NL-RmGA_1008_322, anl:dataset_NL-RmGA_1008_323, anl:dataset_NL-RmGA_1013_1436, anl:dataset_NL-RmGA_1013_1437, anl:dataset_NL-RmGA_1013_1438, anl:dataset_NL-RmGA_1013_1440, anl:dataset_NL-RmGA_1013_1441, anl:dataset_NL-RmGA_1013_1442, anl:dataset_NL-RmGA_1013_1443, anl:dataset_NL-RmGA_1013_1444, anl:dataset_NL-RmGA_1013_1445, anl:dataset_NL-RmGA_1013_1446, anl:dataset_NL-RmGA_1013_1447, anl:dataset_NL-RmGA_1013_1448, anl:dataset_NL-RmGA_1013_1449, anl:dataset_NL-RmGA_1013_1450, anl:dataset_NL-RmGA_1013_1451, anl:dataset_NL-RmGA_1013_1452, anl:dataset_NL-RmGA_8001_01, anl:dataset_NL-RmGA_8001_02, anl:dataset_NL-RmGA_8001_03, anl:dataset_NL-RmGA_8001_04, anl:dataset_NL-RmGA_8001_05, anl:dataset_NL-RmGA_8002, anl:dataset_NL-RmGA_8003, anl:dataset_NL-RmGA_8004_01, anl:dataset_NL-RmGA_8004_02, anl:dataset_NL-RmGA_8004_03, anl:dataset_NL-RmGA_8004_04, anl:dataset_NL-RmGA_8004_05.
+

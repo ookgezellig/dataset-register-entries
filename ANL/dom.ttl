@@ -3,12 +3,15 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 @prefix anl: <https://www.archieven.nl/id/>.
 
+# Test bestand gegenereerd via create_ttl_datacatalog_pages.pl op basis van door Open Archieven verzamelde informatie. 
+
 anl:dataset_NL-StdEHC_104 a schema:Dataset;
 	schema:name "104";
 	schema:description "Bevolkingsregisters Gemeente Grevenbicht, 1870-1933";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StdEHC;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -25,6 +28,7 @@ anl:dataset_NL-StdEHC_106 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StdEHC;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -41,6 +45,7 @@ anl:dataset_NL-StdEHC_106_1138 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StdEHC;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -57,6 +62,7 @@ anl:dataset_NL-StdEHC_106_1150 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StdEHC;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -73,6 +79,7 @@ anl:dataset_NL-StdEHC_106_1152 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StdEHC;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -89,10 +96,11 @@ anl:dataset_NL-StdEHC_111 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StdEHC;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_111_1_EAD.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_111_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTlCM0Y2NjMxMERBMTg1MTVGQTVBR9UDRUFBNjlCRjJBJmFkdF4pZE0xMT9mbnVtbWVyPT9xMQ>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-03-24";
 		schema:contentSize 238283;
@@ -105,10 +113,11 @@ anl:dataset_NL-StdEHC_116 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StdEHC;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_116_1_EAD.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_116_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTgwOTAzOEhEQUIyRk90RUJBQ0U5RE9wM9MyR9FGRTRBJmFkdF4pZE0xMT9mbnVtbWVyPT9xNg>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-05-17";
 		schema:contentSize 39005;
@@ -121,6 +130,7 @@ anl:dataset_NL-StdEHC_121 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StdEHC;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -137,10 +147,11 @@ anl:dataset_NL-StdEHC_123 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StdEHC;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_123_1_EAD.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_123_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTYwOTZ9OTMyMEIyQkRENTIDOEA1OEg0OEBFQj95MTMxJmFkdF4pZE0xMT9mbnVtbWVyPT9yMw>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2016-10-12";
 		schema:contentSize 3266;
@@ -153,10 +164,11 @@ anl:dataset_NL-StdEHC_124 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StdEHC;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_124_1_EAD.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_124_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTFERkRCQjVBMkIwNTdEM9QwNzVGM0UxMT9wRTIzRkMxJmFkdF4pZE0xMT9mbnVtbWVyPT9yNA>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-05-17";
 		schema:contentSize 30243;
@@ -169,6 +181,7 @@ anl:dataset_NL-StdEHC_133 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StdEHC;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -185,6 +198,7 @@ anl:dataset_NL-StdEHC_133_145 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StdEHC;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -201,6 +215,7 @@ anl:dataset_NL-StdEHC_133_146 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StdEHC;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -217,10 +232,11 @@ anl:dataset_NL-StdEHC_134 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StdEHC;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_134_1_EAD.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_134_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTMDN9IzMjUwOEY3Qz93NkZGMjBERjQwMTQ1OEJFREMDJmFkdF4pZE0xMT9mbnVtbWVyPT9zNA>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-05-17";
 		schema:contentSize 48726;
@@ -233,6 +249,7 @@ anl:dataset_NL-StdEHC_138 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StdEHC;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -249,10 +266,11 @@ anl:dataset_NL-StdEHC_140 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StdEHC;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_140_1_EAD.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_140_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUZER9Y2M995NzV9MThCMElGRTNBMTBGQz90MTAxRTYzJmFkdF4pZE0xMT9mbnVtbWVyPT90MA>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-05-26";
 		schema:contentSize 53612;
@@ -265,10 +283,11 @@ anl:dataset_NL-StdEHC_149 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StdEHC;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_149_1_EAD.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_149_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUUDMkNEQzQxRkU1QThCRUVBRkVBNjlFM0R9NEUwOTM0JmFkdF4pZE0xMT9mbnVtbWVyPT90OQ>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-05-17";
 		schema:contentSize 46824;
@@ -281,10 +300,11 @@ anl:dataset_NL-StdEHC_150_1197 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StdEHC;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/mi/NL-StdEHC_150.1197_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/mi/NL-StdEHC_150.1197_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTJ9MEYyRUMDMjQyMzBCOTRFR9JBN9UzMEIyREgxQjg2JmFkdF4pZE0xMT9mbnVtbWVyPT91MCDxMTk3>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2019-10-10";
 		schema:contentSize 5343416;
@@ -297,6 +317,7 @@ anl:dataset_NL-StdEHC_155 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StdEHC;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -313,10 +334,11 @@ anl:dataset_NL-StdEHC_158 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StdEHC;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_158_1_EAD.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_158_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTc5MkZFQ0Q2QUYxMEg0QkM0REM3M0Q3RUMxMkRFN0U3JmFkdF4pZE0xMT9mbnVtbWVyPT91OA>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-05-17";
 		schema:contentSize 50914;
@@ -329,23 +351,24 @@ anl:dataset_NL-StdEHC_175 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StdEHC;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StdEHC>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_175_1_EAD.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-ssg/ead/NL-StdEHC_175_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTADMThFMUIzM0U3R9FFOEl9MTgyQz90Nzl9OTMDM0V9JmFkdF4pZE0xMT9mbnVtbWVyPT93NQ>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2018-05-17";
 		schema:contentSize 369688;
 		schema:description "XML bestand volgens EAD model";
 	].
 
-anl:datacatalog_NL-StdEHC a schema:DataCatalog;
-	schema:name "Dataset catalogus van de open data gepubliceerd op archieven.nl van Archief De Domijnen";
-	schema:publisher anl:organisation_NL-StdEHC;
-	schema:dataset anl:dataset_NL-StdEHC_104, anl:dataset_NL-StdEHC_106, anl:dataset_NL-StdEHC_106_1138, anl:dataset_NL-StdEHC_106_1150, anl:dataset_NL-StdEHC_106_1152, anl:dataset_NL-StdEHC_111, anl:dataset_NL-StdEHC_116, anl:dataset_NL-StdEHC_121, anl:dataset_NL-StdEHC_123, anl:dataset_NL-StdEHC_124, anl:dataset_NL-StdEHC_133, anl:dataset_NL-StdEHC_133_145, anl:dataset_NL-StdEHC_133_146, anl:dataset_NL-StdEHC_134, anl:dataset_NL-StdEHC_138, anl:dataset_NL-StdEHC_140, anl:dataset_NL-StdEHC_149, anl:dataset_NL-StdEHC_150_1197, anl:dataset_NL-StdEHC_155, anl:dataset_NL-StdEHC_158, anl:dataset_NL-StdEHC_175.
-
 anl:organisation_NL-StdEHC a schema:Organization;
 	schema:identifer "NL-StdEHC";
 	schema:name "Archief De Domijnen";
 	schema:url "https://www.dedomijnen.nl/";
 	schema:address [ a schema:PostalAddress; schema:addressLocality "Sittard" ].
+anl:datacatalog_NL-StdEHC a schema:DataCatalog;
+	schema:name "Dataset catalogus van de open data gepubliceerd op archieven.nl van Archief De Domijnen";
+	schema:publisher anl:organisation_NL-StdEHC;
+	schema:dataset anl:dataset_NL-StdEHC_104, anl:dataset_NL-StdEHC_106, anl:dataset_NL-StdEHC_106_1138, anl:dataset_NL-StdEHC_106_1150, anl:dataset_NL-StdEHC_106_1152, anl:dataset_NL-StdEHC_111, anl:dataset_NL-StdEHC_116, anl:dataset_NL-StdEHC_121, anl:dataset_NL-StdEHC_123, anl:dataset_NL-StdEHC_124, anl:dataset_NL-StdEHC_133, anl:dataset_NL-StdEHC_133_145, anl:dataset_NL-StdEHC_133_146, anl:dataset_NL-StdEHC_134, anl:dataset_NL-StdEHC_138, anl:dataset_NL-StdEHC_140, anl:dataset_NL-StdEHC_149, anl:dataset_NL-StdEHC_150_1197, anl:dataset_NL-StdEHC_155, anl:dataset_NL-StdEHC_158, anl:dataset_NL-StdEHC_175.
+

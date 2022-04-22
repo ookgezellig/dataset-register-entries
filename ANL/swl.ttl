@@ -3,12 +3,15 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 @prefix anl: <https://www.archieven.nl/id/>.
 
+# Test bestand gegenereerd via create_ttl_datacatalog_pages.pl op basis van door Open Archieven verzamelde informatie. 
+
 anl:dataset_NL-StwGA_1_1 a schema:Dataset;
 	schema:name "1.1";
 	schema:description "Steenwijk. Bevolkingsregister 1826-1851";
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1826.1851";
 	schema:distribution [
@@ -26,6 +29,7 @@ anl:dataset_NL-StwGA_1_10 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -43,6 +47,7 @@ anl:dataset_NL-StwGA_1_100 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -60,11 +65,12 @@ anl:dataset_NL-StwGA_1_101 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1910";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_1101_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_1101_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTcDQTkyMkRFNzVERk91QjUwQkIzO9VEQ0RBNE9wRkUzJmFkdF4pZE0xNjQDJm51bW1lcj0xLj9wMQ>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2022-01-03";
 		schema:contentSize 1485633;
@@ -77,6 +83,7 @@ anl:dataset_NL-StwGA_1_102 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1910.1920";
 	schema:distribution [
@@ -94,6 +101,7 @@ anl:dataset_NL-StwGA_1_11 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -111,6 +119,7 @@ anl:dataset_NL-StwGA_1_12 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -128,6 +137,7 @@ anl:dataset_NL-StwGA_1_13 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -145,6 +155,7 @@ anl:dataset_NL-StwGA_1_14 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -162,6 +173,7 @@ anl:dataset_NL-StwGA_1_15 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
@@ -179,6 +191,7 @@ anl:dataset_NL-StwGA_1_16 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
@@ -196,6 +209,7 @@ anl:dataset_NL-StwGA_1_17 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
@@ -213,11 +227,12 @@ anl:dataset_NL-StwGA_1_18 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_1.18_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_118_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PU91QkVEREZ9RkYxQkY1QTVGOUU0QTU0Q095Q0M0NzIxJmFkdF4pZE0xNjQDJm51bW1lcj0xLj9D>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2022-01-03";
 		schema:contentSize 1439435;
@@ -230,11 +245,12 @@ anl:dataset_NL-StwGA_1_19 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_119_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_119_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTBENzIwRTc5QTRBMjU1OUJGMjkDNjU5NEVENjQ3R9J9JmFkdF4pZE0xNjQDJm51bW1lcj0xLj95>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-03-13";
 		schema:contentSize 1294928;
@@ -247,6 +263,7 @@ anl:dataset_NL-StwGA_1_2 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1830.1830";
 	schema:distribution [
@@ -264,6 +281,7 @@ anl:dataset_NL-StwGA_1_20 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
@@ -281,6 +299,7 @@ anl:dataset_NL-StwGA_1_21 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -298,6 +317,7 @@ anl:dataset_NL-StwGA_1_22 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -315,6 +335,7 @@ anl:dataset_NL-StwGA_1_23 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -332,6 +353,7 @@ anl:dataset_NL-StwGA_1_24 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -349,6 +371,7 @@ anl:dataset_NL-StwGA_1_25 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -366,6 +389,7 @@ anl:dataset_NL-StwGA_1_26 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -383,6 +407,7 @@ anl:dataset_NL-StwGA_1_27 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -400,6 +425,7 @@ anl:dataset_NL-StwGA_1_28 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -417,6 +443,7 @@ anl:dataset_NL-StwGA_1_29 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -434,6 +461,7 @@ anl:dataset_NL-StwGA_1_3 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1840.1840";
 	schema:distribution [
@@ -451,6 +479,7 @@ anl:dataset_NL-StwGA_1_30 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -468,11 +497,12 @@ anl:dataset_NL-StwGA_1_31 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_131_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_131_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTk2RT93MTkzQTc3QjREM9M5OTIxMjU3MTZGRENCNkQ3JmFkdF4pZE0xNjQDJm51bW1lcj0xLjMx>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-08-16";
 		schema:contentSize 1226221;
@@ -485,6 +515,7 @@ anl:dataset_NL-StwGA_1_32 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -502,6 +533,7 @@ anl:dataset_NL-StwGA_1_33 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -519,6 +551,7 @@ anl:dataset_NL-StwGA_1_34 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -536,6 +569,7 @@ anl:dataset_NL-StwGA_1_35 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1910";
 	schema:distribution [
@@ -553,6 +587,7 @@ anl:dataset_NL-StwGA_1_36 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1910";
 	schema:distribution [
@@ -570,6 +605,7 @@ anl:dataset_NL-StwGA_1_37 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1910";
 	schema:distribution [
@@ -587,11 +623,12 @@ anl:dataset_NL-StwGA_1_38 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1910";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_138_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_138_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTl9NTlFQ0I3OUQ0Q0ZENTA3MjIwMjUwNjQwN9Q1MjJ9JmFkdF4pZE0xNjQDJm51bW1lcj0xLjMD>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-11-12";
 		schema:contentSize 1346237;
@@ -604,6 +641,7 @@ anl:dataset_NL-StwGA_1_39 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1910";
 	schema:distribution [
@@ -621,6 +659,7 @@ anl:dataset_NL-StwGA_1_4 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1840.1840";
 	schema:distribution [
@@ -638,6 +677,7 @@ anl:dataset_NL-StwGA_1_40 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1910";
 	schema:distribution [
@@ -655,6 +695,7 @@ anl:dataset_NL-StwGA_1_41 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1910";
 	schema:distribution [
@@ -672,6 +713,7 @@ anl:dataset_NL-StwGA_1_42 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1910.1920";
 	schema:distribution [
@@ -689,6 +731,7 @@ anl:dataset_NL-StwGA_1_43 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1910.1920";
 	schema:distribution [
@@ -706,6 +749,7 @@ anl:dataset_NL-StwGA_1_44 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1910.1920";
 	schema:distribution [
@@ -723,6 +767,7 @@ anl:dataset_NL-StwGA_1_45 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1910.1920";
 	schema:distribution [
@@ -740,11 +785,12 @@ anl:dataset_NL-StwGA_1_46 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1910.1920";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_146_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_146_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTgyOEdCQjMwOEQ3Mz9xMEAzMk92MTkwNEMzNEM5RkREJmFkdF4pZE0xNjQDJm51bW1lcj0xLjQ2>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-10-20";
 		schema:contentSize 1265733;
@@ -757,6 +803,7 @@ anl:dataset_NL-StwGA_1_47 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1910.1920";
 	schema:distribution [
@@ -774,11 +821,12 @@ anl:dataset_NL-StwGA_1_48 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1910.1920";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_148_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_148_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PU93NzVENEgzO9YzQzdCQ0FEMEY3MEczRTADOU95NEdFJmFkdF4pZE0xNjQDJm51bW1lcj0xLjQD>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-07-05";
 		schema:contentSize 1979186;
@@ -791,6 +839,7 @@ anl:dataset_NL-StwGA_1_5 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -808,6 +857,7 @@ anl:dataset_NL-StwGA_1_6 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -825,6 +875,7 @@ anl:dataset_NL-StwGA_1_7 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -842,6 +893,7 @@ anl:dataset_NL-StwGA_1_9 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -859,6 +911,7 @@ anl:dataset_NL-StwGA_1_94 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -876,6 +929,7 @@ anl:dataset_NL-StwGA_1_95 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
@@ -893,6 +947,7 @@ anl:dataset_NL-StwGA_1_96 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -910,6 +965,7 @@ anl:dataset_NL-StwGA_1_97 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -927,6 +983,7 @@ anl:dataset_NL-StwGA_1_98 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
@@ -944,6 +1001,7 @@ anl:dataset_NL-StwGA_1_99 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -961,11 +1019,12 @@ anl:dataset_NL-StwGA_10_1 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1830.1838";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_101_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_101_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTNBMkMDREUDNEUyQ0JBQUYDMEUDOEYDNEIwQzBFQk91JmFkdF4pZE0xNjQDJm51bW1lcj0xMCDx>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-09-27";
 		schema:contentSize 1654943;
@@ -978,6 +1037,7 @@ anl:dataset_NL-StwGA_10_2 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -995,14 +1055,15 @@ anl:dataset_NL-StwGA_10_3 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_10.3_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_103_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTMDRkUzO9RFOEI1RkJBMEJFRTgDOEI1Rjd9NEI5MjNCJmFkdF4pZE0xNjQDJm51bW1lcj0xMCDz>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-02-26";
-		schema:contentSize 2503537;
+		schema:dateModified "2022-03-14";
+		schema:contentSize 2376500;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -1012,6 +1073,7 @@ anl:dataset_NL-StwGA_10_4 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1870.1890";
 	schema:distribution [
@@ -1029,6 +1091,7 @@ anl:dataset_NL-StwGA_10_6 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1910";
 	schema:distribution [
@@ -1046,11 +1109,12 @@ anl:dataset_NL-StwGA_10_7 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1910";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_107_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_107_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PUIzNTgxRjc3RTMyOE9wQjg1R9RFOEZEN9JGM9ZCM9RFJmFkdF4pZE0xNjQDJm51bW1lcj0xMCD3>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-09-30";
 		schema:contentSize 1839369;
@@ -1063,6 +1127,7 @@ anl:dataset_NL-StwGA_11_1 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1830.1830";
 	schema:distribution [
@@ -1080,6 +1145,7 @@ anl:dataset_NL-StwGA_11_11 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1925";
 	schema:distribution [
@@ -1097,6 +1163,7 @@ anl:dataset_NL-StwGA_11_12 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1925";
 	schema:distribution [
@@ -1114,6 +1181,7 @@ anl:dataset_NL-StwGA_11_13 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1925";
 	schema:distribution [
@@ -1131,6 +1199,7 @@ anl:dataset_NL-StwGA_11_14 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1925";
 	schema:distribution [
@@ -1148,6 +1217,7 @@ anl:dataset_NL-StwGA_11_15 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1925";
 	schema:distribution [
@@ -1165,6 +1235,7 @@ anl:dataset_NL-StwGA_11_16 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1925";
 	schema:distribution [
@@ -1182,6 +1253,7 @@ anl:dataset_NL-StwGA_11_17 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1925";
 	schema:distribution [
@@ -1199,6 +1271,7 @@ anl:dataset_NL-StwGA_11_18 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1925";
 	schema:distribution [
@@ -1216,6 +1289,7 @@ anl:dataset_NL-StwGA_11_19 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1925";
 	schema:distribution [
@@ -1233,6 +1307,7 @@ anl:dataset_NL-StwGA_11_2 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1840.1840";
 	schema:distribution [
@@ -1250,6 +1325,7 @@ anl:dataset_NL-StwGA_11_20 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1925";
 	schema:distribution [
@@ -1267,6 +1343,7 @@ anl:dataset_NL-StwGA_11_21 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1925";
 	schema:distribution [
@@ -1284,6 +1361,7 @@ anl:dataset_NL-StwGA_11_29 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1924";
 	schema:distribution [
@@ -1301,6 +1379,7 @@ anl:dataset_NL-StwGA_11_3 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1861";
 	schema:distribution [
@@ -1318,6 +1397,7 @@ anl:dataset_NL-StwGA_11_30 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1924";
 	schema:distribution [
@@ -1335,6 +1415,7 @@ anl:dataset_NL-StwGA_11_31 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1924";
 	schema:distribution [
@@ -1352,6 +1433,7 @@ anl:dataset_NL-StwGA_11_32 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1924";
 	schema:distribution [
@@ -1369,6 +1451,7 @@ anl:dataset_NL-StwGA_11_33 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1924";
 	schema:distribution [
@@ -1386,6 +1469,7 @@ anl:dataset_NL-StwGA_11_4 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1861";
 	schema:distribution [
@@ -1403,6 +1487,7 @@ anl:dataset_NL-StwGA_11_6 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1862.1870";
 	schema:distribution [
@@ -1420,6 +1505,7 @@ anl:dataset_NL-StwGA_11_7 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1862.1870";
 	schema:distribution [
@@ -1437,6 +1523,7 @@ anl:dataset_NL-StwGA_11_8 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1862.1870";
 	schema:distribution [
@@ -1454,6 +1541,7 @@ anl:dataset_NL-StwGA_11_9 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
@@ -1471,11 +1559,12 @@ anl:dataset_NL-StwGA_12_1 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1830.1830";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_121_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_121_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PUF9RTUzQ0Q2OEcyMzBFREYxNzl9MkZFQTlFRjM0N9Z9JmFkdF4pZE0xNjQDJm51bW1lcj0xMiDx>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-09-27";
 		schema:contentSize 1789872;
@@ -1488,6 +1577,7 @@ anl:dataset_NL-StwGA_12_10 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
@@ -1505,6 +1595,7 @@ anl:dataset_NL-StwGA_12_11 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
@@ -1522,6 +1613,7 @@ anl:dataset_NL-StwGA_12_14 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1925";
 	schema:distribution [
@@ -1539,6 +1631,7 @@ anl:dataset_NL-StwGA_12_15 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1925";
 	schema:distribution [
@@ -1556,6 +1649,7 @@ anl:dataset_NL-StwGA_12_16 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1925";
 	schema:distribution [
@@ -1573,6 +1667,7 @@ anl:dataset_NL-StwGA_12_17 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1925";
 	schema:distribution [
@@ -1590,6 +1685,7 @@ anl:dataset_NL-StwGA_12_18 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1925";
 	schema:distribution [
@@ -1607,6 +1703,7 @@ anl:dataset_NL-StwGA_12_19 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1925";
 	schema:distribution [
@@ -1624,6 +1721,7 @@ anl:dataset_NL-StwGA_12_2 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1840.1840";
 	schema:distribution [
@@ -1641,6 +1739,7 @@ anl:dataset_NL-StwGA_12_28 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1921";
 	schema:distribution [
@@ -1658,6 +1757,7 @@ anl:dataset_NL-StwGA_12_3 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -1675,6 +1775,7 @@ anl:dataset_NL-StwGA_12_4 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -1692,6 +1793,7 @@ anl:dataset_NL-StwGA_12_5 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -1709,6 +1811,7 @@ anl:dataset_NL-StwGA_12_6 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -1726,6 +1829,7 @@ anl:dataset_NL-StwGA_12_7 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -1743,6 +1847,7 @@ anl:dataset_NL-StwGA_12_8 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -1760,6 +1865,7 @@ anl:dataset_NL-StwGA_12_9 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
@@ -1777,6 +1883,7 @@ anl:dataset_NL-StwGA_131 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -1793,14 +1900,15 @@ anl:dataset_NL-StwGA_14_336 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1644.1686";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_14336_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_14336_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTMzOENCQzdEQjYDOUUyRUMxRjhFNkY2NTkwN9N9MzY0JmFkdF4pZE0xNjQDJm51bW1lcj0xNCDzMzY>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-05-25";
-		schema:contentSize 1849109;
+		schema:dateModified "2022-02-04";
+		schema:contentSize 1768322;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -1810,14 +1918,15 @@ anl:dataset_NL-StwGA_14_62 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1583.1851";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_1462_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_1462_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTIwMjlGNEUDQzlGN0U3QjBCQ0MxQjg2OTJGQzM2N0MwJmFkdF4pZE0xNjQDJm51bW1lcj0xNCD2Mg>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2021-11-29";
-		schema:contentSize 1732962;
+		schema:dateModified "2022-02-04";
+		schema:contentSize 1732845;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -1827,11 +1936,12 @@ anl:dataset_NL-StwGA_140 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1700.1811";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_140_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_140_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PUJ9NjFBNzA0MUI5R9NBQzU1O9ZBMUY1QTgyOT9yM9Q3JmFkdF4pZE0xNjQDJm51bW1lcj0xNEA>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-07-05";
 		schema:contentSize 157519;
@@ -1844,6 +1954,7 @@ anl:dataset_NL-StwGA_141 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1583.1851";
 	schema:distribution [
@@ -1861,6 +1972,7 @@ anl:dataset_NL-StwGA_155_544 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -1877,11 +1989,12 @@ anl:dataset_NL-StwGA_2_1 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1840.1840";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_21_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_21_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTBFM0NBM9ZCNzY3N0U5QjYwREAxMkI5OE9wREc5Q0UxJmFkdF4pZE0xNjQDJm51bW1lcj0yLj9>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-04-09";
 		schema:contentSize 5001056;
@@ -1894,11 +2007,12 @@ anl:dataset_NL-StwGA_2_10 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_210_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_210_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTQ5QTN9OEQ0Q0M1QTIDOTcwNTI2MTBEOTdBRj9wMTUzJmFkdF4pZE0xNjQDJm51bW1lcj0yLj9w>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-10-18";
 		schema:contentSize 4220507;
@@ -1911,6 +2025,7 @@ anl:dataset_NL-StwGA_2_11 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -1928,6 +2043,7 @@ anl:dataset_NL-StwGA_2_12 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -1944,6 +2060,7 @@ anl:dataset_NL-StwGA_2_13 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -1960,10 +2077,11 @@ anl:dataset_NL-StwGA_2_14 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_214_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_214_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PThBMz9wN0IzQzIzMjkyQjY5M9QzN9JFNTFFNzM5M0M2JmFkdF4pZE0xNjQDJm51bW1lcj0yLj90>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-07-05";
 		schema:contentSize 1958042;
@@ -1976,6 +2094,7 @@ anl:dataset_NL-StwGA_2_15 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1875";
 	schema:distribution [
@@ -1993,6 +2112,7 @@ anl:dataset_NL-StwGA_2_16 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1875";
 	schema:distribution [
@@ -2010,6 +2130,7 @@ anl:dataset_NL-StwGA_2_17 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1875";
 	schema:distribution [
@@ -2027,6 +2148,7 @@ anl:dataset_NL-StwGA_2_18 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1875";
 	schema:distribution [
@@ -2044,6 +2166,7 @@ anl:dataset_NL-StwGA_2_19 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1875";
 	schema:distribution [
@@ -2061,6 +2184,7 @@ anl:dataset_NL-StwGA_2_20 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1875";
 	schema:distribution [
@@ -2078,6 +2202,7 @@ anl:dataset_NL-StwGA_2_21 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1875";
 	schema:distribution [
@@ -2095,6 +2220,7 @@ anl:dataset_NL-StwGA_2_23 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1875.1890";
 	schema:distribution [
@@ -2112,6 +2238,7 @@ anl:dataset_NL-StwGA_2_24 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1875.1890";
 	schema:distribution [
@@ -2129,6 +2256,7 @@ anl:dataset_NL-StwGA_2_25 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1875.1890";
 	schema:distribution [
@@ -2146,6 +2274,7 @@ anl:dataset_NL-StwGA_2_26 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1875.1890";
 	schema:distribution [
@@ -2163,6 +2292,7 @@ anl:dataset_NL-StwGA_2_27 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1875.1890";
 	schema:distribution [
@@ -2180,6 +2310,7 @@ anl:dataset_NL-StwGA_2_28 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1875.1890";
 	schema:distribution [
@@ -2197,6 +2328,7 @@ anl:dataset_NL-StwGA_2_29 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1875.1890";
 	schema:distribution [
@@ -2214,11 +2346,12 @@ anl:dataset_NL-StwGA_2_3 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_23_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_23_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTdCN0YwOTlEMzB9NEhENERBQjU2QjdBRENFRkM1NEl9JmFkdF4pZE0xNjQDJm51bW1lcj0yLjM>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-07-27";
 		schema:contentSize 3618310;
@@ -2231,6 +2364,7 @@ anl:dataset_NL-StwGA_2_30 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1875.1890";
 	schema:distribution [
@@ -2248,6 +2382,7 @@ anl:dataset_NL-StwGA_2_31 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1875.1890";
 	schema:distribution [
@@ -2265,6 +2400,7 @@ anl:dataset_NL-StwGA_2_32 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1875.1890";
 	schema:distribution [
@@ -2282,6 +2418,7 @@ anl:dataset_NL-StwGA_2_33 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1875.1890";
 	schema:distribution [
@@ -2299,6 +2436,7 @@ anl:dataset_NL-StwGA_2_34 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1875.1890";
 	schema:distribution [
@@ -2316,6 +2454,7 @@ anl:dataset_NL-StwGA_2_36 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1920";
 	schema:distribution [
@@ -2333,6 +2472,7 @@ anl:dataset_NL-StwGA_2_37 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1920";
 	schema:distribution [
@@ -2350,6 +2490,7 @@ anl:dataset_NL-StwGA_2_38 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1920";
 	schema:distribution [
@@ -2367,6 +2508,7 @@ anl:dataset_NL-StwGA_2_39 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1920";
 	schema:distribution [
@@ -2384,6 +2526,7 @@ anl:dataset_NL-StwGA_2_4 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -2401,6 +2544,7 @@ anl:dataset_NL-StwGA_2_40 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1920";
 	schema:distribution [
@@ -2418,6 +2562,7 @@ anl:dataset_NL-StwGA_2_41 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1920";
 	schema:distribution [
@@ -2435,6 +2580,7 @@ anl:dataset_NL-StwGA_2_42 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1920";
 	schema:distribution [
@@ -2452,6 +2598,7 @@ anl:dataset_NL-StwGA_2_43 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1920";
 	schema:distribution [
@@ -2469,6 +2616,7 @@ anl:dataset_NL-StwGA_2_44 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1920";
 	schema:distribution [
@@ -2486,6 +2634,7 @@ anl:dataset_NL-StwGA_2_45 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1920";
 	schema:distribution [
@@ -2503,6 +2652,7 @@ anl:dataset_NL-StwGA_2_46 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1920";
 	schema:distribution [
@@ -2520,6 +2670,7 @@ anl:dataset_NL-StwGA_2_47 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1920";
 	schema:distribution [
@@ -2537,6 +2688,7 @@ anl:dataset_NL-StwGA_2_5 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -2554,6 +2706,7 @@ anl:dataset_NL-StwGA_2_6 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -2571,6 +2724,7 @@ anl:dataset_NL-StwGA_2_65 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -2588,6 +2742,7 @@ anl:dataset_NL-StwGA_2_66 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1875";
 	schema:distribution [
@@ -2605,6 +2760,7 @@ anl:dataset_NL-StwGA_2_67 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1875.1890";
 	schema:distribution [
@@ -2622,6 +2778,7 @@ anl:dataset_NL-StwGA_2_68 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1920";
 	schema:distribution [
@@ -2639,6 +2796,7 @@ anl:dataset_NL-StwGA_2_7 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -2656,6 +2814,7 @@ anl:dataset_NL-StwGA_2_8 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -2673,6 +2832,7 @@ anl:dataset_NL-StwGA_2_9 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -2690,6 +2850,7 @@ anl:dataset_NL-StwGA_32_107 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1700.1811";
 	schema:distribution [
@@ -2707,11 +2868,12 @@ anl:dataset_NL-StwGA_5_1 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1829.1829";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_51_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_51_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTkwMjYDQTBBMTlFRUJFM0Y5RjMwQTV9OEc3QUNEQUYDJmFkdF4pZE0xNjQDJm51bW1lcj01Lj9>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-05-10";
 		schema:contentSize 1581905;
@@ -2724,6 +2886,7 @@ anl:dataset_NL-StwGA_5_10 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1880";
 	schema:distribution [
@@ -2741,6 +2904,7 @@ anl:dataset_NL-StwGA_5_11 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1880";
 	schema:distribution [
@@ -2758,6 +2922,7 @@ anl:dataset_NL-StwGA_5_12 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1880";
 	schema:distribution [
@@ -2775,6 +2940,7 @@ anl:dataset_NL-StwGA_5_13 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -2792,6 +2958,7 @@ anl:dataset_NL-StwGA_5_14 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -2809,6 +2976,7 @@ anl:dataset_NL-StwGA_5_15 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -2826,6 +2994,7 @@ anl:dataset_NL-StwGA_5_16 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -2843,6 +3012,7 @@ anl:dataset_NL-StwGA_5_17 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -2860,6 +3030,7 @@ anl:dataset_NL-StwGA_5_18 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -2877,6 +3048,7 @@ anl:dataset_NL-StwGA_5_19 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -2894,6 +3066,7 @@ anl:dataset_NL-StwGA_5_2 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1840.1840";
 	schema:distribution [
@@ -2911,6 +3084,7 @@ anl:dataset_NL-StwGA_5_20 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -2928,6 +3102,7 @@ anl:dataset_NL-StwGA_5_21 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -2945,6 +3120,7 @@ anl:dataset_NL-StwGA_5_22 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -2962,6 +3138,7 @@ anl:dataset_NL-StwGA_5_23 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1920";
 	schema:distribution [
@@ -2979,6 +3156,7 @@ anl:dataset_NL-StwGA_5_24 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1920";
 	schema:distribution [
@@ -2996,6 +3174,7 @@ anl:dataset_NL-StwGA_5_25 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1920";
 	schema:distribution [
@@ -3013,6 +3192,7 @@ anl:dataset_NL-StwGA_5_26 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1920";
 	schema:distribution [
@@ -3030,14 +3210,15 @@ anl:dataset_NL-StwGA_5_27 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1920";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_5.27_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_527_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTNCQ0VFRTIwO9QwQjUzRkVFMEh9NUR9Qz95NTc0OUI2JmFkdF4pZE0xNjQDJm51bW1lcj01LjI3>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2016-10-09";
-		schema:contentSize 1559034;
+		schema:dateModified "2022-02-07";
+		schema:contentSize 1192241;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -3047,6 +3228,7 @@ anl:dataset_NL-StwGA_5_29 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -3064,11 +3246,12 @@ anl:dataset_NL-StwGA_5_3 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1840.1850";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_53_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_53_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTk3MkQzREgwR9MzR9Q2Mjg0RjZBNkR9MTFEM9U5Q0VFJmFkdF4pZE0xNjQDJm51bW1lcj01LjM>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-05-10";
 		schema:contentSize 2565445;
@@ -3081,6 +3264,7 @@ anl:dataset_NL-StwGA_5_30 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -3098,6 +3282,7 @@ anl:dataset_NL-StwGA_5_31 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1920";
 	schema:distribution [
@@ -3115,14 +3300,15 @@ anl:dataset_NL-StwGA_5_4 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_54_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_54_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTBGNEYwMEcwMTJBNjdCMjA3RjI5MjA1NE9DRjgzNTlEJmFkdF4pZE0xNjQDJm51bW1lcj01LjQ>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2020-10-12";
-		schema:contentSize 1999047;
+		schema:dateModified "2022-03-03";
+		schema:contentSize 1900054;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -3132,6 +3318,7 @@ anl:dataset_NL-StwGA_5_5 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -3149,6 +3336,7 @@ anl:dataset_NL-StwGA_5_6 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -3166,6 +3354,7 @@ anl:dataset_NL-StwGA_5_7 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1880";
 	schema:distribution [
@@ -3183,6 +3372,7 @@ anl:dataset_NL-StwGA_5_8 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1880";
 	schema:distribution [
@@ -3200,6 +3390,7 @@ anl:dataset_NL-StwGA_5_9 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1880";
 	schema:distribution [
@@ -3217,6 +3408,7 @@ anl:dataset_NL-StwGA_6_1 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -3233,6 +3425,7 @@ anl:dataset_NL-StwGA_6_10 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -3250,6 +3443,7 @@ anl:dataset_NL-StwGA_6_11 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -3267,6 +3461,7 @@ anl:dataset_NL-StwGA_6_13 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1910";
 	schema:distribution [
@@ -3284,6 +3479,7 @@ anl:dataset_NL-StwGA_6_14 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1910.1921";
 	schema:distribution [
@@ -3301,6 +3497,7 @@ anl:dataset_NL-StwGA_6_18 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -3318,6 +3515,7 @@ anl:dataset_NL-StwGA_6_19 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -3335,6 +3533,7 @@ anl:dataset_NL-StwGA_6_2 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1830.1840";
 	schema:distribution [
@@ -3352,6 +3551,7 @@ anl:dataset_NL-StwGA_6_20 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1910";
 	schema:distribution [
@@ -3369,6 +3569,7 @@ anl:dataset_NL-StwGA_6_21 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1910.1920";
 	schema:distribution [
@@ -3386,6 +3587,7 @@ anl:dataset_NL-StwGA_6_3 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1840.1850";
 	schema:distribution [
@@ -3403,6 +3605,7 @@ anl:dataset_NL-StwGA_6_4 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -3420,6 +3623,7 @@ anl:dataset_NL-StwGA_6_5 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -3437,6 +3641,7 @@ anl:dataset_NL-StwGA_6_6 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -3454,6 +3659,7 @@ anl:dataset_NL-StwGA_6_7 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
@@ -3471,6 +3677,7 @@ anl:dataset_NL-StwGA_6_8 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
@@ -3488,6 +3695,7 @@ anl:dataset_NL-StwGA_7_1 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1830.1830";
 	schema:distribution [
@@ -3505,6 +3713,7 @@ anl:dataset_NL-StwGA_7_10 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1910";
 	schema:distribution [
@@ -3522,6 +3731,7 @@ anl:dataset_NL-StwGA_7_12 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1910.1921";
 	schema:distribution [
@@ -3539,6 +3749,7 @@ anl:dataset_NL-StwGA_7_15 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -3556,6 +3767,7 @@ anl:dataset_NL-StwGA_7_16 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -3573,6 +3785,7 @@ anl:dataset_NL-StwGA_7_17 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1910";
 	schema:distribution [
@@ -3590,6 +3803,7 @@ anl:dataset_NL-StwGA_7_18 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1910.1921";
 	schema:distribution [
@@ -3607,6 +3821,7 @@ anl:dataset_NL-StwGA_7_2 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1840.1840";
 	schema:distribution [
@@ -3624,6 +3839,7 @@ anl:dataset_NL-StwGA_7_3 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -3641,6 +3857,7 @@ anl:dataset_NL-StwGA_7_4 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -3658,6 +3875,7 @@ anl:dataset_NL-StwGA_7_5 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1860.1870";
 	schema:distribution [
@@ -3675,6 +3893,7 @@ anl:dataset_NL-StwGA_7_6 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
@@ -3692,6 +3911,7 @@ anl:dataset_NL-StwGA_7_8 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1890";
 	schema:distribution [
@@ -3709,6 +3929,7 @@ anl:dataset_NL-StwGA_7_9 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1900";
 	schema:distribution [
@@ -3726,14 +3947,15 @@ anl:dataset_NL-StwGA_8_1 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1826.1852";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_8.1_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_81_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PUYyMzkyN9QyNk93MjR9QUI3Njg2N99zMkVGREBBMT90JmFkdF4pZE0xNjQDJm51bW1lcj0DLj9>;
 		schema:encodingFormat "text/xml";
-		schema:dateModified "2019-02-25";
-		schema:contentSize 676932;
+		schema:dateModified "2022-02-02";
+		schema:contentSize 668511;
 		schema:description "XML bestand volgens MI model";
 	].
 
@@ -3743,6 +3965,7 @@ anl:dataset_NL-StwGA_8_10 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1869.1879";
 	schema:distribution [
@@ -3760,6 +3983,7 @@ anl:dataset_NL-StwGA_8_11 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1869.1879";
 	schema:distribution [
@@ -3777,6 +4001,7 @@ anl:dataset_NL-StwGA_8_12 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1869.1879";
 	schema:distribution [
@@ -3794,11 +4019,12 @@ anl:dataset_NL-StwGA_8_13 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1869.1879";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_813_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_813_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PU93RjIxMEY2MkREMjg1RjBEMTdCMTBEOEY5Mz9DM9M2JmFkdF4pZE0xNjQDJm51bW1lcj0DLj9z>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-11-03";
 		schema:contentSize 1160996;
@@ -3811,6 +4037,7 @@ anl:dataset_NL-StwGA_8_15 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1889";
 	schema:distribution [
@@ -3828,6 +4055,7 @@ anl:dataset_NL-StwGA_8_16 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1889";
 	schema:distribution [
@@ -3845,6 +4073,7 @@ anl:dataset_NL-StwGA_8_17 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1889";
 	schema:distribution [
@@ -3862,6 +4091,7 @@ anl:dataset_NL-StwGA_8_18 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1905";
 	schema:distribution [
@@ -3879,6 +4109,7 @@ anl:dataset_NL-StwGA_8_19 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1905";
 	schema:distribution [
@@ -3896,6 +4127,7 @@ anl:dataset_NL-StwGA_8_2 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1829.1839";
 	schema:distribution [
@@ -3913,6 +4145,7 @@ anl:dataset_NL-StwGA_8_20 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1905";
 	schema:distribution [
@@ -3930,6 +4163,7 @@ anl:dataset_NL-StwGA_8_3 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1839.1849";
 	schema:distribution [
@@ -3947,6 +4181,7 @@ anl:dataset_NL-StwGA_8_32 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1869.1879";
 	schema:distribution [
@@ -3964,6 +4199,7 @@ anl:dataset_NL-StwGA_8_33 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1889";
 	schema:distribution [
@@ -3981,6 +4217,7 @@ anl:dataset_NL-StwGA_8_34 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1880.1889";
 	schema:distribution [
@@ -3998,6 +4235,7 @@ anl:dataset_NL-StwGA_8_35 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1905";
 	schema:distribution [
@@ -4015,6 +4253,7 @@ anl:dataset_NL-StwGA_8_36 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1890.1905";
 	schema:distribution [
@@ -4032,6 +4271,7 @@ anl:dataset_NL-StwGA_8_4 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1849.1859";
 	schema:distribution [
@@ -4049,6 +4289,7 @@ anl:dataset_NL-StwGA_8_5 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1849.1859";
 	schema:distribution [
@@ -4066,6 +4307,7 @@ anl:dataset_NL-StwGA_8_6 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1861";
 	schema:distribution [
@@ -4083,6 +4325,7 @@ anl:dataset_NL-StwGA_8_7 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1859.1869";
 	schema:distribution [
@@ -4100,6 +4343,7 @@ anl:dataset_NL-StwGA_8_8 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1859.1869";
 	schema:distribution [
@@ -4117,6 +4361,7 @@ anl:dataset_NL-StwGA_8_9 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -4133,6 +4378,7 @@ anl:dataset_NL-StwGA_9_1 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1840.1849";
 	schema:distribution [
@@ -4150,11 +4396,12 @@ anl:dataset_NL-StwGA_9_10 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1895.1900";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_910_54_MI.xml?format=file>;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-gsld/mi/NL-StwGA_910_54_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PThFMTMyMkI1MEI2MzM0RkNCR9VFN9M1QUQDNzFBQzczJmFkdF4pZE0xNjQDJm51bW1lcj05Lj9w>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2021-03-26";
 		schema:contentSize 1010755;
@@ -4167,6 +4414,7 @@ anl:dataset_NL-StwGA_9_11 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1895.1900";
 	schema:distribution [
@@ -4184,6 +4432,7 @@ anl:dataset_NL-StwGA_9_13 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1910";
 	schema:distribution [
@@ -4201,6 +4450,7 @@ anl:dataset_NL-StwGA_9_14 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1910";
 	schema:distribution [
@@ -4218,6 +4468,7 @@ anl:dataset_NL-StwGA_9_15 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1910";
 	schema:distribution [
@@ -4235,6 +4486,7 @@ anl:dataset_NL-StwGA_9_16 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1910";
 	schema:distribution [
@@ -4252,6 +4504,7 @@ anl:dataset_NL-StwGA_9_17 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1900.1910";
 	schema:distribution [
@@ -4269,6 +4522,7 @@ anl:dataset_NL-StwGA_9_2 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -4286,6 +4540,7 @@ anl:dataset_NL-StwGA_9_3 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1850.1860";
 	schema:distribution [
@@ -4303,6 +4558,7 @@ anl:dataset_NL-StwGA_9_4 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1861.1881";
 	schema:distribution [
@@ -4320,6 +4576,7 @@ anl:dataset_NL-StwGA_9_5 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1861.1881";
 	schema:distribution [
@@ -4337,6 +4594,7 @@ anl:dataset_NL-StwGA_9_6 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1881.1895";
 	schema:distribution [
@@ -4354,6 +4612,7 @@ anl:dataset_NL-StwGA_9_7 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1881.1895";
 	schema:distribution [
@@ -4371,6 +4630,7 @@ anl:dataset_NL-StwGA_9_8 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1881.1895";
 	schema:distribution [
@@ -4388,6 +4648,7 @@ anl:dataset_NL-StwGA_9_9 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/licenses/by/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-StwGA;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-StwGA>;
 	schema:temporalCoverage: "1895.1900";
 	schema:distribution [
@@ -4399,13 +4660,13 @@ anl:dataset_NL-StwGA_9_9 a schema:Dataset;
 		schema:description "XML bestand volgens MI model";
 	].
 
-anl:datacatalog_NL-StwGA a schema:DataCatalog;
-	schema:name "Dataset catalogus van de open data gepubliceerd op archieven.nl van Gemeente Steenwijkerland";
-	schema:publisher anl:organisation_NL-StwGA;
-	schema:dataset anl:dataset_NL-StwGA_1_1, anl:dataset_NL-StwGA_1_10, anl:dataset_NL-StwGA_1_100, anl:dataset_NL-StwGA_1_101, anl:dataset_NL-StwGA_1_102, anl:dataset_NL-StwGA_1_11, anl:dataset_NL-StwGA_1_12, anl:dataset_NL-StwGA_1_13, anl:dataset_NL-StwGA_1_14, anl:dataset_NL-StwGA_1_15, anl:dataset_NL-StwGA_1_16, anl:dataset_NL-StwGA_1_17, anl:dataset_NL-StwGA_1_18, anl:dataset_NL-StwGA_1_19, anl:dataset_NL-StwGA_1_2, anl:dataset_NL-StwGA_1_20, anl:dataset_NL-StwGA_1_21, anl:dataset_NL-StwGA_1_22, anl:dataset_NL-StwGA_1_23, anl:dataset_NL-StwGA_1_24, anl:dataset_NL-StwGA_1_25, anl:dataset_NL-StwGA_1_26, anl:dataset_NL-StwGA_1_27, anl:dataset_NL-StwGA_1_28, anl:dataset_NL-StwGA_1_29, anl:dataset_NL-StwGA_1_3, anl:dataset_NL-StwGA_1_30, anl:dataset_NL-StwGA_1_31, anl:dataset_NL-StwGA_1_32, anl:dataset_NL-StwGA_1_33, anl:dataset_NL-StwGA_1_34, anl:dataset_NL-StwGA_1_35, anl:dataset_NL-StwGA_1_36, anl:dataset_NL-StwGA_1_37, anl:dataset_NL-StwGA_1_38, anl:dataset_NL-StwGA_1_39, anl:dataset_NL-StwGA_1_4, anl:dataset_NL-StwGA_1_40, anl:dataset_NL-StwGA_1_41, anl:dataset_NL-StwGA_1_42, anl:dataset_NL-StwGA_1_43, anl:dataset_NL-StwGA_1_44, anl:dataset_NL-StwGA_1_45, anl:dataset_NL-StwGA_1_46, anl:dataset_NL-StwGA_1_47, anl:dataset_NL-StwGA_1_48, anl:dataset_NL-StwGA_1_5, anl:dataset_NL-StwGA_1_6, anl:dataset_NL-StwGA_1_7, anl:dataset_NL-StwGA_1_9, anl:dataset_NL-StwGA_1_94, anl:dataset_NL-StwGA_1_95, anl:dataset_NL-StwGA_1_96, anl:dataset_NL-StwGA_1_97, anl:dataset_NL-StwGA_1_98, anl:dataset_NL-StwGA_1_99, anl:dataset_NL-StwGA_10_1, anl:dataset_NL-StwGA_10_2, anl:dataset_NL-StwGA_10_3, anl:dataset_NL-StwGA_10_4, anl:dataset_NL-StwGA_10_6, anl:dataset_NL-StwGA_10_7, anl:dataset_NL-StwGA_11_1, anl:dataset_NL-StwGA_11_11, anl:dataset_NL-StwGA_11_12, anl:dataset_NL-StwGA_11_13, anl:dataset_NL-StwGA_11_14, anl:dataset_NL-StwGA_11_15, anl:dataset_NL-StwGA_11_16, anl:dataset_NL-StwGA_11_17, anl:dataset_NL-StwGA_11_18, anl:dataset_NL-StwGA_11_19, anl:dataset_NL-StwGA_11_2, anl:dataset_NL-StwGA_11_20, anl:dataset_NL-StwGA_11_21, anl:dataset_NL-StwGA_11_29, anl:dataset_NL-StwGA_11_3, anl:dataset_NL-StwGA_11_30, anl:dataset_NL-StwGA_11_31, anl:dataset_NL-StwGA_11_32, anl:dataset_NL-StwGA_11_33, anl:dataset_NL-StwGA_11_4, anl:dataset_NL-StwGA_11_6, anl:dataset_NL-StwGA_11_7, anl:dataset_NL-StwGA_11_8, anl:dataset_NL-StwGA_11_9, anl:dataset_NL-StwGA_12_1, anl:dataset_NL-StwGA_12_10, anl:dataset_NL-StwGA_12_11, anl:dataset_NL-StwGA_12_14, anl:dataset_NL-StwGA_12_15, anl:dataset_NL-StwGA_12_16, anl:dataset_NL-StwGA_12_17, anl:dataset_NL-StwGA_12_18, anl:dataset_NL-StwGA_12_19, anl:dataset_NL-StwGA_12_2, anl:dataset_NL-StwGA_12_28, anl:dataset_NL-StwGA_12_3, anl:dataset_NL-StwGA_12_4, anl:dataset_NL-StwGA_12_5, anl:dataset_NL-StwGA_12_6, anl:dataset_NL-StwGA_12_7, anl:dataset_NL-StwGA_12_8, anl:dataset_NL-StwGA_12_9, anl:dataset_NL-StwGA_131, anl:dataset_NL-StwGA_14_336, anl:dataset_NL-StwGA_14_62, anl:dataset_NL-StwGA_140, anl:dataset_NL-StwGA_141, anl:dataset_NL-StwGA_155_544, anl:dataset_NL-StwGA_2_1, anl:dataset_NL-StwGA_2_10, anl:dataset_NL-StwGA_2_11, anl:dataset_NL-StwGA_2_12, anl:dataset_NL-StwGA_2_13, anl:dataset_NL-StwGA_2_14, anl:dataset_NL-StwGA_2_15, anl:dataset_NL-StwGA_2_16, anl:dataset_NL-StwGA_2_17, anl:dataset_NL-StwGA_2_18, anl:dataset_NL-StwGA_2_19, anl:dataset_NL-StwGA_2_20, anl:dataset_NL-StwGA_2_21, anl:dataset_NL-StwGA_2_23, anl:dataset_NL-StwGA_2_24, anl:dataset_NL-StwGA_2_25, anl:dataset_NL-StwGA_2_26, anl:dataset_NL-StwGA_2_27, anl:dataset_NL-StwGA_2_28, anl:dataset_NL-StwGA_2_29, anl:dataset_NL-StwGA_2_3, anl:dataset_NL-StwGA_2_30, anl:dataset_NL-StwGA_2_31, anl:dataset_NL-StwGA_2_32, anl:dataset_NL-StwGA_2_33, anl:dataset_NL-StwGA_2_34, anl:dataset_NL-StwGA_2_36, anl:dataset_NL-StwGA_2_37, anl:dataset_NL-StwGA_2_38, anl:dataset_NL-StwGA_2_39, anl:dataset_NL-StwGA_2_4, anl:dataset_NL-StwGA_2_40, anl:dataset_NL-StwGA_2_41, anl:dataset_NL-StwGA_2_42, anl:dataset_NL-StwGA_2_43, anl:dataset_NL-StwGA_2_44, anl:dataset_NL-StwGA_2_45, anl:dataset_NL-StwGA_2_46, anl:dataset_NL-StwGA_2_47, anl:dataset_NL-StwGA_2_5, anl:dataset_NL-StwGA_2_6, anl:dataset_NL-StwGA_2_65, anl:dataset_NL-StwGA_2_66, anl:dataset_NL-StwGA_2_67, anl:dataset_NL-StwGA_2_68, anl:dataset_NL-StwGA_2_7, anl:dataset_NL-StwGA_2_8, anl:dataset_NL-StwGA_2_9, anl:dataset_NL-StwGA_32_107, anl:dataset_NL-StwGA_5_1, anl:dataset_NL-StwGA_5_10, anl:dataset_NL-StwGA_5_11, anl:dataset_NL-StwGA_5_12, anl:dataset_NL-StwGA_5_13, anl:dataset_NL-StwGA_5_14, anl:dataset_NL-StwGA_5_15, anl:dataset_NL-StwGA_5_16, anl:dataset_NL-StwGA_5_17, anl:dataset_NL-StwGA_5_18, anl:dataset_NL-StwGA_5_19, anl:dataset_NL-StwGA_5_2, anl:dataset_NL-StwGA_5_20, anl:dataset_NL-StwGA_5_21, anl:dataset_NL-StwGA_5_22, anl:dataset_NL-StwGA_5_23, anl:dataset_NL-StwGA_5_24, anl:dataset_NL-StwGA_5_25, anl:dataset_NL-StwGA_5_26, anl:dataset_NL-StwGA_5_27, anl:dataset_NL-StwGA_5_29, anl:dataset_NL-StwGA_5_3, anl:dataset_NL-StwGA_5_30, anl:dataset_NL-StwGA_5_31, anl:dataset_NL-StwGA_5_4, anl:dataset_NL-StwGA_5_5, anl:dataset_NL-StwGA_5_6, anl:dataset_NL-StwGA_5_7, anl:dataset_NL-StwGA_5_8, anl:dataset_NL-StwGA_5_9, anl:dataset_NL-StwGA_6_1, anl:dataset_NL-StwGA_6_10, anl:dataset_NL-StwGA_6_11, anl:dataset_NL-StwGA_6_13, anl:dataset_NL-StwGA_6_14, anl:dataset_NL-StwGA_6_18, anl:dataset_NL-StwGA_6_19, anl:dataset_NL-StwGA_6_2, anl:dataset_NL-StwGA_6_20, anl:dataset_NL-StwGA_6_21, anl:dataset_NL-StwGA_6_3, anl:dataset_NL-StwGA_6_4, anl:dataset_NL-StwGA_6_5, anl:dataset_NL-StwGA_6_6, anl:dataset_NL-StwGA_6_7, anl:dataset_NL-StwGA_6_8, anl:dataset_NL-StwGA_7_1, anl:dataset_NL-StwGA_7_10, anl:dataset_NL-StwGA_7_12, anl:dataset_NL-StwGA_7_15, anl:dataset_NL-StwGA_7_16, anl:dataset_NL-StwGA_7_17, anl:dataset_NL-StwGA_7_18, anl:dataset_NL-StwGA_7_2, anl:dataset_NL-StwGA_7_3, anl:dataset_NL-StwGA_7_4, anl:dataset_NL-StwGA_7_5, anl:dataset_NL-StwGA_7_6, anl:dataset_NL-StwGA_7_8, anl:dataset_NL-StwGA_7_9, anl:dataset_NL-StwGA_8_1, anl:dataset_NL-StwGA_8_10, anl:dataset_NL-StwGA_8_11, anl:dataset_NL-StwGA_8_12, anl:dataset_NL-StwGA_8_13, anl:dataset_NL-StwGA_8_15, anl:dataset_NL-StwGA_8_16, anl:dataset_NL-StwGA_8_17, anl:dataset_NL-StwGA_8_18, anl:dataset_NL-StwGA_8_19, anl:dataset_NL-StwGA_8_2, anl:dataset_NL-StwGA_8_20, anl:dataset_NL-StwGA_8_3, anl:dataset_NL-StwGA_8_32, anl:dataset_NL-StwGA_8_33, anl:dataset_NL-StwGA_8_34, anl:dataset_NL-StwGA_8_35, anl:dataset_NL-StwGA_8_36, anl:dataset_NL-StwGA_8_4, anl:dataset_NL-StwGA_8_5, anl:dataset_NL-StwGA_8_6, anl:dataset_NL-StwGA_8_7, anl:dataset_NL-StwGA_8_8, anl:dataset_NL-StwGA_8_9, anl:dataset_NL-StwGA_9_1, anl:dataset_NL-StwGA_9_10, anl:dataset_NL-StwGA_9_11, anl:dataset_NL-StwGA_9_13, anl:dataset_NL-StwGA_9_14, anl:dataset_NL-StwGA_9_15, anl:dataset_NL-StwGA_9_16, anl:dataset_NL-StwGA_9_17, anl:dataset_NL-StwGA_9_2, anl:dataset_NL-StwGA_9_3, anl:dataset_NL-StwGA_9_4, anl:dataset_NL-StwGA_9_5, anl:dataset_NL-StwGA_9_6, anl:dataset_NL-StwGA_9_7, anl:dataset_NL-StwGA_9_8, anl:dataset_NL-StwGA_9_9.
-
 anl:organisation_NL-StwGA a schema:Organization;
 	schema:identifer "NL-StwGA";
 	schema:name "Gemeente Steenwijkerland";
 	schema:url "https://www.steenwijkerland.nl/Over_Steenwijkerland/Gemeentearchief";
 	schema:address [ a schema:PostalAddress; schema:addressLocality "Steenwijk" ].
+anl:datacatalog_NL-StwGA a schema:DataCatalog;
+	schema:name "Dataset catalogus van de open data gepubliceerd op archieven.nl van Gemeente Steenwijkerland";
+	schema:publisher anl:organisation_NL-StwGA;
+	schema:dataset anl:dataset_NL-StwGA_1_1, anl:dataset_NL-StwGA_1_10, anl:dataset_NL-StwGA_1_100, anl:dataset_NL-StwGA_1_101, anl:dataset_NL-StwGA_1_102, anl:dataset_NL-StwGA_1_11, anl:dataset_NL-StwGA_1_12, anl:dataset_NL-StwGA_1_13, anl:dataset_NL-StwGA_1_14, anl:dataset_NL-StwGA_1_15, anl:dataset_NL-StwGA_1_16, anl:dataset_NL-StwGA_1_17, anl:dataset_NL-StwGA_1_18, anl:dataset_NL-StwGA_1_19, anl:dataset_NL-StwGA_1_2, anl:dataset_NL-StwGA_1_20, anl:dataset_NL-StwGA_1_21, anl:dataset_NL-StwGA_1_22, anl:dataset_NL-StwGA_1_23, anl:dataset_NL-StwGA_1_24, anl:dataset_NL-StwGA_1_25, anl:dataset_NL-StwGA_1_26, anl:dataset_NL-StwGA_1_27, anl:dataset_NL-StwGA_1_28, anl:dataset_NL-StwGA_1_29, anl:dataset_NL-StwGA_1_3, anl:dataset_NL-StwGA_1_30, anl:dataset_NL-StwGA_1_31, anl:dataset_NL-StwGA_1_32, anl:dataset_NL-StwGA_1_33, anl:dataset_NL-StwGA_1_34, anl:dataset_NL-StwGA_1_35, anl:dataset_NL-StwGA_1_36, anl:dataset_NL-StwGA_1_37, anl:dataset_NL-StwGA_1_38, anl:dataset_NL-StwGA_1_39, anl:dataset_NL-StwGA_1_4, anl:dataset_NL-StwGA_1_40, anl:dataset_NL-StwGA_1_41, anl:dataset_NL-StwGA_1_42, anl:dataset_NL-StwGA_1_43, anl:dataset_NL-StwGA_1_44, anl:dataset_NL-StwGA_1_45, anl:dataset_NL-StwGA_1_46, anl:dataset_NL-StwGA_1_47, anl:dataset_NL-StwGA_1_48, anl:dataset_NL-StwGA_1_5, anl:dataset_NL-StwGA_1_6, anl:dataset_NL-StwGA_1_7, anl:dataset_NL-StwGA_1_9, anl:dataset_NL-StwGA_1_94, anl:dataset_NL-StwGA_1_95, anl:dataset_NL-StwGA_1_96, anl:dataset_NL-StwGA_1_97, anl:dataset_NL-StwGA_1_98, anl:dataset_NL-StwGA_1_99, anl:dataset_NL-StwGA_10_1, anl:dataset_NL-StwGA_10_2, anl:dataset_NL-StwGA_10_3, anl:dataset_NL-StwGA_10_4, anl:dataset_NL-StwGA_10_6, anl:dataset_NL-StwGA_10_7, anl:dataset_NL-StwGA_11_1, anl:dataset_NL-StwGA_11_11, anl:dataset_NL-StwGA_11_12, anl:dataset_NL-StwGA_11_13, anl:dataset_NL-StwGA_11_14, anl:dataset_NL-StwGA_11_15, anl:dataset_NL-StwGA_11_16, anl:dataset_NL-StwGA_11_17, anl:dataset_NL-StwGA_11_18, anl:dataset_NL-StwGA_11_19, anl:dataset_NL-StwGA_11_2, anl:dataset_NL-StwGA_11_20, anl:dataset_NL-StwGA_11_21, anl:dataset_NL-StwGA_11_29, anl:dataset_NL-StwGA_11_3, anl:dataset_NL-StwGA_11_30, anl:dataset_NL-StwGA_11_31, anl:dataset_NL-StwGA_11_32, anl:dataset_NL-StwGA_11_33, anl:dataset_NL-StwGA_11_4, anl:dataset_NL-StwGA_11_6, anl:dataset_NL-StwGA_11_7, anl:dataset_NL-StwGA_11_8, anl:dataset_NL-StwGA_11_9, anl:dataset_NL-StwGA_12_1, anl:dataset_NL-StwGA_12_10, anl:dataset_NL-StwGA_12_11, anl:dataset_NL-StwGA_12_14, anl:dataset_NL-StwGA_12_15, anl:dataset_NL-StwGA_12_16, anl:dataset_NL-StwGA_12_17, anl:dataset_NL-StwGA_12_18, anl:dataset_NL-StwGA_12_19, anl:dataset_NL-StwGA_12_2, anl:dataset_NL-StwGA_12_28, anl:dataset_NL-StwGA_12_3, anl:dataset_NL-StwGA_12_4, anl:dataset_NL-StwGA_12_5, anl:dataset_NL-StwGA_12_6, anl:dataset_NL-StwGA_12_7, anl:dataset_NL-StwGA_12_8, anl:dataset_NL-StwGA_12_9, anl:dataset_NL-StwGA_131, anl:dataset_NL-StwGA_14_336, anl:dataset_NL-StwGA_14_62, anl:dataset_NL-StwGA_140, anl:dataset_NL-StwGA_141, anl:dataset_NL-StwGA_155_544, anl:dataset_NL-StwGA_2_1, anl:dataset_NL-StwGA_2_10, anl:dataset_NL-StwGA_2_11, anl:dataset_NL-StwGA_2_12, anl:dataset_NL-StwGA_2_13, anl:dataset_NL-StwGA_2_14, anl:dataset_NL-StwGA_2_15, anl:dataset_NL-StwGA_2_16, anl:dataset_NL-StwGA_2_17, anl:dataset_NL-StwGA_2_18, anl:dataset_NL-StwGA_2_19, anl:dataset_NL-StwGA_2_20, anl:dataset_NL-StwGA_2_21, anl:dataset_NL-StwGA_2_23, anl:dataset_NL-StwGA_2_24, anl:dataset_NL-StwGA_2_25, anl:dataset_NL-StwGA_2_26, anl:dataset_NL-StwGA_2_27, anl:dataset_NL-StwGA_2_28, anl:dataset_NL-StwGA_2_29, anl:dataset_NL-StwGA_2_3, anl:dataset_NL-StwGA_2_30, anl:dataset_NL-StwGA_2_31, anl:dataset_NL-StwGA_2_32, anl:dataset_NL-StwGA_2_33, anl:dataset_NL-StwGA_2_34, anl:dataset_NL-StwGA_2_36, anl:dataset_NL-StwGA_2_37, anl:dataset_NL-StwGA_2_38, anl:dataset_NL-StwGA_2_39, anl:dataset_NL-StwGA_2_4, anl:dataset_NL-StwGA_2_40, anl:dataset_NL-StwGA_2_41, anl:dataset_NL-StwGA_2_42, anl:dataset_NL-StwGA_2_43, anl:dataset_NL-StwGA_2_44, anl:dataset_NL-StwGA_2_45, anl:dataset_NL-StwGA_2_46, anl:dataset_NL-StwGA_2_47, anl:dataset_NL-StwGA_2_5, anl:dataset_NL-StwGA_2_6, anl:dataset_NL-StwGA_2_65, anl:dataset_NL-StwGA_2_66, anl:dataset_NL-StwGA_2_67, anl:dataset_NL-StwGA_2_68, anl:dataset_NL-StwGA_2_7, anl:dataset_NL-StwGA_2_8, anl:dataset_NL-StwGA_2_9, anl:dataset_NL-StwGA_32_107, anl:dataset_NL-StwGA_5_1, anl:dataset_NL-StwGA_5_10, anl:dataset_NL-StwGA_5_11, anl:dataset_NL-StwGA_5_12, anl:dataset_NL-StwGA_5_13, anl:dataset_NL-StwGA_5_14, anl:dataset_NL-StwGA_5_15, anl:dataset_NL-StwGA_5_16, anl:dataset_NL-StwGA_5_17, anl:dataset_NL-StwGA_5_18, anl:dataset_NL-StwGA_5_19, anl:dataset_NL-StwGA_5_2, anl:dataset_NL-StwGA_5_20, anl:dataset_NL-StwGA_5_21, anl:dataset_NL-StwGA_5_22, anl:dataset_NL-StwGA_5_23, anl:dataset_NL-StwGA_5_24, anl:dataset_NL-StwGA_5_25, anl:dataset_NL-StwGA_5_26, anl:dataset_NL-StwGA_5_27, anl:dataset_NL-StwGA_5_29, anl:dataset_NL-StwGA_5_3, anl:dataset_NL-StwGA_5_30, anl:dataset_NL-StwGA_5_31, anl:dataset_NL-StwGA_5_4, anl:dataset_NL-StwGA_5_5, anl:dataset_NL-StwGA_5_6, anl:dataset_NL-StwGA_5_7, anl:dataset_NL-StwGA_5_8, anl:dataset_NL-StwGA_5_9, anl:dataset_NL-StwGA_6_1, anl:dataset_NL-StwGA_6_10, anl:dataset_NL-StwGA_6_11, anl:dataset_NL-StwGA_6_13, anl:dataset_NL-StwGA_6_14, anl:dataset_NL-StwGA_6_18, anl:dataset_NL-StwGA_6_19, anl:dataset_NL-StwGA_6_2, anl:dataset_NL-StwGA_6_20, anl:dataset_NL-StwGA_6_21, anl:dataset_NL-StwGA_6_3, anl:dataset_NL-StwGA_6_4, anl:dataset_NL-StwGA_6_5, anl:dataset_NL-StwGA_6_6, anl:dataset_NL-StwGA_6_7, anl:dataset_NL-StwGA_6_8, anl:dataset_NL-StwGA_7_1, anl:dataset_NL-StwGA_7_10, anl:dataset_NL-StwGA_7_12, anl:dataset_NL-StwGA_7_15, anl:dataset_NL-StwGA_7_16, anl:dataset_NL-StwGA_7_17, anl:dataset_NL-StwGA_7_18, anl:dataset_NL-StwGA_7_2, anl:dataset_NL-StwGA_7_3, anl:dataset_NL-StwGA_7_4, anl:dataset_NL-StwGA_7_5, anl:dataset_NL-StwGA_7_6, anl:dataset_NL-StwGA_7_8, anl:dataset_NL-StwGA_7_9, anl:dataset_NL-StwGA_8_1, anl:dataset_NL-StwGA_8_10, anl:dataset_NL-StwGA_8_11, anl:dataset_NL-StwGA_8_12, anl:dataset_NL-StwGA_8_13, anl:dataset_NL-StwGA_8_15, anl:dataset_NL-StwGA_8_16, anl:dataset_NL-StwGA_8_17, anl:dataset_NL-StwGA_8_18, anl:dataset_NL-StwGA_8_19, anl:dataset_NL-StwGA_8_2, anl:dataset_NL-StwGA_8_20, anl:dataset_NL-StwGA_8_3, anl:dataset_NL-StwGA_8_32, anl:dataset_NL-StwGA_8_33, anl:dataset_NL-StwGA_8_34, anl:dataset_NL-StwGA_8_35, anl:dataset_NL-StwGA_8_36, anl:dataset_NL-StwGA_8_4, anl:dataset_NL-StwGA_8_5, anl:dataset_NL-StwGA_8_6, anl:dataset_NL-StwGA_8_7, anl:dataset_NL-StwGA_8_8, anl:dataset_NL-StwGA_8_9, anl:dataset_NL-StwGA_9_1, anl:dataset_NL-StwGA_9_10, anl:dataset_NL-StwGA_9_11, anl:dataset_NL-StwGA_9_13, anl:dataset_NL-StwGA_9_14, anl:dataset_NL-StwGA_9_15, anl:dataset_NL-StwGA_9_16, anl:dataset_NL-StwGA_9_17, anl:dataset_NL-StwGA_9_2, anl:dataset_NL-StwGA_9_3, anl:dataset_NL-StwGA_9_4, anl:dataset_NL-StwGA_9_5, anl:dataset_NL-StwGA_9_6, anl:dataset_NL-StwGA_9_7, anl:dataset_NL-StwGA_9_8, anl:dataset_NL-StwGA_9_9.
+

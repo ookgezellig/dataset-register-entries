@@ -1,0 +1,4046 @@
+@prefix schema: <https://schema.org/>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix anl: <https://www.archieven.nl/id/>.
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+
+# Test bestand gegenereerd via create_ttl_datacatalog_pages.pl op basis van door Open Archieven verzamelde informatie. 
+
+anl:dataset_NL-BleSAVPR_101-1825 a schema:Dataset;
+	schema:name "101-1825";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1896.1911";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101-1825_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 2970022;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101-1826 a schema:Dataset;
+	schema:name "101-1826";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1812.1812";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101-1826_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-11-18";
+		schema:contentSize 2283877;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101-1827 a schema:Dataset;
+	schema:name "101-1827";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1913.1938";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101-1827_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 2051608;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101-1828 a schema:Dataset;
+	schema:name "101-1828";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1913.1938";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101-1828_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-11-18";
+		schema:contentSize 2196873;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101-1829 a schema:Dataset;
+	schema:name "101-1829";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1913.1938";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101-1829_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 1848739;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101-1830 a schema:Dataset;
+	schema:name "101-1830";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1913.1938";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101-1830_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 1774990;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101-1838 a schema:Dataset;
+	schema:name "101-1838";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1861.1899";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101-1838_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-11-05";
+		schema:contentSize 799522;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101-1839 a schema:Dataset;
+	schema:name "101-1839";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1900.1919";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101-1839_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 736748;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101-1840 a schema:Dataset;
+	schema:name "101-1840";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1920.1938";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101-1840_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 407796;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101_1814 a schema:Dataset;
+	schema:name "101_1814";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1626.1830";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101_1814_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 1903571;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101_1815 a schema:Dataset;
+	schema:name "101_1815";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1830.1840";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101_1815_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 2060236;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101_1816 a schema:Dataset;
+	schema:name "101_1816";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1846.1850";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101_1816_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 2345148;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101_1817 a schema:Dataset;
+	schema:name "101_1817";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1850.1861";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101_1817_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 4062975;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101_1818 a schema:Dataset;
+	schema:name "101_1818";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1850.1861";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101_1818_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 705968;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101_1819 a schema:Dataset;
+	schema:name "101_1819";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1862.1874";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101_1819_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 2724952;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101_1820 a schema:Dataset;
+	schema:name "101_1820";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1862.1874";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101_1820_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 2478544;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101_1821 a schema:Dataset;
+	schema:name "101_1821";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1875.1889";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101_1821_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 2701481;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101_1822 a schema:Dataset;
+	schema:name "101_1822";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1875.1889";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101_1822_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 2098908;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101_1823 a schema:Dataset;
+	schema:name "101_1823";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1890.1895";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101_1823_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 2081463;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101_1824 a schema:Dataset;
+	schema:name "101_1824";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1890.1895";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101_1824_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 4447242;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101_1825 a schema:Dataset;
+	schema:name "101_1825";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1896.1911";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101_1825_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 3067588;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101_1826 a schema:Dataset;
+	schema:name "101_1826";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1812.1812";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101_1826_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 2355099;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101_1827 a schema:Dataset;
+	schema:name "101_1827";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1913.1938";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101_1827_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 2129134;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101_1828 a schema:Dataset;
+	schema:name "101_1828";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1913.1938";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101_1828_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 2273391;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101_1829 a schema:Dataset;
+	schema:name "101_1829";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1913.1938";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101_1829_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 1912632;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101_1830 a schema:Dataset;
+	schema:name "101_1830";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1913.1938";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101_1830_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 1837083;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101_1838 a schema:Dataset;
+	schema:name "101_1838";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1861.1899";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101_1838_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 815640;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101_1839 a schema:Dataset;
+	schema:name "101_1839";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1900.1919";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101_1839_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 753849;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_101_1840 a schema:Dataset;
+	schema:name "101_1840";
+	schema:description "Bevolkingsregister Spijkenisse";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1920.1938";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_101_1840_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 417876;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_102 a schema:Dataset;
+	schema:name "102";
+	schema:description "Gemeente Spijkenisse (1950-1979)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1950.1979";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/ead/NL-BleSAVPR_102_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-07-04";
+		schema:contentSize 1311436;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-BleSAVPR_102b a schema:Dataset;
+	schema:name "102b";
+	schema:description "Gemeente Spijkenisse (1980-1989)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1980.1989";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/mi/NL-BleSAVPR_102b_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-05-26";
+		schema:contentSize 2199583;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-BleSAVPR_103 a schema:Dataset;
+	schema:name "103";
+	schema:description "Gemeente Vierpolders (1817-1910)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1817.1910";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/ead/NL-BleSAVPR_103_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-16";
+		schema:contentSize 178748;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-BleSAVPR_103-357 a schema:Dataset;
+	schema:name "103-357";
+	schema:description "Huwelijken Vierpolders (1818-1829)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103-357_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-01-01";
+		schema:contentSize 442020;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103-358 a schema:Dataset;
+	schema:name "103-358";
+	schema:description "Huwelijken Vierpolders (1830-1849)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103-358_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-01-01";
+		schema:contentSize 838542;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103-359 a schema:Dataset;
+	schema:name "103-359";
+	schema:description "Huwelijken Vierpolders (1850-1869)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103-359_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-12-30";
+		schema:contentSize 973420;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103-360 a schema:Dataset;
+	schema:name "103-360";
+	schema:description "Huwelijken Vierpolders (1870-1889)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103-360_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-12-31";
+		schema:contentSize 1120789;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103-361 a schema:Dataset;
+	schema:name "103-361";
+	schema:description "Huwelijken Vierpolders (1890-1909)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103-361_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-01-01";
+		schema:contentSize 1536149;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103-361A a schema:Dataset;
+	schema:name "103-361A";
+	schema:description "Huwelijken Vierpolders (1910-1929)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103-361A_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-12-31";
+		schema:contentSize 1443667;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103-363 a schema:Dataset;
+	schema:name "103-363";
+	schema:description "Geboorten Vierpolders (1900-1904)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103-363_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-01-01";
+		schema:contentSize 714386;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103-401 a schema:Dataset;
+	schema:name "103-401";
+	schema:description "Overlijden Vierpolders (1818-1829)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103-401_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-12-31";
+		schema:contentSize 741301;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103-402 a schema:Dataset;
+	schema:name "103-402";
+	schema:description "Overlijden Vierpolders (1830-1849)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103-402_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-01-01";
+		schema:contentSize 1198330;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103-403 a schema:Dataset;
+	schema:name "103-403";
+	schema:description "Overlijden Vierpolders (1850-1869)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103-403_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-12-30";
+		schema:contentSize 1576270;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103-404 a schema:Dataset;
+	schema:name "103-404";
+	schema:description "Overlijden Vierpolders (1870-1889)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103-404_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-12-30";
+		schema:contentSize 1875154;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103-405 a schema:Dataset;
+	schema:name "103-405";
+	schema:description "Overlijden Vierpolders (1890-1909)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103-405_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-12-30";
+		schema:contentSize 1287674;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103-406 a schema:Dataset;
+	schema:name "103-406";
+	schema:description "Nadere toegang op inventarisnummer 406 van toegang 103";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103-406_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-12-30";
+		schema:contentSize 1229513;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103-407 a schema:Dataset;
+	schema:name "103-407";
+	schema:description "Nadere toegang op inventarisnummer 407 van toegang 103";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103-407_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-12-31";
+		schema:contentSize 1103979;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103-421 a schema:Dataset;
+	schema:name "103-421";
+	schema:description "Bevolkingsregister Vierpolders";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1850.1860";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/mi/NL-BleSAVPR_103-421_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-09-06";
+		schema:contentSize 1129110;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-BleSAVPR_103-422 a schema:Dataset;
+	schema:name "103-422";
+	schema:description "Bevolkingsregister Vierpolders";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1860.1880";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/mi/NL-BleSAVPR_103-422_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-09-06";
+		schema:contentSize 1343395;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-BleSAVPR_103-424 a schema:Dataset;
+	schema:name "103-424";
+	schema:description "Bevolkingsregister Vierpolders";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1880.1895";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/mi/NL-BleSAVPR_103-424_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-09-06";
+		schema:contentSize 1419147;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-BleSAVPR_103-425 a schema:Dataset;
+	schema:name "103-425";
+	schema:description "Bevolkingsregister Vierpolders";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1896.1910";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/mi/NL-BleSAVPR_103-425_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-09-06";
+		schema:contentSize 1549592;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-BleSAVPR_103-426 a schema:Dataset;
+	schema:name "103-426";
+	schema:description "Bevolkingsregister Vierpolders";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1910.1937";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/mi/NL-BleSAVPR_103-426_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-09-06";
+		schema:contentSize 2460845;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-BleSAVPR_103-430 a schema:Dataset;
+	schema:name "103-430";
+	schema:description "Bevolkingsregister Vierpolders";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1850.1900";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/mi/NL-BleSAVPR_103-430_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-09-06";
+		schema:contentSize 241623;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-BleSAVPR_103-431 a schema:Dataset;
+	schema:name "103-431";
+	schema:description "Bevolkingsregister Vierpolders";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1900.1925";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/mi/NL-BleSAVPR_103-431_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-09-06";
+		schema:contentSize 247185;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-BleSAVPR_103-638 a schema:Dataset;
+	schema:name "103-638";
+	schema:description "Nadere toegang op inventarisnummer 638 van toegang 103";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/mi/NL-BleSAVPR_103-638_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-14";
+		schema:contentSize 40617;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A a schema:Dataset;
+	schema:name "103A";
+	schema:description "Gemeente Vierpolders (1910-1950)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1811.1950";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/mi/NL-BleSAVPR_103A_1_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PUI3OEc3MTUzNkQzMzYyOTBEQ0V9NkFCNTMxRjY1R9I2JmFkdF4pZE0xMjYmbnVtbWVyPT9wM09>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-08-27";
+		schema:contentSize 662651;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-351 a schema:Dataset;
+	schema:name "103A-351";
+	schema:description "Geboorten Vierpolders (1818-1829)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-351_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-15";
+		schema:contentSize 960930;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-352 a schema:Dataset;
+	schema:name "103A-352";
+	schema:description "Geboorten Vierpolders (1830-1849)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-352_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-15";
+		schema:contentSize 1862760;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-353 a schema:Dataset;
+	schema:name "103A-353";
+	schema:description "Geboorten Vierpolders (1850-1869)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-353_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-15";
+		schema:contentSize 2349255;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-354 a schema:Dataset;
+	schema:name "103A-354";
+	schema:description "Geboorten Vierpolders (1870-1889)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-354_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-15";
+		schema:contentSize 3367557;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-354A a schema:Dataset;
+	schema:name "103A-354A";
+	schema:description "Geboorten Vierpolders (1890-1909)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-354A_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-03-03";
+		schema:contentSize 2621581;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-357 a schema:Dataset;
+	schema:name "103A-357";
+	schema:description "Huwelijken Vierpolders (1818-1829)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-357_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-15";
+		schema:contentSize 385311;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-358 a schema:Dataset;
+	schema:name "103A-358";
+	schema:description "Huwelijken Vierpolders (1830-1849)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-358_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-15";
+		schema:contentSize 752284;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-359 a schema:Dataset;
+	schema:name "103A-359";
+	schema:description "Huwelijken Vierpolders (1850-1869)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-359_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-15";
+		schema:contentSize 778650;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-360 a schema:Dataset;
+	schema:name "103A-360";
+	schema:description "Huwelijken Vierpolders (1870-1889)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-360_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-15";
+		schema:contentSize 1016127;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-361 a schema:Dataset;
+	schema:name "103A-361";
+	schema:description "Huwelijken Vierpolders (1890-1909)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-361_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-15";
+		schema:contentSize 1427948;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-361A a schema:Dataset;
+	schema:name "103A-361A";
+	schema:description "Huwelijken Vierpolders (1910-1929)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-361A_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-15";
+		schema:contentSize 1240104;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-362 a schema:Dataset;
+	schema:name "103A-362";
+	schema:description "Geboorten Vierpolders (1890-1899)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-362_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-04-19";
+		schema:contentSize 1240291;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-363 a schema:Dataset;
+	schema:name "103A-363";
+	schema:description "Geboorten Vierpolders (1900-1909)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-363_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-04-19";
+		schema:contentSize 712100;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-401 a schema:Dataset;
+	schema:name "103A-401";
+	schema:description "Overlijden Vierpolders (1818-1829)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-401_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-03-03";
+		schema:contentSize 706995;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-402 a schema:Dataset;
+	schema:name "103A-402";
+	schema:description "Overlijden Vierpolders (1830-1849)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-402_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-15";
+		schema:contentSize 1115570;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-403 a schema:Dataset;
+	schema:name "103A-403";
+	schema:description "Overlijden Vierpolders (1850-1869)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-403_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-15";
+		schema:contentSize 1580901;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-404 a schema:Dataset;
+	schema:name "103A-404";
+	schema:description "Overlijden Vierpolders (1870-1889)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-404_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-11-18";
+		schema:contentSize 2047023;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-405 a schema:Dataset;
+	schema:name "103A-405";
+	schema:description "Overlijden Vierpolders (1890-1909)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-405_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-09";
+		schema:contentSize 1336555;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-406 a schema:Dataset;
+	schema:name "103A-406";
+	schema:description "Overlijden Vierpolders (1910-1929)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-406_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-15";
+		schema:contentSize 1112131;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-407 a schema:Dataset;
+	schema:name "103A-407";
+	schema:description "Overlijden Vierpolders (1930-1950)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-407_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-07-23";
+		schema:contentSize 1144885;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-421 a schema:Dataset;
+	schema:name "103A-421";
+	schema:description "Bevolkingsregister Vierpolders";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1850.1860";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-421_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUQ1OTQDNTVBQkJGRUI1O9Y0O9QDREJBRTRFNzUzQjd9JmFkdF4pZE0xMjYmbnVtbWVyPT9wM09tNEIx>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-08-27";
+		schema:contentSize 1542713;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-422 a schema:Dataset;
+	schema:name "103A-422";
+	schema:description "Bevolkingsregister Vierpolders";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1860.1880";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-422_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTNFNzIxNUNEM9MyRE9wRjMxMTAwREJGNjhGNUVGRjkxJmFkdF4pZE0xMjYmbnVtbWVyPT9wM09tNEIy>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-08-27";
+		schema:contentSize 1952842;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-424 a schema:Dataset;
+	schema:name "103A-424";
+	schema:description "Bevolkingsregister Vierpolders";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1880.1895";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-424_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTM5NjFBN9M5NzMxQTMxMzFFNTYyRjZEMjA2N9IDNkFGJmFkdF4pZE0xMjYmbnVtbWVyPT9wM09tNEI0>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-08-27";
+		schema:contentSize 2132602;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-425 a schema:Dataset;
+	schema:name "103A-425";
+	schema:description "Bevolkingsregister Vierpolders";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1896.1910";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-425_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTA1NEl9NEYDRj9DREgxNTQzQTd9OTgyNUREOEk5NjlBJmFkdF4pZE0xMjYmbnVtbWVyPT9wM09tNEI1>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-08-27";
+		schema:contentSize 2258288;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-426 a schema:Dataset;
+	schema:name "103A-426";
+	schema:description "Bevolkingsregister Vierpolders";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1910.1937";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-426_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUI5Qjg2MTlFQz9wRTg3MTMyMEI0N0NBM9VFN0V9REkzJmFkdF4pZE0xMjYmbnVtbWVyPT9wM09tNEI2>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-08-27";
+		schema:contentSize 3415758;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-430 a schema:Dataset;
+	schema:name "103A-430";
+	schema:description "Bevolkingsregister Vierpolders";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1850.1900";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-430_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUI5NUIyOUMwN9NFMjQ3OUR9Mj95MjUDNUQxREU3O9Q0JmFkdF4pZE0xMjYmbnVtbWVyPT9wM09tNEMw>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-08-27";
+		schema:contentSize 330259;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103A-431 a schema:Dataset;
+	schema:name "103A-431";
+	schema:description "Bevolkingsregister Vierpolders";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1900.1925";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103A-431_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTM5N0RBNUU0QTMwNzdCOUJERU92QjAyQjFEQjM0OTgzJmFkdF4pZE0xMjYmbnVtbWVyPT9wM09tNEMx>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-08-27";
+		schema:contentSize 346591;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103_421 a schema:Dataset;
+	schema:name "103_421";
+	schema:description "Bevolkingsregister Vierpolders";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1850.1860";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103_421_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 1516467;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103_422 a schema:Dataset;
+	schema:name "103_422";
+	schema:description "Bevolkingsregister Vierpolders";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1860.1880";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103_422_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 1896003;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103_424 a schema:Dataset;
+	schema:name "103_424";
+	schema:description "Bevolkingsregister Vierpolders";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1880.1895";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103_424_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 2054676;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103_425 a schema:Dataset;
+	schema:name "103_425";
+	schema:description "Bevolkingsregister Vierpolders";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1896.1910";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103_425_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 2191972;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103_426 a schema:Dataset;
+	schema:name "103_426";
+	schema:description "Bevolkingsregister Vierpolders";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1910.1937";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103_426_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 3351356;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103_430 a schema:Dataset;
+	schema:name "103_430";
+	schema:description "Bevolkingsregister Vierpolders";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1850.1900";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103_430_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 325290;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103_431 a schema:Dataset;
+	schema:name "103_431";
+	schema:description "Bevolkingsregister Vierpolders";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1900.1925";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_103_431_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 339150;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_103a a schema:Dataset;
+	schema:name "103a";
+	schema:description "Gemeente Vierpolders (1910-1950)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1811.1950";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/mi/NL-BleSAVPR_103a_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-18";
+		schema:contentSize 662651;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-BleSAVPR_103b a schema:Dataset;
+	schema:name "103b";
+	schema:description "Gemeente Vierpolders (1950-1979)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1950.1979";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/ead/NL-BleSAVPR_103b_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-07-04";
+		schema:contentSize 425828;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-BleSAVPR_104 a schema:Dataset;
+	schema:name "104";
+	schema:description "Gemeente Westvoorne";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1980.1989";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/mi/NL-BleSAVPR_104_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-05-26";
+		schema:contentSize 955741;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-BleSAVPR_105 a schema:Dataset;
+	schema:name "105";
+	schema:description "Gemeente Zuidland (1814-1926)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1814.1926";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/mi/NL-BleSAVPR_105_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-07-23";
+		schema:contentSize 427361;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-266 a schema:Dataset;
+	schema:name "105-266";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1826.1826";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-266_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 1689471;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-268 a schema:Dataset;
+	schema:name "105-268";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1838.1846";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-268_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 2375366;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-269 a schema:Dataset;
+	schema:name "105-269";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1846.1849";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-269_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 2871739;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-271 a schema:Dataset;
+	schema:name "105-271";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1850.1861";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-271_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 6278744;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-272 a schema:Dataset;
+	schema:name "105-272";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1861.1880";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-272_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 1306184;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-274 a schema:Dataset;
+	schema:name "105-274";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1861.1880";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-274_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-07-23";
+		schema:contentSize 3513766;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-275 a schema:Dataset;
+	schema:name "105-275";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1861.1880";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-275_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 3310199;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-276 a schema:Dataset;
+	schema:name "105-276";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1880.1902";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-276_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 1055097;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-277 a schema:Dataset;
+	schema:name "105-277";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1880.1902";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-277_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-05";
+		schema:contentSize 4674168;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-278 a schema:Dataset;
+	schema:name "105-278";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1880.1902";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-278_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 3695332;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-279 a schema:Dataset;
+	schema:name "105-279";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1902.1930";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-279_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-01-01";
+		schema:contentSize 943419;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-281 a schema:Dataset;
+	schema:name "105-281";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1902.1930";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-281_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 2135465;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-282 a schema:Dataset;
+	schema:name "105-282";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1902.1930";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-282_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 1996538;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-283 a schema:Dataset;
+	schema:name "105-283";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1902.1930";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-283_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 2176037;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-285 a schema:Dataset;
+	schema:name "105-285";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1902.1930";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-285_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-02";
+		schema:contentSize 1566345;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-406 a schema:Dataset;
+	schema:name "105-406";
+	schema:description "Nadere toegang op inventarisnummer 406 van toegang 105";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/mi/NL-BleSAVPR_105-406_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-07-11";
+		schema:contentSize 341771;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-407 a schema:Dataset;
+	schema:name "105-407";
+	schema:description "Nadere toegang op inventarisnummer 407 van toegang 105";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/mi/NL-BleSAVPR_105-407_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-07-11";
+		schema:contentSize 220093;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-500 a schema:Dataset;
+	schema:name "105-500";
+	schema:description "Geboorten Zuidland (1812-1822)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-500_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-12-30";
+		schema:contentSize 2815006;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-501 a schema:Dataset;
+	schema:name "105-501";
+	schema:description "Geboorten Zuidland (1823-1832)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-501_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-04";
+		schema:contentSize 2972713;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-502 a schema:Dataset;
+	schema:name "105-502";
+	schema:description "Geboorten Zuidland (1833-1842)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-502_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-05";
+		schema:contentSize 3360918;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-503 a schema:Dataset;
+	schema:name "105-503";
+	schema:description "Geboorten Zuidland (1843-1852)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-503_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-05";
+		schema:contentSize 3984117;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-504 a schema:Dataset;
+	schema:name "105-504";
+	schema:description "Geboorten Zuidland (1853-1862)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-504_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-04";
+		schema:contentSize 4020951;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-505 a schema:Dataset;
+	schema:name "105-505";
+	schema:description "Geboorten Zuidland (1863-1872)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-505_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-05";
+		schema:contentSize 4693429;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-506 a schema:Dataset;
+	schema:name "105-506";
+	schema:description "Geboorten Zuidland (1873-1882)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-506_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-06-03";
+		schema:contentSize 4996652;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-507 a schema:Dataset;
+	schema:name "105-507";
+	schema:description "Geboorten Zuidland (1883-1892)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-507_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-04";
+		schema:contentSize 4068048;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-508 a schema:Dataset;
+	schema:name "105-508";
+	schema:description "Geboorten Zuidland (1893-1902)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-508_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-04";
+		schema:contentSize 3920682;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-510 a schema:Dataset;
+	schema:name "105-510";
+	schema:description "Huwelijken Zuidland (1812-1822)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-510_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-11-14";
+		schema:contentSize 1005493;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-511 a schema:Dataset;
+	schema:name "105-511";
+	schema:description "Huwelijken Zuidland (1823-1832)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-511_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-11-14";
+		schema:contentSize 1065075;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-512 a schema:Dataset;
+	schema:name "105-512";
+	schema:description "Huwelijken Zuidland (1833-1842)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-512_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-11-14";
+		schema:contentSize 1147264;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-513 a schema:Dataset;
+	schema:name "105-513";
+	schema:description "Huwelijken Zuidland (1843-1852)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-513_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-01-01";
+		schema:contentSize 1233857;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-514 a schema:Dataset;
+	schema:name "105-514";
+	schema:description "Huwelijken Zuidland (1853-1862)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-514_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-11-14";
+		schema:contentSize 1310308;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-515 a schema:Dataset;
+	schema:name "105-515";
+	schema:description "Huwelijken Zuidland (1863-1872)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-515_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-11-14";
+		schema:contentSize 1526144;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-516 a schema:Dataset;
+	schema:name "105-516";
+	schema:description "Huwelijken Zuidland (1873-1882)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-516_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-05-26";
+		schema:contentSize 1430589;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-517 a schema:Dataset;
+	schema:name "105-517";
+	schema:description "Huwelijken Zuidland (1883-1892)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-517_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-11-14";
+		schema:contentSize 1243643;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-518 a schema:Dataset;
+	schema:name "105-518";
+	schema:description "Huwelijken Zuidland (1893-1902)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-518_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-11-14";
+		schema:contentSize 1644018;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-519 a schema:Dataset;
+	schema:name "105-519";
+	schema:description "Huwelijken Zuidland (1903-1912)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-519_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-07-23";
+		schema:contentSize 1377057;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-520 a schema:Dataset;
+	schema:name "105-520";
+	schema:description "Huwelijken Zuidland (1913-1922)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-520_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-11-14";
+		schema:contentSize 1751023;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-520A a schema:Dataset;
+	schema:name "105-520A";
+	schema:description "Huwelijken Zuidland (1923-1932)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-520A_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-03-27";
+		schema:contentSize 1800787;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-520B a schema:Dataset;
+	schema:name "105-520B";
+	schema:description "Huwelijken Zuidland (1933-1940)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-520B_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-03-27";
+		schema:contentSize 1144763;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-521 a schema:Dataset;
+	schema:name "105-521";
+	schema:description "Overlijden Zuidland (1812-1822)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-521_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-12-30";
+		schema:contentSize 2291395;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-522 a schema:Dataset;
+	schema:name "105-522";
+	schema:description "Overlijden Zuidland (1823-1832)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-522_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-11-14";
+		schema:contentSize 2339021;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-523 a schema:Dataset;
+	schema:name "105-523";
+	schema:description "Overlijden Zuidland (1833-1842)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-523_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-07";
+		schema:contentSize 2552665;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-524 a schema:Dataset;
+	schema:name "105-524";
+	schema:description "Overlijden Zuidland (1843-1852)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-524_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-07-23";
+		schema:contentSize 3576895;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-525 a schema:Dataset;
+	schema:name "105-525";
+	schema:description "Overlijden Zuidland (1825-1862)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1853.1862";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-525_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-03-27";
+		schema:contentSize 3930549;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-526 a schema:Dataset;
+	schema:name "105-526";
+	schema:description "Overlijden Zuidland (1863-1872)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-526_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-04-21";
+		schema:contentSize 4039536;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-527 a schema:Dataset;
+	schema:name "105-527";
+	schema:description "Overlijden Zuidland (1873-1882)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-527_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-06-17";
+		schema:contentSize 3529194;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-528 a schema:Dataset;
+	schema:name "105-528";
+	schema:description "Overlijden Zuidland (1883-1892)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-528_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-08-21";
+		schema:contentSize 3106195;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-529 a schema:Dataset;
+	schema:name "105-529";
+	schema:description "Overlijden Zuidland (1893-1902)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-529_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-11-14";
+		schema:contentSize 2543014;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-530 a schema:Dataset;
+	schema:name "105-530";
+	schema:description "Overlijden Zuidland (1903-1912)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-530_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-05";
+		schema:contentSize 1987906;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-531 a schema:Dataset;
+	schema:name "105-531";
+	schema:description "Overlijden Zuidland (1913-1922)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-531_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-11-14";
+		schema:contentSize 1629203;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-532 a schema:Dataset;
+	schema:name "105-532";
+	schema:description "Overlijden Zuidland (1923-1932)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-532_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-11-14";
+		schema:contentSize 1682909;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-533 a schema:Dataset;
+	schema:name "105-533";
+	schema:description "Overlijden Zuidland (1933-1940)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-533_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-03-27";
+		schema:contentSize 1017884;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-534 a schema:Dataset;
+	schema:name "105-534";
+	schema:description "Overlijden Zuidland (1941-1950)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-534_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-03-27";
+		schema:contentSize 1385594;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105-535 a schema:Dataset;
+	schema:name "105-535";
+	schema:description "Overlijden Zuidland (1951-1960)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105-535_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-03-27";
+		schema:contentSize 1186444;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105_266 a schema:Dataset;
+	schema:name "105_266";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1826.1826";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105_266_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 1743480;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105_268 a schema:Dataset;
+	schema:name "105_268";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1838.1846";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105_268_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 2435660;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105_269 a schema:Dataset;
+	schema:name "105_269";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1846.1849";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105_269_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 2951135;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105_271 a schema:Dataset;
+	schema:name "105_271";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1850.1861";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105_271_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 6459041;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105_272 a schema:Dataset;
+	schema:name "105_272";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1861.1880";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105_272_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 1337543;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105_274 a schema:Dataset;
+	schema:name "105_274";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1861.1880";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105_274_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 3613346;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105_275 a schema:Dataset;
+	schema:name "105_275";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1861.1880";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105_275_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 3408796;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105_276 a schema:Dataset;
+	schema:name "105_276";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1880.1902";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105_276_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 1080397;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105_277 a schema:Dataset;
+	schema:name "105_277";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1880.1902";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105_277_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 4802815;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105_278 a schema:Dataset;
+	schema:name "105_278";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1880.1902";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105_278_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 3804204;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105_279 a schema:Dataset;
+	schema:name "105_279";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1902.1930";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105_279_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 966932;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105_281 a schema:Dataset;
+	schema:name "105_281";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1902.1930";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105_281_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 2197842;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105_282 a schema:Dataset;
+	schema:name "105_282";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1902.1930";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105_282_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 2056134;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105_283 a schema:Dataset;
+	schema:name "105_283";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1902.1930";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105_283_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 2239294;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105_285 a schema:Dataset;
+	schema:name "105_285";
+	schema:description "Bevolkingsregister Zuidland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1902.1930";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_105_285_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 1616799;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_105a a schema:Dataset;
+	schema:name "105a";
+	schema:description "Gemeente Zuidland (1927-1979)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1927.1979";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/ead/NL-BleSAVPR_105a_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-07-04";
+		schema:contentSize 529929;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-BleSAVPR_106 a schema:Dataset;
+	schema:name "106";
+	schema:description "Gemeente Zwartewaal (1811-1950)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1811.1950";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/mi/NL-BleSAVPR_106_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-07-23";
+		schema:contentSize 1012547;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-1254 a schema:Dataset;
+	schema:name "106-1254";
+	schema:description "Bevolkingsregister Zwartewaal";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1857.1859";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-1254_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 2201075;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-1255 a schema:Dataset;
+	schema:name "106-1255";
+	schema:description "Bevolkingsregister Zwartewaal";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1859.1880";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-1255_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 3864549;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-1256 a schema:Dataset;
+	schema:name "106-1256";
+	schema:description "Bevolkingsregister Zwartewaal";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1880.1908";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-1256_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 2003879;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-1257 a schema:Dataset;
+	schema:name "106-1257";
+	schema:description "Bevolkingsregister Zwartewaal";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1880.1908";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-1257_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 1716210;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-1258 a schema:Dataset;
+	schema:name "106-1258";
+	schema:description "Bevolkingsregister Zwartewaal";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1880.1908";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-1258_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 1366046;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-1259 a schema:Dataset;
+	schema:name "106-1259";
+	schema:description "Bevolkingsregister Zwartewaal";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1907.1922";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-1259_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-01-01";
+		schema:contentSize 2240460;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-1260 a schema:Dataset;
+	schema:name "106-1260";
+	schema:description "Bevolkingsregister Zwartewaal";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1922.1937";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-1260_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 2300906;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-1266 a schema:Dataset;
+	schema:name "106-1266";
+	schema:description "Bevolkingsregister Zwartewaal";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1922.1937";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-1266_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-01";
+		schema:contentSize 71990;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-282 a schema:Dataset;
+	schema:name "106-282";
+	schema:description "Geboorten Zwartewaal (1812-1822)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-282_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-05";
+		schema:contentSize 2659499;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-283 a schema:Dataset;
+	schema:name "106-283";
+	schema:description "Geboorten Zwartewaal (1823-1832)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-283_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-05";
+		schema:contentSize 1859129;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-284 a schema:Dataset;
+	schema:name "106-284";
+	schema:description "Geboorten Zwartewaal (1833-1842)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-284_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-05";
+		schema:contentSize 2346964;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-285 a schema:Dataset;
+	schema:name "106-285";
+	schema:description "Geboorten Zwartewaal (1843-1852)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-285_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-05";
+		schema:contentSize 2309604;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-286 a schema:Dataset;
+	schema:name "106-286";
+	schema:description "Geboorten Zwartewaal (1853-1862)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-286_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-04";
+		schema:contentSize 2056042;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-287 a schema:Dataset;
+	schema:name "106-287";
+	schema:description "Geboorten Zwartewaal (1863-1872)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-287_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-07-23";
+		schema:contentSize 2196500;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-288 a schema:Dataset;
+	schema:name "106-288";
+	schema:description "Geboorten Zwartewaal (1873-1882)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-288_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-04";
+		schema:contentSize 2616677;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-289 a schema:Dataset;
+	schema:name "106-289";
+	schema:description "Geboorten Zwartewaal (1883-1892)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-289_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-05";
+		schema:contentSize 2265927;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-289a a schema:Dataset;
+	schema:name "106-289a";
+	schema:description "Geboorten Zwartewaal (1893-1904)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-289a_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-05";
+		schema:contentSize 2642198;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-290 a schema:Dataset;
+	schema:name "106-290";
+	schema:description "Huwelijken Zwartewaal (1812-1822)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-290_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-06-29";
+		schema:contentSize 1012018;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-291 a schema:Dataset;
+	schema:name "106-291";
+	schema:description "Huwelijken Zwartewaal (1823-1832)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-291_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-03-27";
+		schema:contentSize 701728;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-292 a schema:Dataset;
+	schema:name "106-292";
+	schema:description "Huwelijken Zwartewaal (1833-1842)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-292_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-05-26";
+		schema:contentSize 911369;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-293 a schema:Dataset;
+	schema:name "106-293";
+	schema:description "Huwelijken Zwartewaal (1843-1852)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-293_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-06-29";
+		schema:contentSize 809125;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-294 a schema:Dataset;
+	schema:name "106-294";
+	schema:description "Huwelijken Zwartewaal (1853-1862)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-294_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-06-29";
+		schema:contentSize 770245;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-295 a schema:Dataset;
+	schema:name "106-295";
+	schema:description "Huwelijken Zwartewaal (1863-1872)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-295_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-06-29";
+		schema:contentSize 831654;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-296 a schema:Dataset;
+	schema:name "106-296";
+	schema:description "Huwelijken Zwartewaal (1873-1882)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-296_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-06-29";
+		schema:contentSize 894022;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-297 a schema:Dataset;
+	schema:name "106-297";
+	schema:description "Huwelijken Zwartewaal (1883-1892)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-297_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-06-29";
+		schema:contentSize 564439;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-298 a schema:Dataset;
+	schema:name "106-298";
+	schema:description "Huwelijken Zwartewaal (1893-1911)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-298_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-01-23";
+		schema:contentSize 1241329;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-298A a schema:Dataset;
+	schema:name "106-298A";
+	schema:description "Huwelijken Zwartewaal (1912-1931)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-298A_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-06-29";
+		schema:contentSize 1193222;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-298B a schema:Dataset;
+	schema:name "106-298B";
+	schema:description "Huwelijken Zwartewaal (1933-1955)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-298B_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-08-24";
+		schema:contentSize 721433;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-299 a schema:Dataset;
+	schema:name "106-299";
+	schema:description "Overlijden Zwartewaal (1812-1822)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-299_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-07-23";
+		schema:contentSize 1695973;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-300 a schema:Dataset;
+	schema:name "106-300";
+	schema:description "Overlijden Zwartewaal (1823-1832)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-300_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-06-29";
+		schema:contentSize 1508325;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-301 a schema:Dataset;
+	schema:name "106-301";
+	schema:description "Overlijden Zwartewaal (1833-1842)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-301_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-06-29";
+		schema:contentSize 1300084;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-302 a schema:Dataset;
+	schema:name "106-302";
+	schema:description "Overlijden Zwartewaal (1843-1852)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-302_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-09";
+		schema:contentSize 2043529;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-303 a schema:Dataset;
+	schema:name "106-303";
+	schema:description "Overlijden Zwartewaal (1853-1862)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-303_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-03-27";
+		schema:contentSize 1578190;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-304 a schema:Dataset;
+	schema:name "106-304";
+	schema:description "Overlijden Zwartewaal (1863-1872)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-304_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-06-29";
+		schema:contentSize 1860350;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-305 a schema:Dataset;
+	schema:name "106-305";
+	schema:description "Overlijden Zwartewaal (1873-1882)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-305_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-06-29";
+		schema:contentSize 1510289;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-306 a schema:Dataset;
+	schema:name "106-306";
+	schema:description "Overlijden Zwartewaal (1883-1892)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-306_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-06-29";
+		schema:contentSize 1434427;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-307 a schema:Dataset;
+	schema:name "106-307";
+	schema:description "Overlijden Zwartewaal (1893-1911)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-307_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-06-29";
+		schema:contentSize 1342988;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-308 a schema:Dataset;
+	schema:name "106-308";
+	schema:description "Overlijden Zwartewaal (1912-1931)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-308_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-06-17";
+		schema:contentSize 1089930;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106-308A a schema:Dataset;
+	schema:name "106-308A";
+	schema:description "Overlijden Zwartewaal (1932-1955)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106-308A_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-07-23";
+		schema:contentSize 1061056;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106_1254 a schema:Dataset;
+	schema:name "106_1254";
+	schema:description "Bevolkingsregister Zwartewaal";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1857.1859";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106_1254_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 2277935;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106_1255 a schema:Dataset;
+	schema:name "106_1255";
+	schema:description "Bevolkingsregister Zwartewaal";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1859.1880";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106_1255_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 3983123;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106_1256 a schema:Dataset;
+	schema:name "106_1256";
+	schema:description "Bevolkingsregister Zwartewaal";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1880.1908";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106_1256_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 2064243;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106_1257 a schema:Dataset;
+	schema:name "106_1257";
+	schema:description "Bevolkingsregister Zwartewaal";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1880.1908";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106_1257_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 1767706;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106_1258 a schema:Dataset;
+	schema:name "106_1258";
+	schema:description "Bevolkingsregister Zwartewaal";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1880.1908";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106_1258_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 1409325;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106_1259 a schema:Dataset;
+	schema:name "106_1259";
+	schema:description "Bevolkingsregister Zwartewaal";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1907.1922";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106_1259_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 2299407;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106_1260 a schema:Dataset;
+	schema:name "106_1260";
+	schema:description "Bevolkingsregister Zwartewaal";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1922.1937";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106_1260_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 2375235;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106_1266 a schema:Dataset;
+	schema:name "106_1266";
+	schema:description "Bevolkingsregister Zwartewaal";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1922.1937";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_106_1266_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-03";
+		schema:contentSize 75313;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_106a a schema:Dataset;
+	schema:name "106a";
+	schema:description "Gemeente Zwartewaal (1950-1979)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1950.1979";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/ead/NL-BleSAVPR_106a_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-07-04";
+		schema:contentSize 354088;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-BleSAVPR_106b a schema:Dataset;
+	schema:name "106b";
+	schema:description "Gemeente Zwartewaal (1925-1937)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1925.1937";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/mi/NL-BleSAVPR_106b_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-07-04";
+		schema:contentSize 197386;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-BleSAVPR_110-8131 a schema:Dataset;
+	schema:name "110-8131";
+	schema:description "Nadere toegang op inventarisnummer 8131 van toegang 110";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_110-8131_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-10-02";
+		schema:contentSize 264989;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_110-8132 a schema:Dataset;
+	schema:name "110-8132";
+	schema:description "Nadere toegang op inventarisnummer 8132 van toegang 110";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_110-8132_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-10-02";
+		schema:contentSize 645334;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_110-8133 a schema:Dataset;
+	schema:name "110-8133";
+	schema:description "Nadere toegang op inventarisnummer 8133 van toegang 110";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_110-8133_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-10-02";
+		schema:contentSize 582245;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_110-8134 a schema:Dataset;
+	schema:name "110-8134";
+	schema:description "Nadere toegang op inventarisnummer 8134 van toegang 110";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_110-8134_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-10-02";
+		schema:contentSize 524388;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_110-8135 a schema:Dataset;
+	schema:name "110-8135";
+	schema:description "Nadere toegang op inventarisnummer 8135 van toegang 110";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_110-8135_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-10-02";
+		schema:contentSize 591202;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_110-8136 a schema:Dataset;
+	schema:name "110-8136";
+	schema:description "Nadere toegang op inventarisnummer 8136 van toegang 110";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_110-8136_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-06";
+		schema:contentSize 509756;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_112 a schema:Dataset;
+	schema:name "112";
+	schema:description "Gemeenschappelijke regeling woonwagencentrum Voorne-Putten en West-IJsselmonde";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1977.1989";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/ead/NL-BleSAVPR_112_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-07-04";
+		schema:contentSize 1381;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-BleSAVPR_113 a schema:Dataset;
+	schema:name "113";
+	schema:description "Vleeskeuringsdienst van de kring Brielle";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1911.1977";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/ead/NL-BleSAVPR_113_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-07-04";
+		schema:contentSize 17893;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-BleSAVPR_115 a schema:Dataset;
+	schema:name "115";
+	schema:description "Rijkswaterstaat: Directie Zuid-Holland, sluismeester Nieuwesluis";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1875.1966";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/mi/NL-BleSAVPR_115_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-07-04";
+		schema:contentSize 215843;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-BleSAVPR_118 a schema:Dataset;
+	schema:name "118";
+	schema:description "Administratie der Directe Belastingen / Inspectie der grondbelasting";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1908.1979";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/mi/NL-BleSAVPR_118_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-05-26";
+		schema:contentSize 235392;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-BleSAVPR_134-13A a schema:Dataset;
+	schema:name "134-13A";
+	schema:description "Dopen Abbenbroek (1708-1770)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1708.1770";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_134-13A_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-09";
+		schema:contentSize 4450466;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_134-13B a schema:Dataset;
+	schema:name "134-13B";
+	schema:description "Dopen Abbenbroek (1770-1811)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1770.1811";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_134-13B_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-09";
+		schema:contentSize 3991652;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_137-72A a schema:Dataset;
+	schema:name "137-72A";
+	schema:description "Dopen Heenvliet";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1646.1795";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_137-72A_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-02";
+		schema:contentSize 14283692;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_137-72B a schema:Dataset;
+	schema:name "137-72B";
+	schema:description "Dopen Heenvliet";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1796.1811";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_137-72B_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-02";
+		schema:contentSize 1975482;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_160-2 a schema:Dataset;
+	schema:name "160-2";
+	schema:description "Doopboek Remonstrantse Gemeente te Brielle 1652-1787";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/a2a/NL-BleSAVPR_160-2_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-05-03";
+		schema:contentSize 4744634;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-BleSAVPR_616 a schema:Dataset;
+	schema:name "616";
+	schema:description "Krantencollectie";
+	schema:inLanguage "nl-NL";
+	schema:keywords "sys_ovr";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:temporalCoverage: "1787.2019";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/mi/NL-BleSAVPR_616_14_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-03-30";
+		schema:contentSize 2811477;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-BleSAVPR_873 a schema:Dataset;
+	schema:name "873";
+	schema:description "Fotocollectie Bravenboer";
+	schema:inLanguage "nl-NL";
+	schema:keywords "sys_ovr";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-BleSAVPR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-BleSAVPR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-svpr/mi/NL-BleSAVPR_873_14_MI.xml?h=Zm4ybWF0PWZpbGUma2V5PTgyMThGM0IyMzVGMzRGRjc0NTUDMjB9M0U2N0IzOEZBJmFkdF4pZE0xMjYmbnVtbWVyPTg3Mw>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-04-04";
+		schema:contentSize 2867573;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:organisation_NL-BleSAVPR a schema:Organization;
+	schema:identifer "NL-BleSAVPR";
+	schema:name "Streefarchief Voorne-Putten";
+	schema:url "https://www.streekarchiefvp.nl/";
+	schema:address [ a schema:PostalAddress; schema:addressLocality "Brielle" ].
+anl:datacatalog_NL-BleSAVPR a schema:DataCatalog;
+	schema:name "Dataset catalogus van de open data gepubliceerd op archieven.nl van Streefarchief Voorne-Putten";
+	schema:publisher anl:organisation_NL-BleSAVPR;
+	schema:dataset anl:dataset_NL-BleSAVPR_101-1825, anl:dataset_NL-BleSAVPR_101-1826, anl:dataset_NL-BleSAVPR_101-1827, anl:dataset_NL-BleSAVPR_101-1828, anl:dataset_NL-BleSAVPR_101-1829, anl:dataset_NL-BleSAVPR_101-1830, anl:dataset_NL-BleSAVPR_101-1838, anl:dataset_NL-BleSAVPR_101-1839, anl:dataset_NL-BleSAVPR_101-1840, anl:dataset_NL-BleSAVPR_101_1814, anl:dataset_NL-BleSAVPR_101_1815, anl:dataset_NL-BleSAVPR_101_1816, anl:dataset_NL-BleSAVPR_101_1817, anl:dataset_NL-BleSAVPR_101_1818, anl:dataset_NL-BleSAVPR_101_1819, anl:dataset_NL-BleSAVPR_101_1820, anl:dataset_NL-BleSAVPR_101_1821, anl:dataset_NL-BleSAVPR_101_1822, anl:dataset_NL-BleSAVPR_101_1823, anl:dataset_NL-BleSAVPR_101_1824, anl:dataset_NL-BleSAVPR_101_1825, anl:dataset_NL-BleSAVPR_101_1826, anl:dataset_NL-BleSAVPR_101_1827, anl:dataset_NL-BleSAVPR_101_1828, anl:dataset_NL-BleSAVPR_101_1829, anl:dataset_NL-BleSAVPR_101_1830, anl:dataset_NL-BleSAVPR_101_1838, anl:dataset_NL-BleSAVPR_101_1839, anl:dataset_NL-BleSAVPR_101_1840, anl:dataset_NL-BleSAVPR_102, anl:dataset_NL-BleSAVPR_102b, anl:dataset_NL-BleSAVPR_103, anl:dataset_NL-BleSAVPR_103-357, anl:dataset_NL-BleSAVPR_103-358, anl:dataset_NL-BleSAVPR_103-359, anl:dataset_NL-BleSAVPR_103-360, anl:dataset_NL-BleSAVPR_103-361, anl:dataset_NL-BleSAVPR_103-361A, anl:dataset_NL-BleSAVPR_103-363, anl:dataset_NL-BleSAVPR_103-401, anl:dataset_NL-BleSAVPR_103-402, anl:dataset_NL-BleSAVPR_103-403, anl:dataset_NL-BleSAVPR_103-404, anl:dataset_NL-BleSAVPR_103-405, anl:dataset_NL-BleSAVPR_103-406, anl:dataset_NL-BleSAVPR_103-407, anl:dataset_NL-BleSAVPR_103-421, anl:dataset_NL-BleSAVPR_103-422, anl:dataset_NL-BleSAVPR_103-424, anl:dataset_NL-BleSAVPR_103-425, anl:dataset_NL-BleSAVPR_103-426, anl:dataset_NL-BleSAVPR_103-430, anl:dataset_NL-BleSAVPR_103-431, anl:dataset_NL-BleSAVPR_103-638, anl:dataset_NL-BleSAVPR_103A, anl:dataset_NL-BleSAVPR_103A-351, anl:dataset_NL-BleSAVPR_103A-352, anl:dataset_NL-BleSAVPR_103A-353, anl:dataset_NL-BleSAVPR_103A-354, anl:dataset_NL-BleSAVPR_103A-354A, anl:dataset_NL-BleSAVPR_103A-357, anl:dataset_NL-BleSAVPR_103A-358, anl:dataset_NL-BleSAVPR_103A-359, anl:dataset_NL-BleSAVPR_103A-360, anl:dataset_NL-BleSAVPR_103A-361, anl:dataset_NL-BleSAVPR_103A-361A, anl:dataset_NL-BleSAVPR_103A-362, anl:dataset_NL-BleSAVPR_103A-363, anl:dataset_NL-BleSAVPR_103A-401, anl:dataset_NL-BleSAVPR_103A-402, anl:dataset_NL-BleSAVPR_103A-403, anl:dataset_NL-BleSAVPR_103A-404, anl:dataset_NL-BleSAVPR_103A-405, anl:dataset_NL-BleSAVPR_103A-406, anl:dataset_NL-BleSAVPR_103A-407, anl:dataset_NL-BleSAVPR_103A-421, anl:dataset_NL-BleSAVPR_103A-422, anl:dataset_NL-BleSAVPR_103A-424, anl:dataset_NL-BleSAVPR_103A-425, anl:dataset_NL-BleSAVPR_103A-426, anl:dataset_NL-BleSAVPR_103A-430, anl:dataset_NL-BleSAVPR_103A-431, anl:dataset_NL-BleSAVPR_103_421, anl:dataset_NL-BleSAVPR_103_422, anl:dataset_NL-BleSAVPR_103_424, anl:dataset_NL-BleSAVPR_103_425, anl:dataset_NL-BleSAVPR_103_426, anl:dataset_NL-BleSAVPR_103_430, anl:dataset_NL-BleSAVPR_103_431, anl:dataset_NL-BleSAVPR_103a, anl:dataset_NL-BleSAVPR_103b, anl:dataset_NL-BleSAVPR_104, anl:dataset_NL-BleSAVPR_105, anl:dataset_NL-BleSAVPR_105-266, anl:dataset_NL-BleSAVPR_105-268, anl:dataset_NL-BleSAVPR_105-269, anl:dataset_NL-BleSAVPR_105-271, anl:dataset_NL-BleSAVPR_105-272, anl:dataset_NL-BleSAVPR_105-274, anl:dataset_NL-BleSAVPR_105-275, anl:dataset_NL-BleSAVPR_105-276, anl:dataset_NL-BleSAVPR_105-277, anl:dataset_NL-BleSAVPR_105-278, anl:dataset_NL-BleSAVPR_105-279, anl:dataset_NL-BleSAVPR_105-281, anl:dataset_NL-BleSAVPR_105-282, anl:dataset_NL-BleSAVPR_105-283, anl:dataset_NL-BleSAVPR_105-285, anl:dataset_NL-BleSAVPR_105-406, anl:dataset_NL-BleSAVPR_105-407, anl:dataset_NL-BleSAVPR_105-500, anl:dataset_NL-BleSAVPR_105-501, anl:dataset_NL-BleSAVPR_105-502, anl:dataset_NL-BleSAVPR_105-503, anl:dataset_NL-BleSAVPR_105-504, anl:dataset_NL-BleSAVPR_105-505, anl:dataset_NL-BleSAVPR_105-506, anl:dataset_NL-BleSAVPR_105-507, anl:dataset_NL-BleSAVPR_105-508, anl:dataset_NL-BleSAVPR_105-510, anl:dataset_NL-BleSAVPR_105-511, anl:dataset_NL-BleSAVPR_105-512, anl:dataset_NL-BleSAVPR_105-513, anl:dataset_NL-BleSAVPR_105-514, anl:dataset_NL-BleSAVPR_105-515, anl:dataset_NL-BleSAVPR_105-516, anl:dataset_NL-BleSAVPR_105-517, anl:dataset_NL-BleSAVPR_105-518, anl:dataset_NL-BleSAVPR_105-519, anl:dataset_NL-BleSAVPR_105-520, anl:dataset_NL-BleSAVPR_105-520A, anl:dataset_NL-BleSAVPR_105-520B, anl:dataset_NL-BleSAVPR_105-521, anl:dataset_NL-BleSAVPR_105-522, anl:dataset_NL-BleSAVPR_105-523, anl:dataset_NL-BleSAVPR_105-524, anl:dataset_NL-BleSAVPR_105-525, anl:dataset_NL-BleSAVPR_105-526, anl:dataset_NL-BleSAVPR_105-527, anl:dataset_NL-BleSAVPR_105-528, anl:dataset_NL-BleSAVPR_105-529, anl:dataset_NL-BleSAVPR_105-530, anl:dataset_NL-BleSAVPR_105-531, anl:dataset_NL-BleSAVPR_105-532, anl:dataset_NL-BleSAVPR_105-533, anl:dataset_NL-BleSAVPR_105-534, anl:dataset_NL-BleSAVPR_105-535, anl:dataset_NL-BleSAVPR_105_266, anl:dataset_NL-BleSAVPR_105_268, anl:dataset_NL-BleSAVPR_105_269, anl:dataset_NL-BleSAVPR_105_271, anl:dataset_NL-BleSAVPR_105_272, anl:dataset_NL-BleSAVPR_105_274, anl:dataset_NL-BleSAVPR_105_275, anl:dataset_NL-BleSAVPR_105_276, anl:dataset_NL-BleSAVPR_105_277, anl:dataset_NL-BleSAVPR_105_278, anl:dataset_NL-BleSAVPR_105_279, anl:dataset_NL-BleSAVPR_105_281, anl:dataset_NL-BleSAVPR_105_282, anl:dataset_NL-BleSAVPR_105_283, anl:dataset_NL-BleSAVPR_105_285, anl:dataset_NL-BleSAVPR_105a, anl:dataset_NL-BleSAVPR_106, anl:dataset_NL-BleSAVPR_106-1254, anl:dataset_NL-BleSAVPR_106-1255, anl:dataset_NL-BleSAVPR_106-1256, anl:dataset_NL-BleSAVPR_106-1257, anl:dataset_NL-BleSAVPR_106-1258, anl:dataset_NL-BleSAVPR_106-1259, anl:dataset_NL-BleSAVPR_106-1260, anl:dataset_NL-BleSAVPR_106-1266, anl:dataset_NL-BleSAVPR_106-282, anl:dataset_NL-BleSAVPR_106-283, anl:dataset_NL-BleSAVPR_106-284, anl:dataset_NL-BleSAVPR_106-285, anl:dataset_NL-BleSAVPR_106-286, anl:dataset_NL-BleSAVPR_106-287, anl:dataset_NL-BleSAVPR_106-288, anl:dataset_NL-BleSAVPR_106-289, anl:dataset_NL-BleSAVPR_106-289a, anl:dataset_NL-BleSAVPR_106-290, anl:dataset_NL-BleSAVPR_106-291, anl:dataset_NL-BleSAVPR_106-292, anl:dataset_NL-BleSAVPR_106-293, anl:dataset_NL-BleSAVPR_106-294, anl:dataset_NL-BleSAVPR_106-295, anl:dataset_NL-BleSAVPR_106-296, anl:dataset_NL-BleSAVPR_106-297, anl:dataset_NL-BleSAVPR_106-298, anl:dataset_NL-BleSAVPR_106-298A, anl:dataset_NL-BleSAVPR_106-298B, anl:dataset_NL-BleSAVPR_106-299, anl:dataset_NL-BleSAVPR_106-300, anl:dataset_NL-BleSAVPR_106-301, anl:dataset_NL-BleSAVPR_106-302, anl:dataset_NL-BleSAVPR_106-303, anl:dataset_NL-BleSAVPR_106-304, anl:dataset_NL-BleSAVPR_106-305, anl:dataset_NL-BleSAVPR_106-306, anl:dataset_NL-BleSAVPR_106-307, anl:dataset_NL-BleSAVPR_106-308, anl:dataset_NL-BleSAVPR_106-308A, anl:dataset_NL-BleSAVPR_106_1254, anl:dataset_NL-BleSAVPR_106_1255, anl:dataset_NL-BleSAVPR_106_1256, anl:dataset_NL-BleSAVPR_106_1257, anl:dataset_NL-BleSAVPR_106_1258, anl:dataset_NL-BleSAVPR_106_1259, anl:dataset_NL-BleSAVPR_106_1260, anl:dataset_NL-BleSAVPR_106_1266, anl:dataset_NL-BleSAVPR_106a, anl:dataset_NL-BleSAVPR_106b, anl:dataset_NL-BleSAVPR_110-8131, anl:dataset_NL-BleSAVPR_110-8132, anl:dataset_NL-BleSAVPR_110-8133, anl:dataset_NL-BleSAVPR_110-8134, anl:dataset_NL-BleSAVPR_110-8135, anl:dataset_NL-BleSAVPR_110-8136, anl:dataset_NL-BleSAVPR_112, anl:dataset_NL-BleSAVPR_113, anl:dataset_NL-BleSAVPR_115, anl:dataset_NL-BleSAVPR_118, anl:dataset_NL-BleSAVPR_134-13A, anl:dataset_NL-BleSAVPR_134-13B, anl:dataset_NL-BleSAVPR_137-72A, anl:dataset_NL-BleSAVPR_137-72B, anl:dataset_NL-BleSAVPR_160-2, anl:dataset_NL-BleSAVPR_616, anl:dataset_NL-BleSAVPR_873.
+

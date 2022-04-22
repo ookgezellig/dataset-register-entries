@@ -1,0 +1,3830 @@
+@prefix schema: <https://schema.org/>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix anl: <https://www.archieven.nl/id/>.
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+
+# Test bestand gegenereerd via create_ttl_datacatalog_pages.pl op basis van door Open Archieven verzamelde informatie. 
+
+anl:dataset_NL-HaHGA_5029-01 a schema:Dataset;
+	schema:name "5029-01";
+	schema:description "Collectie van wethouder J.L Bergen (CDA), Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1968.1982";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5029-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTM2NzQwMzFGM9YxQkVFMERCMEg2N095RTJENzNBMkRCJmFkdF4pZE01OSZudW1tZXI4NTAyOS0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 5492;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5064-01 a schema:Dataset;
+	schema:name "5064-01";
+	schema:description "Voorburgsche Waterleidingmaatschappij NV, sinds 1938 Gemeenschappelijke Regeling Drinkwaterleiding De Vlietstreek";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1919.1989";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5064-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUIDOEV9N9FCNTI2OUM3M0FENjg5MTU1MUFFMTdGM09wJmFkdF4pZE01OSZudW1tZXI4NTA2NC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 17125;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5079-01 a schema:Dataset;
+	schema:name "5079-01";
+	schema:description "Vereniging voor christelijk-nationaal onderwijs te Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1880.1954";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5079-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTA0QTB9RTZFOTY5QUU2NjQ0RUJFR9U5O9YyQ0MxMkR9JmFkdF4pZE01OSZudW1tZXI4NTA3OS0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 14017;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5080-01 a schema:Dataset;
+	schema:name "5080-01";
+	schema:description "Vereniging tot stichting en instandhouding van scholen met de bijbel: Julianaschool en Emmaschool, Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1924.1960";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5080-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTg1NUI2N9Z9NkMyQ0ZFNzNFR9FCNkYyQjB9NTQ1RjVBJmFkdF4pZE01OSZudW1tZXI4NTADMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 5746;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5081-01 a schema:Dataset;
+	schema:name "5081-01";
+	schema:description "Vereniging tot stichting en instandhouding van scholen met de bijbel, Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1966.1982";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5081-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTc3NUFEME9zMzJBMjM2QzdGO9I2NjgwMEFGOTUyRkJ9JmFkdF4pZE01OSZudW1tZXI4NTADMS0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 5829;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5084-01 a schema:Dataset;
+	schema:name "5084-01";
+	schema:description "ComitÃ© voor kindervoeding Leidschendam";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1944.1945";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5084-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUQ5NjJGQTJGNzV9MEU3MjA3RTVFNzBFOEk2RjI1QUY2JmFkdF4pZE01OSZudW1tZXI4NTADNC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 17077;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5094-01 a schema:Dataset;
+	schema:name "5094-01";
+	schema:description "Commissie tot wering van schoolverzuim te Stompwijk, vanaf 1938 Leidschendam";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1900.1968";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5094-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PURENUI1NkRBR9U2MThEM99zQjkwQTg5QjADQzU0NTgzJmFkdF4pZE01OSZudW1tZXI4NTA5NC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 19889;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5100-01 a schema:Dataset;
+	schema:name "5100-01";
+	schema:description "Stichting Sophia Bewaarschool, later Sophia kleuterschool, Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1920.1983";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5100-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTczRjVGOTc5QjQ3NEc3NU9yMzk3QjU1RTAzMUZFM9FBJmFkdF4pZE01OSZudW1tZXI4NT9wMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 15189;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5103-01 a schema:Dataset;
+	schema:name "5103-01";
+	schema:description "Vrijzinnige Democratische Bond, Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1930.1946";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5103-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTI0NTFER9VGNz9zMzQxMzUwR9M2RkM3MzA5NzQ1MjRGJmFkdF4pZE01OSZudW1tZXI4NT9wMy0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 7833;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5105-01 a schema:Dataset;
+	schema:name "5105-01";
+	schema:description "Familie Van Santen, Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1807.1948";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5105-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUZEMUUzM9U0OU9DQ0IxMjQ2QzkyQUN9OEF9NUI1Q0UzJmFkdF4pZE01OSZudW1tZXI4NT9wNS0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 27989;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5110-01 a schema:Dataset;
+	schema:name "5110-01";
+	schema:description "Vereniging Christelijke School voor voorbereidend onderwijs Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1978.1983";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5110-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTUyRkQzQzkwR9UxRUMxMkJCRjcyNzVGMzcxNEYyQTI2JmFkdF4pZE01OSZudW1tZXI4NT9xMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 5057;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5111-01 a schema:Dataset;
+	schema:name "5111-01";
+	schema:description "Collectie A.M.G. Batelaan-van den Berg, Leidschendam";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1940.1945";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5111-01_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-10-24";
+		schema:contentSize 6262;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5113-01 a schema:Dataset;
+	schema:name "5113-01";
+	schema:description "Gemeentebestuur Leidschendam: Burgerlijke Stand";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1938.1970";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5113-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PU93MEA2OUY2QzM5QTI5MjU1MEU1RTNGQkIyM9M1QjcxJmFkdF4pZE01OSZudW1tZXI4NT9xMy0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 8809;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5125-01 a schema:Dataset;
+	schema:name "5125-01";
+	schema:description "Registers van eigendomsovergang Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1811.1832";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5125-01_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-05-05";
+		schema:contentSize 6186;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5127-01 a schema:Dataset;
+	schema:name "5127-01";
+	schema:description "Commissie voor de Spijsuitdeling te Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1812.1934";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5127-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUR9NzA5MUUDM9M2NkUzQ0ZGRkU0OT9xRjMxMTdGN9YzJmFkdF4pZE01OSZudW1tZXI4NT9yNy0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 31855;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5129-01 a schema:Dataset;
+	schema:name "5129-01";
+	schema:description "Burgerlijke Stand Voorburg, huwelijkse bijlagen";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1812.1842";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/mi/NL-HaHGA_5129-01_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-11-23";
+		schema:contentSize 28900;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-HaHGA_5210-01 a schema:Dataset;
+	schema:name "5210-01";
+	schema:description "Registers van eigendomsovergang Stompwijk en Veur";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1811.1811";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5210-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PT9xN0QxN0FEMTYyMEBFRTAxOTc2OUUDNjNCN0JFQkQDJmFkdF4pZE01OSZudW1tZXI4NTIxMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 4325;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5220-01 a schema:Dataset;
+	schema:name "5220-01";
+	schema:description "Doop-, trouw- en begraafboeken van Stompwijk, Wilsveen en Leidschendam";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1584.1812";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5220-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTU1NTUDQjJFMzM0NzgwMj95MkQyNUUDQTUxNTI2OEYwJmFkdF4pZE01OSZudW1tZXI4NTIyMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 36787;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5230-01 a schema:Dataset;
+	schema:name "5230-01";
+	schema:description "Doop-, trouw- en begraafboeken Veur";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1672.1811";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5230-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTYyRE9xNjVBRjg1NEcDOEJ9QTIwQjg3OUNBNEg3OUY3JmFkdF4pZE01OSZudW1tZXI4NTIzMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 10974;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5240-01 a schema:Dataset;
+	schema:name "5240-01";
+	schema:description "Doop-, trouw- en begraafboeken Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1630.1812";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5240-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUZCOEU3Mzc1RUM3RjY2QUY3MEYxNUQyNEFCM0NEOEk0JmFkdF4pZE01OSZudW1tZXI4NTI0MC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 35866;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01 a schema:Dataset;
+	schema:name "5270-01";
+	schema:description "Gemeenten Leidschendam (1812-1817), Stompwijk en Veur";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1579.1938";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5270-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTMzMzRFMEl9OEQDNEBCME90MzA1OElEQzYxMkYwRkQwJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-04-10";
+		schema:contentSize 2462016;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2189 a schema:Dataset;
+	schema:name "5270-01.2189";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1818.1830";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012189_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-08-11";
+		schema:contentSize 2129509;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2190 a schema:Dataset;
+	schema:name "5270-01.2190";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1831.1840";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012190_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-05-03";
+		schema:contentSize 1592198;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2191 a schema:Dataset;
+	schema:name "5270-01.2191";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1841.1850";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012191_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-09-29";
+		schema:contentSize 1764729;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2192 a schema:Dataset;
+	schema:name "5270-01.2192";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1851.1860";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012192_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUIzQTNBRjUwQz9xRTI0RTI1NjA0O9FFMTFGNzZCNjZFJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDyMTky>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-19";
+		schema:contentSize 1859917;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2193 a schema:Dataset;
+	schema:name "5270-01.2193";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012193_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-07-27";
+		schema:contentSize 929136;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2194 a schema:Dataset;
+	schema:name "5270-01.2194";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1866.1870";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012194_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTAzMEQwN9I1OEdBMU9zOEdGR9FGN9Y3RjczNjg1RENCJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDyMTk0>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-18";
+		schema:contentSize 1011823;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2195 a schema:Dataset;
+	schema:name "5270-01.2195";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1871.1875";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012195_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-01-13";
+		schema:contentSize 1103801;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2196 a schema:Dataset;
+	schema:name "5270-01.2196";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1876.1880";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012196_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-09-12";
+		schema:contentSize 1279775;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2197 a schema:Dataset;
+	schema:name "5270-01.2197";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1881.1885";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012197_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-13";
+		schema:contentSize 1166656;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2198 a schema:Dataset;
+	schema:name "5270-01.2198";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1886.1890";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012198_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-09-29";
+		schema:contentSize 995174;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2199 a schema:Dataset;
+	schema:name "5270-01.2199";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1891.1895";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012199_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-09-12";
+		schema:contentSize 950514;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2200 a schema:Dataset;
+	schema:name "5270-01.2200";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1896.1900";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012200_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-09-12";
+		schema:contentSize 973012;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2201 a schema:Dataset;
+	schema:name "5270-01.2201";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1901.1905";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012201_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-09-12";
+		schema:contentSize 273281;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2208 a schema:Dataset;
+	schema:name "5270-01.2208";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1818.1830";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012208_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUJFQz91MjcyM9M3MzhFNTU3N9VCQTQyMjkxN9NFR9MwJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDyMjAD>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 756778;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2209 a schema:Dataset;
+	schema:name "5270-01.2209";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1831.1840";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012209_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-24";
+		schema:contentSize 539719;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2210 a schema:Dataset;
+	schema:name "5270-01.2210";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1841.1860";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012210_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUJER9VGM9JEOTg2MjM2RjV9OTFGO9M1R9M0REI2M9QxJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDyMj9w>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-09-29";
+		schema:contentSize 1024343;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2211 a schema:Dataset;
+	schema:name "5270-01.2211";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1861.1880";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012211_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-11-29";
+		schema:contentSize 1226783;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2212 a schema:Dataset;
+	schema:name "5270-01.2212";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1881.1910";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012212_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-10-05";
+		schema:contentSize 2160196;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2213 a schema:Dataset;
+	schema:name "5270-01.2213";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1911.1920";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012213_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-08-16";
+		schema:contentSize 1081975;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2214 a schema:Dataset;
+	schema:name "5270-01.2214";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1921.1930";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012214_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-09";
+		schema:contentSize 1698103;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2216 a schema:Dataset;
+	schema:name "5270-01.2216";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1818.1830";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012216_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-12-17";
+		schema:contentSize 1667412;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2217 a schema:Dataset;
+	schema:name "5270-01.2217";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1831.1840";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012217_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-08-11";
+		schema:contentSize 1209114;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2218 a schema:Dataset;
+	schema:name "5270-01.2218";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1841.1860";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012218_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUJCMUF9RjM2QT9zQjNBNjIzRUJFQUNERUI1RjQxM9MwJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDyMj9D>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-04-10";
+		schema:contentSize 3040318;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2219 a schema:Dataset;
+	schema:name "5270-01.2219";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1861.1880";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012219_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUZEMEkxRjMDM9ZFRTFCQjJCMzFEN9Q0Rjc2MTFGO99yJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDyMj95>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 2851365;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2220 a schema:Dataset;
+	schema:name "5270-01.2220";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1881.1910";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012220_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUF9MzU3OEJGM9M2QzQDRUM3RjcDMTZFNERCQjdCQ0IxJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDyMjIw>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-03-12";
+		schema:contentSize 3569252;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2221 a schema:Dataset;
+	schema:name "5270-01.2221";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1911.1920";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012221_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTAzRTA2RjdCMj9zME93RElFOThBNjM0Mzc2OTlGQjUzJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDyMjIx>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-12-25";
+		schema:contentSize 1632611;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2222 a schema:Dataset;
+	schema:name "5270-01.2222";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1921.1930";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012222_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUQ0Rj9DQzlBQ0NBOThCOUZFN9M1N9NCMEV9NzAzQU9DJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDyMjIy>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 1865054;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_2223 a schema:Dataset;
+	schema:name "5270-01.2223";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1931.1937";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-012223_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-10-24";
+		schema:contentSize 1190358;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_454 a schema:Dataset;
+	schema:name "5270-01.454";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1812.1820";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01454_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-09-05";
+		schema:contentSize 3981785;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_455 a schema:Dataset;
+	schema:name "5270-01.455";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1812.1830";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01455_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUQzNEgzOEADMkMxRjZFOTNENkUDR9Z9OTI5RUZCQ0FBJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSD0NTU>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-04-05";
+		schema:contentSize 2681825;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_456 a schema:Dataset;
+	schema:name "5270-01.456";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1812.1820";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01456_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTcwOUUwM9N9QjBERERFQ0NFOUY0QkFCQjgzQj9wQTl9JmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSD0NTY>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 3538803;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_872 a schema:Dataset;
+	schema:name "5270-01.872";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1821.1830";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01872_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTI1OEFBQjkDRTY3QjVBNjUzNTVCREZCNENBOUZCNElFJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDDNzI>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 4524623;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_873 a schema:Dataset;
+	schema:name "5270-01.873";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1831.1835";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01873_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PURGREFGREQwNjB9OTg2REc1MEU5REg0NUM5NUNCRUQwJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDDNzM>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 2520243;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_874 a schema:Dataset;
+	schema:name "5270-01.874";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1836.1840";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01874_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTAwQU92Rjg3RTI1M0RBR9Z9MEU5RTU2OEIyQzADOUUDJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDDNzQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 2535349;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_875 a schema:Dataset;
+	schema:name "5270-01.875";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1841.1845";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01875_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTgyOEI2QURGQ0I1QzkwMjlBN0VGO9FCNjlGM9Z9NUU5JmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDDNzU>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 2504609;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_876 a schema:Dataset;
+	schema:name "5270-01.876";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1846.1850";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01876_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTc5NzkxNjg3NTIyMkMxQkM2MjVFNTY3Nz9DMTU2NUM2JmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDDNzY>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-03-31";
+		schema:contentSize 2445485;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_877 a schema:Dataset;
+	schema:name "5270-01.877";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1851.1855";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01877_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTZGMURFQjRCMTJFREgDOEADNUJGMTk3M9ZBOEB9NzlFJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDDNzc>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 2676146;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_878 a schema:Dataset;
+	schema:name "5270-01.878";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1856.1860";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01878_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUQwN9Y3MTlEQ0JFM9Y2Qk95QzJ9QTIxQjg1NjBFRkYyJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDDNzg>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 2733526;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_879 a schema:Dataset;
+	schema:name "5270-01.879";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1861.1865";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01879_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTMDQTlCM9QxM0YDQjJ9MjI3MUQxNjc3OEVFNjB9OENFJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDDNzk>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 3042355;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_880 a schema:Dataset;
+	schema:name "5270-01.880";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1866.1870";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01880_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUVERkRFQjU5Nzg5MjQ3QjADNTMwRTkwRjJBRTNGMThCJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDDOEA>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-03-06";
+		schema:contentSize 3167926;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_881 a schema:Dataset;
+	schema:name "5270-01.881";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1871.1875";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01881_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTM2Mz9wMTFGNjJCMzBBMEkDQjkwQjZBQThEN0NCMjM3JmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDDOE9>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-23";
+		schema:contentSize 3087888;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_882 a schema:Dataset;
+	schema:name "5270-01.882";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1876.1880";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01882_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUYwRUNFMEgwN0YxNzk5NkV9QkM1RTlFN9Y0QjRCQUQ1JmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDDOEI>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 2983800;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_883 a schema:Dataset;
+	schema:name "5270-01.883";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1881.1885";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01883_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTcxQkI5Qzh9OEQyNUFGOUU0REUyNTJEM09DNjN9NTNGJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDDOEM>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 2901407;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_884 a schema:Dataset;
+	schema:name "5270-01.884";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1886.1890";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01884_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-09-12";
+		schema:contentSize 2847052;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_885 a schema:Dataset;
+	schema:name "5270-01.885";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1891.1895";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01885_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTFGNzcDRjQ5QkNFQzY3RjY5OTJFN0QyQjBFQzAxMjk2JmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDDOEU>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 3127784;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_886 a schema:Dataset;
+	schema:name "5270-01.886";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1896.1900";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01886_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTVBO9I3MjZBOEYwOTc5MTU0MENGMkY2MzN9NjFFNU90JmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDDOEY>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 3043233;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_887 a schema:Dataset;
+	schema:name "5270-01.887";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1901.1905";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01887_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-09-12";
+		schema:contentSize 1305699;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_894 a schema:Dataset;
+	schema:name "5270-01.894";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1831.1850";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01894_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUUwM99DRjgxOTMyME9zNzFFMEFBREJ9RkMxMkMwOTJFJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDDOTQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-03-12";
+		schema:contentSize 2731147;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_895 a schema:Dataset;
+	schema:name "5270-01.895";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1851.1860";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01895_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-08-31";
+		schema:contentSize 1910831;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_896 a schema:Dataset;
+	schema:name "5270-01.896";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1861.1870";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01896_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTU5MjdCOEVCNEIwMzA0QzM5OEM3N0M0NzIwMzhFOUFBJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDDOTY>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-03-15";
+		schema:contentSize 1830274;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_897 a schema:Dataset;
+	schema:name "5270-01.897";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1871.1880";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01897_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PThEQjM1QkI3N0QDNzc1MkQ2REIzRUM0MzgzNjdEOUY3JmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDDOTc>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-03-17";
+		schema:contentSize 1872239;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_898 a schema:Dataset;
+	schema:name "5270-01.898";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1881.1890";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01898_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTM1MzZ9NEI5RTY0O9Y0RUNGNTM5Qz95NzZFNkQ0Rjh9JmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDDOTg>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 1962765;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_899 a schema:Dataset;
+	schema:name "5270-01.899";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1891.1900";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01899_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTAzRjY5NzdGREhFNUVFM0FCRTc5QjRFMTk5QTFBQzY5JmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSDDOTk>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 1937582;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_900 a schema:Dataset;
+	schema:name "5270-01.900";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1901.1910";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01900_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTJCRUQ2QTV9REcyQUJERE9zNzI1NTFFM9I5OUNEMzVBJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSD5MEA>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-03-31";
+		schema:contentSize 2101618;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_901 a schema:Dataset;
+	schema:name "5270-01.901";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1911.1920";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01901_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PU9zMEVEQTc5OEYzREU5OEkwMEN9R9Q1RjA2QTU0N0NGJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSD5ME9>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-18";
+		schema:contentSize 2332775;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_902 a schema:Dataset;
+	schema:name "5270-01.902";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1921.1930";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01902_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-09-26";
+		schema:contentSize 3080538;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_904 a schema:Dataset;
+	schema:name "5270-01.904";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1821.1830";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01904_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PT9xRjFEMzc0QkUDMTADM9ZGMjM2MjU0NjkzMzk1N9VCJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSD5MEQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 3592437;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_905 a schema:Dataset;
+	schema:name "5270-01.905";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1831.1840";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01905_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTYzQUY3M0MzMzYyOTkzN9ZGMEYzMTY2RENCNzMzMjU0JmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSD5MEU>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 3888554;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_906 a schema:Dataset;
+	schema:name "5270-01.906";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1841.1850";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01906_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTk3OU90N9FGMjc1MURCMzhGN9FEQ0I2N9ZCMEM2NEJEJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSD5MEY>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 3862191;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_907 a schema:Dataset;
+	schema:name "5270-01.907";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1851.1860";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01907_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTM3REkzRThGRTNFM0I2MkI5QzVEOUIyM9QzQ09zM9QxJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSD5MEc>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-03-16";
+		schema:contentSize 4241280;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_908 a schema:Dataset;
+	schema:name "5270-01.908";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1861.1870";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01908_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PU91O9Y5QTUyMjU1REU5OUJCMTcyRTA2NEYyRUJ9MEFFJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSD5MEg>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-03-06";
+		schema:contentSize 4991499;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_909 a schema:Dataset;
+	schema:name "5270-01.909";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1871.1880";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01909_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTc1Q09DR9U5RjYxOUYwQkY3OEU1RjY0QkNGNzhEM9I2JmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSD5MEk>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 4379165;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_910 a schema:Dataset;
+	schema:name "5270-01.910";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1881.1890";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01910_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTk1NzJCOTYDRT90MTNFOThEQzUyMjBBQUFBQjU0M09yJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSD5MTA>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-18";
+		schema:contentSize 3854563;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_911 a schema:Dataset;
+	schema:name "5270-01.911";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1891.1900";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01911_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PThFQkRCQUIxMzQ5RUNCRkU3RUFFR9N9NTA1OEI0MTRCJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSD5MT9>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-08";
+		schema:contentSize 3646870;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_912 a schema:Dataset;
+	schema:name "5270-01.912";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1901.1910";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01912_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUU5OElBNzc2O9RGREQwOT9zMkN9QUZ9NEIyNUQwMjNEJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSD5MTI>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 3099351;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_913 a schema:Dataset;
+	schema:name "5270-01.913";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1911.1920";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01913_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTNFOEcDNEZ9OUVBRjFGQjMzQTcDN0ZCQzUzRURFOTRBJmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSD5MTM>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 3555501;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_914 a schema:Dataset;
+	schema:name "5270-01.914";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1912.1930";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01914_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUMyR9RFOTFBOEZEQ0Y2MjUyRUI5Mk9yQzYyN0FFMTU5JmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSD5MTQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-03-16";
+		schema:contentSize 2673129;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5270-01_915 a schema:Dataset;
+	schema:name "5270-01.915";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1931.1937";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_5270-01915_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUZBQUVGOEhGNz91N0NEMTFFMTZGMzk0MElBQzA2QTM5JmFkdF4pZE01OSZudW1tZXI4NTI3MC0wMSD5MTU>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 1933092;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_5340-01 a schema:Dataset;
+	schema:name "5340-01";
+	schema:description "Gemeentebestuur Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1929.1965";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5340-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTc1QzBFRkFFOTIDM9M2Q0M2NTIzOE9zQkMDNEB9M9Q3JmFkdF4pZE01OSZudW1tZXI4NTM0MC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 2134270;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5370-01 a schema:Dataset;
+	schema:name "5370-01";
+	schema:description "Burgerlijke Stand Leidschendam, Stompwijk en Veur, huwelijkse bijlagen";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1812.1842";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5370-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTMzNTU0QTNCQkI3RTkwOTRFRUIwQkI1M9I5NTRCQURCJmFkdF4pZE01OSZudW1tZXI4NTM3MC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 36671;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5400-01 a schema:Dataset;
+	schema:name "5400-01";
+	schema:description "Notarieel archief Stompwijk";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1673.1861";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5400-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PURFM9M2MUFEM09DNkZBNkZFREc1RkUwRTZGRjU5M9NGJmFkdF4pZE01OSZudW1tZXI4NTQwMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 104382;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5410-01 a schema:Dataset;
+	schema:name "5410-01";
+	schema:description "Notarieel archief Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1743.1935";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5410-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PU92REVCQTI0N9NCQzRGM0Y0OEZGQzc1RTAzRkFFNTQwJmFkdF4pZE01OSZudW1tZXI4NTQxMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 286562;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5420-01 a schema:Dataset;
+	schema:name "5420-01";
+	schema:description "Rechterlijk archief van Stompwijk";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1593.1811";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5420-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTYDQzNBMTBFN0FCMkVGMkUyMjJBRkJFMEA1NTNENUQyJmFkdF4pZE01OSZudW1tZXI4NTQyMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 125430;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5430-01 a schema:Dataset;
+	schema:name "5430-01";
+	schema:description "Rechterlijk archief van Veur";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1646.1811";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5430-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUYyQj9zQ0N9QkIzNkU0N9UxQTB9NjVFO9IxOEVGQjFFJmFkdF4pZE01OSZudW1tZXI4NTQzMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 32887;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5440-01 a schema:Dataset;
+	schema:name "5440-01";
+	schema:description "Rechterlijk archief Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1602.1811";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5440-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTkxRjdBQTZGMzMzNTRGQzlCNTAyQUM3R9I0REY1N0QxJmFkdF4pZE01OSZudW1tZXI4NTQ0MC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 109149;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5450-01 a schema:Dataset;
+	schema:name "5450-01";
+	schema:description "Vereniging van vrijzinnig godsdienstigen te Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1906.2000";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5450-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUM0REYxMzAyM9I5NkVBQj95QUN9OUQDQjY2NEdCOTAzJmFkdF4pZE01OSZudW1tZXI4NTQ1MC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 79341;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5460-01 a schema:Dataset;
+	schema:name "5460-01";
+	schema:description "Weeskamer van Stompwijk";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1685.1843";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5460-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PT9wREI3MjJERjFGNTU2MUYDRUR9NkV9N9VEQ0IDMTlCJmFkdF4pZE01OSZudW1tZXI4NTQ2MC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 9586;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5470-01 a schema:Dataset;
+	schema:name "5470-01";
+	schema:description "Weeskamer van Veur";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1678.1810";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5470-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTYwNUIzMzI2MTVBO9IxME95N9M2R9I3OEk0QzMDN9U1JmFkdF4pZE01OSZudW1tZXI4NTQ3MC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 4614;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5480-01 a schema:Dataset;
+	schema:name "5480-01";
+	schema:description "Weeskamer Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1606.1810";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5480-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTA5REJEQ0F9MEZFNzhCNUMzREF9RU90OTJGNTk3Qk92JmFkdF4pZE01OSZudW1tZXI4NTQDMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 17896;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5500-01 a schema:Dataset;
+	schema:name "5500-01";
+	schema:description "Nederlandse Hervormde Gemeente Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1970.1999";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5500-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTAxMTdEMzNBNkF9Mzk0QTc0RTA3Q0RER9UwN9RFQTUzJmFkdF4pZE01OSZudW1tZXI4NTUwMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 153912;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5550-01 a schema:Dataset;
+	schema:name "5550-01";
+	schema:description "Milieuraad Leidschendam";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1973.1981";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5550-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTJGOEg5NEIDOUQ3MUM1QjIDRUU2Qzg1RTlBR99xNkRCJmFkdF4pZE01OSZudW1tZXI4NTU1MC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 25449;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5680-01 a schema:Dataset;
+	schema:name "5680-01";
+	schema:description "Kruisverenigingen te Veur, Stompwijk en Leidschendam";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1916.1976";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5680-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUMyQTV9MT95OUM1QTI3NzJBOTQ3RkU2NEZCOEI1Q092JmFkdF4pZE01OSZudW1tZXI4NTYDMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 73984;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5700-01 a schema:Dataset;
+	schema:name "5700-01";
+	schema:description "Hervormde Gemeente Leidschendam";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1541.1962";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5700-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTYDOUI5MkYwREFERjcDMEVCNTUDO9VEQ0NGRUZGQTM5JmFkdF4pZE01OSZudW1tZXI4NTcwMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 535164;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5930-01 a schema:Dataset;
+	schema:name "5930-01";
+	schema:description "Collectie Zuster Bartje van Vliet";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1946.1996";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5930-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUMwNk9wRUQ5R9REMEh9NzI2RTY1M9J9OTNBOEA1QkJCJmFkdF4pZE01OSZudW1tZXI4NTkzMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-03-29";
+		schema:contentSize 9195;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5940-01 a schema:Dataset;
+	schema:name "5940-01";
+	schema:description "Jongerencentrum O'16 Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1968.1986";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5940-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PThFOUM0QjkzNzlCOEl9QjRGQUMyNERBN9I2OURCRjZGJmFkdF4pZE01OSZudW1tZXI4NTk0MC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 43106;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5960-01 a schema:Dataset;
+	schema:name "5960-01";
+	schema:description "Parochie St. Joseph Opifex";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1957.1990";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5960-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PThBNzFCNEJFMjZ9R9Q1NzRCOEAwMjYzOUMwRjNEOTMyJmFkdF4pZE01OSZudW1tZXI4NTk2MC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 78547;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_5990-01 a schema:Dataset;
+	schema:name "5990-01";
+	schema:description "Burgerlijke Stand Voorburg, huwelijkse bijlagen";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1944.1993";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_5990-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUJEQjlBRTI5M9ZBNUZCMkQxQkU5Q0F9MEQ1REkwRUI5JmFkdF4pZE01OSZudW1tZXI4NTk5MC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-03-29";
+		schema:contentSize 13008;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_6002-01 a schema:Dataset;
+	schema:name "6002-01";
+	schema:description "Gemeentepolitie Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1919.1975";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_6002-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTkzMEUzR99wQzBEREQwM9Q0N092N0U2NEAwM9MxRUY2JmFkdF4pZE01OSZudW1tZXI4NjAwMi0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 198755;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_6003-01 a schema:Dataset;
+	schema:name "6003-01";
+	schema:description "Krantenknipsel collectie P. van Dorp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_6003-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PU93NjI2OUYwM9J9NU9DMzAyMjBEMUY5RElGO9N9OEZGJmFkdF4pZE01OSZudW1tZXI4NjAwMy0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 24973;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_6005-01 a schema:Dataset;
+	schema:name "6005-01";
+	schema:description "Oud archief Ambacht Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1396.1813";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_6005-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTk1QUZBRTU1NTA3NERFNTV9Njd9O9VBRUZ9MEUxOTk5JmFkdF4pZE01OSZudW1tZXI4NjAwNS0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-21";
+		schema:contentSize 701453;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_6006-01 a schema:Dataset;
+	schema:name "6006-01";
+	schema:description "Gereformeerde kerk van Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1886.1979";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_6006-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTRBQ0MzNzMzQjQxREYyMkRBN0FEQzBBQT95QjdBO9I1JmFkdF4pZE01OSZudW1tZXI4NjAwNi0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 330820;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_6009-01 a schema:Dataset;
+	schema:name "6009-01";
+	schema:description "Bevolkingsregisters Gemeente Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1860.1967";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_6009-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTU0NTc5OUMwREZGOEQ0M9QyMUQ0RjQxNTB9OEQzOTMzJmFkdF4pZE01OSZudW1tZXI4NjAwOS0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-03-29";
+		schema:contentSize 109324;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_6010-01 a schema:Dataset;
+	schema:name "6010-01";
+	schema:description "Rode Kruis Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1933.2008";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_6010-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUZ9MTkDMkYxQkQxMEQ5MTFCRjQ5NkJGRUFEOUM1NEFGJmFkdF4pZE01OSZudW1tZXI4NjAxMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 26398;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_6020-01 a schema:Dataset;
+	schema:name "6020-01";
+	schema:description "Waalse Hervormde gemeente Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1717.1926";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_6020-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUF9QTY1R9ZERTk5OEADOEgyQ0I5QzdER9NBM9ZBQkFGJmFkdF4pZE01OSZudW1tZXI4NjAyMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 21971;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_6040-01 a schema:Dataset;
+	schema:name "6040-01";
+	schema:description "Parochie van de HH Petrus en Paulus te Leidschendam";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1673.1985";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_6040-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTZ9M9ZBRUM2NEk5Njk5QzMxMk92MzQxNER9NEhFRTM0JmFkdF4pZE01OSZudW1tZXI4NjA0MC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 270085;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_6050-01 a schema:Dataset;
+	schema:name "6050-01";
+	schema:description "RK Schoolbestuur van Stompwijk";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1905.1966";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_6050-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUM2Q09xM9NGMTJFOTVFN9VFOTUwNTQDNTI5QkUxRjQDJmFkdF4pZE01OSZudW1tZXI4NjA1MC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 89876;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_6060-01 a schema:Dataset;
+	schema:name "6060-01";
+	schema:description "Gaarder of ontvanger der gemene middelen te Stompwijk";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1696.1805";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_6060-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUI2Nzk1RUFGNjY2MTJCOThGQUFBNzhBNTRGMjBEQjIxJmFkdF4pZE01OSZudW1tZXI4NjA2MC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 15270;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_6070-01 a schema:Dataset;
+	schema:name "6070-01";
+	schema:description "Gaarder of ontvanger der gemene middelen te Veur";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1765.1805";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_6070-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUFGQU9wRT95M9JBMUVEREc5MEBGQ0ZFNEk3NEUyMzAyJmFkdF4pZE01OSZudW1tZXI4NjA3MC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 9586;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_6080-01 a schema:Dataset;
+	schema:name "6080-01";
+	schema:description "RK Parochie Johannes XXIII Leidschendam";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1958.2007";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_6080-01_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-08-05";
+		schema:contentSize 106721;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01 a schema:Dataset;
+	schema:name "6110-01";
+	schema:description "Gemeentebestuur Voorburg: Burgerlijke Stand";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1811.1968";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_6110-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PT95OUY3REk2MkQ3OTQyOUF9N9M2MUQ5MUUDMTUxQTUzJmFkdF4pZE01OSZudW1tZXI4Nj9xMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-04-10";
+		schema:contentSize 43259;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_1 a schema:Dataset;
+	schema:name "6110-01.1";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1812.1821";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-011_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-06-07";
+		schema:contentSize 2850993;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_10 a schema:Dataset;
+	schema:name "6110-01.10";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1902.1906";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0110_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-06-07";
+		schema:contentSize 897656;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_13 a schema:Dataset;
+	schema:name "6110-01.13";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1811.1811";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0113_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-06-07";
+		schema:contentSize 60236;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_14 a schema:Dataset;
+	schema:name "6110-01.14";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1812.1821";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0114_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PT92MjN9RjYDMUMxNTAyRk91OUU2MEkwQ0YyN0U2M9VEJmFkdF4pZE01OSZudW1tZXI4Nj9xMC0wMSDxNA>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-03-31";
+		schema:contentSize 1105106;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_15 a schema:Dataset;
+	schema:name "6110-01.15";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1822.1831";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0115_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTlGMzQ5MEdEO9MwOTFCN9MxMEA1QjBEOEYwNzNEOEVCJmFkdF4pZE01OSZudW1tZXI4Nj9xMC0wMSDxNQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-03-27";
+		schema:contentSize 1392583;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_16 a schema:Dataset;
+	schema:name "6110-01.16";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1832.1841";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0116_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTV9QjcxNk9xMEc0NkIDNU92NjlCNTRGMjA3QjczMEZGJmFkdF4pZE01OSZudW1tZXI4Nj9xMC0wMSDxNg>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 1235148;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_17 a schema:Dataset;
+	schema:name "6110-01.17";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1842.1851";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0117_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-06-07";
+		schema:contentSize 1373297;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_18 a schema:Dataset;
+	schema:name "6110-01.18";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1852.1861";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0118_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTlFRUMxO9FGOTUwNEcwR9Y2QjM3Nzk2OE9zMjA3RERBJmFkdF4pZE01OSZudW1tZXI4Nj9xMC0wMSDxOA>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 1418397;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_19 a schema:Dataset;
+	schema:name "6110-01.19";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1862.1871";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0119_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTgwRkJENzM0RjlBMT93MTRCNzU1MzJFNkQ2RUQ3O990JmFkdF4pZE01OSZudW1tZXI4Nj9xMC0wMSDxOQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-04-10";
+		schema:contentSize 1776561;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_2 a schema:Dataset;
+	schema:name "6110-01.2";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1822.1831";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-012_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-06-07";
+		schema:contentSize 4048349;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_20 a schema:Dataset;
+	schema:name "6110-01.20";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1872.1881";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0120_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-06-07";
+		schema:contentSize 1803647;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_21 a schema:Dataset;
+	schema:name "6110-01.21";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1882.1891";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0121_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTh9RjN9Rjc5OTMDNzR9MT93OTdFMER9QUMzN990REdCJmFkdF4pZE01OSZudW1tZXI4Nj9xMC0wMSDyMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-03-24";
+		schema:contentSize 1558438;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_22 a schema:Dataset;
+	schema:name "6110-01.22";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1892.1901";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0122_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTI3MEY2QUYwMzhBOEYzNTk0NURBREMzM0I3R9J9QTQyJmFkdF4pZE01OSZudW1tZXI4Nj9xMC0wMSDyMg>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-09-27";
+		schema:contentSize 2334452;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_23 a schema:Dataset;
+	schema:name "6110-01.23";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1902.1912";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0123_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTI0QzZGMzZFQUFGMUYzNjV9OEUwQTl9M993NjJBN0V9JmFkdF4pZE01OSZudW1tZXI4Nj9xMC0wMSDyMw>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-22";
+		schema:contentSize 3804981;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_24 a schema:Dataset;
+	schema:name "6110-01.24";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1913.1921";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0124_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUI5NjZFMEJGNEc0OTIzNz95NUVEQzM0RjA0R9M1MjBBJmFkdF4pZE01OSZudW1tZXI4Nj9xMC0wMSDyNA>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-23";
+		schema:contentSize 3870601;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_25 a schema:Dataset;
+	schema:name "6110-01.25";
+	schema:description "Huwelijksakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1922.1926";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0125_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-11-30";
+		schema:contentSize 708530;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_3 a schema:Dataset;
+	schema:name "6110-01.3";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1832.1841";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-013_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-06-07";
+		schema:contentSize 4350069;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_30 a schema:Dataset;
+	schema:name "6110-01.30";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1812.1821";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0130_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-12-17";
+		schema:contentSize 2526147;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_31 a schema:Dataset;
+	schema:name "6110-01.31";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1822.1831";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0131_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-12-17";
+		schema:contentSize 3013894;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_32 a schema:Dataset;
+	schema:name "6110-01.32";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1832.1841";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0132_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-12-17";
+		schema:contentSize 3212112;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_33 a schema:Dataset;
+	schema:name "6110-01.33";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1842.1851";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0133_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-12-17";
+		schema:contentSize 3812669;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_34 a schema:Dataset;
+	schema:name "6110-01.34";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1852.1861";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0134_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-09-17";
+		schema:contentSize 3556244;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_35 a schema:Dataset;
+	schema:name "6110-01.35";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1862.1871";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0135_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-05-10";
+		schema:contentSize 4213542;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_36 a schema:Dataset;
+	schema:name "6110-01.36";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1872.1881";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0136_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-05-10";
+		schema:contentSize 4054276;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_37 a schema:Dataset;
+	schema:name "6110-01.37";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1882.1891";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0137_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-12-17";
+		schema:contentSize 3347821;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_38 a schema:Dataset;
+	schema:name "6110-01.38";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1892.1901";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0138_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-04";
+		schema:contentSize 3993300;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_39 a schema:Dataset;
+	schema:name "6110-01.39";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1902.1912";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0139_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-12-17";
+		schema:contentSize 4633902;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_4 a schema:Dataset;
+	schema:name "6110-01.4";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1842.1851";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-014_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUU5M9UDRE9xM0ZCNz93MjYxNTgwQzgDN0VBRUJGMkJ9JmFkdF4pZE01OSZudW1tZXI4Nj9xMC0wMSD0>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-19";
+		schema:contentSize 4231658;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_40 a schema:Dataset;
+	schema:name "6110-01.40";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1913.1921";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0140_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-12-17";
+		schema:contentSize 7170390;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_41 a schema:Dataset;
+	schema:name "6110-01.41";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1922.1926";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0141_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-12-17";
+		schema:contentSize 4746026;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_42 a schema:Dataset;
+	schema:name "6110-01.42";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1927.1931";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0142_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUQxM9QwQjA2NTRGNzRGMzczO9MDOTA1NkMDOUUzNUIzJmFkdF4pZE01OSZudW1tZXI4Nj9xMC0wMSD0Mg>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-04-10";
+		schema:contentSize 6687285;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_43 a schema:Dataset;
+	schema:name "6110-01.43";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1932.1936";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0143_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 8351403;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_44 a schema:Dataset;
+	schema:name "6110-01.44";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1937.1940";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0144_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-10-16";
+		schema:contentSize 8438703;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_45 a schema:Dataset;
+	schema:name "6110-01.45";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1941.1943";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0145_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-18";
+		schema:contentSize 7936688;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_46 a schema:Dataset;
+	schema:name "6110-01.46";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1944.1945";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0146_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-18";
+		schema:contentSize 7424454;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_47 a schema:Dataset;
+	schema:name "6110-01.47";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1946.1947";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0147_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUQDNzg2NTQ0QjkDNTdBM9VFQTg3OTM0RU9DRkI1NUZFJmFkdF4pZE01OSZudW1tZXI4Nj9xMC0wMSD0Nw>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-03-16";
+		schema:contentSize 5557503;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_48 a schema:Dataset;
+	schema:name "6110-01.48";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1948.1949";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0148_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-05-08";
+		schema:contentSize 4950636;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_49 a schema:Dataset;
+	schema:name "6110-01.49";
+	schema:description "Overlijdensakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1950.1951";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-0149_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-12-17";
+		schema:contentSize 2787011;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_5 a schema:Dataset;
+	schema:name "6110-01.5";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1852.1861";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-015_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-06-07";
+		schema:contentSize 3968909;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_6 a schema:Dataset;
+	schema:name "6110-01.6";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1862.1871";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-016_54_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTlBRUQ0OEQ5NzUzQ0Q2Mj9wO9YyQUNEOTcyOEY0OEQ0JmFkdF4pZE01OSZudW1tZXI4Nj9xMC0wMSD2>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-03-16";
+		schema:contentSize 4967537;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_7 a schema:Dataset;
+	schema:name "6110-01.7";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1872.1881";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-017_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-05-10";
+		schema:contentSize 5750238;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_8 a schema:Dataset;
+	schema:name "6110-01.8";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1882.1891";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-018_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-06-07";
+		schema:contentSize 5472326;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6110-01_9 a schema:Dataset;
+	schema:name "6110-01.9";
+	schema:description "Geboorteakten Leidschendam-Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1892.1901";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/a2a/NL-HaHGA_6110-019_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-06-07";
+		schema:contentSize 6191062;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-HaHGA_6130-01 a schema:Dataset;
+	schema:name "6130-01";
+	schema:description "Samenwerkingsverband Leidschendam van de Bonden van Overheidspersoneel, Abva Kabo en C.F.O.";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1974.1994";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_6130-01_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-08-05";
+		schema:contentSize 5332;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_6140-01 a schema:Dataset;
+	schema:name "6140-01";
+	schema:description "Hervormde Gemeente Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1450.1970";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_6140-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTQwN0VGR9ZFQjNGMzY3R9Q1Q0Q2MElBQjB9Rj9yQkJEJmFkdF4pZE01OSZudW1tZXI4Nj90MC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 664901;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_6160-01 a schema:Dataset;
+	schema:name "6160-01";
+	schema:description "Rooms Katholieke Aloysius Voetbalvereniging (R.K.) A.V.V.";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1922.2012";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_6160-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUZBQkIwRTNGMEQ0MT9zNEF9QjYyNzh9MTIDMjdBOE93JmFkdF4pZE01OSZudW1tZXI4Nj92MC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 122517;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_6170-01 a schema:Dataset;
+	schema:name "6170-01";
+	schema:description "Partij van de arbeid (PvdA) afdeling Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1947.1987";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_6170-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUFCRTQDN9RGQjM5REk0RURBQjgwQUVGQjdFQkVBRE9xJmFkdF4pZE01OSZudW1tZXI4Nj93MC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 46047;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_6171-01 a schema:Dataset;
+	schema:name "6171-01";
+	schema:description "Roeivereniging Rijnland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1964.2010";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_6171-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUZENkQxMUZEQ0ZBOTFEQjFBREI3QkM1MUYxN993Qzl9JmFkdF4pZE01OSZudW1tZXI4Nj93MS0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 21976;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_6173-01 a schema:Dataset;
+	schema:name "6173-01";
+	schema:description "Gaarder of ontvanger der gemene middelen, Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1603.1808";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_6173-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTdFRTAxOEQDM09DOEMzNkQ1MjQ0R99zREQzQkQyMjgxJmFkdF4pZE01OSZudW1tZXI4Nj93My0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 10009;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_6175-01 a schema:Dataset;
+	schema:name "6175-01";
+	schema:description "Kinderdagverblijf Pinkeltje te Voorburg";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1968.1985";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_6175-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTc3N0MzRkM0NkVFMk9xNzQwR9Q2M0RGRUI1QUQyNzhEJmFkdF4pZE01OSZudW1tZXI4Nj93NS0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-04";
+		schema:contentSize 11225;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_7000-01 a schema:Dataset;
+	schema:name "7000-01";
+	schema:description "Bibliotheek Haags Gemeentearchief";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_7000-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUIwMTBGN0UDN0Y3MjkxNkQDRjYwOEc0MTcxRk92NUY1JmFkdF4pZE01OSZudW1tZXI4NzAwMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 277647;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8000-01 a schema:Dataset;
+	schema:name "8000-01";
+	schema:description "Brievencollectie - Bijzondere Collecties - OV 2";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1618.1967";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8000-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUJFOUM2NENGNThEQk92MTUxNUYyQ0Z9QjlFM0N9QTg0JmFkdF4pZE01OSZudW1tZXI4OEAwMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 405348;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8001-01 a schema:Dataset;
+	schema:name "8001-01";
+	schema:description "Schildersbrieven - Bijzondere Collecties - OV 2";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8001-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUI0QjAyOEQwNEI2MEMxMzg3NUIDN0UDRjgDREYzNjhGJmFkdF4pZE01OSZudW1tZXI4OEAwMS0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 1351926;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8002-01 a schema:Dataset;
+	schema:name "8002-01";
+	schema:description "Schildersbrieven Collectie Artz-de Waard - Bijzondere Collecties - OV 2";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8002-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUVFOURGMTFFOTAxMEA0N0VCNzU1QjgxRjl9NkIxMzI5JmFkdF4pZE01OSZudW1tZXI4OEAwMi0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 292706;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8003-01 a schema:Dataset;
+	schema:name "8003-01";
+	schema:description "Schildersbrieven Collectie Bienfait - Bijzondere Collecties - OV 2";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8003-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUV9RTNEQjIzNjUzQ0IxO9FGQzQ2NTkxNTAyRURFRTUxJmFkdF4pZE01OSZudW1tZXI4OEAwMy0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 211585;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8003-01_1 a schema:Dataset;
+	schema:name "8003-01.1";
+	schema:description "Beschrijvingen inhoud plakboek";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/mi/NL-HaHGA_8003-01.1_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-22";
+		schema:contentSize 26212;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-HaHGA_8004-01 a schema:Dataset;
+	schema:name "8004-01";
+	schema:description "Documentatie Personen - Bijzondere Collecties - OV 2";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8004-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTY1RTA5Q0U2RTQyREYDMT95MEc3QUVCMzNCQjgzREgzJmFkdF4pZE01OSZudW1tZXI4OEAwNC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 816386;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8005-01 a schema:Dataset;
+	schema:name "8005-01";
+	schema:description "Schildersbrieven Collectie J.H. van Mastenbroek - Bijzondere Collecties - OV 2";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1875.1945";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8005-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUFBOElCMkZCNzIzNEY2NjVFMjYwR9JGMTlBQzIxR9RGJmFkdF4pZE01OSZudW1tZXI4OEAwNS0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 119832;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8006-01 a schema:Dataset;
+	schema:name "8006-01";
+	schema:description "Schildersbrieven verzameling Hardenberg - Bijzondere Collecties - OV 2";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1839.1900";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8006-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PT9xNjUxREU1RkRGNEAzR9JBM0ZCRkNGQkIDQjY0QTMzJmFkdF4pZE01OSZudW1tZXI4OEAwNi0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 43506;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8007-01 a schema:Dataset;
+	schema:name "8007-01";
+	schema:description "Schildersbrieven Buitenlandse - Bijzondere Collecties - OV 2";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8007-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PT91RTl9NUY2NUJFNENGMzgyQjQ1MTI3MzM3MTNFQU91JmFkdF4pZE01OSZudW1tZXI4OEAwNy0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 118166;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8008-01 a schema:Dataset;
+	schema:name "8008-01";
+	schema:description "Documentatie Instellingen - Bijzondere Collecties - OV 3";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8008-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUM3RThGM9IzRjlGNTgDQjQ5NjA0NzUyNjlCQ0Q3O9FEJmFkdF4pZE01OSZudW1tZXI4OEAwOC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 864352;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8009-01 a schema:Dataset;
+	schema:name "8009-01";
+	schema:description "Reclamecollectie - Bijzondere Collecties - OV 3";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8009-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PU90QTA3Rj9wME9DMzI2N0UyRUYwOEN9M0RGM0RCOEMzJmFkdF4pZE01OSZudW1tZXI4OEAwOS0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 450349;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8010-01 a schema:Dataset;
+	schema:name "8010-01";
+	schema:description "Stickerverzamelingen - Bijzondere Collecties - OV 3";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8010-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUYyMEg5M9NERkM1MTIwNjc1MTZBNzg1NzNGN0Q0NE93JmFkdF4pZE01OSZudW1tZXI4OEAxMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 125064;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8011-01 a schema:Dataset;
+	schema:name "8011-01";
+	schema:description "Suikerzakjes - Bijzondere Collecties - OV 3";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8011-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PU9zQjI2QTR9MEUDMjJEN9UDQkJENTk5MzFEQz92NTFEJmFkdF4pZE01OSZudW1tZXI4OEAxMS0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 6166;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8013-01 a schema:Dataset;
+	schema:name "8013-01";
+	schema:description "Menu's - Bijzondere Collecties - OV 5";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8013-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUUDNTdGRUQ3RU9DNzAyQzcwNTcDRkYxRTA3OT95MTdGJmFkdF4pZE01OSZudW1tZXI4OEAxMy0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 124670;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8015-01 a schema:Dataset;
+	schema:name "8015-01";
+	schema:description "Nieuwjaarswensen - Bijzondere Collecties - OV 8";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8015-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTl9MEVBNUU1NjUDMzREQjFCNUQ2Qk91NjY0OUIzOEQ1JmFkdF4pZE01OSZudW1tZXI4OEAxNS0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 42539;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8018-01 a schema:Dataset;
+	schema:name "8018-01";
+	schema:description "Collectie Eerste Wereldoorlog - Bijzondere Collecties- OV 10";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8018-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTkDMjlBNEBFQTF9N0M0N0MzMjlBMEVBNUUzRkRFMEg0JmFkdF4pZE01OSZudW1tZXI4OEAxOC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 38107;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8019-01 a schema:Dataset;
+	schema:name "8019-01";
+	schema:description "Collectie Tweede Wereldoorlog - Bijzondere Collecties - OV 10";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1938.1946";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8019-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUYyQThGNTc5OUUwNUNCRTgyMkUwMzNEOTQ0QjcxMTQ0JmFkdF4pZE01OSZudW1tZXI4OEAxOS0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-22";
+		schema:contentSize 254343;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8020-01 a schema:Dataset;
+	schema:name "8020-01";
+	schema:description "Diverse evenementen - Bijzondere Collecties - OV 10";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8020-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTlFR9ZCNzc2O9F9RjU0MTVFNzQ0NEdEMUY5MUZ9NjNBJmFkdF4pZE01OSZudW1tZXI4OEAyMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 101838;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8021-01 a schema:Dataset;
+	schema:name "8021-01";
+	schema:description "Congressen - Bijzondere Collecties - OV 10";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8021-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTR9REAyOTIzQkQzOEI1MTM3NEkzMzY5R9VBRUMxREdCJmFkdF4pZE01OSZudW1tZXI4OEAyMS0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 76016;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8022-01 a schema:Dataset;
+	schema:name "8022-01";
+	schema:description "Sport - Bijzondere Collecties - OV 10";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8022-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTk2Mj9yMjA2NTAzN0FEQjg0MTYDNEJENkU5Qk91R9RBJmFkdF4pZE01OSZudW1tZXI4OEAyMi0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 24840;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8023-01 a schema:Dataset;
+	schema:name "8023-01";
+	schema:description "Tentoonstellingen - Bijzondere Collecties - OV 10";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8023-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUYDREFGMjY5MUZCR9U1Qzd9RTR9MjNGMzVEQT9xOEYyJmFkdF4pZE01OSZudW1tZXI4OEAyMy0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 36031;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8024-01 a schema:Dataset;
+	schema:name "8024-01";
+	schema:description "Circus - Bijzondere Collecties - OV 10";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8024-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTY2QTcxRUMzMEBGRU90QUFGNTdBREZBRTk3O9IDO9I1JmFkdF4pZE01OSZudW1tZXI4OEAyNC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 27756;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8029-01 a schema:Dataset;
+	schema:name "8029-01";
+	schema:description "Documentatie Straten - Bijzondere Collecties - OV 14";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8029-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTQ1NT9wQ0YwQTM2READMEMxNz9zMjk0NEU2NjY3REA3JmFkdF4pZE01OSZudW1tZXI4OEAyOS0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 143346;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8030-01 a schema:Dataset;
+	schema:name "8030-01";
+	schema:description "Documentatie Wijken - Bijzondere Collecties - OV 14";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8030-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PURENjBFRUZ9NzcDM9YzMEUzRTN9NU90OEJEN0QzNUI2JmFkdF4pZE01OSZudW1tZXI4OEAzMC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 238292;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8031-01 a schema:Dataset;
+	schema:name "8031-01";
+	schema:description "Krantenzoeksysteem Krantenklapper - Bijzondere Collecties - OV 16";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:temporalCoverage: "1952.1977";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8031-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUU1MTYwMkFBNzUDMjQ1OEBFNTI2NEJERTg2NjIxQzU1JmFkdF4pZE01OSZudW1tZXI4OEAzMS0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 235613;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8032-01 a schema:Dataset;
+	schema:name "8032-01";
+	schema:description "Persdocumentatie Gemeente Den Haag - Bijzondere Collecties - OV 16";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8032-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUQ1QUYyRTgxRjVCQzk3NEFBQTk1M9VFMUNEREk3QkQ3JmFkdF4pZE01OSZudW1tZXI4OEAzMi0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 372998;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8033-01 a schema:Dataset;
+	schema:name "8033-01";
+	schema:description "Krantenknipsels Het Vrije Volk - Bijzondere Collecties - OV 16";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8033-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTY2MjM2QkF9NzUyMzM5Qk91Mjc2NTI3OTA3RUQyRj9yJmFkdF4pZE01OSZudW1tZXI4OEAzMy0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 153313;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8035-01 a schema:Dataset;
+	schema:name "8035-01";
+	schema:description "Knipselbundels en plakboeken - Bijzondere Collecties - OV 16";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8035-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTlCQzBBRUQDMEJEQTk5OTk0NkZBRTAxM0FGMUQDQjVGJmFkdF4pZE01OSZudW1tZXI4OEAzNS0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 286460;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8036-01 a schema:Dataset;
+	schema:name "8036-01";
+	schema:description "Onderzoeken en Aantekeningen Haagse Geschiedenis - Bijzondere Collecties - OV 18";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8036-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUZ9O9U5OEg0QUJCO9IxNzYxMkJGNjMDNTQzMj9wNTRBJmFkdF4pZE01OSZudW1tZXI4OEAzNi0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 34559;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8037-01 a schema:Dataset;
+	schema:name "8037-01";
+	schema:description "Collectie Morren - Onderzoeken en aantekeningen Haagse geschiedenis - OV 18";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8037-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUQwRTg1N0MzOEYwQjNEOUYyMEQ3QzI5REcDNTlEOUZEJmFkdF4pZE01OSZudW1tZXI4OEAzNy0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 31968;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8038-01 a schema:Dataset;
+	schema:name "8038-01";
+	schema:description "Collectie Mensonides - Onderzoeken en aantekeningen Haagse geschiedenis - OV 18";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8038-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTMwNzM5MTQzRTA0RkFBNzI1NUQ2N0Q1MT9wQ0F9RUFBJmFkdF4pZE01OSZudW1tZXI4OEAzOC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 52024;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8039-01 a schema:Dataset;
+	schema:name "8039-01";
+	schema:description "Overige Verzamelingen 18 Aantekeningen betreffende Haagse geschiedenis - Collectie Bijlsma";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8039-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTVFMk90M0Y3MEI2QUZENkNBRjYzNjgxNTR9NkI0MEFGJmFkdF4pZE01OSZudW1tZXI4OEAzOS0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 2448;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8042-01 a schema:Dataset;
+	schema:name "8042-01";
+	schema:description "Bouwplaten en Spellen - Bijzondere Collecties - OV 20";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8042-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTk3NEhFM091OEADRThBMjVCQUQ5M9ZEMEQyO9ZEQjA2JmFkdF4pZE01OSZudW1tZXI4OEA0Mi0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 22861;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8043-01 a schema:Dataset;
+	schema:name "8043-01";
+	schema:description "Bioscopen - Bijzondere Collecties - OV 10";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8043-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTI5R9YxMTQ3MEg0M0VCRTk1QkM3NERCQjREOEQDQ0JBJmFkdF4pZE01OSZudW1tZXI4OEA0My0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 21020;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8044-01 a schema:Dataset;
+	schema:name "8044-01";
+	schema:description "Dans en ballet - Bijzondere Collecties - OV 10";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8044-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTg2NEY2NUMwRTMyR9REMTg2Qz9wRjNFRjJFRER9NjgxJmFkdF4pZE01OSZudW1tZXI4OEA0NC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 84658;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8046-01 a schema:Dataset;
+	schema:name "8046-01";
+	schema:description "Collectie Opera - Bijzondere Collecties - OV 10";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8046-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTM3RkU5NzRFM0RBQjYxRTQxMTUyMjdGRUY3M9I1RkNFJmFkdF4pZE01OSZudW1tZXI4OEA0Ni0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 54904;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8047-01 a schema:Dataset;
+	schema:name "8047-01";
+	schema:description "Collectie VariÃ©tÃ© - Bijzondere Collecties - OV 10";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8047-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUZGMkF9MTl9NEl9R9QzR9NCNjc1MTBBNTc1MkIDN9UyJmFkdF4pZE01OSZudW1tZXI4OEA0Ny0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 86664;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8048-01 a schema:Dataset;
+	schema:name "8048-01";
+	schema:description "Collectie Toneel - Bijzondere Collecties - OV 10";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8048-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUZBQ0Q2O9R9MzY3Rj9DQz9wNEFBNUVCO9FFMTI1M0U5JmFkdF4pZE01OSZudW1tZXI4OEA0OC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 210968;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8049-01 a schema:Dataset;
+	schema:name "8049-01";
+	schema:description "Collectie Operette â Bijzondere Collecties â OV 10";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8049-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTFBOERGMEhCQUM5Q0FGO9VBRUVFRjMyQjhBOTA3O99yJmFkdF4pZE01OSZudW1tZXI4OEA0OS0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 59661;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8050-01 a schema:Dataset;
+	schema:name "8050-01";
+	schema:description "Collectie Revue â Bijzondere Collecties - OV 10";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8050-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTc5MjIzO9NFQTgwRjA1N9N9MTU2MzM5QTVBQjlCOTcxJmFkdF4pZE01OSZudW1tZXI4OEA1MC0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 38713;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_8051-01 a schema:Dataset;
+	schema:name "8051-01";
+	schema:description "Collectie Voordrachten â Bijzondere Collecties â OV 10";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/ead/NL-HaHGA_8051-01_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTMzMzc3RUZGRkQ3NTk5NURGRkFFM0U3REQzM0N9OUVBJmFkdF4pZE01OSZudW1tZXI4OEA1MS0wMQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-01";
+		schema:contentSize 31715;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HaHGA_TEST a schema:Dataset;
+	schema:name "TEST";
+	schema:description "Toegang om mee te experimenteren";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HaHGA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HaHGA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-hga/mi/NL-HaHGA_TEST_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-12";
+		schema:contentSize 1337462;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:organisation_NL-HaHGA a schema:Organization;
+	schema:identifer "NL-HaHGA";
+	schema:name "Haags Gemeentetarchief";
+	schema:url "https://haagsgemeentearchief.nl/";
+	schema:address [ a schema:PostalAddress; schema:addressLocality "Den Haag" ].
+anl:datacatalog_NL-HaHGA a schema:DataCatalog;
+	schema:name "Dataset catalogus van de open data gepubliceerd op archieven.nl van Haags Gemeentetarchief";
+	schema:publisher anl:organisation_NL-HaHGA;
+	schema:dataset anl:dataset_NL-HaHGA_5029-01, anl:dataset_NL-HaHGA_5064-01, anl:dataset_NL-HaHGA_5079-01, anl:dataset_NL-HaHGA_5080-01, anl:dataset_NL-HaHGA_5081-01, anl:dataset_NL-HaHGA_5084-01, anl:dataset_NL-HaHGA_5094-01, anl:dataset_NL-HaHGA_5100-01, anl:dataset_NL-HaHGA_5103-01, anl:dataset_NL-HaHGA_5105-01, anl:dataset_NL-HaHGA_5110-01, anl:dataset_NL-HaHGA_5111-01, anl:dataset_NL-HaHGA_5113-01, anl:dataset_NL-HaHGA_5125-01, anl:dataset_NL-HaHGA_5127-01, anl:dataset_NL-HaHGA_5129-01, anl:dataset_NL-HaHGA_5210-01, anl:dataset_NL-HaHGA_5220-01, anl:dataset_NL-HaHGA_5230-01, anl:dataset_NL-HaHGA_5240-01, anl:dataset_NL-HaHGA_5270-01, anl:dataset_NL-HaHGA_5270-01_2189, anl:dataset_NL-HaHGA_5270-01_2190, anl:dataset_NL-HaHGA_5270-01_2191, anl:dataset_NL-HaHGA_5270-01_2192, anl:dataset_NL-HaHGA_5270-01_2193, anl:dataset_NL-HaHGA_5270-01_2194, anl:dataset_NL-HaHGA_5270-01_2195, anl:dataset_NL-HaHGA_5270-01_2196, anl:dataset_NL-HaHGA_5270-01_2197, anl:dataset_NL-HaHGA_5270-01_2198, anl:dataset_NL-HaHGA_5270-01_2199, anl:dataset_NL-HaHGA_5270-01_2200, anl:dataset_NL-HaHGA_5270-01_2201, anl:dataset_NL-HaHGA_5270-01_2208, anl:dataset_NL-HaHGA_5270-01_2209, anl:dataset_NL-HaHGA_5270-01_2210, anl:dataset_NL-HaHGA_5270-01_2211, anl:dataset_NL-HaHGA_5270-01_2212, anl:dataset_NL-HaHGA_5270-01_2213, anl:dataset_NL-HaHGA_5270-01_2214, anl:dataset_NL-HaHGA_5270-01_2216, anl:dataset_NL-HaHGA_5270-01_2217, anl:dataset_NL-HaHGA_5270-01_2218, anl:dataset_NL-HaHGA_5270-01_2219, anl:dataset_NL-HaHGA_5270-01_2220, anl:dataset_NL-HaHGA_5270-01_2221, anl:dataset_NL-HaHGA_5270-01_2222, anl:dataset_NL-HaHGA_5270-01_2223, anl:dataset_NL-HaHGA_5270-01_454, anl:dataset_NL-HaHGA_5270-01_455, anl:dataset_NL-HaHGA_5270-01_456, anl:dataset_NL-HaHGA_5270-01_872, anl:dataset_NL-HaHGA_5270-01_873, anl:dataset_NL-HaHGA_5270-01_874, anl:dataset_NL-HaHGA_5270-01_875, anl:dataset_NL-HaHGA_5270-01_876, anl:dataset_NL-HaHGA_5270-01_877, anl:dataset_NL-HaHGA_5270-01_878, anl:dataset_NL-HaHGA_5270-01_879, anl:dataset_NL-HaHGA_5270-01_880, anl:dataset_NL-HaHGA_5270-01_881, anl:dataset_NL-HaHGA_5270-01_882, anl:dataset_NL-HaHGA_5270-01_883, anl:dataset_NL-HaHGA_5270-01_884, anl:dataset_NL-HaHGA_5270-01_885, anl:dataset_NL-HaHGA_5270-01_886, anl:dataset_NL-HaHGA_5270-01_887, anl:dataset_NL-HaHGA_5270-01_894, anl:dataset_NL-HaHGA_5270-01_895, anl:dataset_NL-HaHGA_5270-01_896, anl:dataset_NL-HaHGA_5270-01_897, anl:dataset_NL-HaHGA_5270-01_898, anl:dataset_NL-HaHGA_5270-01_899, anl:dataset_NL-HaHGA_5270-01_900, anl:dataset_NL-HaHGA_5270-01_901, anl:dataset_NL-HaHGA_5270-01_902, anl:dataset_NL-HaHGA_5270-01_904, anl:dataset_NL-HaHGA_5270-01_905, anl:dataset_NL-HaHGA_5270-01_906, anl:dataset_NL-HaHGA_5270-01_907, anl:dataset_NL-HaHGA_5270-01_908, anl:dataset_NL-HaHGA_5270-01_909, anl:dataset_NL-HaHGA_5270-01_910, anl:dataset_NL-HaHGA_5270-01_911, anl:dataset_NL-HaHGA_5270-01_912, anl:dataset_NL-HaHGA_5270-01_913, anl:dataset_NL-HaHGA_5270-01_914, anl:dataset_NL-HaHGA_5270-01_915, anl:dataset_NL-HaHGA_5340-01, anl:dataset_NL-HaHGA_5370-01, anl:dataset_NL-HaHGA_5400-01, anl:dataset_NL-HaHGA_5410-01, anl:dataset_NL-HaHGA_5420-01, anl:dataset_NL-HaHGA_5430-01, anl:dataset_NL-HaHGA_5440-01, anl:dataset_NL-HaHGA_5450-01, anl:dataset_NL-HaHGA_5460-01, anl:dataset_NL-HaHGA_5470-01, anl:dataset_NL-HaHGA_5480-01, anl:dataset_NL-HaHGA_5500-01, anl:dataset_NL-HaHGA_5550-01, anl:dataset_NL-HaHGA_5680-01, anl:dataset_NL-HaHGA_5700-01, anl:dataset_NL-HaHGA_5930-01, anl:dataset_NL-HaHGA_5940-01, anl:dataset_NL-HaHGA_5960-01, anl:dataset_NL-HaHGA_5990-01, anl:dataset_NL-HaHGA_6002-01, anl:dataset_NL-HaHGA_6003-01, anl:dataset_NL-HaHGA_6005-01, anl:dataset_NL-HaHGA_6006-01, anl:dataset_NL-HaHGA_6009-01, anl:dataset_NL-HaHGA_6010-01, anl:dataset_NL-HaHGA_6020-01, anl:dataset_NL-HaHGA_6040-01, anl:dataset_NL-HaHGA_6050-01, anl:dataset_NL-HaHGA_6060-01, anl:dataset_NL-HaHGA_6070-01, anl:dataset_NL-HaHGA_6080-01, anl:dataset_NL-HaHGA_6110-01, anl:dataset_NL-HaHGA_6110-01_1, anl:dataset_NL-HaHGA_6110-01_10, anl:dataset_NL-HaHGA_6110-01_13, anl:dataset_NL-HaHGA_6110-01_14, anl:dataset_NL-HaHGA_6110-01_15, anl:dataset_NL-HaHGA_6110-01_16, anl:dataset_NL-HaHGA_6110-01_17, anl:dataset_NL-HaHGA_6110-01_18, anl:dataset_NL-HaHGA_6110-01_19, anl:dataset_NL-HaHGA_6110-01_2, anl:dataset_NL-HaHGA_6110-01_20, anl:dataset_NL-HaHGA_6110-01_21, anl:dataset_NL-HaHGA_6110-01_22, anl:dataset_NL-HaHGA_6110-01_23, anl:dataset_NL-HaHGA_6110-01_24, anl:dataset_NL-HaHGA_6110-01_25, anl:dataset_NL-HaHGA_6110-01_3, anl:dataset_NL-HaHGA_6110-01_30, anl:dataset_NL-HaHGA_6110-01_31, anl:dataset_NL-HaHGA_6110-01_32, anl:dataset_NL-HaHGA_6110-01_33, anl:dataset_NL-HaHGA_6110-01_34, anl:dataset_NL-HaHGA_6110-01_35, anl:dataset_NL-HaHGA_6110-01_36, anl:dataset_NL-HaHGA_6110-01_37, anl:dataset_NL-HaHGA_6110-01_38, anl:dataset_NL-HaHGA_6110-01_39, anl:dataset_NL-HaHGA_6110-01_4, anl:dataset_NL-HaHGA_6110-01_40, anl:dataset_NL-HaHGA_6110-01_41, anl:dataset_NL-HaHGA_6110-01_42, anl:dataset_NL-HaHGA_6110-01_43, anl:dataset_NL-HaHGA_6110-01_44, anl:dataset_NL-HaHGA_6110-01_45, anl:dataset_NL-HaHGA_6110-01_46, anl:dataset_NL-HaHGA_6110-01_47, anl:dataset_NL-HaHGA_6110-01_48, anl:dataset_NL-HaHGA_6110-01_49, anl:dataset_NL-HaHGA_6110-01_5, anl:dataset_NL-HaHGA_6110-01_6, anl:dataset_NL-HaHGA_6110-01_7, anl:dataset_NL-HaHGA_6110-01_8, anl:dataset_NL-HaHGA_6110-01_9, anl:dataset_NL-HaHGA_6130-01, anl:dataset_NL-HaHGA_6140-01, anl:dataset_NL-HaHGA_6160-01, anl:dataset_NL-HaHGA_6170-01, anl:dataset_NL-HaHGA_6171-01, anl:dataset_NL-HaHGA_6173-01, anl:dataset_NL-HaHGA_6175-01, anl:dataset_NL-HaHGA_7000-01, anl:dataset_NL-HaHGA_8000-01, anl:dataset_NL-HaHGA_8001-01, anl:dataset_NL-HaHGA_8002-01, anl:dataset_NL-HaHGA_8003-01, anl:dataset_NL-HaHGA_8003-01_1, anl:dataset_NL-HaHGA_8004-01, anl:dataset_NL-HaHGA_8005-01, anl:dataset_NL-HaHGA_8006-01, anl:dataset_NL-HaHGA_8007-01, anl:dataset_NL-HaHGA_8008-01, anl:dataset_NL-HaHGA_8009-01, anl:dataset_NL-HaHGA_8010-01, anl:dataset_NL-HaHGA_8011-01, anl:dataset_NL-HaHGA_8013-01, anl:dataset_NL-HaHGA_8015-01, anl:dataset_NL-HaHGA_8018-01, anl:dataset_NL-HaHGA_8019-01, anl:dataset_NL-HaHGA_8020-01, anl:dataset_NL-HaHGA_8021-01, anl:dataset_NL-HaHGA_8022-01, anl:dataset_NL-HaHGA_8023-01, anl:dataset_NL-HaHGA_8024-01, anl:dataset_NL-HaHGA_8029-01, anl:dataset_NL-HaHGA_8030-01, anl:dataset_NL-HaHGA_8031-01, anl:dataset_NL-HaHGA_8032-01, anl:dataset_NL-HaHGA_8033-01, anl:dataset_NL-HaHGA_8035-01, anl:dataset_NL-HaHGA_8036-01, anl:dataset_NL-HaHGA_8037-01, anl:dataset_NL-HaHGA_8038-01, anl:dataset_NL-HaHGA_8039-01, anl:dataset_NL-HaHGA_8042-01, anl:dataset_NL-HaHGA_8043-01, anl:dataset_NL-HaHGA_8044-01, anl:dataset_NL-HaHGA_8046-01, anl:dataset_NL-HaHGA_8047-01, anl:dataset_NL-HaHGA_8048-01, anl:dataset_NL-HaHGA_8049-01, anl:dataset_NL-HaHGA_8050-01, anl:dataset_NL-HaHGA_8051-01, anl:dataset_NL-HaHGA_TEST.
+

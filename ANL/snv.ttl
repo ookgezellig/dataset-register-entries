@@ -3,12 +3,15 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 @prefix anl: <https://www.archieven.nl/id/>.
 
+# Test bestand gegenereerd via create_ttl_datacatalog_pages.pl op basis van door Open Archieven verzamelde informatie. 
+
 anl:dataset_NL-EbSNWV_1001 a schema:Dataset;
 	schema:name "1001";
 	schema:description "Stadsbestuur Elburg, 1320-1813";
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1320.1813";
 	schema:distribution [
@@ -26,6 +29,7 @@ anl:dataset_NL-EbSNWV_1003 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1442.1811";
 	schema:distribution [
@@ -43,6 +47,7 @@ anl:dataset_NL-EbSNWV_1004 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -59,6 +64,7 @@ anl:dataset_NL-EbSNWV_1004_247 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1900.1902";
 	schema:distribution [
@@ -76,6 +82,7 @@ anl:dataset_NL-EbSNWV_1004_248 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1902.1904";
 	schema:distribution [
@@ -93,6 +100,7 @@ anl:dataset_NL-EbSNWV_1004_250 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1907.1909";
 	schema:distribution [
@@ -110,6 +118,7 @@ anl:dataset_NL-EbSNWV_1004_251 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1910.1912";
 	schema:distribution [
@@ -127,6 +136,7 @@ anl:dataset_NL-EbSNWV_1004_252 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1912.1912";
 	schema:distribution [
@@ -144,6 +154,7 @@ anl:dataset_NL-EbSNWV_1004_345 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -160,6 +171,7 @@ anl:dataset_NL-EbSNWV_1004_98 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1885.1898";
 	schema:distribution [
@@ -177,6 +189,7 @@ anl:dataset_NL-EbSNWV_1005 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -193,6 +206,7 @@ anl:dataset_NL-EbSNWV_1017 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1732.1811";
 	schema:distribution [
@@ -210,6 +224,7 @@ anl:dataset_NL-EbSNWV_1019 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1359.1884";
 	schema:distribution [
@@ -227,6 +242,7 @@ anl:dataset_NL-EbSNWV_1024 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1743.1814";
 	schema:distribution [
@@ -244,6 +260,7 @@ anl:dataset_NL-EbSNWV_1028 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1365.1616";
 	schema:distribution [
@@ -261,6 +278,7 @@ anl:dataset_NL-EbSNWV_1029 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -277,6 +295,7 @@ anl:dataset_NL-EbSNWV_1029_134 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1900.1900";
 	schema:distribution [
@@ -294,6 +313,7 @@ anl:dataset_NL-EbSNWV_1029_138 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1906.1906";
 	schema:distribution [
@@ -311,6 +331,7 @@ anl:dataset_NL-EbSNWV_1029_139 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1907.1907";
 	schema:distribution [
@@ -328,6 +349,7 @@ anl:dataset_NL-EbSNWV_1029_29 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1823.1824";
 	schema:distribution [
@@ -345,6 +367,7 @@ anl:dataset_NL-EbSNWV_1029_71 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1900.1906";
 	schema:distribution [
@@ -362,6 +385,7 @@ anl:dataset_NL-EbSNWV_1029_72 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1906.1914";
 	schema:distribution [
@@ -379,6 +403,7 @@ anl:dataset_NL-EbSNWV_1029_81 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1896.1914";
 	schema:distribution [
@@ -396,6 +421,7 @@ anl:dataset_NL-EbSNWV_1030 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -412,6 +438,7 @@ anl:dataset_NL-EbSNWV_1036 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -428,6 +455,7 @@ anl:dataset_NL-EbSNWV_1050 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -444,6 +472,7 @@ anl:dataset_NL-EbSNWV_1050_446 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1915.1915";
 	schema:distribution [
@@ -461,6 +490,7 @@ anl:dataset_NL-EbSNWV_1050_447 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1916.1916";
 	schema:distribution [
@@ -478,6 +508,7 @@ anl:dataset_NL-EbSNWV_1050_448 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1913.1913";
 	schema:distribution [
@@ -495,6 +526,7 @@ anl:dataset_NL-EbSNWV_1051 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -511,6 +543,7 @@ anl:dataset_NL-EbSNWV_1054 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1974.1989";
 	schema:distribution [
@@ -528,6 +561,7 @@ anl:dataset_NL-EbSNWV_1066 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1442.1798";
 	schema:distribution [
@@ -545,6 +579,7 @@ anl:dataset_NL-EbSNWV_1067 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1585.1873";
 	schema:distribution [
@@ -562,6 +597,7 @@ anl:dataset_NL-EbSNWV_1083 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1886.1958";
 	schema:distribution [
@@ -579,6 +615,7 @@ anl:dataset_NL-EbSNWV_1092 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1769.1802";
 	schema:distribution [
@@ -596,6 +633,7 @@ anl:dataset_NL-EbSNWV_1112 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1917.1919";
 	schema:distribution [
@@ -613,6 +651,7 @@ anl:dataset_NL-EbSNWV_1131 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1812.1960";
 	schema:distribution [
@@ -630,6 +669,7 @@ anl:dataset_NL-EbSNWV_1131_48 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1850.1850";
 	schema:distribution [
@@ -647,6 +687,7 @@ anl:dataset_NL-EbSNWV_1136 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1812.1932";
 	schema:distribution [
@@ -664,6 +705,7 @@ anl:dataset_NL-EbSNWV_1138 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1863.1959";
 	schema:distribution [
@@ -681,6 +723,7 @@ anl:dataset_NL-EbSNWV_1251 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1666.1726";
 	schema:distribution [
@@ -698,6 +741,7 @@ anl:dataset_NL-EbSNWV_1252 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1635.1727";
 	schema:distribution [
@@ -715,6 +759,7 @@ anl:dataset_NL-EbSNWV_1253 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1727.1789";
 	schema:distribution [
@@ -732,6 +777,7 @@ anl:dataset_NL-EbSNWV_1255 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1772.1811";
 	schema:distribution [
@@ -749,6 +795,7 @@ anl:dataset_NL-EbSNWV_1256 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1732.1771";
 	schema:distribution [
@@ -766,6 +813,7 @@ anl:dataset_NL-EbSNWV_1257 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1843.1871";
 	schema:distribution [
@@ -783,6 +831,7 @@ anl:dataset_NL-EbSNWV_1259 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1872.1925";
 	schema:distribution [
@@ -800,6 +849,7 @@ anl:dataset_NL-EbSNWV_1260 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -816,6 +866,7 @@ anl:dataset_NL-EbSNWV_1262 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -832,15 +883,15 @@ anl:dataset_NL-EbSNWV_1263 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1727.1789";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1263_54_MI.xml?format=file>;
+		schema:contentUrl <>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2016-11-15";
 		schema:contentSize 7379594;
-		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_1264 a schema:Dataset;
@@ -849,15 +900,15 @@ anl:dataset_NL-EbSNWV_1264 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1790.1811";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1264_54_MI.xml?format=file>;
+		schema:contentUrl <>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2016-11-15";
 		schema:contentSize 3538753;
-		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_1266 a schema:Dataset;
@@ -866,6 +917,7 @@ anl:dataset_NL-EbSNWV_1266 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1736.1771";
 	schema:distribution [
@@ -883,15 +935,15 @@ anl:dataset_NL-EbSNWV_1267 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1772.1811";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1267_54_MI.xml?format=file>;
+		schema:contentUrl <>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2016-11-15";
 		schema:contentSize 4176098;
-		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_1268 a schema:Dataset;
@@ -900,15 +952,15 @@ anl:dataset_NL-EbSNWV_1268 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1796.1811";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1268_54_MI.xml?format=file>;
+		schema:contentUrl <>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2016-11-15";
 		schema:contentSize 642201;
-		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_1269 a schema:Dataset;
@@ -917,6 +969,7 @@ anl:dataset_NL-EbSNWV_1269 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1948.1989";
 	schema:distribution [
@@ -934,6 +987,7 @@ anl:dataset_NL-EbSNWV_1351 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1870.1880";
 	schema:distribution [
@@ -951,6 +1005,7 @@ anl:dataset_NL-EbSNWV_1352 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -967,6 +1022,7 @@ anl:dataset_NL-EbSNWV_1353 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1840.1840";
 	schema:distribution [
@@ -984,6 +1040,7 @@ anl:dataset_NL-EbSNWV_1354 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1850.1850";
 	schema:distribution [
@@ -1001,6 +1058,7 @@ anl:dataset_NL-EbSNWV_1356 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1890.1920";
 	schema:distribution [
@@ -1018,6 +1076,7 @@ anl:dataset_NL-EbSNWV_1357 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1850.1850";
 	schema:distribution [
@@ -1035,6 +1094,7 @@ anl:dataset_NL-EbSNWV_1368 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1900.1920";
 	schema:distribution [
@@ -1052,6 +1112,7 @@ anl:dataset_NL-EbSNWV_1369 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1900.1920";
 	schema:distribution [
@@ -1069,6 +1130,7 @@ anl:dataset_NL-EbSNWV_1370 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1900.1920";
 	schema:distribution [
@@ -1086,6 +1148,7 @@ anl:dataset_NL-EbSNWV_1371 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1900.1920";
 	schema:distribution [
@@ -1103,6 +1166,7 @@ anl:dataset_NL-EbSNWV_1372 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1900.1920";
 	schema:distribution [
@@ -1120,15 +1184,15 @@ anl:dataset_NL-EbSNWV_1382 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1890.1920";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_1382_54_MI.xml?format=file>;
+		schema:contentUrl <>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2016-11-16";
 		schema:contentSize 1914112;
-		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_1383 a schema:Dataset;
@@ -1137,6 +1201,7 @@ anl:dataset_NL-EbSNWV_1383 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1890.1920";
 	schema:distribution [
@@ -1154,6 +1219,7 @@ anl:dataset_NL-EbSNWV_1384 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1890.1920";
 	schema:distribution [
@@ -1171,6 +1237,7 @@ anl:dataset_NL-EbSNWV_1385 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1890.1920";
 	schema:distribution [
@@ -1188,6 +1255,7 @@ anl:dataset_NL-EbSNWV_1386 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1920.1930";
 	schema:distribution [
@@ -1205,6 +1273,7 @@ anl:dataset_NL-EbSNWV_1387 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1920.1930";
 	schema:distribution [
@@ -1222,6 +1291,7 @@ anl:dataset_NL-EbSNWV_1395 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -1238,6 +1308,7 @@ anl:dataset_NL-EbSNWV_1396 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1914.1918";
 	schema:distribution [
@@ -1255,6 +1326,7 @@ anl:dataset_NL-EbSNWV_1451 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1969.1972";
 	schema:distribution [
@@ -1272,6 +1344,7 @@ anl:dataset_NL-EbSNWV_1455 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1913.1960";
 	schema:distribution [
@@ -1289,6 +1362,7 @@ anl:dataset_NL-EbSNWV_1456 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1914.1981";
 	schema:distribution [
@@ -1306,6 +1380,7 @@ anl:dataset_NL-EbSNWV_1851 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "sys_ovr";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1811.2010";
 	schema:distribution [
@@ -1323,6 +1398,7 @@ anl:dataset_NL-EbSNWV_1852 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "sys_ovr";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1815.1974";
 	schema:distribution [
@@ -1340,6 +1416,7 @@ anl:dataset_NL-EbSNWV_2001 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1564.1811";
 	schema:distribution [
@@ -1357,6 +1434,7 @@ anl:dataset_NL-EbSNWV_2002 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -1373,6 +1451,7 @@ anl:dataset_NL-EbSNWV_2003 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1814.1919";
 	schema:distribution [
@@ -1390,6 +1469,7 @@ anl:dataset_NL-EbSNWV_2003_332 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1900.1902";
 	schema:distribution [
@@ -1407,6 +1487,7 @@ anl:dataset_NL-EbSNWV_2003_333 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1903.1904";
 	schema:distribution [
@@ -1424,6 +1505,7 @@ anl:dataset_NL-EbSNWV_2003_334 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1904.1905";
 	schema:distribution [
@@ -1441,6 +1523,7 @@ anl:dataset_NL-EbSNWV_2003_335 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1906.1907";
 	schema:distribution [
@@ -1458,6 +1541,7 @@ anl:dataset_NL-EbSNWV_2003_336 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1908.1909";
 	schema:distribution [
@@ -1475,6 +1559,7 @@ anl:dataset_NL-EbSNWV_2003_337 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1910.1911";
 	schema:distribution [
@@ -1492,6 +1577,7 @@ anl:dataset_NL-EbSNWV_2003_338 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1912.1913";
 	schema:distribution [
@@ -1509,6 +1595,7 @@ anl:dataset_NL-EbSNWV_2003_339 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1914.1915";
 	schema:distribution [
@@ -1526,6 +1613,7 @@ anl:dataset_NL-EbSNWV_2003_340 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1916.1916";
 	schema:distribution [
@@ -1543,6 +1631,7 @@ anl:dataset_NL-EbSNWV_2003_342 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1917.1918";
 	schema:distribution [
@@ -1560,6 +1649,7 @@ anl:dataset_NL-EbSNWV_2004 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -1576,6 +1666,7 @@ anl:dataset_NL-EbSNWV_2009 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1702.1817";
 	schema:distribution [
@@ -1593,6 +1684,7 @@ anl:dataset_NL-EbSNWV_2026 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1620.1802";
 	schema:distribution [
@@ -1610,6 +1702,7 @@ anl:dataset_NL-EbSNWV_2027 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1656.1826";
 	schema:distribution [
@@ -1627,6 +1720,7 @@ anl:dataset_NL-EbSNWV_2028 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1940.1987";
 	schema:distribution [
@@ -1644,6 +1738,7 @@ anl:dataset_NL-EbSNWV_2062 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1830.1990";
 	schema:distribution [
@@ -1661,6 +1756,7 @@ anl:dataset_NL-EbSNWV_2065 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1811.1817";
 	schema:distribution [
@@ -1678,6 +1774,7 @@ anl:dataset_NL-EbSNWV_2067 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1811.1950";
 	schema:distribution [
@@ -1695,6 +1792,7 @@ anl:dataset_NL-EbSNWV_2233 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1919.1939";
 	schema:distribution [
@@ -1712,6 +1810,7 @@ anl:dataset_NL-EbSNWV_2251 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1702.1771";
 	schema:distribution [
@@ -1729,14 +1828,14 @@ anl:dataset_NL-EbSNWV_2252 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2252_54_MI.xml?format=file>;
+		schema:contentUrl <>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2016-10-22";
 		schema:contentSize 374674;
-		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_2253 a schema:Dataset;
@@ -1745,14 +1844,14 @@ anl:dataset_NL-EbSNWV_2253 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2253_54_MI.xml?format=file>;
+		schema:contentUrl <>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2017-06-03";
 		schema:contentSize 2912986;
-		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_2254 a schema:Dataset;
@@ -1761,14 +1860,14 @@ anl:dataset_NL-EbSNWV_2254 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2254_54_MI.xml?format=file>;
+		schema:contentUrl <>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2016-10-22";
 		schema:contentSize 1025809;
-		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_2255 a schema:Dataset;
@@ -1777,14 +1876,14 @@ anl:dataset_NL-EbSNWV_2255 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2255_54_MI.xml?format=file>;
+		schema:contentUrl <>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2016-10-22";
 		schema:contentSize 8645837;
-		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_2256 a schema:Dataset;
@@ -1793,15 +1892,15 @@ anl:dataset_NL-EbSNWV_2256 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1773.1807";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2256_54_MI.xml?format=file>;
+		schema:contentUrl <>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2016-11-11";
 		schema:contentSize 3258973;
-		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_2257 a schema:Dataset;
@@ -1810,15 +1909,15 @@ anl:dataset_NL-EbSNWV_2257 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1610.1652";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2257_54_MI.xml?format=file>;
+		schema:contentUrl <>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2016-10-22";
 		schema:contentSize 2994199;
-		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_2258 a schema:Dataset;
@@ -1827,15 +1926,15 @@ anl:dataset_NL-EbSNWV_2258 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1807.1815";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2258_54_MI.xml?format=file>;
+		schema:contentUrl <>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2016-11-11";
 		schema:contentSize 1159980;
-		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_2260 a schema:Dataset;
@@ -1844,6 +1943,7 @@ anl:dataset_NL-EbSNWV_2260 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -1860,6 +1960,7 @@ anl:dataset_NL-EbSNWV_2261 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1702.1830";
 	schema:distribution [
@@ -1877,15 +1978,15 @@ anl:dataset_NL-EbSNWV_2262 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1850.1855";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2262_54_MI.xml?format=file>;
+		schema:contentUrl <>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2017-09-21";
 		schema:contentSize 168855;
-		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_2263 a schema:Dataset;
@@ -1894,6 +1995,7 @@ anl:dataset_NL-EbSNWV_2263 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1933.1940";
 	schema:distribution [
@@ -1911,6 +2013,7 @@ anl:dataset_NL-EbSNWV_2264 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -1927,15 +2030,15 @@ anl:dataset_NL-EbSNWV_2265 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1849.1857";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2265_54_MI.xml?format=file>;
+		schema:contentUrl <>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2017-09-21";
 		schema:contentSize 668985;
-		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_2266 a schema:Dataset;
@@ -1944,15 +2047,15 @@ anl:dataset_NL-EbSNWV_2266 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1907.1924";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2266_54_MI.xml?format=file>;
+		schema:contentUrl <>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2017-09-21";
 		schema:contentSize 1503742;
-		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_2267 a schema:Dataset;
@@ -1961,15 +2064,15 @@ anl:dataset_NL-EbSNWV_2267 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1888.1939";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2267_54_MI.xml?format=file>;
+		schema:contentUrl <>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2017-09-21";
 		schema:contentSize 2079053;
-		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_2268 a schema:Dataset;
@@ -1978,14 +2081,14 @@ anl:dataset_NL-EbSNWV_2268 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2268_18_MI.xml?format=file>;
+		schema:contentUrl <>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2016-09-01";
 		schema:contentSize 593922;
-		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_2269 a schema:Dataset;
@@ -1994,6 +2097,7 @@ anl:dataset_NL-EbSNWV_2269 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1870.1883";
 	schema:distribution [
@@ -2011,6 +2115,7 @@ anl:dataset_NL-EbSNWV_2270 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1941.1950";
 	schema:distribution [
@@ -2028,6 +2133,7 @@ anl:dataset_NL-EbSNWV_2271 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1951.1955";
 	schema:distribution [
@@ -2045,6 +2151,7 @@ anl:dataset_NL-EbSNWV_2273 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1859.1943";
 	schema:distribution [
@@ -2062,6 +2169,7 @@ anl:dataset_NL-EbSNWV_2274 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1857.1867";
 	schema:distribution [
@@ -2079,6 +2187,7 @@ anl:dataset_NL-EbSNWV_2275 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1867.1879";
 	schema:distribution [
@@ -2096,6 +2205,7 @@ anl:dataset_NL-EbSNWV_2276 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1879.1887";
 	schema:distribution [
@@ -2113,6 +2223,7 @@ anl:dataset_NL-EbSNWV_2277 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1887.1890";
 	schema:distribution [
@@ -2130,6 +2241,7 @@ anl:dataset_NL-EbSNWV_2278 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1891.1921";
 	schema:distribution [
@@ -2147,6 +2259,7 @@ anl:dataset_NL-EbSNWV_2279 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1855.1861";
 	schema:distribution [
@@ -2164,6 +2277,7 @@ anl:dataset_NL-EbSNWV_2280 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1861.1870";
 	schema:distribution [
@@ -2181,6 +2295,7 @@ anl:dataset_NL-EbSNWV_2281 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1872.1936";
 	schema:distribution [
@@ -2198,6 +2313,7 @@ anl:dataset_NL-EbSNWV_2282 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1883.1892";
 	schema:distribution [
@@ -2215,6 +2331,7 @@ anl:dataset_NL-EbSNWV_2283 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1891.1924";
 	schema:distribution [
@@ -2232,6 +2349,7 @@ anl:dataset_NL-EbSNWV_2284 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2248,6 +2366,7 @@ anl:dataset_NL-EbSNWV_2285 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1914.1919";
 	schema:distribution [
@@ -2265,6 +2384,7 @@ anl:dataset_NL-EbSNWV_2350 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1900.1927";
 	schema:distribution [
@@ -2282,6 +2402,7 @@ anl:dataset_NL-EbSNWV_2351 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1927.1939";
 	schema:distribution [
@@ -2299,14 +2420,14 @@ anl:dataset_NL-EbSNWV_2352 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_2352_54_MI.xml?format=file>;
+		schema:contentUrl <>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2016-11-11";
 		schema:contentSize 114847;
-		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_2360 a schema:Dataset;
@@ -2315,6 +2436,7 @@ anl:dataset_NL-EbSNWV_2360 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1830.1927";
 	schema:distribution [
@@ -2332,6 +2454,7 @@ anl:dataset_NL-EbSNWV_2361 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1830.1927";
 	schema:distribution [
@@ -2349,6 +2472,7 @@ anl:dataset_NL-EbSNWV_2362 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1830.1927";
 	schema:distribution [
@@ -2366,6 +2490,7 @@ anl:dataset_NL-EbSNWV_2363 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1830.1927";
 	schema:distribution [
@@ -2383,6 +2508,7 @@ anl:dataset_NL-EbSNWV_2364 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1830.1927";
 	schema:distribution [
@@ -2400,6 +2526,7 @@ anl:dataset_NL-EbSNWV_2365 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1818.1818";
 	schema:distribution [
@@ -2417,6 +2544,7 @@ anl:dataset_NL-EbSNWV_2460 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "sys_ovr";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1914.1920";
 	schema:distribution [
@@ -2434,6 +2562,7 @@ anl:dataset_NL-EbSNWV_2664 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1916.1979";
 	schema:distribution [
@@ -2451,6 +2580,7 @@ anl:dataset_NL-EbSNWV_2850 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "sys_ovr";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2467,6 +2597,7 @@ anl:dataset_NL-EbSNWV_3025 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1830.2000";
 	schema:distribution [
@@ -2484,6 +2615,7 @@ anl:dataset_NL-EbSNWV_3026 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "sys_ovr";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2500,6 +2632,7 @@ anl:dataset_NL-EbSNWV_3027 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2516,6 +2649,7 @@ anl:dataset_NL-EbSNWV_3134 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1811.1971";
 	schema:distribution [
@@ -2533,6 +2667,7 @@ anl:dataset_NL-EbSNWV_3252 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2549,14 +2684,14 @@ anl:dataset_NL-EbSNWV_3305 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_3305_18_MI.xml?format=file>;
+		schema:contentUrl <>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2015-05-08";
 		schema:contentSize 795035;
-		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_3315 a schema:Dataset;
@@ -2565,6 +2700,7 @@ anl:dataset_NL-EbSNWV_3315 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1939.1949";
 	schema:distribution [
@@ -2582,6 +2718,7 @@ anl:dataset_NL-EbSNWV_3401 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1890.1895";
 	schema:distribution [
@@ -2599,6 +2736,7 @@ anl:dataset_NL-EbSNWV_3402 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1887.1890";
 	schema:distribution [
@@ -2616,6 +2754,7 @@ anl:dataset_NL-EbSNWV_3410 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1891.1903";
 	schema:distribution [
@@ -2633,6 +2772,7 @@ anl:dataset_NL-EbSNWV_3451 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1909.1950";
 	schema:distribution [
@@ -2650,6 +2790,7 @@ anl:dataset_NL-EbSNWV_3621 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1654.1733";
 	schema:distribution [
@@ -2667,6 +2808,7 @@ anl:dataset_NL-EbSNWV_4001 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1796.1912";
 	schema:distribution [
@@ -2684,6 +2826,7 @@ anl:dataset_NL-EbSNWV_4002 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1913.1971";
 	schema:distribution [
@@ -2701,6 +2844,7 @@ anl:dataset_NL-EbSNWV_4003 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1653.1814";
 	schema:distribution [
@@ -2718,6 +2862,7 @@ anl:dataset_NL-EbSNWV_4010 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1660.1810";
 	schema:distribution [
@@ -2735,6 +2880,7 @@ anl:dataset_NL-EbSNWV_4031 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1972.1996";
 	schema:distribution [
@@ -2752,6 +2898,7 @@ anl:dataset_NL-EbSNWV_4201 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2768,6 +2915,7 @@ anl:dataset_NL-EbSNWV_4202 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1972.1996";
 	schema:distribution [
@@ -2785,6 +2933,7 @@ anl:dataset_NL-EbSNWV_4251 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1884.1916";
 	schema:distribution [
@@ -2802,6 +2951,7 @@ anl:dataset_NL-EbSNWV_5001 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2818,6 +2968,7 @@ anl:dataset_NL-EbSNWV_5002 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2834,6 +2985,7 @@ anl:dataset_NL-EbSNWV_5003 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1453.1811";
 	schema:distribution [
@@ -2851,6 +3003,7 @@ anl:dataset_NL-EbSNWV_5004 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2867,6 +3020,7 @@ anl:dataset_NL-EbSNWV_5055 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1944.1960";
 	schema:distribution [
@@ -2884,6 +3038,7 @@ anl:dataset_NL-EbSNWV_5063 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2900,6 +3055,7 @@ anl:dataset_NL-EbSNWV_5118 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1344.1797";
 	schema:distribution [
@@ -2917,6 +3073,7 @@ anl:dataset_NL-EbSNWV_5248 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1838.1944";
 	schema:distribution [
@@ -2934,6 +3091,7 @@ anl:dataset_NL-EbSNWV_5249 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1811.1995";
 	schema:distribution [
@@ -2951,6 +3109,7 @@ anl:dataset_NL-EbSNWV_5270 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1741.1814";
 	schema:distribution [
@@ -2968,6 +3127,7 @@ anl:dataset_NL-EbSNWV_5299 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "inventaris";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -2984,6 +3144,7 @@ anl:dataset_NL-EbSNWV_5350 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1701.1742";
 	schema:distribution [
@@ -3001,15 +3162,15 @@ anl:dataset_NL-EbSNWV_5352 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1793.1811";
 	schema:distribution [
 		a schema:DataDownload;
-		schema:contentUrl <https://preserve.archieven.nl/open/opendata-snwv/mi/434_5352_54_MI.xml?format=file>;
+		schema:contentUrl <>;
 		schema:encodingFormat "text/xml";
 		schema:dateModified "2016-11-16";
 		schema:contentSize 3843448;
-		schema:description "XML bestand volgens MI model";
 	].
 
 anl:dataset_NL-EbSNWV_5362 a schema:Dataset;
@@ -3018,6 +3179,7 @@ anl:dataset_NL-EbSNWV_5362 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1914.1915";
 	schema:distribution [
@@ -3035,6 +3197,7 @@ anl:dataset_NL-EbSNWV_5363 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -3051,6 +3214,7 @@ anl:dataset_NL-EbSNWV_5364 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1914.1915";
 	schema:distribution [
@@ -3068,6 +3232,7 @@ anl:dataset_NL-EbSNWV_5366 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -3084,6 +3249,7 @@ anl:dataset_NL-EbSNWV_5367 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "genealogie";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:temporalCoverage: "1914.1914";
 	schema:distribution [
@@ -3101,6 +3267,7 @@ anl:dataset_NL-EbSNWV_5919 a schema:Dataset;
 	schema:inLanguage "nl-NL";
 	schema:keywords "sys_ovr";
 	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-EbSNWV;
 	schema:publisher <https://www.archieven.nl/id/organisation_NL-EbSNWV>;
 	schema:distribution [
 		a schema:DataDownload;
@@ -3111,7 +3278,13 @@ anl:dataset_NL-EbSNWV_5919 a schema:Dataset;
 		schema:description "XML bestand volgens MI model";
 	].
 
+anl:organisation_NL-EbSNWV a schema:Organization;
+	schema:identifer "NL-EbSNWV";
+	schema:name "Streekarchivariaat Noordwest-Veluwe";
+	schema:url "https://www.streekarchivariaat.nl/";
+	schema:address [ a schema:PostalAddress; schema:addressLocality "Elburg" ].
 anl:datacatalog_NL-EbSNWV a schema:DataCatalog;
 	schema:name "Dataset catalogus van de open data gepubliceerd op archieven.nl van Streekarchivariaat Noordwest-Veluwe";
 	schema:publisher anl:organisation_NL-EbSNWV;
-	schema:dataset anl:dataset_NL-EbSNWV_1001, anl:dataset_NL-EbSNWV_1003, anl:dataset_NL-EbSNWV_1004, anl:dataset_NL-EbSNWV_1004_247, anl:dataset_NL-EbSNWV_1004_248, anl:dataset_NL-EbSNWV_1004_250, anl:dataset_NL-EbSNWV_1004_251, anl:dataset_NL-EbSNWV_1004_252, anl:dataset_NL-EbSNWV_1004_345, anl:dataset_NL-EbSNWV_1004_98, anl:dataset_NL-EbSNWV_1005, anl:dataset_NL-EbSNWV_1017, anl:dataset_NL-EbSNWV_1019, anl:dataset_NL-EbSNWV_1024, anl:dataset_NL-EbSNWV_1028, anl:dataset_NL-EbSNWV_1029, anl:dataset_NL-EbSNWV_1029_134, anl:dataset_NL-EbSNWV_1029_138, anl:dataset_NL-EbSNWV_1029_139, anl:dataset_NL-EbSNWV_1029_29, anl:dataset_NL-EbSNWV_1029_71, anl:dataset_NL-EbSNWV_1029_72, anl:dataset_NL-EbSNWV_1029_81, anl:dataset_NL-EbSNWV_1030, anl:dataset_NL-EbSNWV_1036, anl:dataset_NL-EbSNWV_1050, anl:dataset_NL-EbSNWV_1050_446, anl:dataset_NL-EbSNWV_1050_447, anl:dataset_NL-EbSNWV_1050_448, anl:dataset_NL-EbSNWV_1051, anl:dataset_NL-EbSNWV_1054, anl:dataset_NL-EbSNWV_1066, anl:dataset_NL-EbSNWV_1067, anl:dataset_NL-EbSNWV_1083, anl:dataset_NL-EbSNWV_1092, anl:dataset_NL-EbSNWV_1112, anl:dataset_NL-EbSNWV_1131, 
+	schema:dataset anl:dataset_NL-EbSNWV_1001, anl:dataset_NL-EbSNWV_1003, anl:dataset_NL-EbSNWV_1004, anl:dataset_NL-EbSNWV_1004_247, anl:dataset_NL-EbSNWV_1004_248, anl:dataset_NL-EbSNWV_1004_250, anl:dataset_NL-EbSNWV_1004_251, anl:dataset_NL-EbSNWV_1004_252, anl:dataset_NL-EbSNWV_1004_345, anl:dataset_NL-EbSNWV_1004_98, anl:dataset_NL-EbSNWV_1005, anl:dataset_NL-EbSNWV_1017, anl:dataset_NL-EbSNWV_1019, anl:dataset_NL-EbSNWV_1024, anl:dataset_NL-EbSNWV_1028, anl:dataset_NL-EbSNWV_1029, anl:dataset_NL-EbSNWV_1029_134, anl:dataset_NL-EbSNWV_1029_138, anl:dataset_NL-EbSNWV_1029_139, anl:dataset_NL-EbSNWV_1029_29, anl:dataset_NL-EbSNWV_1029_71, anl:dataset_NL-EbSNWV_1029_72, anl:dataset_NL-EbSNWV_1029_81, anl:dataset_NL-EbSNWV_1030, anl:dataset_NL-EbSNWV_1036, anl:dataset_NL-EbSNWV_1050, anl:dataset_NL-EbSNWV_1050_446, anl:dataset_NL-EbSNWV_1050_447, anl:dataset_NL-EbSNWV_1050_448, anl:dataset_NL-EbSNWV_1051, anl:dataset_NL-EbSNWV_1054, anl:dataset_NL-EbSNWV_1066, anl:dataset_NL-EbSNWV_1067, anl:dataset_NL-EbSNWV_1083, anl:dataset_NL-EbSNWV_1092, anl:dataset_NL-EbSNWV_1112, anl:dataset_NL-EbSNWV_1131, anl:dataset_NL-EbSNWV_1131_48, anl:dataset_NL-EbSNWV_1136, anl:dataset_NL-EbSNWV_1138, anl:dataset_NL-EbSNWV_1251, anl:dataset_NL-EbSNWV_1252, anl:dataset_NL-EbSNWV_1253, anl:dataset_NL-EbSNWV_1255, anl:dataset_NL-EbSNWV_1256, anl:dataset_NL-EbSNWV_1257, anl:dataset_NL-EbSNWV_1259, anl:dataset_NL-EbSNWV_1260, anl:dataset_NL-EbSNWV_1262, anl:dataset_NL-EbSNWV_1263, anl:dataset_NL-EbSNWV_1264, anl:dataset_NL-EbSNWV_1266, anl:dataset_NL-EbSNWV_1267, anl:dataset_NL-EbSNWV_1268, anl:dataset_NL-EbSNWV_1269, anl:dataset_NL-EbSNWV_1351, anl:dataset_NL-EbSNWV_1352, anl:dataset_NL-EbSNWV_1353, anl:dataset_NL-EbSNWV_1354, anl:dataset_NL-EbSNWV_1356, anl:dataset_NL-EbSNWV_1357, anl:dataset_NL-EbSNWV_1368, anl:dataset_NL-EbSNWV_1369, anl:dataset_NL-EbSNWV_1370, anl:dataset_NL-EbSNWV_1371, anl:dataset_NL-EbSNWV_1372, anl:dataset_NL-EbSNWV_1382, anl:dataset_NL-EbSNWV_1383, anl:dataset_NL-EbSNWV_1384, anl:dataset_NL-EbSNWV_1385, anl:dataset_NL-EbSNWV_1386, anl:dataset_NL-EbSNWV_1387, anl:dataset_NL-EbSNWV_1395, anl:dataset_NL-EbSNWV_1396, anl:dataset_NL-EbSNWV_1451, anl:dataset_NL-EbSNWV_1455, anl:dataset_NL-EbSNWV_1456, anl:dataset_NL-EbSNWV_1851, anl:dataset_NL-EbSNWV_1852, anl:dataset_NL-EbSNWV_2001, anl:dataset_NL-EbSNWV_2002, anl:dataset_NL-EbSNWV_2003, anl:dataset_NL-EbSNWV_2003_332, anl:dataset_NL-EbSNWV_2003_333, anl:dataset_NL-EbSNWV_2003_334, anl:dataset_NL-EbSNWV_2003_335, anl:dataset_NL-EbSNWV_2003_336, anl:dataset_NL-EbSNWV_2003_337, anl:dataset_NL-EbSNWV_2003_338, anl:dataset_NL-EbSNWV_2003_339, anl:dataset_NL-EbSNWV_2003_340, anl:dataset_NL-EbSNWV_2003_342, anl:dataset_NL-EbSNWV_2004, anl:dataset_NL-EbSNWV_2009, anl:dataset_NL-EbSNWV_2026, anl:dataset_NL-EbSNWV_2027, anl:dataset_NL-EbSNWV_2028, anl:dataset_NL-EbSNWV_2062, anl:dataset_NL-EbSNWV_2065, anl:dataset_NL-EbSNWV_2067, anl:dataset_NL-EbSNWV_2233, anl:dataset_NL-EbSNWV_2251, anl:dataset_NL-EbSNWV_2252, anl:dataset_NL-EbSNWV_2253, anl:dataset_NL-EbSNWV_2254, anl:dataset_NL-EbSNWV_2255, anl:dataset_NL-EbSNWV_2256, anl:dataset_NL-EbSNWV_2257, anl:dataset_NL-EbSNWV_2258, anl:dataset_NL-EbSNWV_2260, anl:dataset_NL-EbSNWV_2261, anl:dataset_NL-EbSNWV_2262, anl:dataset_NL-EbSNWV_2263, anl:dataset_NL-EbSNWV_2264, anl:dataset_NL-EbSNWV_2265, anl:dataset_NL-EbSNWV_2266, anl:dataset_NL-EbSNWV_2267, anl:dataset_NL-EbSNWV_2268, anl:dataset_NL-EbSNWV_2269, anl:dataset_NL-EbSNWV_2270, anl:dataset_NL-EbSNWV_2271, anl:dataset_NL-EbSNWV_2273, anl:dataset_NL-EbSNWV_2274, anl:dataset_NL-EbSNWV_2275, anl:dataset_NL-EbSNWV_2276, anl:dataset_NL-EbSNWV_2277, anl:dataset_NL-EbSNWV_2278, anl:dataset_NL-EbSNWV_2279, anl:dataset_NL-EbSNWV_2280, anl:dataset_NL-EbSNWV_2281, anl:dataset_NL-EbSNWV_2282, anl:dataset_NL-EbSNWV_2283, anl:dataset_NL-EbSNWV_2284, anl:dataset_NL-EbSNWV_2285, anl:dataset_NL-EbSNWV_2350, anl:dataset_NL-EbSNWV_2351, anl:dataset_NL-EbSNWV_2352, anl:dataset_NL-EbSNWV_2360, anl:dataset_NL-EbSNWV_2361, anl:dataset_NL-EbSNWV_2362, anl:dataset_NL-EbSNWV_2363, anl:dataset_NL-EbSNWV_2364, anl:dataset_NL-EbSNWV_2365, anl:dataset_NL-EbSNWV_2460, anl:dataset_NL-EbSNWV_2664, anl:dataset_NL-EbSNWV_2850, anl:dataset_NL-EbSNWV_3025, anl:dataset_NL-EbSNWV_3026, anl:dataset_NL-EbSNWV_3027, anl:dataset_NL-EbSNWV_3134, anl:dataset_NL-EbSNWV_3252, anl:dataset_NL-EbSNWV_3305, anl:dataset_NL-EbSNWV_3315, anl:dataset_NL-EbSNWV_3401, anl:dataset_NL-EbSNWV_3402, anl:dataset_NL-EbSNWV_3410, anl:dataset_NL-EbSNWV_3451, anl:dataset_NL-EbSNWV_3621, anl:dataset_NL-EbSNWV_4001, anl:dataset_NL-EbSNWV_4002, anl:dataset_NL-EbSNWV_4003, anl:dataset_NL-EbSNWV_4010, anl:dataset_NL-EbSNWV_4031, anl:dataset_NL-EbSNWV_4201, anl:dataset_NL-EbSNWV_4202, anl:dataset_NL-EbSNWV_4251, anl:dataset_NL-EbSNWV_5001, anl:dataset_NL-EbSNWV_5002, anl:dataset_NL-EbSNWV_5003, anl:dataset_NL-EbSNWV_5004, anl:dataset_NL-EbSNWV_5055, anl:dataset_NL-EbSNWV_5063, anl:dataset_NL-EbSNWV_5118, anl:dataset_NL-EbSNWV_5248, anl:dataset_NL-EbSNWV_5249, anl:dataset_NL-EbSNWV_5270, anl:dataset_NL-EbSNWV_5299, anl:dataset_NL-EbSNWV_5350, anl:dataset_NL-EbSNWV_5352, anl:dataset_NL-EbSNWV_5362, anl:dataset_NL-EbSNWV_5363, anl:dataset_NL-EbSNWV_5364, anl:dataset_NL-EbSNWV_5366, anl:dataset_NL-EbSNWV_5367, anl:dataset_NL-EbSNWV_5919.
+

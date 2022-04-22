@@ -1,0 +1,3962 @@
+@prefix schema: <https://schema.org/>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix anl: <https://www.archieven.nl/id/>.
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+
+# Test bestand gegenereerd via create_ttl_datacatalog_pages.pl op basis van door Open Archieven verzamelde informatie. 
+
+anl:dataset_NL-TlRAR_GAW058-02 a schema:Dataset;
+	schema:name "GAW058-02";
+	schema:description "Stichting Katholieke Gezinszorg en Gezinshulp Weesp en Weesperkarspel, (1948) 1950 - 1954 (1955)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW058-02_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-04-13";
+		schema:contentSize 13411;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW060 a schema:Dataset;
+	schema:name "GAW060";
+	schema:description "Feestcommissie te Weesp, 1913";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW060_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 6331;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW061 a schema:Dataset;
+	schema:name "GAW061";
+	schema:description "Beheerder City of Wesopa te Weesp, -";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW061_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-07-11";
+		schema:contentSize 5343;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW067 a schema:Dataset;
+	schema:name "GAW067";
+	schema:description "Commissie voor het organiseren van een optocht ter gelegenheid van de inhuldigingsfeesten voor koningin Wilhelmina, 1898";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW067_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-02-06";
+		schema:contentSize 3888;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW068 a schema:Dataset;
+	schema:name "GAW068";
+	schema:description "Ziekenfonds Onderlinge Hulp te Weesp, 1931-1934";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW068_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 5369;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW069 a schema:Dataset;
+	schema:name "GAW069";
+	schema:description "Vereniging tot Bestrijding der Tuberculose in Weesp, 1919-1970";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW069_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 6536;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW070 a schema:Dataset;
+	schema:name "GAW070";
+	schema:description "Afdeling Weesp van de Maatschappij tot Nut van 't Algemeen, 1799-1970";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW070_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 35811;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW071 a schema:Dataset;
+	schema:name "GAW071";
+	schema:description "Stichting Volksfeesten Weesp, -";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW071_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-09-20";
+		schema:contentSize 6683;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW073 a schema:Dataset;
+	schema:name "GAW073";
+	schema:description "Afdeling Weesp en Weesperkarspel van de Nederlandse Christelijke Vrouwenbond, 1953-1983";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW073_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-07-10";
+		schema:contentSize 8817;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW079 a schema:Dataset;
+	schema:name "GAW079";
+	schema:description "Gezondheidscommissie te Weesp, 1904-1931";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW079_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 14045;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW080 a schema:Dataset;
+	schema:name "GAW080";
+	schema:description "Vereniging en Werkgroep Stedenband Weesp-Svitavy, 1989-2010";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW080_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-01-14";
+		schema:contentSize 27908;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW081 a schema:Dataset;
+	schema:name "GAW081";
+	schema:description "Collectie tentoonstellingsaffiches Gemeentemuseum Weesp, 1965-1999";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW081_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-10-28";
+		schema:contentSize 2807;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW085 a schema:Dataset;
+	schema:name "GAW085";
+	schema:description "ComitÃ© Leniging Noden (C.L.N.) te Weesp, 1944-1997";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW085_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-05-24";
+		schema:contentSize 8206;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW087 a schema:Dataset;
+	schema:name "GAW087";
+	schema:description "Stichting Weesp 650, (2000) 2001-2006";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW087_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 55471;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW088-7 a schema:Dataset;
+	schema:name "GAW088-7";
+	schema:description "Fotocollectie Weesper dameskoor, z.j.";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW088-7_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 327174;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW093 a schema:Dataset;
+	schema:name "GAW093";
+	schema:description "Collectie Cacao- en chocoladefabriek C.J. van Houten te Weesp, -";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW093_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 39367;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW094 a schema:Dataset;
+	schema:name "GAW094";
+	schema:description "Gemeente Weesp, (1912) 1913-1922 (ca. 1950)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW094_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-28";
+		schema:contentSize 126376;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW095 a schema:Dataset;
+	schema:name "GAW095";
+	schema:description "Zwem- en waterpolovereniging Triton te Weesp, 1908-2008";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW095_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 34251;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW095-37 a schema:Dataset;
+	schema:name "GAW095-37";
+	schema:description "Fotocollectie Zwem- en waterpolovereniging Triton te Weesp, 1908-2008";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1908.2008";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW095-37_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 281771;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW096 a schema:Dataset;
+	schema:name "GAW096";
+	schema:description "Collectie Van Bern - Van der Muelen, Weesp, 1680-1870";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW096_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 42115;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW097 a schema:Dataset;
+	schema:name "GAW097";
+	schema:description "Badmintonclub Weesp, 1970-2003";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW097_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 49426;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW098 a schema:Dataset;
+	schema:name "GAW098";
+	schema:description "Westelijke land- en tuinbouw organisatie, afdeling Gooi en Vechtstreek, 1995-1999";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW098_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 3833;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW106 a schema:Dataset;
+	schema:name "GAW106";
+	schema:description "Collectie Hamstra te Weesp, 1908 - 2001";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW106_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-12";
+		schema:contentSize 19550;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW106-30 a schema:Dataset;
+	schema:name "GAW106-30";
+	schema:description "Collectie Hamstra te Weesp, 1908 - 2001";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1908.2001";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW106-30_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 17200;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW106-31 a schema:Dataset;
+	schema:name "GAW106-31";
+	schema:description "Collectie Hamstra te Weesp, 1908 - 2001";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1908.2001";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW106-31_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 73798;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW106-32 a schema:Dataset;
+	schema:name "GAW106-32";
+	schema:description "Collectie Hamstra te Weesp, 1908 - 2001";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1908.2001";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW106-32_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 33810;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW106-33 a schema:Dataset;
+	schema:name "GAW106-33";
+	schema:description "Collectie Hamstra te Weesp, 1908 - 2001";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1908.2001";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW106-33_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 129655;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW106-35 a schema:Dataset;
+	schema:name "GAW106-35";
+	schema:description "Collectie Hamstra te Weesp, 1908 - 2001";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1908.2001";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW106-35_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 73782;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW106-36 a schema:Dataset;
+	schema:name "GAW106-36";
+	schema:description "Collectie Hamstra te Weesp, 1908 - 2001";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1908.2001";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW106-36_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 10218;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW107 a schema:Dataset;
+	schema:name "GAW107";
+	schema:description "Collectie volksvermaken Weesp, 1864";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW107_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 3427;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW109 a schema:Dataset;
+	schema:name "GAW109";
+	schema:description "Weesper mannenkoor, 1923-1994";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW109_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-07-10";
+		schema:contentSize 9485;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW110 a schema:Dataset;
+	schema:name "GAW110";
+	schema:description "Weesper burgerwacht, 1919-1921";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW110_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 5390;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW120-01 a schema:Dataset;
+	schema:name "GAW120-01";
+	schema:description "Vereniging tot Bevordering van Christelijk Nationaal Onderwijs te Weesp en Driemond (C.N.S.), (1820) 1869â2000 (2006)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW120-01_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 282807;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW120-01-117 a schema:Dataset;
+	schema:name "GAW120-01-117";
+	schema:description "Staat met namen van de eerste honderd leerlingen, ca. 1882";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW120-01-117_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 85606;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW120-01-121 a schema:Dataset;
+	schema:name "GAW120-01-121";
+	schema:description "Leerlingenadministratie, 1912";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1912.1912";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW120-01-121_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 365580;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW120-02 a schema:Dataset;
+	schema:name "GAW120-02";
+	schema:description "Vereniging tot Bevordering van Christelijk Kleuteronderwijs te Weesp, 1895 - 1975 (1983)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW120-02_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 49676;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW120-02-77 a schema:Dataset;
+	schema:name "GAW120-02-77";
+	schema:description "Vereniging tot Bevordering van Christelijk Kleuteronderwijs te Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW120-02-77_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 70853;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW122 a schema:Dataset;
+	schema:name "GAW122";
+	schema:description "Gemeente Weesp, (1920) 1923-1939 (1969)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW122_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-02-21";
+		schema:contentSize 368031;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW123 a schema:Dataset;
+	schema:name "GAW123";
+	schema:description "Thom Posthuma sr., Weesp , 1910-1941";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW123_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 8356;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW124 a schema:Dataset;
+	schema:name "GAW124";
+	schema:description "Thomas Posthuma jr., Weesp, 1948-2010";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW124_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-04-26";
+		schema:contentSize 14929;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW128-01 a schema:Dataset;
+	schema:name "GAW128-01";
+	schema:description "Gereformeerde kerk te Weesp, 1861-2006";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW128-01_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 373336;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW128-01-173 a schema:Dataset;
+	schema:name "GAW128-01-173";
+	schema:description "Gereformeerde kerk te Weesp, 1861-2006";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1861.2006";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW128-01-173_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 1406;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW128-01-240 a schema:Dataset;
+	schema:name "GAW128-01-240";
+	schema:description "Gereformeerde kerk te Weesp, 1861-2006";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1861.2006";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW128-01-240_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 1470;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW129 a schema:Dataset;
+	schema:name "GAW129";
+	schema:description "Collectie G.W. Dixon, Weesp, 1872-1876";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW129_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 9342;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW130-01 a schema:Dataset;
+	schema:name "GAW130-01";
+	schema:description "Nederlandse Protestantenbond (N.P.B.), afdeling Weesp en omstreken, 1904-2010";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW130-01_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-01-22";
+		schema:contentSize 95686;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW130-01-102 a schema:Dataset;
+	schema:name "GAW130-01-102";
+	schema:description "Nederlandse Protestantenbond (N.P.B.), afdeling Weesp en omstreken, 1904-2010";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1904.2010";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW130-01-102_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 194988;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW130-01-97 a schema:Dataset;
+	schema:name "GAW130-01-97";
+	schema:description "Register per jaar met bestuursleden, voorgangers en andere functionarissen, 1880-2000";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1880.2000";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW130-01-97_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-01-22";
+		schema:contentSize 65940;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW130-02 a schema:Dataset;
+	schema:name "GAW130-02";
+	schema:description "Kerkkoor van de Nederlandse Protestantenbond, afdeling Weesp en omstreken, 1975-1997";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW130-02_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 8707;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW131 a schema:Dataset;
+	schema:name "GAW131";
+	schema:description "Collectie aanwinsten Weesp, 1643-";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW131_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-12";
+		schema:contentSize 69770;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW132 a schema:Dataset;
+	schema:name "GAW132";
+	schema:description "Collectie Van Houten te Weesp / Peter van Dam, -";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW132_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 36221;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW133 a schema:Dataset;
+	schema:name "GAW133";
+	schema:description "Weesper Toneelvereniging Ons Clubje, 1938-2012";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW133_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 17863;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW133-15 a schema:Dataset;
+	schema:name "GAW133-15";
+	schema:description "Weesper Toneelvereniging Ons Clubje, 1938 - 2012";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1938.2012";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW133-15_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 112066;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW133-16 a schema:Dataset;
+	schema:name "GAW133-16";
+	schema:description "Weesper Toneelvereniging Ons Clubje, 1938 - 2012";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1938.2012";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW133-16_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 149550;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW133-18 a schema:Dataset;
+	schema:name "GAW133-18";
+	schema:description "Weesper Toneelvereniging Ons Clubje, 1938 - 2012";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1938.2012";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW133-18_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 114178;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW134 a schema:Dataset;
+	schema:name "GAW134";
+	schema:description "Stichting Gezinshulp en Bejaardenzorg De Noordelijke Vecht te Weesp, 1978-1987";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW134_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 20491;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135 a schema:Dataset;
+	schema:name "GAW135";
+	schema:description "Doop-, trouw- en begraafregisters te Weesp, 1627-1824";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW135_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-04";
+		schema:contentSize 137786;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_1 a schema:Dataset;
+	schema:name "GAW135_1";
+	schema:description "DTB N-H kerk Weesp, deel 1, doopregister, 1671-1726";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1671.1726";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW135_1_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-04";
+		schema:contentSize 27056782;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_100 a schema:Dataset;
+	schema:name "GAW135_100";
+	schema:description "Gerecht Weesp, impost op het begraven, 1798-1805";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1798.1805";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW135_100_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-04-15";
+		schema:contentSize 3598167;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_2 a schema:Dataset;
+	schema:name "GAW135_2";
+	schema:description "DTB N-H kerk Weesp, deel 2, doopregister, 1726-1788";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1726.1788";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW135_2_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-04";
+		schema:contentSize 28707657;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_3 a schema:Dataset;
+	schema:name "GAW135_3";
+	schema:description "DTB N-H kerk Weesp, deel 3, doopregister, 1788-1812";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1788.1812";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW135_3_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-04";
+		schema:contentSize 10458410;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_4 a schema:Dataset;
+	schema:name "GAW135_4";
+	schema:description "DTB N-H kerk Weesp, deel 4, doopregister, 1810-1836";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1810.1836";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW135_4_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-04";
+		schema:contentSize 10008799;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_5 a schema:Dataset;
+	schema:name "GAW135_5";
+	schema:description "DTB N-H kerk Weesp, deel 1, trouwregister, 1722-1809";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1722.1809";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_5_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 2821727;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_56b a schema:Dataset;
+	schema:name "GAW135_56b";
+	schema:description "DTB R-K kerk Weesp, deel 2, trouwregister, 1715-1758";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1715.1758";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_56b_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 606651;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_58a a schema:Dataset;
+	schema:name "GAW135_58a";
+	schema:description "DTB R-K kerk Weesp, deel 3, trouwregister, 1758-1810";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1758.1810";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW135_58a_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-04";
+		schema:contentSize 2228740;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_58b a schema:Dataset;
+	schema:name "GAW135_58b";
+	schema:description "DTB R-K kerk Weesp, deel 1, begraafregister, 1783-1812";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1783.1812";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_58b_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 857072;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_59 a schema:Dataset;
+	schema:name "GAW135_59";
+	schema:description "DTB R-K kerk Weesp, deel 5, doopregister, 1792-1797";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1792.1797";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_59_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 763175;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_60 a schema:Dataset;
+	schema:name "GAW135_60";
+	schema:description "DTB R-K kerk Weesp, deel 6, doopregister, 1801-1807";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1801.1807";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_60_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 1013920;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_61 a schema:Dataset;
+	schema:name "GAW135_61";
+	schema:description "DTB R-K kerk Weesp, deel 4, doopregister, 1792-1797";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1792.1797";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_61_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 79031;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_62 a schema:Dataset;
+	schema:name "GAW135_62";
+	schema:description "Gerecht Weesp, deel 1, huwelijksintekenboek voor commissarissen, 1671-1676";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1671.1676";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_62_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 660114;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_63 a schema:Dataset;
+	schema:name "GAW135_63";
+	schema:description "Gerecht Weesp, deel 2, huwelijksintekenboek voor commissarissen, 1676-1698";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1676.1698";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW135_63_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-04";
+		schema:contentSize 3663298;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_64 a schema:Dataset;
+	schema:name "GAW135_64";
+	schema:description "Gerecht Weesp, deel 3, huwelijksintekenboek voor commissarissen, 1698-1731";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1698.1731";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW135_64_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-04";
+		schema:contentSize 6204825;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_65 a schema:Dataset;
+	schema:name "GAW135_65";
+	schema:description "Gerecht Weesp, deel 4, huwelijksintekenboek voor commissarissen, 1731-1765";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1731.1765";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW135_65_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-04";
+		schema:contentSize 6682211;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_66 a schema:Dataset;
+	schema:name "GAW135_66";
+	schema:description "Gerecht Weesp, deel 5, huwelijksintekenboek voor commissarissen, 1765-1792";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1765.1792";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW135_66_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-04";
+		schema:contentSize 5309297;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_67 a schema:Dataset;
+	schema:name "GAW135_67";
+	schema:description "Gerecht Weesp, deel 6, huwelijksintekenboek voor commissarissen, 1792-1811";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1792.1811";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_67_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-05-04";
+		schema:contentSize 1151973;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_68 a schema:Dataset;
+	schema:name "GAW135_68";
+	schema:description "Gerecht Weesp, deel 7, register van aan commissarissen overgelegde notariÃ«le procuraties in verband met voorgenomen huwelijken, 1764-1797";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1764.1797";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_68_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 223552;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_69 a schema:Dataset;
+	schema:name "GAW135_69";
+	schema:description "Gerecht Weesp, deel 8, register van aan commissarissen overgelegde notariÃ«le procuraties in verband met voorgenomen huwelijken, 1798-1809";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1798.1809";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_69_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 61301;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_70 a schema:Dataset;
+	schema:name "GAW135_70";
+	schema:description "Gerecht Weesp, deel 11, ondertrouwregister, 1733-1744";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1733.1744";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_70_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-09-05";
+		schema:contentSize 462197;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_71 a schema:Dataset;
+	schema:name "GAW135_71";
+	schema:description "Gerecht Weesp, deel 12, ondertrouwregister, 1745-1751";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1745.1751";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_71_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-13";
+		schema:contentSize 361764;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_72 a schema:Dataset;
+	schema:name "GAW135_72";
+	schema:description "Gerecht Weesp, deel 14, ondertrouwregister, 1751-1759";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1751.1759";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_72_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-04";
+		schema:contentSize 365232;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_73 a schema:Dataset;
+	schema:name "GAW135_73";
+	schema:description "Gerecht Weesp, deel 16, ondertrouwregister, 1759-1766";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1759.1766";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_73_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-11-03";
+		schema:contentSize 356831;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_74 a schema:Dataset;
+	schema:name "GAW135_74";
+	schema:description "Gerecht Weesp, deel 17, ondertrouwregister, 1766-1777";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1766.1777";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW135_74_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-04";
+		schema:contentSize 1185691;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_75 a schema:Dataset;
+	schema:name "GAW135_75";
+	schema:description "Gerecht Weesp, deel 19, ondertrouwregister, 1778-1891";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1778.1891";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW135_75_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-11-03";
+		schema:contentSize 1622519;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_76 a schema:Dataset;
+	schema:name "GAW135_76";
+	schema:description "Gerecht Weesp, deel 21, ondertrouwregister, 1791-1795";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1791.1795";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_76_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-04-13";
+		schema:contentSize 273091;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_77 a schema:Dataset;
+	schema:name "GAW135_77";
+	schema:description "Gerecht Weesp, deel 22, ondertrouwregister, 1795-1811";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1795.1811";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_77_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-11-03";
+		schema:contentSize 969009;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_78 a schema:Dataset;
+	schema:name "GAW135_78";
+	schema:description "Gerecht Weesp, deel 9, ondertrouwregister, 1706-1728";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1706.1728";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_78_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-11-03";
+		schema:contentSize 626677;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_79 a schema:Dataset;
+	schema:name "GAW135_79";
+	schema:description "Gerecht Weesp, deel 10, ondertrouwregister, 1729-1745";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1729.1745";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW135_79_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-04-15";
+		schema:contentSize 1282652;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_80 a schema:Dataset;
+	schema:name "GAW135_80";
+	schema:description "Gerecht Weesp, deel 13, ondertrouwregister, 1746-1755";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1746.1755";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_80_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-11-04";
+		schema:contentSize 321186;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_81 a schema:Dataset;
+	schema:name "GAW135_81";
+	schema:description "Gerecht Weesp, deel 15, ondertrouwregister, 1756-1766";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1756.1766";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_81_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-11-04";
+		schema:contentSize 411766;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_82 a schema:Dataset;
+	schema:name "GAW135_82";
+	schema:description "Gerecht Weesp, deel 18, ondertrouwregister, 1766-1781";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1766.1781";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_82_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-11-04";
+		schema:contentSize 591047;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_83 a schema:Dataset;
+	schema:name "GAW135_83";
+	schema:description "Gerecht Weesp, deel 20, ondertrouwregister, 1782-1795";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1782.1795";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_83_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-11-04";
+		schema:contentSize 522169;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_84 a schema:Dataset;
+	schema:name "GAW135_84";
+	schema:description "Gerecht Weesp, deel 23, trouwregister, 1658-1758";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1658.1758";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW135_84_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-04";
+		schema:contentSize 5266578;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_85 a schema:Dataset;
+	schema:name "GAW135_85";
+	schema:description "Gerecht Weesp, deel 24, trouwregister, 1758-1794";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1758.1794";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_85_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 995081;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_86 a schema:Dataset;
+	schema:name "GAW135_86";
+	schema:description "Gerecht Weesp, deel 25, trouwregister, 1795-1811";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1795.1811";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW135_86_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-13";
+		schema:contentSize 1754804;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_87 a schema:Dataset;
+	schema:name "GAW135_87";
+	schema:description "Gerecht Weesp, deel 1, begraafregister, 1734-1828";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1734.1828";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_87_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 1234767;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_89 a schema:Dataset;
+	schema:name "GAW135_89";
+	schema:description "Gerecht Weesp, deel 3, begraafregister, 1806-1811";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1806.1811";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW135_89_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-14";
+		schema:contentSize 2394292;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_90 a schema:Dataset;
+	schema:name "GAW135_90";
+	schema:description "Gaarder Weesp, impost op het trouwen, 1714-1720";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1714.1720";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_90_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 411284;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_91 a schema:Dataset;
+	schema:name "GAW135_91";
+	schema:description "Gaarder Weesp, impost op het begraven, 1714-1720";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1714.1720";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_91_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 1228797;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_93 a schema:Dataset;
+	schema:name "GAW135_93";
+	schema:description "Gaarder Weesp, impost op het begraven, 1733-1744";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1733.1744";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_93_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 1622404;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_95a a schema:Dataset;
+	schema:name "GAW135_95a";
+	schema:description "Gerecht Weesp, impost op het trouwen, 1751-1761";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1751.1761";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_95a_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 526772;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_95b a schema:Dataset;
+	schema:name "GAW135_95b";
+	schema:description "Gaarder Weesp, impost op het begraven, 1751-1761";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1751.1761";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_95b_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 1192474;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_96 a schema:Dataset;
+	schema:name "GAW135_96";
+	schema:description "Gaarder Weesp, impost op het trouwen, 1761-1797";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1761.1797";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW135_96_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-05-03";
+		schema:contentSize 5015602;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_97 a schema:Dataset;
+	schema:name "GAW135_97";
+	schema:description "Gaarder Weesp, impost op het begraven, 1761-1780";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1761.1780";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW135_97_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-04";
+		schema:contentSize 7480918;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_98 a schema:Dataset;
+	schema:name "GAW135_98";
+	schema:description "Gaarder Weesp, impost op het begraven, 1780-1797";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1780.1797";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW135_98_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-14";
+		schema:contentSize 6465393;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW135_99 a schema:Dataset;
+	schema:name "GAW135_99";
+	schema:description "Gaarder Weesp, impost op het trouwen, 1798-1805";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1798.1805";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW135_99_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 459423;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW136 a schema:Dataset;
+	schema:name "GAW136";
+	schema:description "Registers van eigendomsovergangen te Weesp, 1812-1833";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW136_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 4119;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW137 a schema:Dataset;
+	schema:name "GAW137";
+	schema:description "Oud-rechterlijk en weeskamerarchief Weesp, 1546-1824";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW137_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-06";
+		schema:contentSize 109875;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW137_2917 a schema:Dataset;
+	schema:name "GAW137_2917";
+	schema:description "Register van lijkschouwingen, 1731-1808";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1731.1808";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW137_2917_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 73920;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138 a schema:Dataset;
+	schema:name "GAW138";
+	schema:description "Notarissen te Weesp, 1609-1842";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW138_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-12";
+		schema:contentSize 127319;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5171 a schema:Dataset;
+	schema:name "GAW138-5171";
+	schema:description "Notaris Jan Cornelisz Meijns te Weesp, deel 1, allerhande akten, 1609-1625";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1609.1625";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5171_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 1016445;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5172 a schema:Dataset;
+	schema:name "GAW138-5172";
+	schema:description "Notaris Jan Cornelisz Meijns te Weesp, deel 2, allerhande akten, 1623-1626";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1623.1626";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5172_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 671630;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5173 a schema:Dataset;
+	schema:name "GAW138-5173";
+	schema:description "Notaris Jan Cornelisz Meijns te Weesp, deel 3, testamenten, 1623 - 28-07-1624";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1623.1624";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5173_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 249183;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5174 a schema:Dataset;
+	schema:name "GAW138-5174";
+	schema:description "Notaris Jan Cornelisz Meijns te Weesp, deel 4, testamenten, 27-06-1624 - 19-12-1624";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1624.1624";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5174_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 247296;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5175 a schema:Dataset;
+	schema:name "GAW138-5175";
+	schema:description "Notaris Jan Cornelisz Meijns te Weesp, deel 5, testamenten, 31-12-1624 - 1626";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1624.1626";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5175_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 220320;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5177 a schema:Dataset;
+	schema:name "GAW138-5177";
+	schema:description "Notaris Jan Cornelisz Verlaen te Weesp, deel 2, allerhande akten, 1641-1643";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1641.1643";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5177_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 530598;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5178 a schema:Dataset;
+	schema:name "GAW138-5178";
+	schema:description "Notaris Jan Cornelisz Verlaen te Weesp, deel 3, testamenten, 1626-1634";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1626.1634";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5178_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 724656;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5179 a schema:Dataset;
+	schema:name "GAW138-5179";
+	schema:description "Notaris Jan Cornelisz Verlaen te Weesp, deel 4, testamenten, 1641-1685";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1641.1685";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5179_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 246174;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5180 a schema:Dataset;
+	schema:name "GAW138-5180";
+	schema:description "Notaris Gijsbert Louff te Weesp, deel 1, allerhande akten, 1624, 1634, 1652, 1653 en 1657";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5180_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 487396;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5181 a schema:Dataset;
+	schema:name "GAW138-5181";
+	schema:description "Notaris Anthonij Cockenghen te Weesp, deel 1, allerhande akten, 1626, 1659, 1663, 1670 en 1672";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5181_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 42304;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5193 a schema:Dataset;
+	schema:name "GAW138-5193";
+	schema:description "Notaris Hendrick Vuick van Vladderack te Weesp, deel 1, attestatie, 1652";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1652.1652";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5193_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 7675;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5194 a schema:Dataset;
+	schema:name "GAW138-5194";
+	schema:description "Notaris Maarten Louff te Weesp, deel 1, allerhande akten, 1653-1665";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1653.1665";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5194_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 417536;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5198 a schema:Dataset;
+	schema:name "GAW138-5198";
+	schema:description "Notaris Jan Gerritsz Elsenburch te Weesp, deel 1, allerhande akten, 1658-1659";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1658.1659";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5198_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 1251057;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5205 a schema:Dataset;
+	schema:name "GAW138-5205";
+	schema:description "Notaris Johan van Es te Weesp, deel 1, allerhande akten, 1659-1671";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1659.1671";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5205_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 1188368;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5206 a schema:Dataset;
+	schema:name "GAW138-5206";
+	schema:description "Notaris Johan van Es te Weesp, deel 2, allerhande akten, 1673-1678";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1673.1678";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW138-5206_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-10";
+		schema:contentSize 1355570;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5207 a schema:Dataset;
+	schema:name "GAW138-5207";
+	schema:description "Notaris Jan de Hartogh te Weesp, deel 1, allerhande akten, 1662-1670";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1662.1670";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5207_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 1063789;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5208 a schema:Dataset;
+	schema:name "GAW138-5208";
+	schema:description "Notaris Jan de Hartogh te Weesp, deel 2, allerhande akten, 1671-1687";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1671.1687";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW138-5208_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-04";
+		schema:contentSize 1765164;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5209 a schema:Dataset;
+	schema:name "GAW138-5209";
+	schema:description "Notaris Hendrik Lulz te Weesp, deel 1, allerhande akten, 1673-1712";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1673.1712";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5209_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 747619;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5210 a schema:Dataset;
+	schema:name "GAW138-5210";
+	schema:description "Notaris Joan Bellaer te Weesp, deel 1, attestatie, 1673";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1673.1673";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5210_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 10796;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5224 a schema:Dataset;
+	schema:name "GAW138-5224";
+	schema:description "Notaris Johan van Leyen te Weesp, deel 1, allerhande akten, 1680 en 1682-1684";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1680.1684";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5224_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 82659;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5225 a schema:Dataset;
+	schema:name "GAW138-5225";
+	schema:description "Notaris Franck van Leijen te Weesp, deel 1, allerhande akten, 1694-1698";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1694.1698";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5225_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-06-29";
+		schema:contentSize 859712;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5226 a schema:Dataset;
+	schema:name "GAW138-5226";
+	schema:description "Notaris Franck van Leijen te Weesp, deel 2, allerhande akten, 1699-1703";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1699.1703";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5226_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 1006314;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5227 a schema:Dataset;
+	schema:name "GAW138-5227";
+	schema:description "Notaris Franck van Leijen te Weesp, deel 3, allerhande akten, 1704-1707";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1704.1707";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5227_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 816621;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5228 a schema:Dataset;
+	schema:name "GAW138-5228";
+	schema:description "Notaris Franck van Leijen te Weesp, deel 4, allerhande akten, 1708-1712";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1708.1712";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5228_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 785109;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5229 a schema:Dataset;
+	schema:name "GAW138-5229";
+	schema:description "Notaris Theodorus Elout te Weesp, deel 1, allerhande akten, 1708-1712";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1708.1712";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW138-5229_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-08";
+		schema:contentSize 1280278;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5230 a schema:Dataset;
+	schema:name "GAW138-5230";
+	schema:description "Notaris Theodorus Elout te Weesp, deel 2, allerhande akten, 1713-1714";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1713.1714";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5230_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-07-20";
+		schema:contentSize 849876;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5231 a schema:Dataset;
+	schema:name "GAW138-5231";
+	schema:description "Notaris Theodorus Elout te Weesp, deel 3, allerhande akten, 1715-1716";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1715.1716";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5231_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-06-22";
+		schema:contentSize 971384;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5232 a schema:Dataset;
+	schema:name "GAW138-5232";
+	schema:description "Notaris Theodorus Elout te Weesp, deel 4, allerhande akten, 1717-1718";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1717.1718";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5232_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 1168947;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5233 a schema:Dataset;
+	schema:name "GAW138-5233";
+	schema:description "Notaris Theodorus Elout te Weesp, deel 5, allerhande akten, 1719-1720";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1719.1720";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5233_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 1312267;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5234 a schema:Dataset;
+	schema:name "GAW138-5234";
+	schema:description "Notaris Cornelis Hoet te Weesp, deel 1, allerhande akten, 1715-1719";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1715.1719";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5234_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 1464181;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5235 a schema:Dataset;
+	schema:name "GAW138-5235";
+	schema:description "Notaris Cornelis Hoet te Weesp, deel 2, allerhande akten, 1720-1721";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1720.1721";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5235_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 1265302;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5236 a schema:Dataset;
+	schema:name "GAW138-5236";
+	schema:description "Notaris Cornelis Hoet te Weesp, deel 3, allerhande akten, 1722-1727";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1722.1727";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5236_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 1460181;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5249 a schema:Dataset;
+	schema:name "GAW138-5249";
+	schema:description "Notaris Baltus van Heumen te Weesp, deel 1, allerhande akten, 1719-1723";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1719.1723";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW138-5249_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-14";
+		schema:contentSize 1713951;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5250 a schema:Dataset;
+	schema:name "GAW138-5250";
+	schema:description "Notaris Baltus van Heumen te Weesp, deel 2, allerhande akten, 1724-1726";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1724.1726";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5250_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 1112419;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5270 a schema:Dataset;
+	schema:name "GAW138-5270";
+	schema:description "Notaris Mr. Jan Ploos van Amstel te Weesp, deel 1, allerhande akten, 1723-1761 (met hiaten)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1723.1761";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW138-5270_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-08-24";
+		schema:contentSize 125920;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5271 a schema:Dataset;
+	schema:name "GAW138-5271";
+	schema:description "Notaris Hendrik Mooijman Hoet te Weesp, deel 1, allerhande akten, 1748-1751";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1748.1751";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5271_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 938728;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5272 a schema:Dataset;
+	schema:name "GAW138-5272";
+	schema:description "Notaris Hendrik Mooijman Hoet te Weesp, deel 2, allerhande akten, 1752-1754";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1752.1754";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW138-5272_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-10";
+		schema:contentSize 1427015;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5273 a schema:Dataset;
+	schema:name "GAW138-5273";
+	schema:description "Notaris Hendrik Mooijman Hoet te Weesp, deel 3, allerhande akten, 1755-1758";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1755.1758";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW138-5273_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-04";
+		schema:contentSize 967872;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5274 a schema:Dataset;
+	schema:name "GAW138-5274";
+	schema:description "Notaris Hendrik Mooijman Hoet te Weesp, deel 4, allerhande akten, 1759-1762";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1759.1762";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/a2a/NL-BklVV_GAW138-5274_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-14";
+		schema:contentSize 1106070;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5275 a schema:Dataset;
+	schema:name "GAW138-5275";
+	schema:description "Notaris Hendrik Mooijman Hoet te Weesp, deel 5, allerhande akten, 1763-1774";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1763.1774";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5275_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 950748;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5276 a schema:Dataset;
+	schema:name "GAW138-5276";
+	schema:description "Notaris Hendrik Mooijman Hoet te Weesp, deel 6, allerhande akten, 1774-1791";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1774.1791";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5276_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 573832;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5332 a schema:Dataset;
+	schema:name "GAW138-5332";
+	schema:description "Notaris Dominicus de Jong te Weesp, deel 1, allerhande akten, 1794-1798";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1794.1798";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5332_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 192252;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5334 a schema:Dataset;
+	schema:name "GAW138-5334";
+	schema:description "Notaris Mr. Pieter Heydanus te Weesp, deel 2, allerhande akten, 1802-1803";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1802.1803";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5334_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 582936;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5339 a schema:Dataset;
+	schema:name "GAW138-5339";
+	schema:description "Notaris Mr. Pieter Heydanus te Weesp, deel 7, allerhande akten, 1809";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1809.1809";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5339_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 497424;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5340 a schema:Dataset;
+	schema:name "GAW138-5340";
+	schema:description "Notaris Mr. Pieter Heydanus te Weesp, deel 8, allerhande akten, 1810";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1810.1810";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5340_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 619001;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5341 a schema:Dataset;
+	schema:name "GAW138-5341";
+	schema:description "Notaris Mr. Pieter Heydanus te Weesp, deel 9, allerhande akten, 1811";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1811.1811";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5341_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-03-31";
+		schema:contentSize 822503;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5346 a schema:Dataset;
+	schema:name "GAW138-5346";
+	schema:description "Notaris Heijman de Jong te Weesp, deel 1, allerhande akten, 1800-1804";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1800.1804";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5346_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-04-07";
+		schema:contentSize 180490;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW138-5347 a schema:Dataset;
+	schema:name "GAW138-5347";
+	schema:description "Notaris Mr. Jacobus Brascamp te Weesp, deel 1, allerhande akten, 1809-1812";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1809.1812";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW138-5347_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-06-22";
+		schema:contentSize 956833;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW139 a schema:Dataset;
+	schema:name "GAW139";
+	schema:description "Notarissen te Weesp, 1843-1925";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW139_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-05-13";
+		schema:contentSize 97787;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW140 a schema:Dataset;
+	schema:name "GAW140";
+	schema:description "Notarissen te Weesp, 1926-1935";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW140_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-05-13";
+		schema:contentSize 23804;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW141 a schema:Dataset;
+	schema:name "GAW141";
+	schema:description "Stad Weesp, gaardersarchief, 1609-1805";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW141_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-04-19";
+		schema:contentSize 36163;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW142 a schema:Dataset;
+	schema:name "GAW142";
+	schema:description "Vereniging van Eigenaren Vorsselmanstraat te Weesp, -";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW142_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-05-06";
+		schema:contentSize 4258;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW143 a schema:Dataset;
+	schema:name "GAW143";
+	schema:description "Collectie Gemeentemuseum Weesp, -";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW143_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 89045;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW143-1 a schema:Dataset;
+	schema:name "GAW143-1";
+	schema:description "Collectie gemeentemuseum Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW143-1_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 46594;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW143-10 a schema:Dataset;
+	schema:name "GAW143-10";
+	schema:description "Collectie gemeentemuseum Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW143-10_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-04-07";
+		schema:contentSize 20267;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW143-11 a schema:Dataset;
+	schema:name "GAW143-11";
+	schema:description "Collectie gemeentemuseum Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW143-11_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 40409;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW143-12 a schema:Dataset;
+	schema:name "GAW143-12";
+	schema:description "Collectie gemeentemuseum Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW143-12_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 31457;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW143-13 a schema:Dataset;
+	schema:name "GAW143-13";
+	schema:description "Collectie gemeentemuseum Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW143-13_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 6904;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW143-14 a schema:Dataset;
+	schema:name "GAW143-14";
+	schema:description "Collectie gemeentemuseum Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW143-14_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 4144;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW143-15 a schema:Dataset;
+	schema:name "GAW143-15";
+	schema:description "Collectie gemeentemuseum Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW143-15_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-04-07";
+		schema:contentSize 17325;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW143-16 a schema:Dataset;
+	schema:name "GAW143-16";
+	schema:description "Collectie gemeentemuseum Weesp, -";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW143-16_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 75828;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW143-17 a schema:Dataset;
+	schema:name "GAW143-17";
+	schema:description "Collectie gemeentemuseum Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW143-17_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 18584;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW143-18 a schema:Dataset;
+	schema:name "GAW143-18";
+	schema:description "Collectie gemeentemuseum Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW143-18_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 2426;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW143-2 a schema:Dataset;
+	schema:name "GAW143-2";
+	schema:description "Collectie gemeentemuseum Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW143-2_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-04-07";
+		schema:contentSize 17343;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW143-3 a schema:Dataset;
+	schema:name "GAW143-3";
+	schema:description "Collectie gemeentemuseum Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW143-3_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-03-30";
+		schema:contentSize 26768;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW143-4 a schema:Dataset;
+	schema:name "GAW143-4";
+	schema:description "Collectie gemeentemuseum Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW143-4_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-04-07";
+		schema:contentSize 12006;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW143-5 a schema:Dataset;
+	schema:name "GAW143-5";
+	schema:description "Collectie gemeentemuseum Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW143-5_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-04-07";
+		schema:contentSize 10269;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW143-6 a schema:Dataset;
+	schema:name "GAW143-6";
+	schema:description "Collectie gemeentemuseum Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW143-6_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-04-07";
+		schema:contentSize 13856;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW143-7 a schema:Dataset;
+	schema:name "GAW143-7";
+	schema:description "Collectie gemeentemuseum Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW143-7_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-04-07";
+		schema:contentSize 18765;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW143-8 a schema:Dataset;
+	schema:name "GAW143-8";
+	schema:description "Collectie gemeentemuseum Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW143-8_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-03-30";
+		schema:contentSize 60096;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW143-9 a schema:Dataset;
+	schema:name "GAW143-9";
+	schema:description "Collectie gemeentemuseum Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW143-9_54_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 26518;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW146 a schema:Dataset;
+	schema:name "GAW146";
+	schema:description "Gemeente gasbedrijf Weesp en Gemeentelijk energiebedrijf Hilversum, 1911-1989";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW146_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-04-19";
+		schema:contentSize 34860;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW147 a schema:Dataset;
+	schema:name "GAW147";
+	schema:description "Sierduivenvereniging De Witschild te Weesp, 1950-2010";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW147_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-07-10";
+		schema:contentSize 15724;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW149 a schema:Dataset;
+	schema:name "GAW149";
+	schema:description "Collectie plakkaten en publicaties van Weesp, 1649-1851";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/ead/NL-BklVV_GAW149_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-10-27";
+		schema:contentSize 480872;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_GAW150 a schema:Dataset;
+	schema:name "GAW150";
+	schema:description "Collectie tekeningen gemeente Weesp, 1881-1981";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW150_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-04-19";
+		schema:contentSize 126696;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW151 a schema:Dataset;
+	schema:name "GAW151";
+	schema:description "Stichting voor Hulp Buitenlanders Weesp (SHB), 1981-2011";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW151_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-07-07";
+		schema:contentSize 23720;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW153 a schema:Dataset;
+	schema:name "GAW153";
+	schema:description "Gereformeerd Burgerweeshuis te Weesp, 2000-2012";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW153_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-04-19";
+		schema:contentSize 8394;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW154 a schema:Dataset;
+	schema:name "GAW154";
+	schema:description "Familie Grijpink, 1672-1987";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW154_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-07-11";
+		schema:contentSize 4979;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW155 a schema:Dataset;
+	schema:name "GAW155";
+	schema:description "Stichting Vrienden van de Weesper Synagoge, 1996-2007";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW155_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-03-12";
+		schema:contentSize 43818;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW157 a schema:Dataset;
+	schema:name "GAW157";
+	schema:description "Christelijke gymnastiekvereniging Kracht en Vlugheid te Weesp, 1929-1994";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW157_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-07-10";
+		schema:contentSize 32455;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW158 a schema:Dataset;
+	schema:name "GAW158";
+	schema:description "Collectie brand Rooms-Katholieke H. Laurentiuskerk te Weesp, 2016";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW158_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-07-25";
+		schema:contentSize 10426;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW158-1 a schema:Dataset;
+	schema:name "GAW158-1";
+	schema:description "Fotocollectie brand Rooms-Katholieke H. Laurentiuskerk te Weesp, 2016";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "2016.2016";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW158-1_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-04-07";
+		schema:contentSize 157001;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW158-2 a schema:Dataset;
+	schema:name "GAW158-2";
+	schema:description "Filmcollectie brand Rooms-Katholieke H. Laurentiuskerk te Weesp, 2016";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "2016.2016";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW158-2_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-04-07";
+		schema:contentSize 18477;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW162 a schema:Dataset;
+	schema:name "GAW162";
+	schema:description "Coronacollectie Weesp, 2020-2021";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW162_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-07-28";
+		schema:contentSize 13879;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW166 a schema:Dataset;
+	schema:name "GAW166";
+	schema:description "Woonomgeving Weesp, hinderwetvergunningen, 1900-1992";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW166_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-05-08";
+		schema:contentSize 9629;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW167 a schema:Dataset;
+	schema:name "GAW167";
+	schema:description "Woonomgeving Weesp, sonderingen, 1956-1990";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW167_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-05-08";
+		schema:contentSize 5322;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW168 a schema:Dataset;
+	schema:name "GAW168";
+	schema:description "Woonomgeving Weesp, bodemonderzoeken, 1981-2010";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW168_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-05-08";
+		schema:contentSize 5039;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW172 a schema:Dataset;
+	schema:name "GAW172";
+	schema:description "Fotoalbums Van Houten, 1928-1947";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW172_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-08-13";
+		schema:contentSize 5135;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW200-00 a schema:Dataset;
+	schema:name "GAW200-00";
+	schema:description "Fotocollectie gemeentearchief Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW200-00_1_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 837235;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW200-01 a schema:Dataset;
+	schema:name "GAW200-01";
+	schema:description "Fotocollectie gemeentearchief Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW200-01_1_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 774320;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW200-02 a schema:Dataset;
+	schema:name "GAW200-02";
+	schema:description "Fotocollectie gemeentearchief Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW200-02_1_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 143568;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW200-03 a schema:Dataset;
+	schema:name "GAW200-03";
+	schema:description "Fotocollectie gemeentearchief Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW200-03_1_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 847049;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW200-04 a schema:Dataset;
+	schema:name "GAW200-04";
+	schema:description "Fotocollectie gemeentearchief Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW200-04_1_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 911304;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW200-05 a schema:Dataset;
+	schema:name "GAW200-05";
+	schema:description "Fotocollectie gemeentearchief Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW200-05_1_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 917550;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW200-06 a schema:Dataset;
+	schema:name "GAW200-06";
+	schema:description "Fotocollectie gemeentearchief Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW200-06_1_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 658647;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW200-07 a schema:Dataset;
+	schema:name "GAW200-07";
+	schema:description "Fotocollectie gemeentearchief Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW200-07_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-27";
+		schema:contentSize 1412955;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW200-10 a schema:Dataset;
+	schema:name "GAW200-10";
+	schema:description "Fotocollectie gemeentearchief Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW200-10_1_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 664308;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW203 a schema:Dataset;
+	schema:name "GAW203";
+	schema:description "Collectie foto- en prentbriefkaarten J.P.C. Kemper";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW203_1_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 423632;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW204 a schema:Dataset;
+	schema:name "GAW204";
+	schema:description "Fotocollectie Cohlst-Van Houten";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW204_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-08-24";
+		schema:contentSize 77370;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW205 a schema:Dataset;
+	schema:name "GAW205";
+	schema:description "Fotocollectie G. Hols, z.j.";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_GAW205_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-01-04";
+		schema:contentSize 799289;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_GAW206 a schema:Dataset;
+	schema:name "GAW206";
+	schema:description "Fotocollectie Kelch";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW206_1_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 37408;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAW208 a schema:Dataset;
+	schema:name "GAW208";
+	schema:description "Fotocollectie Tweede Wereldoorlog gemeentearchief Weesp";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAW208_1_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 146109;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_GAWTOP a schema:Dataset;
+	schema:name "GAWTOP";
+	schema:description "Collectie kaarten, plattegronden en luchtfoto's";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/dc/NL-BklVV_GAWTOP_1_DC.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-20";
+		schema:contentSize 336189;
+		schema:description "XML bestand volgens DC model";
+	].
+
+anl:dataset_NL-TlRAR_HB a schema:Dataset;
+	schema:name "HB";
+	schema:description "Bibliotheek";
+	schema:inLanguage "nl-NL";
+	schema:keywords "sys_ovr";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_HB_14_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-08-21";
+		schema:contentSize 5033256;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_HB-HB-W-0238 a schema:Dataset;
+	schema:name "HB-HB-W-0238";
+	schema:description "Overzicht met leerlingen, onderwijzeressen en overig personeel van de Rooms-Katholieke meisjeskostschool te Weesp, 1850-1888";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1850.1888";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_HB-HB-W-0238_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-04-07";
+		schema:contentSize 230267;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_HB-HB-W-0264 a schema:Dataset;
+	schema:name "HB-HB-W-0264";
+	schema:description "Officiantenregister van Weesp, 1550-1795";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1550.1795";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_HB-HB-W-0264_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-10";
+		schema:contentSize 14077692;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_HB-HB-W-0265 a schema:Dataset;
+	schema:name "HB-HB-W-0265";
+	schema:description "De Vroedschap van Weesp, 1587-1797";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1587.1797";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_HB-HB-W-0265_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-04-07";
+		schema:contentSize 1534513;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_HB-HB-W-0266 a schema:Dataset;
+	schema:name "HB-HB-W-0266";
+	schema:description "Van vroedschap en magistraat tot gemeenteraad, 1795-1978";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1795.1978";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_HB-HB-W-0266_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-04-07";
+		schema:contentSize 1130670;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_HB-HB-W-0690 a schema:Dataset;
+	schema:name "HB-HB-W-0690";
+	schema:description "Overzicht van stadsschoolmeesters, rectors Latijnse school, meesters aan de Latijnse school en Franse meesters. Uit: Weesper scholen ca. 1560-1795, 1556-1818";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1556.1818";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_HB-HB-W-0690_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-04-07";
+		schema:contentSize 60797;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_HB-HB-W-0692 a schema:Dataset;
+	schema:name "HB-HB-W-0692";
+	schema:description "Leerlingen en leraren van een jongenskostschool te Weesp, 1829-1879";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1829.1879";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_HB-HB-W-0692_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-04-07";
+		schema:contentSize 206896;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_HB-HB-W-1074 a schema:Dataset;
+	schema:name "HB-HB-W-1074";
+	schema:description "Overzicht van pastoors en kapelaans van de H. Laurentiusparochie te Weesp. Uit: Geschiedenis van de H. Laurentiusparochie Weesp, ca. 1280 - 1480";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1280.1480";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_HB-HB-W-1074_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-04-07";
+		schema:contentSize 127349;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_HD a schema:Dataset;
+	schema:name "HD";
+	schema:description "Documentatie";
+	schema:inLanguage "nl-NL";
+	schema:keywords "sys_ovr";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_HD_14_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-06-10";
+		schema:contentSize 4754788;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_HK a schema:Dataset;
+	schema:name "HK";
+	schema:description "Kranten";
+	schema:inLanguage "nl-NL";
+	schema:keywords "sys_ovr";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_HK_14_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-02-20";
+		schema:contentSize 393089;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_HP a schema:Dataset;
+	schema:name "HP";
+	schema:description "Periodieken";
+	schema:inLanguage "nl-NL";
+	schema:keywords "sys_ovr";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_HP_14_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-06";
+		schema:contentSize 2325742;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_VW-DB a schema:Dataset;
+	schema:name "VW-DB";
+	schema:description "Voorwerpencollectie De Bilt, 1900-2000";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_VW-DB_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-02";
+		schema:contentSize 126779;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_VW-DRV a schema:Dataset;
+	schema:name "VW-DRV";
+	schema:description "Voorwerpencollectie De Ronde Venen, 1900-2018";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_VW-DRV_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-03-05";
+		schema:contentSize 101128;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_VW-SV a schema:Dataset;
+	schema:name "VW-SV";
+	schema:description "Voorwerpencollectie Stichtse Vecht, 1900-2000";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-rhcvv/mi/NL-BklVV_VW-SV_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-02";
+		schema:contentSize 117377;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:organisation_NL-TlRAR a schema:Organization;
+	schema:identifer "NL-TlRAR";
+	schema:name "Regionaal Historisch Centrum Vecht en Venen";
+	schema:url "https://www.rhcvechtenvenen.nl/";
+	schema:address [ a schema:PostalAddress; schema:addressLocality "Tiel" ].
+anl:datacatalog_NL-TlRAR a schema:DataCatalog;
+	schema:name "Dataset catalogus van de open data gepubliceerd op archieven.nl van Regionaal Historisch Centrum Vecht en Venen";
+	schema:publisher anl:organisation_NL-TlRAR;
+	schema:dataset anl:dataset_NL-TlRAR_GAW058-02, anl:dataset_NL-TlRAR_GAW060, anl:dataset_NL-TlRAR_GAW061, anl:dataset_NL-TlRAR_GAW067, anl:dataset_NL-TlRAR_GAW068, anl:dataset_NL-TlRAR_GAW069, anl:dataset_NL-TlRAR_GAW070, anl:dataset_NL-TlRAR_GAW071, anl:dataset_NL-TlRAR_GAW073, anl:dataset_NL-TlRAR_GAW079, anl:dataset_NL-TlRAR_GAW080, anl:dataset_NL-TlRAR_GAW081, anl:dataset_NL-TlRAR_GAW085, anl:dataset_NL-TlRAR_GAW087, anl:dataset_NL-TlRAR_GAW088-7, anl:dataset_NL-TlRAR_GAW093, anl:dataset_NL-TlRAR_GAW094, anl:dataset_NL-TlRAR_GAW095, anl:dataset_NL-TlRAR_GAW095-37, anl:dataset_NL-TlRAR_GAW096, anl:dataset_NL-TlRAR_GAW097, anl:dataset_NL-TlRAR_GAW098, anl:dataset_NL-TlRAR_GAW106, anl:dataset_NL-TlRAR_GAW106-30, anl:dataset_NL-TlRAR_GAW106-31, anl:dataset_NL-TlRAR_GAW106-32, anl:dataset_NL-TlRAR_GAW106-33, anl:dataset_NL-TlRAR_GAW106-35, anl:dataset_NL-TlRAR_GAW106-36, anl:dataset_NL-TlRAR_GAW107, anl:dataset_NL-TlRAR_GAW109, anl:dataset_NL-TlRAR_GAW110, anl:dataset_NL-TlRAR_GAW120-01, anl:dataset_NL-TlRAR_GAW120-01-117, anl:dataset_NL-TlRAR_GAW120-01-121, anl:dataset_NL-TlRAR_GAW120-02, anl:dataset_NL-TlRAR_GAW120-02-77, anl:dataset_NL-TlRAR_GAW122, anl:dataset_NL-TlRAR_GAW123, anl:dataset_NL-TlRAR_GAW124, anl:dataset_NL-TlRAR_GAW128-01, anl:dataset_NL-TlRAR_GAW128-01-173, anl:dataset_NL-TlRAR_GAW128-01-240, anl:dataset_NL-TlRAR_GAW129, anl:dataset_NL-TlRAR_GAW130-01, anl:dataset_NL-TlRAR_GAW130-01-102, anl:dataset_NL-TlRAR_GAW130-01-97, anl:dataset_NL-TlRAR_GAW130-02, anl:dataset_NL-TlRAR_GAW131, anl:dataset_NL-TlRAR_GAW132, anl:dataset_NL-TlRAR_GAW133, anl:dataset_NL-TlRAR_GAW133-15, anl:dataset_NL-TlRAR_GAW133-16, anl:dataset_NL-TlRAR_GAW133-18, anl:dataset_NL-TlRAR_GAW134, anl:dataset_NL-TlRAR_GAW135, anl:dataset_NL-TlRAR_GAW135_1, anl:dataset_NL-TlRAR_GAW135_100, anl:dataset_NL-TlRAR_GAW135_2, anl:dataset_NL-TlRAR_GAW135_3, anl:dataset_NL-TlRAR_GAW135_4, anl:dataset_NL-TlRAR_GAW135_5, anl:dataset_NL-TlRAR_GAW135_56b, anl:dataset_NL-TlRAR_GAW135_58a, anl:dataset_NL-TlRAR_GAW135_58b, anl:dataset_NL-TlRAR_GAW135_59, anl:dataset_NL-TlRAR_GAW135_60, anl:dataset_NL-TlRAR_GAW135_61, anl:dataset_NL-TlRAR_GAW135_62, anl:dataset_NL-TlRAR_GAW135_63, anl:dataset_NL-TlRAR_GAW135_64, anl:dataset_NL-TlRAR_GAW135_65, anl:dataset_NL-TlRAR_GAW135_66, anl:dataset_NL-TlRAR_GAW135_67, anl:dataset_NL-TlRAR_GAW135_68, anl:dataset_NL-TlRAR_GAW135_69, anl:dataset_NL-TlRAR_GAW135_70, anl:dataset_NL-TlRAR_GAW135_71, anl:dataset_NL-TlRAR_GAW135_72, anl:dataset_NL-TlRAR_GAW135_73, anl:dataset_NL-TlRAR_GAW135_74, anl:dataset_NL-TlRAR_GAW135_75, anl:dataset_NL-TlRAR_GAW135_76, anl:dataset_NL-TlRAR_GAW135_77, anl:dataset_NL-TlRAR_GAW135_78, anl:dataset_NL-TlRAR_GAW135_79, anl:dataset_NL-TlRAR_GAW135_80, anl:dataset_NL-TlRAR_GAW135_81, anl:dataset_NL-TlRAR_GAW135_82, anl:dataset_NL-TlRAR_GAW135_83, anl:dataset_NL-TlRAR_GAW135_84, anl:dataset_NL-TlRAR_GAW135_85, anl:dataset_NL-TlRAR_GAW135_86, anl:dataset_NL-TlRAR_GAW135_87, anl:dataset_NL-TlRAR_GAW135_89, anl:dataset_NL-TlRAR_GAW135_90, anl:dataset_NL-TlRAR_GAW135_91, anl:dataset_NL-TlRAR_GAW135_93, anl:dataset_NL-TlRAR_GAW135_95a, anl:dataset_NL-TlRAR_GAW135_95b, anl:dataset_NL-TlRAR_GAW135_96, anl:dataset_NL-TlRAR_GAW135_97, anl:dataset_NL-TlRAR_GAW135_98, anl:dataset_NL-TlRAR_GAW135_99, anl:dataset_NL-TlRAR_GAW136, anl:dataset_NL-TlRAR_GAW137, anl:dataset_NL-TlRAR_GAW137_2917, anl:dataset_NL-TlRAR_GAW138, anl:dataset_NL-TlRAR_GAW138-5171, anl:dataset_NL-TlRAR_GAW138-5172, anl:dataset_NL-TlRAR_GAW138-5173, anl:dataset_NL-TlRAR_GAW138-5174, anl:dataset_NL-TlRAR_GAW138-5175, anl:dataset_NL-TlRAR_GAW138-5177, anl:dataset_NL-TlRAR_GAW138-5178, anl:dataset_NL-TlRAR_GAW138-5179, anl:dataset_NL-TlRAR_GAW138-5180, anl:dataset_NL-TlRAR_GAW138-5181, anl:dataset_NL-TlRAR_GAW138-5193, anl:dataset_NL-TlRAR_GAW138-5194, anl:dataset_NL-TlRAR_GAW138-5198, anl:dataset_NL-TlRAR_GAW138-5205, anl:dataset_NL-TlRAR_GAW138-5206, anl:dataset_NL-TlRAR_GAW138-5207, anl:dataset_NL-TlRAR_GAW138-5208, anl:dataset_NL-TlRAR_GAW138-5209, anl:dataset_NL-TlRAR_GAW138-5210, anl:dataset_NL-TlRAR_GAW138-5224, anl:dataset_NL-TlRAR_GAW138-5225, anl:dataset_NL-TlRAR_GAW138-5226, anl:dataset_NL-TlRAR_GAW138-5227, anl:dataset_NL-TlRAR_GAW138-5228, anl:dataset_NL-TlRAR_GAW138-5229, anl:dataset_NL-TlRAR_GAW138-5230, anl:dataset_NL-TlRAR_GAW138-5231, anl:dataset_NL-TlRAR_GAW138-5232, anl:dataset_NL-TlRAR_GAW138-5233, anl:dataset_NL-TlRAR_GAW138-5234, anl:dataset_NL-TlRAR_GAW138-5235, anl:dataset_NL-TlRAR_GAW138-5236, anl:dataset_NL-TlRAR_GAW138-5249, anl:dataset_NL-TlRAR_GAW138-5250, anl:dataset_NL-TlRAR_GAW138-5270, anl:dataset_NL-TlRAR_GAW138-5271, anl:dataset_NL-TlRAR_GAW138-5272, anl:dataset_NL-TlRAR_GAW138-5273, anl:dataset_NL-TlRAR_GAW138-5274, anl:dataset_NL-TlRAR_GAW138-5275, anl:dataset_NL-TlRAR_GAW138-5276, anl:dataset_NL-TlRAR_GAW138-5332, anl:dataset_NL-TlRAR_GAW138-5334, anl:dataset_NL-TlRAR_GAW138-5339, anl:dataset_NL-TlRAR_GAW138-5340, anl:dataset_NL-TlRAR_GAW138-5341, anl:dataset_NL-TlRAR_GAW138-5346, anl:dataset_NL-TlRAR_GAW138-5347, anl:dataset_NL-TlRAR_GAW139, anl:dataset_NL-TlRAR_GAW140, anl:dataset_NL-TlRAR_GAW141, anl:dataset_NL-TlRAR_GAW142, anl:dataset_NL-TlRAR_GAW143, anl:dataset_NL-TlRAR_GAW143-1, anl:dataset_NL-TlRAR_GAW143-10, anl:dataset_NL-TlRAR_GAW143-11, anl:dataset_NL-TlRAR_GAW143-12, anl:dataset_NL-TlRAR_GAW143-13, anl:dataset_NL-TlRAR_GAW143-14, anl:dataset_NL-TlRAR_GAW143-15, anl:dataset_NL-TlRAR_GAW143-16, anl:dataset_NL-TlRAR_GAW143-17, anl:dataset_NL-TlRAR_GAW143-18, anl:dataset_NL-TlRAR_GAW143-2, anl:dataset_NL-TlRAR_GAW143-3, anl:dataset_NL-TlRAR_GAW143-4, anl:dataset_NL-TlRAR_GAW143-5, anl:dataset_NL-TlRAR_GAW143-6, anl:dataset_NL-TlRAR_GAW143-7, anl:dataset_NL-TlRAR_GAW143-8, anl:dataset_NL-TlRAR_GAW143-9, anl:dataset_NL-TlRAR_GAW146, anl:dataset_NL-TlRAR_GAW147, anl:dataset_NL-TlRAR_GAW149, anl:dataset_NL-TlRAR_GAW150, anl:dataset_NL-TlRAR_GAW151, anl:dataset_NL-TlRAR_GAW153, anl:dataset_NL-TlRAR_GAW154, anl:dataset_NL-TlRAR_GAW155, anl:dataset_NL-TlRAR_GAW157, anl:dataset_NL-TlRAR_GAW158, anl:dataset_NL-TlRAR_GAW158-1, anl:dataset_NL-TlRAR_GAW158-2, anl:dataset_NL-TlRAR_GAW162, anl:dataset_NL-TlRAR_GAW166, anl:dataset_NL-TlRAR_GAW167, anl:dataset_NL-TlRAR_GAW168, anl:dataset_NL-TlRAR_GAW172, anl:dataset_NL-TlRAR_GAW200-00, anl:dataset_NL-TlRAR_GAW200-01, anl:dataset_NL-TlRAR_GAW200-02, anl:dataset_NL-TlRAR_GAW200-03, anl:dataset_NL-TlRAR_GAW200-04, anl:dataset_NL-TlRAR_GAW200-05, anl:dataset_NL-TlRAR_GAW200-06, anl:dataset_NL-TlRAR_GAW200-07, anl:dataset_NL-TlRAR_GAW200-10, anl:dataset_NL-TlRAR_GAW203, anl:dataset_NL-TlRAR_GAW204, anl:dataset_NL-TlRAR_GAW205, anl:dataset_NL-TlRAR_GAW206, anl:dataset_NL-TlRAR_GAW208, anl:dataset_NL-TlRAR_GAWTOP, anl:dataset_NL-TlRAR_HB, anl:dataset_NL-TlRAR_HB-HB-W-0238, anl:dataset_NL-TlRAR_HB-HB-W-0264, anl:dataset_NL-TlRAR_HB-HB-W-0265, anl:dataset_NL-TlRAR_HB-HB-W-0266, anl:dataset_NL-TlRAR_HB-HB-W-0690, anl:dataset_NL-TlRAR_HB-HB-W-0692, anl:dataset_NL-TlRAR_HB-HB-W-1074, anl:dataset_NL-TlRAR_HD, anl:dataset_NL-TlRAR_HK, anl:dataset_NL-TlRAR_HP, anl:dataset_NL-TlRAR_VW-DB, anl:dataset_NL-TlRAR_VW-DRV, anl:dataset_NL-TlRAR_VW-SV.
+

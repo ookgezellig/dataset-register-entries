@@ -1,0 +1,494 @@
+@prefix schema: <https://schema.org/>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix anl: <https://www.archieven.nl/id/>.
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+
+# Test bestand gegenereerd via create_ttl_datacatalog_pages.pl op basis van door Open Archieven verzamelde informatie. 
+
+anl:dataset_NL-RtSA_9999_30 a schema:Dataset;
+	schema:name "9999_30";
+	schema:description "Doop Engels-presbyteriaans";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_30_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 282750;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_31 a schema:Dataset;
+	schema:name "9999_31";
+	schema:description "Doop gereformeerd";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_31_18_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PUNEMEVCN9IDQTIyRkU0N9I1R9JENkVGNzJFRTYzRERGJmFkdF4pZE0xOEQmbnVtbWVyPTk5OTlfMz9>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-03-24";
+		schema:contentSize 32363434;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_32 a schema:Dataset;
+	schema:name "9999_32";
+	schema:description "Doop Luthers";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_32_18_A2A.xml?h=Zm4ybWF0PWZpbGUma2V5PTUzMEVBOTI3O9Y5QUJ9OEBFOUY2MUUyQjhCRjQ3OEVEJmFkdF4pZE0xOEQmbnVtbWVyPTk5OTlfMzI>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-26";
+		schema:contentSize 41428677;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_33 a schema:Dataset;
+	schema:name "9999_33";
+	schema:description "Doop remonstrants";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_33_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 61599000;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_34 a schema:Dataset;
+	schema:name "9999_34";
+	schema:description "Doop rooms-katholiek";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_34_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 20603;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_35 a schema:Dataset;
+	schema:name "9999_35";
+	schema:description "Doop rooms-katholiek / oud-katholiek";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_35_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 7720;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_36 a schema:Dataset;
+	schema:name "9999_36";
+	schema:description "Doop rooms-katholiek / oud-katholiek Slijkvaart";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_36_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 20311;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_37 a schema:Dataset;
+	schema:name "9999_37";
+	schema:description "Doop rooms-katholiek Houttuin";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_37_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 23471;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_38 a schema:Dataset;
+	schema:name "9999_38";
+	schema:description "Doop rooms-katholiek Leeuwenstraat";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_38_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 82149;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_39 a schema:Dataset;
+	schema:name "9999_39";
+	schema:description "Doop Schots";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_39_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 51040;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_40 a schema:Dataset;
+	schema:name "9999_40";
+	schema:description "Doop Waals";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_40_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 6249460;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_41 a schema:Dataset;
+	schema:name "9999_41";
+	schema:description "Geboorte doopsgezind";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_41_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 2374898;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_42 a schema:Dataset;
+	schema:name "9999_42";
+	schema:description "Gerechtstrouw";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_42_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 2367567;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_43 a schema:Dataset;
+	schema:name "9999_43";
+	schema:description "Gerechtstrouw Schoonderloo";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_43_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 543314;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_44 a schema:Dataset;
+	schema:name "9999_44";
+	schema:description "Oost begraven gaarder";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_44_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 16053;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_45 a schema:Dataset;
+	schema:name "9999_45";
+	schema:description "Overlijden stedelijk gasthuis";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_45_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 3798;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_46 a schema:Dataset;
+	schema:name "9999_46";
+	schema:description "Register aangegeven lijken";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_46_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 1861722;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_47 a schema:Dataset;
+	schema:name "9999_47";
+	schema:description "Registers overledenen Weeskamer";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_47_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 30894;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_48 a schema:Dataset;
+	schema:name "9999_48";
+	schema:description "Stadstrouw";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_48_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 1360782;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_49 a schema:Dataset;
+	schema:name "9999_49";
+	schema:description "Stadstrouw, gemengde huwelijken";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_49_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 1961858;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_50 a schema:Dataset;
+	schema:name "9999_50";
+	schema:description "Trouw Engels-episcopaal";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_50_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 5997;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_51 a schema:Dataset;
+	schema:name "9999_51";
+	schema:description "Trouw gaarder";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_51_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 10898;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_52 a schema:Dataset;
+	schema:name "9999_52";
+	schema:description "Trouw gaarder Schoonderloo";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_52_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 487188;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_53 a schema:Dataset;
+	schema:name "9999_53";
+	schema:description "Trouw gereformeerd";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_53_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 2198500;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_54 a schema:Dataset;
+	schema:name "9999_54";
+	schema:description "Trouw rooms-katholiek";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_54_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 298123;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_55 a schema:Dataset;
+	schema:name "9999_55";
+	schema:description "Trouw Schots";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_55_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 35042;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_56 a schema:Dataset;
+	schema:name "9999_56";
+	schema:description "Trouw Waals";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_56_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 55619;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-RtSA_9999_57 a schema:Dataset;
+	schema:name "9999_57";
+	schema:description "West begraven gaarder";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-RtSA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-RtSA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-gar.archieven.nl/open/opendata-gar/a2a/NL-RtSA_9999_57_18_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-02-10";
+		schema:contentSize 4852;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:organisation_NL-RtSA a schema:Organization;
+	schema:identifer "NL-RtSA";
+	schema:name "Stadsarchief Rotterdam";
+	schema:url "https://stadsarchief.rotterdam.nl/";
+	schema:address [ a schema:PostalAddress; schema:addressLocality "Rotterdam" ].
+anl:datacatalog_NL-RtSA a schema:DataCatalog;
+	schema:name "Dataset catalogus van de open data gepubliceerd op archieven.nl van Stadsarchief Rotterdam";
+	schema:publisher anl:organisation_NL-RtSA;
+	schema:dataset anl:dataset_NL-RtSA_9999_30, anl:dataset_NL-RtSA_9999_31, anl:dataset_NL-RtSA_9999_32, anl:dataset_NL-RtSA_9999_33, anl:dataset_NL-RtSA_9999_34, anl:dataset_NL-RtSA_9999_35, anl:dataset_NL-RtSA_9999_36, anl:dataset_NL-RtSA_9999_37, anl:dataset_NL-RtSA_9999_38, anl:dataset_NL-RtSA_9999_39, anl:dataset_NL-RtSA_9999_40, anl:dataset_NL-RtSA_9999_41, anl:dataset_NL-RtSA_9999_42, anl:dataset_NL-RtSA_9999_43, anl:dataset_NL-RtSA_9999_44, anl:dataset_NL-RtSA_9999_45, anl:dataset_NL-RtSA_9999_46, anl:dataset_NL-RtSA_9999_47, anl:dataset_NL-RtSA_9999_48, anl:dataset_NL-RtSA_9999_49, anl:dataset_NL-RtSA_9999_50, anl:dataset_NL-RtSA_9999_51, anl:dataset_NL-RtSA_9999_52, anl:dataset_NL-RtSA_9999_53, anl:dataset_NL-RtSA_9999_54, anl:dataset_NL-RtSA_9999_55, anl:dataset_NL-RtSA_9999_56, anl:dataset_NL-RtSA_9999_57.
+

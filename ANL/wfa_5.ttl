@@ -1,0 +1,628 @@
+@prefix schema: <https://schema.org/>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix anl: <https://www.archieven.nl/id/>.
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+
+# Test bestand gegenereerd via create_ttl_datacatalog_pages.pl op basis van door Open Archieven verzamelde informatie. 
+
+anl:dataset_NL-HnWFA_2134 a schema:Dataset;
+	schema:name "2134";
+	schema:description "Stichting RK Kleuterschool Sancta Maria, Lutjebroek, 1929-1983";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1929.1968";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2134_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 6376;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2136 a schema:Dataset;
+	schema:name "2136";
+	schema:description "Kiesvereniging Werkgroep '70, Westwoud, 1970-1975";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1970.1975";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2136_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 14542;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2139 a schema:Dataset;
+	schema:name "2139";
+	schema:description "Commissie Tiendrecht, Hoogwoud, 1849-1861";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1849.1861";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2139_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 10643;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2144 a schema:Dataset;
+	schema:name "2144";
+	schema:description "Firma P. Meurs, winkel in huishoudelijke artikelen en geschenken, 1953-1969";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1953.1969";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2144_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 4393;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2149 a schema:Dataset;
+	schema:name "2149";
+	schema:description "Collectie Boer, G.J. de";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2149_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 10258;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2150 a schema:Dataset;
+	schema:name "2150";
+	schema:description "IJsclub De Opbouw, Schellinkhout, 1946-2013";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1946.2013";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2150_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 7064;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2151 a schema:Dataset;
+	schema:name "2151";
+	schema:description "Hoorns Dameskoor, 1971-2011";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1971.2011";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2151_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 16531;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2157 a schema:Dataset;
+	schema:name "2157";
+	schema:description "Spaarbank Midwoud, 1923-1937";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1923.1937";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2157_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 4672;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2159 a schema:Dataset;
+	schema:name "2159";
+	schema:description "Christelijke Boeren- en Tuindersbond (CBTB), afdeling Opperdoes-Medemblik, 1984-1997";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1984.1997";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2159_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 4498;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2161 a schema:Dataset;
+	schema:name "2161";
+	schema:description "Christelijke Naastenliefde, 1912-2010";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1912.2010";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2161_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 8704;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2163 a schema:Dataset;
+	schema:name "2163";
+	schema:description "Andijker Ondernemers verenging (AOV), voorheen Andijker Middenstands Vereniging, 1914-2013";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1914.2013";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2163_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 24980;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2166 a schema:Dataset;
+	schema:name "2166";
+	schema:description "Brandweer Enkhuizen";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2166_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-05-18";
+		schema:contentSize 229855;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2168 a schema:Dataset;
+	schema:name "2168";
+	schema:description "Stede Hem en Venhuizen, 1661-1811";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1661.1811";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2168_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 25109;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2169 a schema:Dataset;
+	schema:name "2169";
+	schema:description "Dorpsbestuur Hem, 1679-1813";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1679.1811";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2169_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 9052;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2170 a schema:Dataset;
+	schema:name "2170";
+	schema:description "Dorpsbestuur Venhuizen, 1659-1845";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1659.1811";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2170_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 11957;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2171 a schema:Dataset;
+	schema:name "2171";
+	schema:description "Gemeentelijk Levensmiddelenbedrijf Venhuizen, 1919-1920";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1919.1920";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2171_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 4450;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2172 a schema:Dataset;
+	schema:name "2172";
+	schema:description "Polva Nederland BV, 1947-2003";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1947.2003";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2172_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 16028;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2185 a schema:Dataset;
+	schema:name "2185";
+	schema:description "Garage Buishand, Andijk, 1921-1963";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1921.1963";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2185_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 9602;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2193 a schema:Dataset;
+	schema:name "2193";
+	schema:description "Intercommunaal lichaam vuilnisophaaldienst der Gemeente Venhuizen, Grootebroek, Hoogkarspel en Wijdenes, 1949-1973";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1949.1973";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2193_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 22805;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2194 a schema:Dataset;
+	schema:name "2194";
+	schema:description "N.V. Koek- en Banketbakkerij S.K.S., later S.K.S. Beheer";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1904.1992";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2194_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUVCNUM5NEAxQTF9OUNBMTMxMTh9MTN9RkNEQjA5R991JmFkdF4pZE0xMzYmbnVtbWVyPTIxOTQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-03-23";
+		schema:contentSize 9396;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2198 a schema:Dataset;
+	schema:name "2198";
+	schema:description "Distributiekring Venhuizen, Wijdenes, Hoogkarspel en Westwoud, 1940-1947";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1940.1942";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2198_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 4711;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2202 a schema:Dataset;
+	schema:name "2202";
+	schema:description "Gemeenschappelijke regeling Samenwerking Uitvoering Milieutaken SUM, 1991-2005";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1988.2005";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/mi/NL-HnWFA_2202_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-12-13";
+		schema:contentSize 88743;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-HnWFA_2203 a schema:Dataset;
+	schema:name "2203";
+	schema:description "Milieudienst West-Friesland";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "2005.2013";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2203_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUU3NkFEREUzRUYDMTQzQ0N9MEJCOTVERjNCQzNGME9xJmFkdF4pZE0xMzYmbnVtbWVyPTIyMEM>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-02-02";
+		schema:contentSize 2417096;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2206 a schema:Dataset;
+	schema:name "2206";
+	schema:description "Christen Democratisch Appel (CDA), Andijk, 1947-2003";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1947.2003";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2206_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 11127;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2207 a schema:Dataset;
+	schema:name "2207";
+	schema:description "K.V.P., afdeling Andijk";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1959.1966";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve3.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2207_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PUVBOTA1Mk9wMjgyOUZ9QjA2R9JBMTcDREY0QjkzQjVEJmFkdF4pZE0xMzYmbnVtbWVyPTIyMEc>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-03-23";
+		schema:contentSize 4151;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2213 a schema:Dataset;
+	schema:name "2213";
+	schema:description "Commissie tot wering van schoolverzuim te Hoogwoud, 1901-1954";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1901.1944";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2213_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 3165;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2215 a schema:Dataset;
+	schema:name "2215";
+	schema:description "Armenvoogden, later Algemene Armen van Aartswoud, 1786-1885";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1786.1885";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2215_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 6947;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2218 a schema:Dataset;
+	schema:name "2218";
+	schema:description "Dorpsbestuur Hoogwoud, 1591-1816";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1591.1811";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2218_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 9562;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2229 a schema:Dataset;
+	schema:name "2229";
+	schema:description "Stichting Het Westfries Molenfonds, 1985-2003";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1985.2003";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2229_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 4393;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2230 a schema:Dataset;
+	schema:name "2230";
+	schema:description "Stichting Vrienden van de molen de Ceres, 1987-2005";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1987.2005";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2230_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 7688;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2239 a schema:Dataset;
+	schema:name "2239";
+	schema:description "Collectie Wit-Duker, de";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1764.1958";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2239_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-08-11";
+		schema:contentSize 506295;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2301 a schema:Dataset;
+	schema:name "2301";
+	schema:description "Gemeenschappelijke regeling Op/Maat, 2000-2015";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "2000.2015";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2301_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 170888;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-HnWFA_2307 a schema:Dataset;
+	schema:name "2307";
+	schema:description "Tol, H., Collectie";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1970.1987";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/mi/NL-HnWFA_2307_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-12-05";
+		schema:contentSize 260617;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-HnWFA_2321 a schema:Dataset;
+	schema:name "2321";
+	schema:description "Internationaal Sailing Center Medemblik, 1998-2017";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-HnWFA;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-HnWFA>;
+	schema:temporalCoverage: "1998.2017";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-wfa/ead/NL-HnWFA_2321_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-10-24";
+		schema:contentSize 22259;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:organisation_NL-HnWFA a schema:Organization;
+	schema:identifer "NL-HnWFA";
+	schema:name "Westfries Archief";
+	schema:url "https://www.westfriesarchief.nl/";
+	schema:address [ a schema:PostalAddress; schema:addressLocality "Hoorn" ].
+anl:datacatalog_NL-HnWFA a schema:DataCatalog;
+	schema:name "Dataset catalogus van de open data gepubliceerd op archieven.nl van Westfries Archief";
+	schema:publisher anl:organisation_NL-HnWFA;
+	schema:dataset anl:dataset_NL-HnWFA_2134, anl:dataset_NL-HnWFA_2136, anl:dataset_NL-HnWFA_2139, anl:dataset_NL-HnWFA_2144, anl:dataset_NL-HnWFA_2149, anl:dataset_NL-HnWFA_2150, anl:dataset_NL-HnWFA_2151, anl:dataset_NL-HnWFA_2157, anl:dataset_NL-HnWFA_2159, anl:dataset_NL-HnWFA_2161, anl:dataset_NL-HnWFA_2163, anl:dataset_NL-HnWFA_2166, anl:dataset_NL-HnWFA_2168, anl:dataset_NL-HnWFA_2169, anl:dataset_NL-HnWFA_2170, anl:dataset_NL-HnWFA_2171, anl:dataset_NL-HnWFA_2172, anl:dataset_NL-HnWFA_2185, anl:dataset_NL-HnWFA_2193, anl:dataset_NL-HnWFA_2194, anl:dataset_NL-HnWFA_2198, anl:dataset_NL-HnWFA_2202, anl:dataset_NL-HnWFA_2203, anl:dataset_NL-HnWFA_2206, anl:dataset_NL-HnWFA_2207, anl:dataset_NL-HnWFA_2213, anl:dataset_NL-HnWFA_2215, anl:dataset_NL-HnWFA_2218, anl:dataset_NL-HnWFA_2229, anl:dataset_NL-HnWFA_2230, anl:dataset_NL-HnWFA_2239, anl:dataset_NL-HnWFA_2301, anl:dataset_NL-HnWFA_2307, anl:dataset_NL-HnWFA_2321.
+

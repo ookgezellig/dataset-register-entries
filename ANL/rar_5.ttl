@@ -1,0 +1,2502 @@
+@prefix schema: <https://schema.org/>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix anl: <https://www.archieven.nl/id/>.
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+
+# Test bestand gegenereerd via create_ttl_datacatalog_pages.pl op basis van door Open Archieven verzamelde informatie. 
+
+anl:dataset_NL-TlRAR_3198-713 a schema:Dataset;
+	schema:name "3198-713";
+	schema:description "Burgerlijk Trouw 1795-1810 (DTB-0713)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1796.1810";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/a2a/NL-TlRAR_3198-713_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-03-13";
+		schema:contentSize 1866803;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_3198-716 a schema:Dataset;
+	schema:name "3198-716";
+	schema:description "Burgerlijk Trouw Bank van Driel (Driel, Rossum, Hurwenen en Oensel) 1618-1738 (DTB-0716)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1618.1738";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/a2a/NL-TlRAR_3198-716_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-09-05";
+		schema:contentSize 1029019;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_3198-718 a schema:Dataset;
+	schema:name "3198-718";
+	schema:description "RK Doop RK 1820-1828, Trouw 1776-1810 (-1829) (DTB-0718)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1776.1810";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-718_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2016-01-09";
+		schema:contentSize 1141379;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3198-719 a schema:Dataset;
+	schema:name "3198-719";
+	schema:description "Burgerlijk Begraaf 1754-1780, 1794-1805 (DTB-0719)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1754.1805";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-719_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2015-10-20";
+		schema:contentSize 663092;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3198-720 a schema:Dataset;
+	schema:name "3198-720";
+	schema:description "Burgerlijk Overlijden 1695-1700 (DTB-0720)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1695.1700";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-720_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2015-10-20";
+		schema:contentSize 189197;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3198-721 a schema:Dataset;
+	schema:name "3198-721";
+	schema:description "NH Begraaf (Personen begraven in de kerk waarvoor de kosten van het openen van de graven niet zijn voldaan aan schoolmr. A. van Wijk) 1695-1702 (DTB-0721)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1695.1702";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-721_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2015-10-20";
+		schema:contentSize 49886;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3198-801 a schema:Dataset;
+	schema:name "3198-801";
+	schema:description "NH Doop 1644-1715; Trouw 1642-1714 (DTB-0801)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1642.1715";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/a2a/NL-TlRAR_3198-801_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-10-19";
+		schema:contentSize 4902351;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_3198-803 a schema:Dataset;
+	schema:name "3198-803";
+	schema:description "NH Doop 1743-1770; Trouw 1743-1769 (DTB-0803)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1743.1770";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-803_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2016-01-08";
+		schema:contentSize 794969;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3198-805 a schema:Dataset;
+	schema:name "3198-805";
+	schema:description "NH Trouw 1772-1810 (DTB-0805) (Afschrift)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1772.1810";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-805_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2016-01-09";
+		schema:contentSize 508749;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3198-806 a schema:Dataset;
+	schema:name "3198-806";
+	schema:description "NH Bijlagen trouwakten 1780-1784 (DTB-0806)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1780.1784";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-806_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2016-01-09";
+		schema:contentSize 44116;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3198-807 a schema:Dataset;
+	schema:name "3198-807";
+	schema:description "Burgerlijk Trouw 1796-1807 (DTB-0807)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1796.1807";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/a2a/NL-TlRAR_3198-807_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-10-19";
+		schema:contentSize 448142;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_3198-808 a schema:Dataset;
+	schema:name "3198-808";
+	schema:description "Burgerlijk Bijlagen trouwakten 1796-1810 (DTB-0808)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1796.1810";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/a2a/NL-TlRAR_3198-808_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-14";
+		schema:contentSize 792797;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_3198-809 a schema:Dataset;
+	schema:name "3198-809";
+	schema:description "Burgerlijk Overlijden 1780-1805 (DTB-0809)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1780.1805";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/a2a/NL-TlRAR_3198-809_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-05-02";
+		schema:contentSize 902513;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_3198-810 a schema:Dataset;
+	schema:name "3198-810";
+	schema:description "Burgerlijk Begraaf 1806-1810 (DTB-0810)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1806.1810";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/a2a/NL-TlRAR_3198-810_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-12-19";
+		schema:contentSize 441224;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_3198-811 a schema:Dataset;
+	schema:name "3198-811";
+	schema:description "Burgerlijk Begraaf (successierechten) 1806-1810 (DTB-0811)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1806.1810";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/a2a/NL-TlRAR_3198-811_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-06-30";
+		schema:contentSize 409979;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_3198-813 a schema:Dataset;
+	schema:name "3198-813";
+	schema:description "NH Doop 1707-1708, 1714-1715 en Lidmaten 1650, 1680-1714 (DTB-0813)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1650.1715";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/a2a/NL-TlRAR_3198-813_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-03-01";
+		schema:contentSize 79233;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_3198-814 a schema:Dataset;
+	schema:name "3198-814";
+	schema:description "NH Begravingen in de kerk 1633-1795 (met hiaten) (DTB-0814)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1633.1795";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-814_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2015-10-20";
+		schema:contentSize 149377;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3198-815 a schema:Dataset;
+	schema:name "3198-815";
+	schema:description "NH Doop 1743-1770 (DTB-0815)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1743.1770";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/a2a/NL-TlRAR_3198-815_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-21";
+		schema:contentSize 1562261;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_3198-817 a schema:Dataset;
+	schema:name "3198-817";
+	schema:description "NH Trouw 1771-1810 (DTB-0817)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1771.1810";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-817_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2016-01-08";
+		schema:contentSize 512920;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3198-818 a schema:Dataset;
+	schema:name "3198-818";
+	schema:description "NH Lidmaten 1771-1891 (DTB-0818)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1771.1891";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-818_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-10-27";
+		schema:contentSize 2728424;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3198-821 a schema:Dataset;
+	schema:name "3198-821";
+	schema:description "Burgerlijk Overlijden 1700-1701 (DTB-0821)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1700.1701";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-821_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2015-10-20";
+		schema:contentSize 16123;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3198-902 a schema:Dataset;
+	schema:name "3198-902";
+	schema:description "NH Doop 1772-1810 (DTB-0902)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1772.1810";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/a2a/NL-TlRAR_3198-902_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-08-01";
+		schema:contentSize 3629873;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_3198-903 a schema:Dataset;
+	schema:name "3198-903";
+	schema:description "NH Begraaf 1795-1801 (DTB-0903)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1795.1801";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-903_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2015-10-20";
+		schema:contentSize 188496;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3198-905 a schema:Dataset;
+	schema:name "3198-905";
+	schema:description "RK Doop en Trouw 1787-1809 (DTB-0905)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1787.1809";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-905_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2016-01-08";
+		schema:contentSize 798794;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3198-906 a schema:Dataset;
+	schema:name "3198-906";
+	schema:description "RK Doop 1809-1811 (DTB-0906)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1809.1911";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-906_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2015-07-31";
+		schema:contentSize 44617;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3198-907 a schema:Dataset;
+	schema:name "3198-907";
+	schema:description "Burgerlijk Trouw 1642-1696, 1748-1795 (DTB-0907)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1642.1795";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-907_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2016-01-09";
+		schema:contentSize 124448;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3198-908 a schema:Dataset;
+	schema:name "3198-908";
+	schema:description "Burgerlijk Trouw 1796-1807 (DTB-0908)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1796.1807";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-908_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2016-01-09";
+		schema:contentSize 181087;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3198-909 a schema:Dataset;
+	schema:name "3198-909";
+	schema:description "Burgerlijk Trouw 1803-1806 (DTB-0909)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1803.1806";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-909_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2016-01-08";
+		schema:contentSize 30242;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3198-910 a schema:Dataset;
+	schema:name "3198-910";
+	schema:description "Burgerlijk Bijlagen trouwakten 1801-1810 (DTB-0910)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1801.1810";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-910_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2016-01-09";
+		schema:contentSize 69228;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3198-911 a schema:Dataset;
+	schema:name "3198-911";
+	schema:description "Burgerlijk Overlijden 1764-1814 (met grote hiaten) (DTB-0911)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1764.1814";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-911_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2015-10-20";
+		schema:contentSize 221017;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3198-912 a schema:Dataset;
+	schema:name "3198-912";
+	schema:description "Burgerlijk Begraaf 1800-1807 (DTB-0912)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1800.1807";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/a2a/NL-TlRAR_3198-912_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-02-04";
+		schema:contentSize 302059;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_3198-913 a schema:Dataset;
+	schema:name "3198-913";
+	schema:description "RK Hedel Doop 1633-1634,1642-1645,1647, trouw 1643,1648; Driel Doop 1633-1634, 1642, 1644, 1647 (DTB-0913)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1633.1648";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-913_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2016-01-09";
+		schema:contentSize 259936;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3198-914 a schema:Dataset;
+	schema:name "3198-914";
+	schema:description "RK Doop 1678-1679, 1693-1723; Trouw 1679, 1693-1719; Overlijden 1693-1701, 1715 (DTB-0914)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1678.1723";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-914_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2016-01-08";
+		schema:contentSize 978313;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3198-917 a schema:Dataset;
+	schema:name "3198-917";
+	schema:description "NH Trouw 1772-1811 (DTB 0917)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1772.1811";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/a2a/NL-TlRAR_3198-917_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-07-04";
+		schema:contentSize 1125159;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_3198-918 a schema:Dataset;
+	schema:name "3198-918";
+	schema:description "NH Doop 1772-1819 (DTB-0918)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1772.1819";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/a2a/NL-TlRAR_3198-918_54_A2A.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-10-19";
+		schema:contentSize 4493525;
+		schema:description "XML bestand volgens A2A model";
+	].
+
+anl:dataset_NL-TlRAR_3198-919 a schema:Dataset;
+	schema:name "3198-919";
+	schema:description "NH Lidmaten 1762, met aantekeningen 1674-1769 (DTB-0919)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1762.1762";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-919_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-10-27";
+		schema:contentSize 452542;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3198-920 a schema:Dataset;
+	schema:name "3198-920";
+	schema:description "NH Lidmaten 1772-1862 (DTB-0920)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1772.1862";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3198-920_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-10-27";
+		schema:contentSize 1939875;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3200 a schema:Dataset;
+	schema:name "3200";
+	schema:description "Archief van de Technische Dienst Bommelerwaard, 1949 - 1998";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1949.1998";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3200_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-08-10";
+		schema:contentSize 783362;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3201 a schema:Dataset;
+	schema:name "3201";
+	schema:description "Archief van het gemeentebestuur van Ammerzoden, 1980 - 1998";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1980.1998";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3201_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-13";
+		schema:contentSize 8218860;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3202 a schema:Dataset;
+	schema:name "3202";
+	schema:description "Archief van het gemeentebestuur van Heerewaarden, 1938 - 1998";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1938.1998";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3202_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-06-03";
+		schema:contentSize 6045900;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3202-869 a schema:Dataset;
+	schema:name "3202-869";
+	schema:description "Overlijden 1941-1950";
+	schema:inLanguage "nl-NL";
+	schema:keywords "genealogie";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1941.1950";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3202-869_54_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2016-01-12";
+		schema:contentSize 155986;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3203 a schema:Dataset;
+	schema:name "3203";
+	schema:description "Archief van het gemeentebestuur van Maasdriel, 1945 - 1979";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1945.1979";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3203_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-08-07";
+		schema:contentSize 1797511;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3204 a schema:Dataset;
+	schema:name "3204";
+	schema:description "Archief van het gemeentebestuur van Zaltbommel, 1961 - 1979";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1961.1979";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3204_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-13";
+		schema:contentSize 9586414;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3205 a schema:Dataset;
+	schema:name "3205";
+	schema:description "Archief van het gemeentebestuur van Rossum, 1990 - 1998";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1990.1998";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3205_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-06-21";
+		schema:contentSize 4140442;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3206 a schema:Dataset;
+	schema:name "3206";
+	schema:description "Archief van het gemeentebestuur van Hedel, 1980 - 1998";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1980.1998";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3206_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-04-14";
+		schema:contentSize 11480535;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3207 a schema:Dataset;
+	schema:name "3207";
+	schema:description "Archief van het gemeentebestuur van Maasdriel, (1946) 1980 - 1998";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1946.1998";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3207_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-01-27";
+		schema:contentSize 34189257;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3208 a schema:Dataset;
+	schema:name "3208";
+	schema:description "Archief van het gemeentebestuur van Brakel, 1955 - 1998";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1955.1998";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3208_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-12-04";
+		schema:contentSize 22940540;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3209 a schema:Dataset;
+	schema:name "3209";
+	schema:description "Archief van het gemeentebestuur van Kerkwijk, 1955 - 1998";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1955.1998";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3209_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-12-23";
+		schema:contentSize 23606827;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3210 a schema:Dataset;
+	schema:name "3210";
+	schema:description "Archief van het gemeentebestuur van Zaltbommel, 1980 - 1998";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1980.1998";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3210_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-05-04";
+		schema:contentSize 21955914;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3212 a schema:Dataset;
+	schema:name "3212";
+	schema:description "Archief van de afdeling Zaltbommel van de Nederlandse Vereniging van Huisvrouwen, 1954 - 1999 (2004)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1954.1999";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3212_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 21139;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3213 a schema:Dataset;
+	schema:name "3213";
+	schema:description "Archief van H. de Leeuw, 1951-1992";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3213_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-01-16";
+		schema:contentSize 88307;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3215 a schema:Dataset;
+	schema:name "3215";
+	schema:description "Archief van drukkerij en uitgeverij J. Pekelharing, 1922 - 1933";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1922.1933";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3215_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 8063;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3216 a schema:Dataset;
+	schema:name "3216";
+	schema:description "Archief van de afdeling Zaltbommel van de Algemene Nederlandse Grafische Bond, 1947 - 1980";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1947.1980";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3216_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 7610;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3217 a schema:Dataset;
+	schema:name "3217";
+	schema:description "Archief van de gemeentelijke Gas- en Waterleidingbedrijven te Zaltbommel, 1881 - 1967";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1881.1967";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3217_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 51636;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3218 a schema:Dataset;
+	schema:name "3218";
+	schema:description "Archief van de Coöperatieve onderlinge melkveeverzekering De Hulp gevestigd te Kerkwijk, 1911 - 1981";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1911.1981";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3218_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 17045;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3219 a schema:Dataset;
+	schema:name "3219";
+	schema:description "Archief van de Commissie voor de Veeteelt in de Bommelerwaard, 1943 - 1990";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1943.1990";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3219_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-08-24";
+		schema:contentSize 98409;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3220 a schema:Dataset;
+	schema:name "3220";
+	schema:description "Archivalia van de afdeling Zaltbommel van de vakbond Druk en Papier FNV, 1979 - 1986";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3220_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-01-26";
+		schema:contentSize 9309;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3221 a schema:Dataset;
+	schema:name "3221";
+	schema:description "Archief van Toneelvereniging De Groentjes, 1969 - 1998";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3221_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-11-23";
+		schema:contentSize 25230;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3223 a schema:Dataset;
+	schema:name "3223";
+	schema:description "Archief van L. Offermans, notaris te Zaltbommel, 1588-1945";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3223_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-12-03";
+		schema:contentSize 3567;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3224 a schema:Dataset;
+	schema:name "3224";
+	schema:description "Archieven van de Stichting Katholiek Maatschappelijk Centrum Bommelerwaard en haar rechtsvoorgangers, de Stichting Katholieke Gezinszorg Bommelerwaard en de Stichting Gezinszorg Ammerzoden, 1948 - 1974";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1948.1974";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3224_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2014-02-28";
+		schema:contentSize 182306;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3225 a schema:Dataset;
+	schema:name "3225";
+	schema:description "Archief van de Buurt-reisvereniging De Schoolstraat te Gameren, 1955 - 2002";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1955.2002";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3225_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 8368;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3226 a schema:Dataset;
+	schema:name "3226";
+	schema:description "Archief van de Interkerkelijke Jeugdraad Zaltbommel, 1961 - 1970";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1961.1970";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3226_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2019-11-26";
+		schema:contentSize 20142;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3228 a schema:Dataset;
+	schema:name "3228";
+	schema:description "Archief van de Stichting Zaltbommel - Derde Wereld, 1989 - 2001";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3228_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-12-04";
+		schema:contentSize 2418;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3230 a schema:Dataset;
+	schema:name "3230";
+	schema:description "Archief van de Stichting Wielerronde Ammerzoden, 1983 - 2001";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1983.2001";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3230_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 7426;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3231 a schema:Dataset;
+	schema:name "3231";
+	schema:description "Archief van het aannemingsbedrijf J. Hendriks te Zaltbommel, 1935 - 1964";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1935.1964";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3231_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 5705;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3232 a schema:Dataset;
+	schema:name "3232";
+	schema:description "Archief van de afdeling Hedel van de Vereniging de Zonnebloem, 1976 - 2003";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1976.2003";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3232_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 27436;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3233 a schema:Dataset;
+	schema:name "3233";
+	schema:description "Archief van de Stichting Kunstzinnige Vorming Zaltbommel, 1991 - 1998";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1991.1998";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3233_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 6513;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3234 a schema:Dataset;
+	schema:name "3234";
+	schema:description "Archief van de Hervormde gemeente Bruchem, 1653 - 1990";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3234_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTNBMj9xREVEQ093RkQzNEQyOUQ3MjlGNU9yOTJEQzY1JmFkdF4pZE0xMEImbnVtbWVyPTMyMzQ>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-05";
+		schema:contentSize 69675;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3235 a schema:Dataset;
+	schema:name "3235";
+	schema:description "Archief van de parochie St. Martinus te Kerkdriel, 1414 - 2002";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3235_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-12-23";
+		schema:contentSize 532890;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3236 a schema:Dataset;
+	schema:name "3236";
+	schema:description "Archief van de Historische Kring Bommelerwaard, 1963 - 2004 (2006)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3236_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-05-28";
+		schema:contentSize 74288;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3237 a schema:Dataset;
+	schema:name "3237";
+	schema:description "Archief van de Stichting Maarten van Rossummuseum, 1905 - 2005 (2014)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3237_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-08-09";
+		schema:contentSize 405450;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3239 a schema:Dataset;
+	schema:name "3239";
+	schema:description "Archief van de familie Lenshoek, 1583 - 1960";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3239_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-02-01";
+		schema:contentSize 166087;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3240 a schema:Dataset;
+	schema:name "3240";
+	schema:description "Archief van de Wit-Gele Kruisvereniging afdeling Maasdriel, vanaf 1981 Kruisvereniging Maasdriel, 1930 - 2002";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1930.2002";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3240_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 32280;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3242 a schema:Dataset;
+	schema:name "3242";
+	schema:description "Archief van J. Stuvers, 1945-1980";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1945.1980";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3242_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-09-19";
+		schema:contentSize 2231;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3243 a schema:Dataset;
+	schema:name "3243";
+	schema:description "Archief van de Vereniging Onderlinge Glasverzekering Zaltbommel en Omstreken, 1919 - 1996";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1919.1996";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3243_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 12420;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3245 a schema:Dataset;
+	schema:name "3245";
+	schema:description "Archief van het Zaltbommels Mannenkoor - Belcanto, 1886 - 1978";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3245_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-06-04";
+		schema:contentSize 25492;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3246 a schema:Dataset;
+	schema:name "3246";
+	schema:description "Archief van de Zuid-Nederlandsche Bachstichting, 1938 - 1963";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1938.1963";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3246_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 6812;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3247 a schema:Dataset;
+	schema:name "3247";
+	schema:description "Archief van de commissie tot ontwikkeling en ontspanning der gemobiliseerde troepen te Zaltbommel, 1914 - 1919";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1914.1919";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3247_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 8735;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3248 a schema:Dataset;
+	schema:name "3248";
+	schema:description "Archief van de Christelijke Plattelandsvrouwen Bond afdeling Gameren, 1950 - 2013";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1950.2013";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3248_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 25938;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3249 a schema:Dataset;
+	schema:name "3249";
+	schema:description "Archief van de Boerenbond Velddriel, 1910 - 2004";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1910.2004";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3249_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 20735;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3250 a schema:Dataset;
+	schema:name "3250";
+	schema:description "Archief van de Nederlandse Christen Vrouwenbond afdeling Zaltbommel, 1949 - 2004";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1949.2004";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3250_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 24333;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3251 a schema:Dataset;
+	schema:name "3251";
+	schema:description "Archief van de gerechtsbank van de dagelijkse heerlijkheid Bruchem, 1728 - 1750";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3251_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-19";
+		schema:contentSize 26893;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3252 a schema:Dataset;
+	schema:name "3252";
+	schema:description "Archief van de gerechtsbank van de dagelijkse heerlijkheid Gameren, 1634 - 1814";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3252_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-19";
+		schema:contentSize 34056;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3253 a schema:Dataset;
+	schema:name "3253";
+	schema:description "Archief van de gerechtsbank van de dagelijkse heerlijkheid Nieuwaal, 1659 - 1809";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3253_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-19";
+		schema:contentSize 25911;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3254 a schema:Dataset;
+	schema:name "3254";
+	schema:description "Archief van de gerechtsbank van de dagelijkse heerlijkheid Brakel, 1611 - 1809";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3254_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-25";
+		schema:contentSize 32156;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3255 a schema:Dataset;
+	schema:name "3255";
+	schema:description "Archief van de N.V. J. Meijer's Scheepsbouwmaatschappij te Zaltbommel en de familie Meijer, 1864 - 1945";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3255_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-04-17";
+		schema:contentSize 100247;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3259 a schema:Dataset;
+	schema:name "3259";
+	schema:description "Archief van de Vrouwen Advies Commissie (V.A.C.) voor de woningbouw te Zaltbommel, 1988 - 2004";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1988.2004";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3259_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-29";
+		schema:contentSize 18825;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3260 a schema:Dataset;
+	schema:name "3260";
+	schema:description "Archief van de Hervormde gemeente Kerkwijk - Delwijnen, 1642 - 1995";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3260_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PT91RkNEM0IzNjl9NkZBN0JEQ092RENEQkI3MkYyRTI2JmFkdF4pZE0xMEImbnVtbWVyPTMyNjA>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-05";
+		schema:contentSize 144077;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3261 a schema:Dataset;
+	schema:name "3261";
+	schema:description "Collectie J.G.M. van Hassel, genealogische documentatie Bommelerwaard, aangelegd 2e helft 20e eeuw";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3261_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2014-02-28";
+		schema:contentSize 57823;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3263 a schema:Dataset;
+	schema:name "3263";
+	schema:description "Archief van het dorp / de heerlijkheid Hedel 1613-1799, 1613 - 1799";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3263_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-07-15";
+		schema:contentSize 92052;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3265 a schema:Dataset;
+	schema:name "3265";
+	schema:description "Archief van de Oecumenische Jongeren Kommissie, 1970 - 1973";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1970.1973";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3265_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 3914;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3266 a schema:Dataset;
+	schema:name "3266";
+	schema:description "Archief van het Herdenkingscomité 350 jaar verrassing van Zaltbommel, 1922";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1922.1922";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3266_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 7799;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3267 a schema:Dataset;
+	schema:name "3267";
+	schema:description "Archief van de Taallesgroep van de Werkgroep Integratie Buitenlanders te Zaltbommel, 1979 - 1981";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1979.1981";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3267_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 8317;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3268 a schema:Dataset;
+	schema:name "3268";
+	schema:description "Archief van de Stichting Cultuurhistorisch Erfgoed in de Bommelerwaard, 1993 - 2006";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1993.2006";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3268_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 7583;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3269 a schema:Dataset;
+	schema:name "3269";
+	schema:description "Archivalia van de afdeling Hedel van de Volkspartij voor Vrijheid en Democratie (VVD)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1978.1998";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3269_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2015-09-18";
+		schema:contentSize 10102;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3270 a schema:Dataset;
+	schema:name "3270";
+	schema:description "Collectie N. Kroes, documentatie en aantekeningen betreffende de familie Leenhoff in de 19e eeuw";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3270_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2015-09-18";
+		schema:contentSize 43785;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3271 a schema:Dataset;
+	schema:name "3271";
+	schema:description "Archief van de gezamenlijke colleges van burgemeester en wethouders in de Bommelerwaard en Heerewaarden, (1968) 1970 - 1998";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1968.1998";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3271_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 57587;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3272 a schema:Dataset;
+	schema:name "3272";
+	schema:description "Archief van de Protestants Christelijke school te Kerkdriel, 1905 - 2003";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1905.2003";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3272_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 118177;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3273 a schema:Dataset;
+	schema:name "3273";
+	schema:description "Archief van de Bommelerwaardse Grondmaatschappij (Bogromij), 1966 - 2007";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1966.2007";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3273_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 47601;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3274 a schema:Dataset;
+	schema:name "3274";
+	schema:description "Archief van H. Peschar, 1881-2002";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3274_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-10-07";
+		schema:contentSize 2950;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3275 a schema:Dataset;
+	schema:name "3275";
+	schema:description "Archief van steenfabriek De Lagewaard te Hurwenen, (1842) 1909-1968";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3275_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-10-12";
+		schema:contentSize 2449;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3276 a schema:Dataset;
+	schema:name "3276";
+	schema:description "Archief van steenfabriek De Bommelerwaard te Kerkdriel, 1913 - 1973";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3276_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-10-12";
+		schema:contentSize 2444;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3277 a schema:Dataset;
+	schema:name "3277";
+	schema:description "Collectie J.L.F. de Vries, 1933-1947";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1933.1947";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3277_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2016-03-17";
+		schema:contentSize 1950;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3278 a schema:Dataset;
+	schema:name "3278";
+	schema:description "Archief van de families Van Slingelandt en Boland te Well, 1694-1930";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3278_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-12-11";
+		schema:contentSize 2850;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3279 a schema:Dataset;
+	schema:name "3279";
+	schema:description "Archief van de Coöperatieve Diepvriesvereniging Alem en Omstreken G.A., 1961-2002";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1961.2002";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3279_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 9264;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3280 a schema:Dataset;
+	schema:name "3280";
+	schema:description "Archief van harmonie Euterpe te Zaltbommel, 1875 - 1933";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1875.1933";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3280_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 10606;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3281 a schema:Dataset;
+	schema:name "3281";
+	schema:description "Archieven van de afdeling Zaltbommel van het Christen Democratisch Appèl (CDA) en rechtsvoorgangers, 1946 - 1998";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1946.1998";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3281_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2015-10-08";
+		schema:contentSize 51104;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3282 a schema:Dataset;
+	schema:name "3282";
+	schema:description "Archief van drukkerij Van de Garde, 1911 - 2001";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1911.2001";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3282_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 29649;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3283 a schema:Dataset;
+	schema:name "3283";
+	schema:description "Archief van de familie Van de Garde te Zaltbommel, 1796 - 1890";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1796.1890";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3283_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 29701;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3284 a schema:Dataset;
+	schema:name "3284";
+	schema:description "Archief van de Stichting muziekschool voor het West-Gelders rivierengebied Peter van Anrooij , (1956) 1959-2009";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3284_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-09-14";
+		schema:contentSize 176920;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3285 a schema:Dataset;
+	schema:name "3285";
+	schema:description "Archief van de algemeen bijzondere Lager Beroeps Onderwijs (LBO) school voor Huishoud- en Nijverheidsonderwijs (HNO) 'De Hoeven' te Zaltbommel, (1949) 1954 - 1994";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1949.1994";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3285_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 124089;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3286 a schema:Dataset;
+	schema:name "3286";
+	schema:description "Archiefstukken en documentatie afkomstig van architect en stedenbouwkundige ir. J.P.F.M. Thole te Zaltbommel, 1972 - 2008";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3286_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-11-23";
+		schema:contentSize 104639;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3287 a schema:Dataset;
+	schema:name "3287";
+	schema:description "Archief van de Hervormde gemeente Gameren, 1633 - 1994";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3287_1_EAD.xml?h=Zm4ybWF0PWZpbGUma2V5PTA0M0VFNkYDOUQ1OTA1Nk91Mjg1NUZFQkYDQz92M095JmFkdF4pZE0xMEImbnVtbWVyPTMyOEc>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2022-01-05";
+		schema:contentSize 439883;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3288 a schema:Dataset;
+	schema:name "3288";
+	schema:description "Archief van het jachthoorn- en trompetterkorps Door Eendracht Sterk (DES) te Kerkdriel, 1965 - 2005";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1965.2005";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3288_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 17804;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3289 a schema:Dataset;
+	schema:name "3289";
+	schema:description "Archief van de H. Willibrordusparochie te Hedel, 1800 - 1980";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1800.1980";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3289_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-12-22";
+		schema:contentSize 73806;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3290 a schema:Dataset;
+	schema:name "3290";
+	schema:description "Archief van de Initiatiefgroep Verlichting Gasthuistoren, 2003 - 2009";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "2003.2009";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3290_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 7718;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3291 a schema:Dataset;
+	schema:name "3291";
+	schema:description "Archief van de familie Metz te Zaltbommel, 1861 - 1995";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3291_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-07-20";
+		schema:contentSize 87255;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3292 a schema:Dataset;
+	schema:name "3292";
+	schema:description "Archiefstukken afkomstig van de apothekersfamilies Van Tright en De Jong te Zaltbommel 1867 - 1986";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1867.1982";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3292_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2015-09-18";
+		schema:contentSize 45516;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3294 a schema:Dataset;
+	schema:name "3294";
+	schema:description "Archief van de Anti-Revolutionaire Kiesvereniging Nederland en Oranje te Well-Ammerzoden, 1919 - 1973";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1919.1973";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3294_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 7013;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3295 a schema:Dataset;
+	schema:name "3295";
+	schema:description "Archief van scheepsschroevenfabriek Van Voorden te Zaltbommel, 1888 - 1995 (2011)";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3295_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-07-22";
+		schema:contentSize 156836;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3297 a schema:Dataset;
+	schema:name "3297";
+	schema:description "Archief van E.A. van Geffen met documentatie over Ammerzoden, 19e en 20e eeuw";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3297_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-11-18";
+		schema:contentSize 149946;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3298 a schema:Dataset;
+	schema:name "3298";
+	schema:description "Archief van de Stichting Bommelse Kunst Route (BKR) 1987 - 2011, 1986 - 2011";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1986.2011";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3298_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 39057;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3299 a schema:Dataset;
+	schema:name "3299";
+	schema:description "Archief van de Zaltbommelse Bridge Club ZBC, 1932, 1973 - 2008";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1932.2008";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3299_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 31011;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3300 a schema:Dataset;
+	schema:name "3300";
+	schema:description "Archief van de stichting Dakruiter Sint Maarten, 1991 - 2000";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1991.2000";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3300_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 9635;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3301 a schema:Dataset;
+	schema:name "3301";
+	schema:description "Archief van de Stichting Muziek in de Sint Maarten, 1980 - 2010";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1980.2010";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3301_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 11232;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3302 a schema:Dataset;
+	schema:name "3302";
+	schema:description "Archief van aardappelhandel A. Goesten te Ammerzoden, 1946 - 1966";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1946.1966";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3302_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 8028;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3305 a schema:Dataset;
+	schema:name "3305";
+	schema:description "Archief van de verkennersgroep Joannes Ooms te Ammerzoden, 1947-1961";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1947.1961";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3305_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 8315;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3312 a schema:Dataset;
+	schema:name "3312";
+	schema:description "Archief stichting Stimulering Paardensport Rivierenland, 1972 - 2005";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1972.2005";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3312_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2016-03-17";
+		schema:contentSize 4683;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3315 a schema:Dataset;
+	schema:name "3315";
+	schema:description "Collectie D. van der Wielen, documentatie over de geschiedenis van Hedel";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1951.2000";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3315_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2015-09-18";
+		schema:contentSize 20623;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3316 a schema:Dataset;
+	schema:name "3316";
+	schema:description "Archief van de Zaltbommelse Winkeliersvereniging, 1937-1959";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1937.1959";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3316_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 5482;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3317 a schema:Dataset;
+	schema:name "3317";
+	schema:description "Archief van de Stichting tot Bevordering van de Welvaart in de Bommelerwaard (Welvaartstichting), 1940 - 2012";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3317_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-08-14";
+		schema:contentSize 306233;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3321 a schema:Dataset;
+	schema:name "3321";
+	schema:description "Charters";
+	schema:inLanguage "nl-NL";
+	schema:keywords "archief";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3321_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2016-03-25";
+		schema:contentSize 1591;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3322 a schema:Dataset;
+	schema:name "3322";
+	schema:description "Collectie J.N.A. Groenendijk (de historie van de Bommelerwaard, in het bijzonder Gameren, en genealogie), verzameld in de periode 1980 - 2013";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1980.2013";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3322_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-04-17";
+		schema:contentSize 47961;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3325 a schema:Dataset;
+	schema:name "3325";
+	schema:description "Archief van A.H. Buissink, burgemeester van Zaltbommel van 1947 - 1959, 1942 - 1959";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1942.1959";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3325_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 18211;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3326 a schema:Dataset;
+	schema:name "3326";
+	schema:description "Archief van de Timmerfabriek Van Bruchem en de familie Van Bruchem te Zaltbommel, ca. 1865 - 1960";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3326_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-11-23";
+		schema:contentSize 29360;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3327 a schema:Dataset;
+	schema:name "3327";
+	schema:description "Archief van de Land- en Tuinbouwvereniging Gameren en rechtsvoorgangers, 1937-2010";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3327_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2018-09-14";
+		schema:contentSize 65090;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3329 a schema:Dataset;
+	schema:name "3329";
+	schema:description "Archief van de familie Van Santen te Zaltbommel, 1918-1975";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1918.1975";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3329_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2017-04-10";
+		schema:contentSize 18799;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:dataset_NL-TlRAR_3498 a schema:Dataset;
+	schema:name "3498";
+	schema:description "Archief van het Streekarchief Bommelerwaard, 1982 - 1998";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:temporalCoverage: "1982.1998";
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3498_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2020-10-27";
+		schema:contentSize 324905;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3500 a schema:Dataset;
+	schema:name "3500";
+	schema:description "Collectie foto's, dia's en negatieven betreffende de Bommelerwaard die nog niet in de beeldbank zijn opgenomen, 1848 - 2013";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/ead/NL-TlRAR_3500_1_EAD.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-12-01";
+		schema:contentSize 1262498;
+		schema:description "XML bestand volgens EAD model";
+	].
+
+anl:dataset_NL-TlRAR_3508 a schema:Dataset;
+	schema:name "3508";
+	schema:description "Wapenalbum van familiewapens Bommelerwaard, 1300-1850";
+	schema:inLanguage "nl-NL";
+	schema:keywords "inventaris";
+	schema:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+ schema:includedInDataCatalog anl:datacatalog_NL-TlRAR;
+	schema:publisher <https://www.archieven.nl/id/organisation_NL-TlRAR>;
+	schema:distribution [
+		a schema:DataDownload;
+		schema:contentUrl <https://preserve-rar.archieven.nl/open/opendata-rar/mi/NL-TlRAR_3508_1_MI.xml?format=file>;
+		schema:encodingFormat "text/xml";
+		schema:dateModified "2021-12-15";
+		schema:contentSize 2532702;
+		schema:description "XML bestand volgens MI model";
+	].
+
+anl:organisation_NL-TlRAR a schema:Organization;
+	schema:identifer "NL-TlRAR";
+	schema:name "Regionaal Archief Rivierenland";
+	schema:url "https://regionaalarchiefrivierenland.nl/";
+	schema:address [ a schema:PostalAddress; schema:addressLocality "" ].
+anl:datacatalog_NL-TlRAR a schema:DataCatalog;
+	schema:name "Dataset catalogus van de open data gepubliceerd op archieven.nl van Regionaal Archief Rivierenland";
+	schema:publisher anl:organisation_NL-TlRAR;
+	schema:dataset anl:dataset_NL-TlRAR_3198-713, anl:dataset_NL-TlRAR_3198-716, anl:dataset_NL-TlRAR_3198-718, anl:dataset_NL-TlRAR_3198-719, anl:dataset_NL-TlRAR_3198-720, anl:dataset_NL-TlRAR_3198-721, anl:dataset_NL-TlRAR_3198-801, anl:dataset_NL-TlRAR_3198-803, anl:dataset_NL-TlRAR_3198-805, anl:dataset_NL-TlRAR_3198-806, anl:dataset_NL-TlRAR_3198-807, anl:dataset_NL-TlRAR_3198-808, anl:dataset_NL-TlRAR_3198-809, anl:dataset_NL-TlRAR_3198-810, anl:dataset_NL-TlRAR_3198-811, anl:dataset_NL-TlRAR_3198-813, anl:dataset_NL-TlRAR_3198-814, anl:dataset_NL-TlRAR_3198-815, anl:dataset_NL-TlRAR_3198-817, anl:dataset_NL-TlRAR_3198-818, anl:dataset_NL-TlRAR_3198-821, anl:dataset_NL-TlRAR_3198-902, anl:dataset_NL-TlRAR_3198-903, anl:dataset_NL-TlRAR_3198-905, anl:dataset_NL-TlRAR_3198-906, anl:dataset_NL-TlRAR_3198-907, anl:dataset_NL-TlRAR_3198-908, anl:dataset_NL-TlRAR_3198-909, anl:dataset_NL-TlRAR_3198-910, anl:dataset_NL-TlRAR_3198-911, anl:dataset_NL-TlRAR_3198-912, anl:dataset_NL-TlRAR_3198-913, anl:dataset_NL-TlRAR_3198-914, anl:dataset_NL-TlRAR_3198-917, anl:dataset_NL-TlRAR_3198-918, anl:dataset_NL-TlRAR_3198-919, anl:dataset_NL-TlRAR_3198-920, anl:dataset_NL-TlRAR_3200, anl:dataset_NL-TlRAR_3201, anl:dataset_NL-TlRAR_3202, anl:dataset_NL-TlRAR_3202-869, anl:dataset_NL-TlRAR_3203, anl:dataset_NL-TlRAR_3204, anl:dataset_NL-TlRAR_3205, anl:dataset_NL-TlRAR_3206, anl:dataset_NL-TlRAR_3207, anl:dataset_NL-TlRAR_3208, anl:dataset_NL-TlRAR_3209, anl:dataset_NL-TlRAR_3210, anl:dataset_NL-TlRAR_3212, anl:dataset_NL-TlRAR_3213, anl:dataset_NL-TlRAR_3215, anl:dataset_NL-TlRAR_3216, anl:dataset_NL-TlRAR_3217, anl:dataset_NL-TlRAR_3218, anl:dataset_NL-TlRAR_3219, anl:dataset_NL-TlRAR_3220, anl:dataset_NL-TlRAR_3221, anl:dataset_NL-TlRAR_3223, anl:dataset_NL-TlRAR_3224, anl:dataset_NL-TlRAR_3225, anl:dataset_NL-TlRAR_3226, anl:dataset_NL-TlRAR_3228, anl:dataset_NL-TlRAR_3230, anl:dataset_NL-TlRAR_3231, anl:dataset_NL-TlRAR_3232, anl:dataset_NL-TlRAR_3233, anl:dataset_NL-TlRAR_3234, anl:dataset_NL-TlRAR_3235, anl:dataset_NL-TlRAR_3236, anl:dataset_NL-TlRAR_3237, anl:dataset_NL-TlRAR_3239, anl:dataset_NL-TlRAR_3240, anl:dataset_NL-TlRAR_3242, anl:dataset_NL-TlRAR_3243, anl:dataset_NL-TlRAR_3245, anl:dataset_NL-TlRAR_3246, anl:dataset_NL-TlRAR_3247, anl:dataset_NL-TlRAR_3248, anl:dataset_NL-TlRAR_3249, anl:dataset_NL-TlRAR_3250, anl:dataset_NL-TlRAR_3251, anl:dataset_NL-TlRAR_3252, anl:dataset_NL-TlRAR_3253, anl:dataset_NL-TlRAR_3254, anl:dataset_NL-TlRAR_3255, anl:dataset_NL-TlRAR_3259, anl:dataset_NL-TlRAR_3260, anl:dataset_NL-TlRAR_3261, anl:dataset_NL-TlRAR_3263, anl:dataset_NL-TlRAR_3265, anl:dataset_NL-TlRAR_3266, anl:dataset_NL-TlRAR_3267, anl:dataset_NL-TlRAR_3268, anl:dataset_NL-TlRAR_3269, anl:dataset_NL-TlRAR_3270, anl:dataset_NL-TlRAR_3271, anl:dataset_NL-TlRAR_3272, anl:dataset_NL-TlRAR_3273, anl:dataset_NL-TlRAR_3274, anl:dataset_NL-TlRAR_3275, anl:dataset_NL-TlRAR_3276, anl:dataset_NL-TlRAR_3277, anl:dataset_NL-TlRAR_3278, anl:dataset_NL-TlRAR_3279, anl:dataset_NL-TlRAR_3280, anl:dataset_NL-TlRAR_3281, anl:dataset_NL-TlRAR_3282, anl:dataset_NL-TlRAR_3283, anl:dataset_NL-TlRAR_3284, anl:dataset_NL-TlRAR_3285, anl:dataset_NL-TlRAR_3286, anl:dataset_NL-TlRAR_3287, anl:dataset_NL-TlRAR_3288, anl:dataset_NL-TlRAR_3289, anl:dataset_NL-TlRAR_3290, anl:dataset_NL-TlRAR_3291, anl:dataset_NL-TlRAR_3292, anl:dataset_NL-TlRAR_3294, anl:dataset_NL-TlRAR_3295, anl:dataset_NL-TlRAR_3297, anl:dataset_NL-TlRAR_3298, anl:dataset_NL-TlRAR_3299, anl:dataset_NL-TlRAR_3300, anl:dataset_NL-TlRAR_3301, anl:dataset_NL-TlRAR_3302, anl:dataset_NL-TlRAR_3305, anl:dataset_NL-TlRAR_3312, anl:dataset_NL-TlRAR_3315, anl:dataset_NL-TlRAR_3316, anl:dataset_NL-TlRAR_3317, anl:dataset_NL-TlRAR_3321, anl:dataset_NL-TlRAR_3322, anl:dataset_NL-TlRAR_3325, anl:dataset_NL-TlRAR_3326, anl:dataset_NL-TlRAR_3327, anl:dataset_NL-TlRAR_3329, anl:dataset_NL-TlRAR_3498, anl:dataset_NL-TlRAR_3500, anl:dataset_NL-TlRAR_3508.
+
