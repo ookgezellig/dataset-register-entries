@@ -1,0 +1,57 @@
+{
+	"@context": "http://schema.org/",
+	"@type": "Dataset",
+	"@id": "http://DelpherKrantenMetadataPubliekdomeinURI",
+	"identifier": "http://DelpherKrantenMetadataPubliekdomeinURI",
+	"name": "Delpher – kranten – metadata – publiek domein",
+	"license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
+	"publisher": {
+		"@id": "http://standaarden.overheid.nl/owms/terms/Koninklijke_Bibliotheek",
+		"@type": "Organization",
+		"name": "Koninklijke Bibliotheek",
+		"contactPoint": {
+			"@type": "ContactPoint",
+			"name": "Dataservices KB",
+			"email": "dataservices@kb.nl"
+		}
+	},
+	"description": "Metadata van de rechtenvrije kranten in Delpher",
+	"inLanguage": "nl-NL",
+	"creator": {
+		"@type": "Organization",
+		"name": "Koninklijke Bibliotheek",
+		"@id": "http://standaarden.overheid.nl/owms/terms/Koninklijke_Bibliotheek",
+		"contactPoint": {
+			"@type": "ContactPoint",
+			"name": "Koninklijke Bibliotheek",
+			"email": "dataservices@kb.nl"
+		}
+	},
+	"mainEntityOfPage": [
+		"https://www.delpher.nl/over-delpher/wat-zit-er-in-delpher/wat-zit-er-in-delpher/kranten#cc362"
+	],
+	"keywords": [
+		"Delpher",
+		"kranten",
+		"rechtenvrij",
+		"publiek domein"
+	],
+	"genre": [
+		"http://standaarden.overheid.nl/owms/terms/Cultuur_(thema)"
+	],
+	"temporalCoverage": "1618-1882",
+	"distribution": [
+		{
+			"@type": "DataDownload",
+			"contentUrl": "https://kbnldataservices.github.io/public-docs/opensets/delpher/newspapers.html",
+			"encodingFormat": [
+				"application/sru+xml"
+			],
+			"license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
+			"description": "SRU-zoekdienst van de KB",
+			"inLanguage": [
+				"nl-NL"
+			]
+		}
+	]
+}
