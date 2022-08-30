@@ -1,0 +1,55 @@
+{
+	"@context": "http://schema.org/",
+	"@type": "Dataset",
+	"@id": "http://DelpherOpenKrantenarchiefURI",
+	"identifier": "http://DelpherOpenKrantenarchiefURI",
+	"name": "Delpher open krantenarchief",
+	"license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
+	"publisher": {
+		"@id": "http://standaarden.overheid.nl/owms/terms/Koninklijke_Bibliotheek",
+		"@type": "Organization",
+		"name": "Koninklijke Bibliotheek",
+		"contactPoint": {
+			"@type": "ContactPoint",
+			"name": "KB Dataservices",
+			"email": "dataservices@kb.nl"
+		}
+	},
+	"description": "bevat de teksten (OCR, ALTO, XML) van alle kranten uit de periode 1618 t/m 1879. Het archief is 111GB groot en opgesplitst in 23 zip-bestanden.",
+	"inLanguage": "nl-NL",
+	"creator": {
+		"@type": "Organization",
+		"name": "Koninklijke Bibliotheek",
+		"@id": "http://standaarden.overheid.nl/owms/terms/Koninklijke_Bibliotheek",
+		"contactPoint": {
+			"@type": "ContactPoint",
+			"name": "Koninklijke Bibliotheek",
+			"email": "dataservices@kb.nl"
+		}
+	},
+	"mainEntityOfPage": [
+		"https://www.delpher.nl/over-delpher/delpher-open-krantenarchief#69140"
+	],
+	"keywords": [
+		"kranten",
+		"rechtenvrij"
+	],
+	"genre": [
+		"http://standaarden.overheid.nl/owms/terms/Cultuur_(thema)"
+	],
+	"temporalCoverage": "1618-1879",
+	"distribution": [
+		{
+			"@type": "DataDownload",
+			"contentUrl": "https://www.delpher.nl/over-delpher/delpher-open-krantenarchief/download-teksten-kranten-1618-1879#b1741",
+			"encodingFormat": [
+				"application/vnd.ruckus.download"
+			],
+			"license": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl",
+			"description": "Download teksten (OCR) kranten 1618-1879",
+			"inLanguage": [
+				"nl-NL"
+			]
+		}
+	]
+}
